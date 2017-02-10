@@ -75,3 +75,63 @@ Happpppppppppppppy Birthday tooooooo youuuuuuu
 
  >:musical_keyboard: :clapper::microphone::musical_score::musical_score::musical_score::musical_score::musical_score::violin::violin::violin::violin::saxophone::saxophone::saxophone::trumpet::trumpet::trumpet::guitar::trumpet::guitar::guitar: HAPPY BIRTHDAY YANNICK! You are lucky :four_leaf_clover: to be born in February like me :blush: all my best wishes for an older greater year ahead of you :birthday::birthday::birthday::cake::cake::cake::cake:
 
+2/10/2017 5:42 PM
+
+ **ch.yumin** :
+
+ ><@U073XJ5B6> Happy birthday!!!! 
+
+2/10/2017 5:44 PM
+
+ **ray_cassani** :
+
+ >Hey <@U073XJ5B6>, happy birthday :birthday: !
+
+2/10/2017 5:49 PM
+
+ **tt** :
+
+ >Happy birthday <@U073XJ5B6>, thank you for your work and being awesome.
+
+2/10/2017 5:58 PM
+
+ **ryanlintott** :
+
+ ><@U073XJ5B6> Happy birthday!!
+
+2/10/2017 6:00 PM
+
+ **sidksv** :
+
+ >Happy birthday <@U073XJ5B6> !
+
+2/10/2017 6:38 PM
+
+ **stephen** :
+
+ >:ntx:
+
+2/10/2017 6:38 PM
+
+ **yannick** :
+
+ ><@U073Y8TBR> :ntx2: is nicer :slightly_smiling_face:
+
+2/10/2017 6:39 PM
+
+ **yannick** :
+
+ >or :ntx3: :slightly_smiling_face:
+
+2/10/2017 6:39 PM
+
+ **yannick** :
+
+ >:ntx3:
+
+2/10/2017 6:43 PM
+
+ **stephen** :
+
+ >:ntx2: :ntx3: :ntxt:
+
