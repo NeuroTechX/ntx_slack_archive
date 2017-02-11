@@ -135,3 +135,66 @@ Happpppppppppppppy Birthday tooooooo youuuuuuu
 
  >:ntx2: :ntx3: :ntxt:
 
+2/10/2017 6:47 PM
+
+ **bryan_j** :
+
+ >Happy birthday Yannick! It has been a pleasure working with you over the last year and a half, and I look forward to many more opportunities to do so. Celebrate well this weekend! 
+
+2/10/2017 7:11 PM
+
+ **sonia** :
+
+ >Happy birthday Yannick :balloon:
+
+2/10/2017 9:18 PM
+
+ **lai_london** :
+
+ >Happy Birthday and many happy returns Yannick
+
+2/10/2017 9:18 PM
+
+ **lai_london** :
+
+ >(Your clearly loved!)
+
+2/10/2017 9:19 PM
+
+ **tudor** :
+
+ >Happy birthday Yannick!
+
+2/10/2017 9:21 PM
+
+ **dano** :
+
+ >Hey Happy Birthday, Yannick! Thanks for getting this crazy thing started
+
+2/10/2017 9:29 PM
+
+ **hish** :
+
+ >Happy Birthday Yannick.
+
+> 
+:+1: 
+
+2/10/2017 10:59 PM
+
+ **yixuan** :
+
+ >Happy birthday Yannick!! :birthday: 
+
+2/11/2017 3:11 AM
+
+ **yannick** :
+
+ >Thanks everyone for the wishes! I really appreciate it.
+
+2/11/2017 2:49 PM
+
+ **z3** :
+
+ >Happy B-Day! :ntx3::brain: :beers: x)
+
