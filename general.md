@@ -198,3 +198,63 @@ Happpppppppppppppy Birthday tooooooo youuuuuuu
 
  >Happy B-Day! :ntx3::brain: :beers: x)
 
+2/15/2017 9:02 PM
+
+ **dano** :
+
+ >Does anyone have an Android tablet and a Muse and want to help the interactive EEG tutorial project? We need testers
+
+2/15/2017 10:09 PM
+
+ **adamm_neurable** :
+
+ >Anyone going to be at TechX in San Francisco this March? And/or in the Bay Area? I will be visiting that week :grin:
+
+2/15/2017 10:10 PM
+
+ **yannick** :
+
+ ><@U0752QUB1> is going and he might know other people going.
+
+2/15/2017 10:11 PM
+
+ **jnaulty** :
+
+ >Ya! I'll be there
+
+2/15/2017 10:11 PM
+
+ **yannick** :
+
+ ><@U2XQDGG9J> are you guys having a booth or something?
+
+2/15/2017 10:11 PM
+
+ **adamm_neurable** :
+
+ >No, just browsing :blush:
+
+2/15/2017 10:11 PM
+
+ **jnaulty** :
+
+ >Check out <#C0VTQK7CZ|_san-francisco> too
+
+2/15/2017 10:11 PM
+
+ **yannick** :
+
+ >You got your ticket already?
+
+2/15/2017 10:12 PM
+
+ **adamm_neurable** :
+
+ >Yes
+
+2/15/2017 10:13 PM
+
+ **yannick** :
+
+ >Ok! (because the code NeurotechX gets you a nice discount, was asking in case!)
+
