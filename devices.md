@@ -60,9 +60,9 @@
 
  ><@U073X4JRL> will LSL streaming works for you ? i adapted the LSL example of `OpenBCI_NodeJS` for the ganglion. i can send you the files
 
-2/20/2017 4:11 PM
+2/20/2017 4:12 PM
 
  **sydneyneurotechx** :
 
- >Related to <@U075LH26N> 's post on <#C073WQK34|random> <https://www.neowin.net/news/new-material-could-deliver-improvements-to-brain-computer-interfaces>
+ >Only thing that is inaccurate in the article is that the material has been around for a while. It's just being used in a different use case.
 
