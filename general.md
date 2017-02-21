@@ -285,3 +285,9 @@ I am currently trying to extract data from an epoc emotic 14 channel eeg headset
 > 
 Any suggestions?!
 
+2/21/2017 11:45 AM
+
+ **eva_lammers** :
+
+ ><@U366XQ458> check <@U38A3K65B>'s message. Maybe you can help out?
+
