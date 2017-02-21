@@ -76,5 +76,5 @@ Any suggestions?!
 
  **firassafieddine** :
 
- >so it is possible to connect the emotiv epoc to python through the musaelab
+ >?!
 
