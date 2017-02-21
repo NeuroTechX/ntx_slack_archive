@@ -297,3 +297,9 @@ Any suggestions?!
 
  >Im not quite sure if the drivers from the SDK are available for Arduino
 
+2/21/2017 11:56 AM
+
+ **firassafieddine** :
+
+ >yeah, well for now the data stream is the aim
+
