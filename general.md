@@ -291,9 +291,9 @@ Any suggestions?!
 
  >but yeah the raw data would do as well
 
-2/21/2017 11:52 AM
+2/21/2017 11:53 AM
 
- **dlz** :
+ **firassafieddine** :
 
- >I haven't extracted the raw data myself, but I think mind your osc's is also capable of connecting that to processing, it at least worked well for the "interpreted values" from the emotiv suite
+ >i have the SDK but i did not manage to make it work :confused:
 
