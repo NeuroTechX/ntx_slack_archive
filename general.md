@@ -303,3 +303,9 @@ Any suggestions?!
 
  >i would love to, i am not really sure my programming skills are enough, do you have any advice?
 
+2/21/2017 12:04 PM
+
+ **nicolettebraingineers** :
+
+ >What programming language are you a bit familiar with? Maybe it is easier to start with getting it to work on a (for example) Windows computer using Python to get familiar with working with the SDK. After that, you can try to make it work on Arduino, but Im not sure if that is even possible. So you should think whether it is necessary to make it work on Arduino, or if that doesnt really matter
+
