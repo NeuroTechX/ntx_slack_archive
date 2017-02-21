@@ -291,9 +291,9 @@ Any suggestions?!
 
  >but yeah the raw data would do as well
 
-2/21/2017 11:51 AM
+2/21/2017 11:52 AM
 
- **nicolettebraingineers** :
+ **dlz** :
 
- >Did you already check their community SDK on Github? There are some examples there about how to get the data stream
+ >I haven't extracted the raw data myself, but I think mind your osc's is also capable of connecting that to processing, it at least worked well for the "interpreted values" from the emotiv suite
 
