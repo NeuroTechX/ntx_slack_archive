@@ -78,3 +78,9 @@ Any suggestions?!
 
  >yes it is: <https://github.com/bcimontreal/bci_workshop>
 
+2/21/2017 3:44 PM
+
+ **firassafieddine** :
+
+ >amazing, ill check them out :slightly_smiling_face:
+
