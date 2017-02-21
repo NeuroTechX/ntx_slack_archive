@@ -327,3 +327,9 @@ Any suggestions?!
 
  >I'm not sure how it is license-wise with the availability of the data, but we were able to relatively easily access the affective values from the suite (also, from the looks of your screenshot an older version...) with mindYourOSC's in processing, you should be able to just select these values in there (I used an emotiv with research license though, so we had access to all data on it, maybe that makes a difference)
 
+2/21/2017 2:30 PM
+
+ **jfrey** :
+
+ >Hi everyone, if you do research and are interested in social interactions and physiological sensors at large, you might have a look at a special session that will take place during ACII: "Brain and physiological signals for multi-user modeling". Here is the associated website: <http://www.affective-sciences.org/en/bps-mum> We would be glad to get your contributions, I am sure NeuroTechX folks around here do pretty amazing science :slightly_smiling_face:
+
