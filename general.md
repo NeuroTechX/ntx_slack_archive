@@ -309,9 +309,9 @@ Any suggestions?!
 
  >i use windows generally, but i have a linux machine too
 
-2/21/2017 12:11 PM
+2/21/2017 12:12 PM
 
- **firassafieddine** :
+ **nicolettebraingineers** :
 
- >or the 14 wave signals
+ >If you want the wave signals, you will build your own algorithm to get the affects?
 
