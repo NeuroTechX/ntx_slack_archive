@@ -289,5 +289,5 @@ Any suggestions?!
 
  **firassafieddine** :
 
- >it would be ideal to have the data stream, since i want to link it with a processing sketch to actuate an arduino
+ >but yeah the raw data would do as well
 
