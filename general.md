@@ -313,5 +313,5 @@ Any suggestions?!
 
  **firassafieddine** :
 
- >yeah, that would be the last resort
+ >ideally i would like to be able to extract this data stream
 
