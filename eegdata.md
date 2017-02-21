@@ -72,3 +72,9 @@ I am currently trying to extract data from an epoc emotic 14 channel eeg headset
 > 
 Any suggestions?!
 
+2/21/2017 3:27 PM
+
+ **ray_cassani** :
+
+ ><@U38A3K65B>, you could look: <https://github.com/MuSAELab/MuLES> or  <https://decibel.ni.com/content/docs/DOC-40699>, the constrain is: you need either Research, Education or Enterprise Plus SDK to have access to the raw EEG data
+
