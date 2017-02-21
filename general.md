@@ -307,5 +307,5 @@ Any suggestions?!
 
  **firassafieddine** :
 
- >im mostly familiar with processing
+ >and a bit with python
 
