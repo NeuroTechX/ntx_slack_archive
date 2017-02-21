@@ -303,9 +303,9 @@ Any suggestions?!
 
  >i would love to, i am not really sure my programming skills are enough, do you have any advice?
 
-2/21/2017 12:05 PM
+2/21/2017 12:06 PM
 
  **firassafieddine** :
 
- >and a bit with python
+ >i use windows generally, but i have a linux machine too
 
