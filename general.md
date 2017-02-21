@@ -321,3 +321,9 @@ Any suggestions?!
 
  >thanks for taking the time to help anyway :slightly_smiling_face:
 
+2/21/2017 12:24 PM
+
+ **dlz** :
+
+ >I'm not sure how it is license-wise with the availability of the data, but we were able to relatively easily access the affective values from the suite (also, from the looks of your screenshot an older version...) with mindYourOSC's in processing, you should be able to just select these values in there (I used an emotiv with research license though, so we had access to all data on it, maybe that makes a difference)
+
