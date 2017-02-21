@@ -82,5 +82,5 @@ Any suggestions?!
 
  **firassafieddine** :
 
- >amazing, ill check them out :slightly_smiling_face:
+ >thanks alot
 
