@@ -285,9 +285,9 @@ I am currently trying to extract data from an epoc emotic 14 channel eeg headset
 > 
 Any suggestions?!
 
-2/21/2017 11:49 AM
+2/21/2017 11:50 AM
 
- **nicolettebraingineers** :
+ **firassafieddine** :
 
- >Hi <@U38A3K65B>, do you want to extract the raw data?
+ >it would be ideal to have the data stream, since i want to link it with a processing sketch to actuate an arduino
 
