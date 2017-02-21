@@ -291,9 +291,9 @@ Any suggestions?!
 
  >but yeah the raw data would do as well
 
-2/21/2017 11:53 AM
+2/21/2017 11:54 AM
 
  **firassafieddine** :
 
- >i have the SDK but i did not manage to make it work :confused:
+ >yeah i tried with mindyourOSCs, it doesnt show "interpreted values"
 
