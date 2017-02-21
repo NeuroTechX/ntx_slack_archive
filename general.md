@@ -291,9 +291,9 @@ Any suggestions?!
 
  >but yeah the raw data would do as well
 
-2/21/2017 11:54 AM
+2/21/2017 11:55 AM
 
- **firassafieddine** :
+ **nicolettebraingineers** :
 
- >yeah i tried with mindyourOSCs, it doesnt show "interpreted values"
+ >Im not quite sure if the drivers from the SDK are available for Arduino
 
