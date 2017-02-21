@@ -309,9 +309,9 @@ Any suggestions?!
 
  >i use windows generally, but i have a linux machine too
 
-2/21/2017 12:10 PM
+2/21/2017 12:11 PM
 
- **nicolettebraingineers** :
+ **firassafieddine** :
 
- >And with interpreted values you mean the values from the affects?
+ >yeah(to say: valence, relaxation, anxiety, engagement...) it has 6
 
