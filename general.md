@@ -309,3 +309,9 @@ Any suggestions?!
 
  >i use windows generally, but i have a linux machine too
 
+2/21/2017 12:10 PM
+
+ **nicolettebraingineers** :
+
+ >And with interpreted values you mean the values from the affects?
+
