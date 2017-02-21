@@ -309,9 +309,9 @@ Any suggestions?!
 
  >i use windows generally, but i have a linux machine too
 
-2/21/2017 12:14 PM
+2/21/2017 12:15 PM
 
  **nicolettebraingineers** :
 
- >Building your own algorithm is pretty difficult, to get the interpreted values from emotiv you have to get their licence
+ >(If you want to program it yourself)
 
