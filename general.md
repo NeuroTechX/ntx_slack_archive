@@ -297,9 +297,9 @@ Any suggestions?!
 
  >Im not quite sure if the drivers from the SDK are available for Arduino
 
-2/21/2017 11:56 AM
+2/21/2017 12:00 PM
 
- **firassafieddine** :
+ **nicolettebraingineers** :
 
- >yeah, well for now the data stream is the aim
+ >What is your exact error now? You can program yourself to get the data from the SDK, or maybe there are open source programs that can do that for you. Would you like to program it yourself?
 
