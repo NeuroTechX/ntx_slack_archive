@@ -72,9 +72,9 @@ I am currently trying to extract data from an epoc emotic 14 channel eeg headset
 > 
 Any suggestions?!
 
-2/21/2017 3:29 PM
+2/21/2017 3:32 PM
 
- **firassafieddine** :
+ **ray_cassani** :
 
- >?!
+ >yes it is: <https://github.com/bcimontreal/bci_workshop>
 
