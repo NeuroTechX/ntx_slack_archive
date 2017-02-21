@@ -291,3 +291,9 @@ Any suggestions?!
 
  >but yeah the raw data would do as well
 
+2/21/2017 11:51 AM
+
+ **nicolettebraingineers** :
+
+ >Did you already check their community SDK on Github? There are some examples there about how to get the data stream
+
