@@ -264,3 +264,9 @@ Happpppppppppppppy Birthday tooooooo youuuuuuu
 
  >Hey I'm attending the conference this year see you all guys
 
+2/21/2017 2:43 AM
+
+ **sabrina.k.tang** :
+
+ >Hey! Is there anyone else here from Halifax? Would love to get in touch.
+
