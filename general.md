@@ -313,5 +313,5 @@ Any suggestions?!
 
  **firassafieddine** :
 
- >yeah(to say: valence, relaxation, anxiety, engagement...) it has 6
+ >or the 14 wave signals
 
