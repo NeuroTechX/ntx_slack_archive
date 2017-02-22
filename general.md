@@ -333,3 +333,9 @@ Any suggestions?!
 
  >Hi everyone, if you do research and are interested in social interactions and physiological sensors at large, you might have a look at a special session that will take place during ACII: "Brain and physiological signals for multi-user modeling". Here is the associated website: <http://www.affective-sciences.org/en/bps-mum> We would be glad to get your contributions, I am sure NeuroTechX folks around here do pretty amazing science :slightly_smiling_face:
 
+2/22/2017 6:09 PM
+
+ **bryan_j** :
+
+ >Anyone in Toronto looking for a team to attend the 2017 DementiaHack? Message me ASAP! Thanks!
+
