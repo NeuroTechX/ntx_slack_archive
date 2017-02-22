@@ -10,5 +10,5 @@
 
  **its.smoothcriminal** :
 
- >Im currently doing my Bachelor's in Electrical Engineering
+ >and yes, i am a Nuero Tech enthusiast
 
