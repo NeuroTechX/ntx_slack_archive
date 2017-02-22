@@ -78,3 +78,9 @@
 
  >sweet
 
+2/22/2017 5:36 PM
+
+ **benjamindeleener** :
+
+ ><!channel> has anyone had difficulties connecting the OpenBCI Gui to the Cython on Mac OS X Sierra? The software doesnt seem to detect the board. It is working on Mac OS X El Capitan, with the same installation (Driver and Gui)
+
