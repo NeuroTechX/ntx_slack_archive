@@ -66,3 +66,9 @@
 
  >Only thing that is inaccurate in the article is that the material has been around for a while. It's just being used in a different use case.
 
+2/22/2017 5:24 AM
+
+ **pierre** :
+
+ >Hey <@U0AJ51TKJ>, I tried your LSL code and it worked very well! Thanks!
+
