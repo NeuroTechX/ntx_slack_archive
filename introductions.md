@@ -6,9 +6,9 @@
 
  >Hey!
 
-2/22/2017 3:47 PM
+2/22/2017 3:48 PM
 
  **its.smoothcriminal** :
 
- >Just wanted to introduce myself, im from Pakistan
+ >Im currently doing my Bachelor's in Electrical Engineering
 
