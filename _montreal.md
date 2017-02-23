@@ -10,5 +10,5 @@
 
  **benjamindeleener** :
 
- ><@U08SY292B> here is the link for the registration: <http://www.rbiq-qbin.qc.ca/fr/evenement/5051>
+ >its better if you register prior to the event, so we can manage food provision
 
