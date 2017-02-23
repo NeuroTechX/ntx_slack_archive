@@ -16,5 +16,5 @@
 
  **bryan_j** :
 
- >Should have said Emerging Fields 
+ >Let us know if you can make it! 
 
