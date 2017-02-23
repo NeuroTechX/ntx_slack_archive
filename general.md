@@ -339,3 +339,9 @@ Any suggestions?!
 
  >Anyone in Toronto looking for a team to attend the 2017 DementiaHack? Message me ASAP! Thanks!
 
+2/23/2017 4:22 PM
+
+ **sydneyneurotechx** :
+
+ ><http://spectrum.ieee.org/the-human-os/biomedical/imaging/ai-predicts-autism-from-infant-brain-scans>
+
