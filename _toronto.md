@@ -16,5 +16,5 @@
 
  **bryan_j** :
 
- >Tonight is the night for our NEUROTECH: Converging &amp; Diverging Fields presented by NeuroTechUofT and NeuroTechTO. See you there! 
+ >Oops haha autocorrect 
 
