@@ -12,3 +12,9 @@
 
  >39 characters per minute (invasive)
 
+2/23/2017 10:11 AM
+
+ **sc** :
+
+ ><https://www.sciencedaily.com/releases/2017/02/170222131442.htm>
+
