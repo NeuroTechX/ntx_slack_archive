@@ -12,3 +12,9 @@
 
  >Anyone in Toronto looking for a team to attend 2017 DementiaHack? Message me ASAP! Thanks! 
 
+2/23/2017 7:35 PM
+
+ **bryan_j** :
+
+ >Tonight is the night for our NEUROTECH: Converging &amp; Diverging Fields presented by NeuroTechUofT and NeuroTechTO. See you there! 
+
