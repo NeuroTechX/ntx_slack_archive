@@ -24,3 +24,9 @@ anyone have any good ideas for where I should look?
 
  >might be interesting <http://psychedelicscience.org/>
 
+2/26/2017 6:45 AM
+
+ **pierre** :
+
+ ><@U073Y8TBR> are you going?
+
