@@ -24,9 +24,9 @@
 
  >Hey, I'm jonnay, I'm a programmer and musician, and I'll be looking at integrating Muse with Ableton Live soon. 
 
-2/26/2017 11:04 PM
+2/26/2017 11:09 PM
 
- **braden** :
+ **yannick** :
 
- >Hello everyone! I'm currently in Indiana University's Human Computer Interaction Design master's program. This summer I'll be working as part of a new $3 million grant studying the science of Learning from the perspectives of Cognitive Development, Computational Neuroscience, and Machine Learning. On the side, I'm currently in the process of finding money to buy an OpenBCI system to learn and tinker with. I'm super excited about joining this network and hopefully getting to know and collaborate with some of you. Cheers!
+ >Hey @branden welcome on board. Let's talk about the student clubs and all.
 
