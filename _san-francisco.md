@@ -18,3 +18,9 @@ I'm trying to spend my next 6 month internship (from July - December) working in
 > 
 anyone have any good ideas for where I should look?
 
+2/26/2017 3:19 AM
+
+ **stephen** :
+
+ >might be interesting <http://psychedelicscience.org/>
+
