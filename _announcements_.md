@@ -34,5 +34,5 @@
 
  **c00p3r** :
 
- >very nice
+ >chatops is a very fun thing when you get it going well enough
 
