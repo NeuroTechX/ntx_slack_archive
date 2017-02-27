@@ -12,3 +12,9 @@
 
  ><@U08SY292B>: does this mean that past messages will not be erased anymore?
 
+2/27/2017 3:22 PM
+
+ **sydneyneurotechx** :
+
+ ><@U1J7HAVFA> We have a system in place right now that you can view messages posted in public channels on Github(<https://github.com/NeuroTechX/ntx_slack_archive>)
+
