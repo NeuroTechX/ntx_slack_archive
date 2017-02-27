@@ -30,9 +30,9 @@
 
  ><@U302S61V5>  That's what we are doing right now :slightly_smiling_face:
 
-2/27/2017 7:57 PM
+2/27/2017 7:58 PM
 
  **c00p3r** :
 
- >chatops is a very fun thing when you get it going well enough
+ >do you have a notification service for server outages going yet?
 
