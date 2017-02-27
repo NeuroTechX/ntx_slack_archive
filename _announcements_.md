@@ -24,3 +24,9 @@
 
  >you can automate a setup to publish archives to github
 
+2/27/2017 6:20 PM
+
+ **sydneyneurotechx** :
+
+ ><@U302S61V5>  That's what we are doing right now :slightly_smiling_face:
+
