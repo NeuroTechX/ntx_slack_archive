@@ -18,3 +18,12 @@
 
  ><https://www.sciencedaily.com/releases/2017/02/170222131442.htm>
 
+2/27/2017 5:22 PM
+
+ **yannick** :
+
+ >Posted by <@U39KC1V9Q> in <#C0J8Z4KFD|_announcements_>  (moved here)
+
+> 
+"Hey guys there is a big global hackathon this week that people might be interested in. <http://www.brainhack.org> Thursday Friday in Montreal!"
+
