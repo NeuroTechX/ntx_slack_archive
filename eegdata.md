@@ -84,3 +84,15 @@ Any suggestions?!
 
  >thanks alot
 
+2/27/2017 7:55 PM
+
+ **mpontais** :
+
+ >Hey there! I'm trying to make electronic structures respond to data given by an Emotiv Epoc headset, and I'm facing some troubles.. I'm for now using MindyourOscs, through Processing, then sending the signals to Arduino. It works for facial recognition features, but does not respond when I call affective functions (Excitement/Meditation/Frustration/...) which are the ones I'm interested about! 
+
+> 
+Did someone know about this issue? And is there a "known" solution? Else I'm not really familiar with the Emotiv Epoc, so would there be a better/quicker/easier way to be able to program microcontrollers according to the EEG data other than the Processing/Arduino interface? 
+
+> 
+Thanks a lot!
+
