@@ -18,3 +18,9 @@
 
  >It's a work in progress, but <@U2TTQMEHK>  is putting it all together :slightly_smiling_face:
 
+2/27/2017 6:00 PM
+
+ **c00p3r** :
+
+ >you can automate a setup to publish archives to github
+
