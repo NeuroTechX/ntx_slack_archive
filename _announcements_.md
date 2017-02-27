@@ -6,9 +6,9 @@
 
  ><!channel>  I would like to thank our partner at BeepBoopHQ for sponsoring NeuroTechX with free bot support. This sponsorship will allow for us to expand our services that we can create for NeuroBotX, so that you can get the most out of Slack. All hail our new bot overlords! To learn more about BeepBoopHQ, please visit their website: <https://beepboophq.com/>
 
-2/27/2017 3:12 PM
+2/27/2017 3:16 PM
 
- **crocodoyle** :
+ **tamaregev** :
 
- >Hey guys there is a big global hackathon this week that people might be interested in. <http://www.brainhack.org> Thursday Friday in Montreal!
+ ><@U08SY292B>: does this mean that past messages will not be erased anymore?
 
