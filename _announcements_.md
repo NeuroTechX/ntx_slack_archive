@@ -16,5 +16,5 @@
 
  **sydneyneurotechx** :
 
- ><@U1J7HAVFA> We have a system in place right now that you can view messages posted in public channels on Github(<https://github.com/NeuroTechX/ntx_slack_archive>)
+ >It's a work in progress, but <@U2TTQMEHK>  is putting it all together :slightly_smiling_face:
 
