@@ -36,3 +36,12 @@
 
  >do you have a notification service for server outages going yet?
 
+2/28/2017 2:13 PM
+
+ **amine.abdessemed** :
+
+ ><@U302S61V5> we are running the bot on a managed server, server outages are uncommon and handled in seconds thanks to our partners BeepboopHQ . Archiving is currently active and stored to <https://github.com/NeuroTechX/ntx_slack_archive/tree/master> 
+
+> 
+For now, some messages are being ignored due to some bad sync with Github. The dev version of the bot I'm working on fixes this issue and will be deployed this week.
+
