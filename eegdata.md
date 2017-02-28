@@ -114,3 +114,9 @@ can i get some of that? :slightly_smiling_face:
 
  >Oh sorry I just realized I miss read your post as a question! Um I've never use Unity but I heard a lot about it for VR. Can you also control other electronic structures than a VR headset with it?
 
+2/28/2017 4:03 PM
+
+ **bhargava2566302** :
+
+ >Yes
+
