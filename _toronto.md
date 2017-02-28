@@ -30,3 +30,9 @@
 
  >Im planning on going and I figured it would be a good time to meet fellow NeuroTechXers and talk science and stuff :smile:
 
+2/28/2017 10:01 PM
+
+ **dano** :
+
+ >Hey Hector, NeuroTechTO is definitely going to be there! We're putting together a team right now. Check out the  <#C494M65MF|neurotechtoprojects> channel to join the conversation
+
