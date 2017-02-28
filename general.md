@@ -357,9 +357,9 @@ Any suggestions?!
 
  ><@U073Y8TBR> great find - never heard of this project.
 
-2/28/2017 1:08 PM
+2/28/2017 1:09 PM
 
- **yannick** :
+ **bhargava2566302** :
 
- >Hey, I'm currently working on a presentation about the latest news &amp; breakthroughs in NeuroTech, focusing on 2016 (kind of a review).
+ >Thats cool
 
