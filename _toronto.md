@@ -24,3 +24,9 @@
 
  ><@U0D890WL9> ^
 
+2/28/2017 9:54 PM
+
+ **hectordomorozco** :
+
+ >Im planning on going and I figured it would be a good time to meet fellow NeuroTechXers and talk science and stuff :smile:
+
