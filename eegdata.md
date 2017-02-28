@@ -96,9 +96,15 @@ Did someone know about this issue? And is there a "known" solution? Else I'm not
 > 
 Thanks a lot!
 
-2/28/2017 3:09 PM
+2/28/2017 3:12 PM
 
- **bhargava2566302** :
+ **natanel** :
 
- ><@U4ABH332L> 
+ >hola!
+
+> 
+does anyone here has eeg readings of febromealgia vs healthy patients?
+
+> 
+can i get some of that? :slightly_smiling_face:
 
