@@ -108,12 +108,9 @@ does anyone here has eeg readings of febromealgia vs healthy patients?
 > 
 can i get some of that? :slightly_smiling_face:
 
-2/28/2017 3:43 PM
+2/28/2017 3:45 PM
 
  **mpontais** :
 
- ><@U192WA004>  here is the source code for the MindyourOscs translating the data into Osc messages that can then be read using processing: <https://sourceforge.net/p/mindyouroscs/code/HEAD/tree/Emotiv/> 
-
-> 
-if you open the OSC Addresses.txt, you'll find the "functions" I was talking about, but it does not respond when calling the affective ones (/AFF/)
+ >Oh sorry I just realized I miss read your post as a question! Um I've never use Unity but I heard a lot about it for VR. Can you also control other electronic structures than a VR headset with it?
 
