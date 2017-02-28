@@ -28,5 +28,5 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 
  **graeme** :
 
- >JOB OPPORTUNITY: Data Scientist with Interaxon
+ ><https://interaxon.bamboohr.com/jobs/view.php?id=24>
 
