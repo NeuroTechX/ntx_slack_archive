@@ -24,3 +24,9 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 > 
 -Conor
 
+2/28/2017 5:58 AM
+
+ **graeme** :
+
+ >JOB OPPORTUNITY: Data Scientist with Interaxon
+
