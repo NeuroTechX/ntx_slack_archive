@@ -24,9 +24,9 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 > 
 -Conor
 
-2/28/2017 5:58 AM
+2/28/2017 5:59 AM
 
  **graeme** :
 
- ><https://interaxon.bamboohr.com/jobs/view.php?id=24>
+ >Lots of interesting work to be done with Muse data, and there's an awful lot of data. Feel free to pm me here or email <mailto:moffat@interaxon.ca|moffat@interaxon.ca> if you have questions.
 
