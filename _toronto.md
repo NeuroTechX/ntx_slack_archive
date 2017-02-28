@@ -18,9 +18,9 @@
 
  >Let us know if you can make it! 
 
-2/28/2017 9:43 PM
+2/28/2017 9:45 PM
 
- **hectordomorozco** :
+ **yannick** :
 
- >Hey, beautiful people of Toronto, is anyone of you going to the BrainHack event this week?
+ ><@U0D890WL9> ^
 
