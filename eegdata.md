@@ -96,3 +96,9 @@ Did someone know about this issue? And is there a "known" solution? Else I'm not
 > 
 Thanks a lot!
 
+2/28/2017 3:09 PM
+
+ **bhargava2566302** :
+
+ >Ya i think u can use emotiv with unity 
+
