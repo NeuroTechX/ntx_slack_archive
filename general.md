@@ -363,3 +363,33 @@ Any suggestions?!
 
  >Thats cool
 
+2/28/2017 1:18 PM
+
+ **yannick** :
+
+ >Hey, I'm currently working on a presentation about the latest news &amp; breakthroughs in NeuroTech, focusing on 2016 (kind of a review). We'd like for the different NTX chapters to have access to it and do an event to showcase what's new in the field. From "wow" kinda news to scientific breakthroughs, to new kickstarters, to new laws, to major investments, etc.
+
+> 
+The goal of the presentation (and the event) is that when you leave, you feel like you have the big picture of what happened lately - without digging too much into the science of it, but staying at a higher level. 
+
+> 
+And obviously you'd leave inspired, because the field is awesome :stuck_out_tongue:
+
+> 
+
+
+> 
+1) Do you know any review already online that could be useful?
+
+> 
+2) What would you put in that review/presentation? (what for you, is worth mentioning that happened in 2016)
+
+> 
+3) If you'd like to help with the content and/or the presentation, please PM me :slightly_smiling_face:
+
+> 
+Feel free to throw anything that comes to mind!
+
+> 
+(obviously the presentation will be accessible/shared)
+
