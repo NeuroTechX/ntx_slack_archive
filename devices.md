@@ -90,3 +90,9 @@
 
  >Its working when I moved the OpenBCI_GUI application into the application folder. Some stuff seem to have changed in Sierra. Happy that it is working though!
 
+2/28/2017 9:04 PM
+
+ **stephen** :
+
+ >List of all ECG devices one can wear: <https://forum.quantifiedself.com/t/reliable-wearable-ecg/2653>
+
