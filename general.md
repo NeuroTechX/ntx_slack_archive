@@ -393,3 +393,15 @@ Feel free to throw anything that comes to mind!
 > 
 (obviously the presentation will be accessible/shared)
 
+3/1/2017 2:38 AM
+
+ **jacobflood** :
+
+ >Hey everyone, big news: Mindsets Kickstarter goes live tomorrow morning at 8am EST!
+
+> 
+For those of you who arent familiar, Mindset is a pair of overear headphones that integrate EEG sensors into the band to measure and improve concentration. Theyre bluetooth, noise cancelling, and give you full access to the data. You can get more info at <http://thinkmindset.com|thinkmindset.com>, which will also redirect to the Kickstarter once its up.
+
+> 
+The campaign goes live tomorrow at 8am EST. Be the first to grab one of the early birds, and get 46% off! :smile:
+
