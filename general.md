@@ -411,3 +411,18 @@ The campaign goes live tomorrow at 8am EST. Be the first to grab one of the earl
 
  >Mindset website looks remarkably impressive
 
+3/1/2017 1:01 PM
+
+ **jacobflood** :
+
+ >MINDSETS KICKSTARTER IS LIVE!!! :smile:
+
+> 
+Heres the link you can use to back the project: <https://www.kickstarter.com/projects/mindset/headphones>
+
+> 
+Feel free to give me a shout at 438 838 1477 if you need help, or check out this video explaining how to back kickstarter projects <http://bit.ly/2msDIdZ>.
+
+> 
+Thank you so much for your help!
+
