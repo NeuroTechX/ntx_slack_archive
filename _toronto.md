@@ -36,3 +36,9 @@
 
  >Hey Hector, NeuroTechTO is definitely going to be there! We're putting together a team right now. Check out the  <#C494M65MF|neurotechtoprojects> channel to join the conversation
 
+3/1/2017 11:07 PM
+
+ **graeme** :
+
+ >what's the brainhack event?
+
