@@ -468,3 +468,9 @@ Thank you so much for your help!
 > 
 Were aware, and as we understand the product is discontinued, and not currently under trademark. Could you send us the trademark manual you found?
 
+3/1/2017 10:03 PM
+
+ **sc** :
+
+ >Sure, and good luck with it all, just something which stood out as soon as spotted. In any case this manual has the (TM) symbol at least once <http://developer.neurosky.com/docs/doku.php?id=mindset_instruction_manual> and this Reseller Agreementon the Necomimi site lists MindSet as a NeuroSky trademark <http://store.necomimi.com/pages/reseller-agreement>
+
