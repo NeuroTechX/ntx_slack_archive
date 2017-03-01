@@ -426,3 +426,12 @@ Feel free to give me a shout at 438 838 1477 if you need help, or check out this
 > 
 Thank you so much for your help!
 
+3/1/2017 5:31 PM
+
+ **eferdinand** :
+
+ >We're proud to partner w/ #OReillyAI in New York, NY June 26-29. Save 20% w/code UGNTMTL
+
+> 
+<http://oreil.ly/2l94JOD>
+
