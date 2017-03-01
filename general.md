@@ -441,3 +441,9 @@ Thank you so much for your help!
 
  >Hahaha! I still prefer :ntx2: :ntx3: :ntxt:
 
+3/1/2017 7:40 PM
+
+ **graeme** :
+
+ >Olav Krigolson &amp; Frank Colino's paper on ERPs with Muse is out in preprint. Check out their protocol, download it, replicate it if you like. It's open source.
+
