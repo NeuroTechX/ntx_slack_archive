@@ -405,3 +405,9 @@ For those of you who arent familiar, Mindset is a pair of overear headphones th
 > 
 The campaign goes live tomorrow at 8am EST. Be the first to grab one of the early birds, and get 46% off! :smile:
 
+3/1/2017 12:44 PM
+
+ **lai_london** :
+
+ >Mindset website looks remarkably impressive
+
