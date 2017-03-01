@@ -60,3 +60,15 @@ The Student Clubs committee is looking for someone to help us develop a website 
 
  >For those who have no idea about NTX Student Club Initiative, here is a small piece from last year: <https://medium.com/neurotechx/ntx-student-clubs-initiative-2fba98b0d082#.fqqy48nc8>
 
+3/1/2017 2:15 AM
+
+ **jacobflood** :
+
+ >Hey everyone, big news: Mindsets Kickstarter goes live tomorrow morning at 8am EST!
+
+> 
+For those of you who arent familiar, Mindset is a pair of overear headphones that integrate EEG sensors into the band to measure and improve concentration. Theyre bluetooth, noise cancelling, and give you full access to the data. You can get more info at <http://thinkmindset.com|thinkmindset.com>, which will also redirect to the Kickstarter once its up.
+
+> 
+The campaign goes live tomorrow at 8am EST. Be the first to grab one of the early birds, and get 46% off! :smile:
+
