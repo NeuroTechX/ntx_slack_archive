@@ -445,5 +445,5 @@ Thank you so much for your help!
 
  **graeme** :
 
- >Olav Krigolson &amp; Frank Colino's paper on ERPs with Muse is out in preprint. Check out their protocol, download it, replicate it if you like. It's open source.
+ ><http://journal.frontiersin.org/article/10.3389/fnins.2017.00109/abstract>
 
