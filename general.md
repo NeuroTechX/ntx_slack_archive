@@ -459,3 +459,12 @@ Thank you so much for your help!
 
  >jacobflood: Congrats on the Kickstarter launch!  One question though, did you research the trademark on the name "MindSet"? Neurosky's first consumer EEG (in 2009) was also called the MindSet, and was based around an audio headphone design. A quick Google turns up some articles and even the manual which feature a (TM) by the name. 
 
+3/1/2017 9:46 PM
+
+ **jacobflood** :
+
+ >Thanks for the support! 
+
+> 
+Were aware, and as we understand the product is discontinued, and not currently under trademark. Could you send us the trademark manual you found?
+
