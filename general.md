@@ -435,3 +435,9 @@ Thank you so much for your help!
 > 
 <http://oreil.ly/2l94JOD>
 
+3/1/2017 6:00 PM
+
+ **sydneyneurotechx** :
+
+ >We can now spam eeg emotes. :muse: :epoc: :openbci: :neurosky:
+
