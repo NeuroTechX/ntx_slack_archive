@@ -120,3 +120,9 @@ can i get some of that? :slightly_smiling_face:
 
  >If u want u can pm
 
+3/2/2017 10:21 PM
+
+ **alexandre.barachant** :
+
+ ><http://alexandre.barachant.org/blog/2017/03/02/Hands-on-OpenBCI-Ganglion.html>
+
