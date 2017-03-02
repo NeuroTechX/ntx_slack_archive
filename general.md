@@ -480,3 +480,12 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >Good to know! Id seen that as well, but when we did a formal trademark search we didnt find anything filed. Were concluding the filing in the next few days
 
+3/2/2017 11:54 PM
+
+ **dano** :
+
+ >A babe is born: the Neurodoro app, coming out of Toronto!!
+
+> 
+<https://github.com/jdpigeon/neurodoro>
+
