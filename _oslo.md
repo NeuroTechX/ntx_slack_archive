@@ -10,5 +10,5 @@
 
  **alebai** :
 
- >yes, that's correct <@U30CQN0QH>
+ >sorry for the late notification
 
