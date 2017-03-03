@@ -138,3 +138,9 @@ can i get some of that? :slightly_smiling_face:
 
  >can anyone point me in the direction of a tutorial for doing ICA on resting state EEG data? I can only seem to find things for erp paradigms.
 
+3/3/2017 5:00 PM
+
+ **melanie** :
+
+ >(worth noting that I'm not even sure my question makes sense)
+
