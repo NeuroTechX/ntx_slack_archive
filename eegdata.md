@@ -153,3 +153,9 @@ can i get some of that? :slightly_smiling_face:
 > 
 <http://martinos.org/mne/dev/manual/preprocessing/ica.html>
 
+3/3/2017 6:09 PM
+
+ **melanie** :
+
+ >qbarthelemy: thanks - can't seem to find anything on how to use their ICA package without having a stimulus file. Currently just using the sklearn ica package. It seems to be working (ish) :slightly_smiling_face:
+
