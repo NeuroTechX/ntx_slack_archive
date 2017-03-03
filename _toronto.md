@@ -54,3 +54,9 @@
 
  ><@U1502B7MZ> are you participating tonight?! <@U0D890WL9> is there with other community members <@U2RGGJVT4> and Lindsay!
 
+3/3/2017 4:04 AM
+
+ **dano** :
+
+ >Hector's was with us all day, leading Neurodoro
+
