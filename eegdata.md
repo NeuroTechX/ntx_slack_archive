@@ -132,3 +132,9 @@ can i get some of that? :slightly_smiling_face:
 
  >indeed. In terms of signal quality, the muse is good. with optimal electrode placement i have no doubt AUC would get better
 
+3/3/2017 4:58 PM
+
+ **melanie** :
+
+ >can anyone point me in the direction of a tutorial for doing ICA on resting state EEG data? I can only seem to find things for erp paradigms.
+
