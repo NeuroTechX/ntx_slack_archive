@@ -106,5 +106,5 @@
 
  **pierre** :
 
- >I think for my class I'll keep relying on the nodejs to lsl to Python code that Alexandre gave me, as it can handle osx
+ >I'm still on the lookout for pure Python solutions though
 
