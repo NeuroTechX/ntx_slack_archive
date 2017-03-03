@@ -165,3 +165,9 @@ can i get some of that? :slightly_smiling_face:
 
  >melanie also there exist different ways of doing ICA ; ICA is a family of methods and you should be neet picky as to which one suits your problem and its apriori parameters the best
 
+3/3/2017 7:51 PM
+
+ **qbarthelemy** :
+
+ >I do agree. FastICA is not the best one...
+
