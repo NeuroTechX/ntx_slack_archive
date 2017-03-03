@@ -189,3 +189,12 @@ can i get some of that? :slightly_smiling_face:
 
  >you should start with the wikipedia page I guess, this already mentions quite a few different techniques
 
+3/3/2017 8:25 PM
+
+ **qbarthelemy** :
+
+ >Arnaud Delorme has an excellent paper on BSS methods
+
+> 
+<http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030135>
+
