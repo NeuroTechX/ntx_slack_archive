@@ -159,3 +159,9 @@ can i get some of that? :slightly_smiling_face:
 
  >qbarthelemy: thanks - can't seem to find anything on how to use their ICA package without having a stimulus file. Currently just using the sklearn ica package. It seems to be working (ish) :slightly_smiling_face:
 
+3/3/2017 7:45 PM
+
+ **yrenard** :
+
+ >melanie also there exist different ways of doing ICA ; ICA is a family of methods and you should be neet picky as to which one suits your problem and its apriori parameters the best
+
