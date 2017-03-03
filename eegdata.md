@@ -126,3 +126,9 @@ can i get some of that? :slightly_smiling_face:
 
  ><http://alexandre.barachant.org/blog/2017/03/02/Hands-on-OpenBCI-Ganglion.html>
 
+3/3/2017 4:09 PM
+
+ **graeme** :
+
+ ><@U0AJ51TKJ> That's great work. Would be really interesting to see what kind of AUC you could get by adding one Muse aux electrode at Cz or Oz or something.
+
