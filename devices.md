@@ -102,9 +102,9 @@
 
  ><@U073X4JRL>: if you still want give ganglion + python a try (...and if you are a linux-powered guy), it's getting easier: <http://openbci.com/forum/index.php?p=/discussion/1017/ganglion-board-now-working-with-python-on-linux>
 
-3/3/2017 6:11 AM
+3/3/2017 6:12 AM
 
  **pierre** :
 
- ><@U0C4B61GF> thanks! This will be useful for my experiments
+ >I think for my class I'll keep relying on the nodejs to lsl to Python code that Alexandre gave me, as it can handle osx
 
