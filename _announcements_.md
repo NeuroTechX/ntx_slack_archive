@@ -76,5 +76,5 @@ The campaign goes live tomorrow at 8am EST. Be the first to grab one of the earl
 
  **moia** :
 
- ><!channel> Just launched Design Indaba in Cape Town! Try it tonight& and please share if you can. <http://syncproject.co/blog/unwind-music-to-help-you-sleep> <@U08QLB4D9>
+ ><http://unwind.ai> (fee and available for all, on your smartphone) <@U08QLB4D9>
 
