@@ -27,3 +27,9 @@
 > 
 "Hey guys there is a big global hackathon this week that people might be interested in. <http://www.brainhack.org> Thursday Friday in Montreal!"
 
+3/3/2017 11:46 PM
+
+ **sc** :
+
+ ><http://www.futuretimeline.net/blog/2017/03/1.htm#.WLoAC8uIbqA>
+
