@@ -126,9 +126,9 @@ can i get some of that? :slightly_smiling_face:
 
  ><http://alexandre.barachant.org/blog/2017/03/02/Hands-on-OpenBCI-Ganglion.html>
 
-3/3/2017 4:09 PM
+3/3/2017 4:10 PM
 
- **graeme** :
+ **alexandre.barachant** :
 
- ><@U0AJ51TKJ> That's great work. Would be really interesting to see what kind of AUC you could get by adding one Muse aux electrode at Cz or Oz or something.
+ >indeed. In terms of signal quality, the muse is good. with optimal electrode placement i have no doubt AUC would get better
 
