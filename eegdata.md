@@ -183,3 +183,9 @@ can i get some of that? :slightly_smiling_face:
 
  >yrenard can you point us to some resources as to fully understand this? :slightly_smiling_face:
 
+3/3/2017 8:09 PM
+
+ **yrenard** :
+
+ >you should start with the wikipedia page I guess, this already mentions quite a few different techniques
+
