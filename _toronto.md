@@ -60,3 +60,9 @@
 
  >Hector's was with us all day, leading Neurodoro
 
+3/3/2017 5:09 AM
+
+ **bryan_j** :
+
+ >Amazing! Cannot wait to hear all about it. Wish I could be with you guys! Have fun and hack on! 
+
