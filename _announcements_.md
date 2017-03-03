@@ -72,3 +72,9 @@ For those of you who arent familiar, Mindset is a pair of overear headphones th
 > 
 The campaign goes live tomorrow at 8am EST. Be the first to grab one of the early birds, and get 46% off! :smile:
 
+3/3/2017 4:05 PM
+
+ **moia** :
+
+ ><!channel> Just launched Design Indaba in Cape Town! Try it tonight& and please share if you can. <http://syncproject.co/blog/unwind-music-to-help-you-sleep> <@U08QLB4D9>
+
