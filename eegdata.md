@@ -177,3 +177,9 @@ can i get some of that? :slightly_smiling_face:
 
  >:wink:
 
+3/3/2017 8:04 PM
+
+ **hectordomorozco** :
+
+ >yrenard can you point us to some resources as to fully understand this? :slightly_smiling_face:
+
