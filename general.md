@@ -501,3 +501,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >hello , I'm interested in contacting someone from Peru
 
+3/3/2017 11:43 PM
+
+ **yannick** :
+
+ >Hey martinperez you should join <#C0VU2AP1Q|_lima> and talk with the folks there :slightly_smiling_face:
+
