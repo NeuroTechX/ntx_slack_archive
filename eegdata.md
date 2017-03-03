@@ -144,3 +144,12 @@ can i get some of that? :slightly_smiling_face:
 
  >(worth noting that I'm not even sure my question makes sense)
 
+3/3/2017 5:53 PM
+
+ **qbarthelemy** :
+
+ >you can look at MNE
+
+> 
+<http://martinos.org/mne/dev/manual/preprocessing/ica.html>
+
