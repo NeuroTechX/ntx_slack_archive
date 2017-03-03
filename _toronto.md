@@ -48,3 +48,9 @@
 
  >Its going to be interesting (I think)
 
+3/3/2017 2:44 AM
+
+ **bryan_j** :
+
+ ><@U1502B7MZ> are you participating tonight?! <@U0D890WL9> is there with other community members <@U2RGGJVT4> and Lindsay!
+
