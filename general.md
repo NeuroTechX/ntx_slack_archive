@@ -507,3 +507,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >Hey martinperez you should join <#C0VU2AP1Q|_lima> and talk with the folks there :slightly_smiling_face:
 
+3/4/2017 12:16 AM
+
+ **alexandre.barachant** :
+
+ >yannick do you have insider information ? i will be in NYC the 28. i'm intested to know more
+
