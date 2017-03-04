@@ -513,3 +513,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >yannick do you have insider information ? i will be in NYC the 28. i'm intested to know more
 
+3/4/2017 12:17 AM
+
+ **yannick** :
+
+ >Of course I do :wink:
+
