@@ -99,3 +99,9 @@ Emotiv Insight 1.6m$
 
  >challenge accepted :wink:
 
+3/4/2017 1:11 AM
+
+ **doyond** :
+
+ >We'll try and achieve this in 11 days less than Emotiv, and 25 less than Kokoon :wink: haha
+
