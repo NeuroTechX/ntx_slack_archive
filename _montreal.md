@@ -93,3 +93,9 @@ Emotiv Insight 1.6m$
 
  >(EEG Kickstarter / Indiegogo - not the headphones market)
 
+3/4/2017 1:01 AM
+
+ **jacobflood** :
+
+ >challenge accepted :wink:
+
