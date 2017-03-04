@@ -27,3 +27,9 @@ The first national competition of its kind, prizes awarded at the AGE-WELLHACKI
 > 
 <https://www.eventbrite.ca/e/age-well-hacking-health-national-ideathon-montreal-tickets-30076280966>
 
+3/4/2017 12:46 AM
+
+ **yannick** :
+
+ >Mindset a dépassé le 215k$ de OpenBCI sur Kickstarter... Avec deja 250k$ en 3 jours. Congratz guys :slightly_smiling_face:
+
