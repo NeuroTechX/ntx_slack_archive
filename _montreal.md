@@ -87,3 +87,9 @@ Kokoon 1.9m$
 > 
 Emotiv Insight 1.6m$
 
+3/4/2017 12:50 AM
+
+ **yannick** :
+
+ >(EEG Kickstarter / Indiegogo - not the headphones market)
+
