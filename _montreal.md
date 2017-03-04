@@ -45,3 +45,45 @@ The first national competition of its kind, prizes awarded at the AGE-WELLHACKI
 
  >Thanks! On continue le push... il reste plus d'un mois :slightly_smiling_face:
 
+3/4/2017 12:50 AM
+
+ **yannick** :
+
+ >Muse had 288k$
+
+> 
+Melon had 290k$
+
+> 
+Aurora had 239k$
+
+> 
+OpenBCI hab 215k$
+
+> 
+
+
+> 
+--&gt; vous etes entrez dans leur bracket en 3 jours.
+
+> 
+
+
+> 
+next bracket:
+
+> 
+Neuroon 438k$
+
+> 
+
+
+> 
+then:
+
+> 
+Kokoon 1.9m$
+
+> 
+Emotiv Insight 1.6m$
+
