@@ -249,3 +249,9 @@ Now it is compatible with the ganglion so i might do it
 
  >the rest is just a swim cap and a hot glue gun :slightly_smiling_face:
 
+3/6/2017 11:08 PM
+
+ **sydneyneurotechx** :
+
+ >Where did you get those electrodes?
+
