@@ -237,3 +237,9 @@ Now it is compatible with the ganglion so i might do it
 
  >however, i'm not 100% satisfied with the electrodes, confortwise
 
+3/6/2017 8:03 PM
+
+ **alexandre.barachant** :
+
+ >AJ made a video of assembling the electrodes : <https://www.youtube.com/watch?v=kgNdJGsjy-Q>
+
