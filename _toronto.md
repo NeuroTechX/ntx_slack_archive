@@ -84,3 +84,9 @@
 
  >Yes that would be great :) 
 
+3/6/2017 1:20 PM
+
+ **bryan_j** :
+
+ >Glad to hear it! Would you have some time next week? :slightly_smiling_face:
+
