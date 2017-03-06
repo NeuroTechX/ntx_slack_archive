@@ -531,3 +531,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >we should make a bot of you yannick
 
+3/6/2017 1:27 AM
+
+ **dan** :
+
+ >Startup Weekend: Maker Edition is this weekend coming up. Would anyone consider making the trip and starting an impactful organization?
+
