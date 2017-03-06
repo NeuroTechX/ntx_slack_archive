@@ -90,3 +90,9 @@
 
  >Glad to hear it! Would you have some time next week? :slightly_smiling_face:
 
+3/6/2017 4:52 PM
+
+ **hectordomorozco** :
+
+ >I am based in Hamilton, so maybe we could Skype this week? Let me know what days are best for you :smile:
+
