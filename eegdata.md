@@ -210,3 +210,9 @@ can i get some of that? :slightly_smiling_face:
 
  >alexandre.barachant  Did you make your own EEG cap?
 
+3/6/2017 7:56 PM
+
+ **alexandre.barachant** :
+
+ >yep
+
