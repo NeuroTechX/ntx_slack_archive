@@ -549,3 +549,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >yannick what are those headsets in the mindgamers promo thing?
 
+3/6/2017 8:01 PM
+
+ **pharo** :
+
+ >For those that are in San Francisco I will be visiting from March 13-17th. It would be great to connect with other Neuro Tech X people.
+
