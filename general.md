@@ -561,3 +561,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >pharo . I'd suggest posting in the <#C0VTQK7CZ|_san-francisco>  channel that you will be around
 
+3/6/2017 9:38 PM
+
+ **pharo** :
+
+ >Sounds great thank you for directing me to the right place
+
