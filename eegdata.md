@@ -222,3 +222,12 @@ can i get some of that? :slightly_smiling_face:
 
  >Do you have any tutorials on building one? :stuck_out_tongue:
 
+3/6/2017 7:59 PM
+
+ **alexandre.barachant** :
+
+ >not really, i took some picture and planned to make a tutorial back when i built it (summer 2016) but it was not that usefull since the offset of the electrode was too big for the OpenBCI board.
+
+> 
+Now it is compatible with the ganglion so i might do it
+
