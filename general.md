@@ -543,3 +543,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >question will anyone be at SXSW this year in austin texas?
 
+3/6/2017 3:27 AM
+
+ **graeme** :
+
+ >yannick what are those headsets in the mindgamers promo thing?
+
