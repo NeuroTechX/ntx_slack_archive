@@ -36,3 +36,9 @@ anyone have any good ideas for where I should look?
 
  >Maybe, tbd.
 
+3/6/2017 9:38 PM
+
+ **pharo** :
+
+ >For those that are in San Francisco I will be visiting from March 13-17th. It would be great to connect with other Neuro Tech X people.
+
