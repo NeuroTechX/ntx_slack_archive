@@ -231,3 +231,9 @@ can i get some of that? :slightly_smiling_face:
 > 
 Now it is compatible with the ganglion so i might do it
 
+3/6/2017 8:00 PM
+
+ **alexandre.barachant** :
+
+ >however, i'm not 100% satisfied with the electrodes, confortwise
+
