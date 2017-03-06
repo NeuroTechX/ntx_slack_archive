@@ -555,3 +555,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >For those that are in San Francisco I will be visiting from March 13-17th. It would be great to connect with other Neuro Tech X people.
 
+3/6/2017 8:05 PM
+
+ **sydneyneurotechx** :
+
+ >pharo . I'd suggest posting in the <#C0VTQK7CZ|_san-francisco>  channel that you will be around
+
