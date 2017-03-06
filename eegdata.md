@@ -243,3 +243,9 @@ Now it is compatible with the ganglion so i might do it
 
  >AJ made a video of assembling the electrodes : <https://www.youtube.com/watch?v=kgNdJGsjy-Q>
 
+3/6/2017 8:04 PM
+
+ **alexandre.barachant** :
+
+ >the rest is just a swim cap and a hot glue gun :slightly_smiling_face:
+
