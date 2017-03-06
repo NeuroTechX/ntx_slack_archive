@@ -42,3 +42,9 @@
 
  >Hi my name is Nikhil, I am a physical therapist based in India and working as an Assistant Professor in a Medical college here in the department of physical medicine and rehabilitation. I am trying to develop an EEG based functional electrical stimulation device for our stroke patients with hand dysfunction, I hope to get help from you guys and develop it further to ultimately develop an cranial stimulation device 
 
+3/6/2017 7:35 PM
+
+ **sydneyneurotechx** :
+
+ >physionikhil  Welcome!
+
