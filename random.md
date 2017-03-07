@@ -90,3 +90,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >does the 'best efforts' of the user improve the quality of his generated signal patterns ?
 
+3/7/2017 6:24 PM
+
+ **yrenard** :
+
+ >I guess the lack of rewarding feedback plays against any progress of the user what so ever
+
