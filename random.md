@@ -39,3 +39,9 @@
 
  ><https://www.wired.com/2017/03/baxter-robot-fixes-mistakes-reading-mind/?mbid=social_twitter>
 
+3/7/2017 3:13 PM
+
+ **a.tech** :
+
+ >What a smart use of ERPs!
+
