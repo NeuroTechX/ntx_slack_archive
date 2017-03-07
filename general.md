@@ -627,3 +627,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >¯\_(Ä)_/¯
 
+3/7/2017 8:03 PM
+
+ **w** :
+
+ >Maybe they're graphing the research landscape - who's tied to who and who's researching what - and finding the edges of that
+
