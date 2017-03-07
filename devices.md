@@ -132,3 +132,9 @@
 
  >Hey I'm gonna have 2 Wifi Shields for OpenBCI Cyton. Anyone interested in one? It's plug and play with an over the air update to the OpenBCI 32bit Cyton board.
 
+3/7/2017 9:35 PM
+
+ **sydneyneurotechx** :
+
+ >physionikhil: For the EEG component, how many electrodes will you be using?
+
