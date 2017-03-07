@@ -27,3 +27,9 @@ does anyone here has eeg readings of febromealgia vs healthy patients?
 > 
 can i get some of that? :slightly_smiling_face:
 
+3/7/2017 7:39 AM
+
+ **physionikhil** :
+
+ >that will be like eeg for a subject with chronic pain(fibromyalgia)
+
