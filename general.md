@@ -669,3 +669,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >(a "private" publication :p)
 
+3/7/2017 9:33 PM
+
+ **sydneyneurotechx** :
+
+ >alainafinley: Hey alainafinley  The answer to your question will depend on what your interests are and what you want to specialize in. Neurotech is a multi disciplinary field and you can contribute to it in a variety of different ways. If you want to do research, ask yourself what element of Neuroscience you would like to get involved in. In the meantime, I'd suggest looking at some Neuroscience Moocs to compliment your CS studies and take a look at these resources: <https://github.com/NeuroTechX/awesome-bci> The one which may interest you the most is the analyzing neural time series book. I'd also suggest talking to dano  and see about contributing to the <#C0K883P71|interactive-tutorial>  project <https://mitpress.mit.edu/books/analyzing-neural-time-series-data>
+
