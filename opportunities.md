@@ -36,3 +36,12 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 
  >I feel like we need OpenBCI, Neurosky and Muse Emotes.
 
+3/7/2017 12:48 PM
+
+ **yannick** :
+
+ >NeuroElectrics is hiring (in Barcelona, Spain): 
+
+> 
+<https://www.linkedin.com/jobs/search/?f_C=2520688&amp;locationType=Y>
+
