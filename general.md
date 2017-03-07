@@ -597,3 +597,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >Does anyone here use Research Gate?
 
+3/7/2017 7:53 PM
+
+ **yrenard** :
+
+ >Does having an account and asking to reset forgotten password from time to time count as using Research Gate ?
+
