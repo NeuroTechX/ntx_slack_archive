@@ -603,3 +603,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >Does having an account and asking to reset forgotten password from time to time count as using Research Gate ?
 
+3/7/2017 7:54 PM
+
+ **yrenard** :
+
+ >Haven't found much 'usefullness' about it beyond being notified on peers work - I think scholar would even make a better job at it - What are you looking for ?
+
