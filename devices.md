@@ -114,3 +114,9 @@
 
  >hi i am trying to develop an eeg controlled electrical stimulation device for stroke patients , can anyone advise me on the hardware and assembly
 
+3/7/2017 3:26 PM
+
+ **sydneyneurotechx** :
+
+ >Hi physionikhil. Do you have an idea of where you want to place the electrodes and the type of stimulation you would like to do?
+
