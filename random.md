@@ -63,3 +63,12 @@
 
  >You should coin that term. Write a blog post about it and own it :wink:
 
+3/7/2017 6:18 PM
+
+ **alexandre.barachant** :
+
+ >yep, the idea is that the BCI only works if the feedback does not work :slightly_smiling_face:
+
+> 
+sometimes, error potential are easier to detect than the actual command, so you don't tell the user but you just give him random feedback and probe for error.
+
