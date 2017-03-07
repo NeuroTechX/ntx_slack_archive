@@ -33,3 +33,9 @@
 
  ><http://www.futuretimeline.net/blog/2017/03/1.htm#.WLoAC8uIbqA>
 
+3/7/2017 3:13 PM
+
+ **a.tech** :
+
+ ><https://www.wired.com/2017/03/baxter-robot-fixes-mistakes-reading-mind/?mbid=social_twitter>
+
