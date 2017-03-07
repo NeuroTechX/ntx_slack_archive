@@ -579,3 +579,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >yannick do they plan to add it to their catalog ?
 
+3/7/2017 1:38 PM
+
+ **yannick** :
+
+ >Not sure of the state of the "product", if they'll just use it themselves for that kind of projects/collaboration or make it available for purchase.
+
