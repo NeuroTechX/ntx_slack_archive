@@ -45,3 +45,9 @@
 
  >What a smart use of ERPs!
 
+3/7/2017 6:09 PM
+
+ **alexandre.barachant** :
+
+ >:slightly_smiling_face: , that's what i call (personnaly) a frustration-based BCI. you make random guess and probe for error potential. If present you choose the oposite action, if not you continue :slightly_smiling_face:
+
