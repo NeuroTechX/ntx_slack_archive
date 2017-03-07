@@ -78,3 +78,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >this is vcery frustrating for the user, since everithing he tried to make the feedback correct is actualy pointless
 
+3/7/2017 6:20 PM
+
+ **alexandre.barachant** :
+
+ >the dataset 013-2015 of BNCI is like that : <http://bnci-horizon-2020.eu/database/data-sets> (for those who want data)
+
