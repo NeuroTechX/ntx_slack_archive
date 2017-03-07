@@ -51,3 +51,9 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 
  >[Looking for internship] Hello everyone. My name is Harris R. I'm currently a senior in high school and will be attending university in the fall. I will be majoring in computer science with a focus on artificial intelligence, machine learning, and big data.  I am extremely interested in neuroscience/brain computer interfaces (I've spent the past 2 years trying to learn as much as I could) and I am hoping to see if I can intern at a company in the field to gain real world experience. I currently live in the Atlanta, GA area (could potentially relocate for the job) and anyone knew of a company or program which I could apply to.
 
+3/7/2017 10:29 PM
+
+ **sydneyneurotechx** :
+
+ >harris: Hey harris  Have you considered contributing to some of the open sources projects that exists within NeuroTechX? might be a good way to get started. DM if you need to direction on where to start
+
