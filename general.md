@@ -621,3 +621,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >They apparently don't even notify the people you list. So why do they need to know and how do they use that information?
 
+3/7/2017 8:02 PM
+
+ **w** :
+
+ >¯\_(Ä)_/¯
+
