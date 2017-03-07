@@ -72,3 +72,9 @@
 > 
 sometimes, error potential are easier to detect than the actual command, so you don't tell the user but you just give him random feedback and probe for error.
 
+3/7/2017 6:19 PM
+
+ **alexandre.barachant** :
+
+ >this is vcery frustrating for the user, since everithing he tried to make the feedback correct is actualy pointless
+
