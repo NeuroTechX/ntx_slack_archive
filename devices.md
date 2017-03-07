@@ -108,3 +108,9 @@
 
  >I'm still on the lookout for pure Python solutions though
 
+3/7/2017 3:00 PM
+
+ **physionikhil** :
+
+ >hi i am trying to develop an eeg controlled electrical stimulation device for stroke patients , can anyone advise me on the hardware and assembly
+
