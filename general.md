@@ -633,3 +633,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >Maybe they're graphing the research landscape - who's tied to who and who's researching what - and finding the edges of that
 
+3/7/2017 8:03 PM
+
+ **yannick** :
+
+ >You can use me to get access.
+
