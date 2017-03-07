@@ -567,3 +567,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >Sounds great thank you for directing me to the right place
 
+3/7/2017 2:03 AM
+
+ **yannick** :
+
+ >graeme it's a new / custom made Cognionics device that will be used for the EEG recording.
+
