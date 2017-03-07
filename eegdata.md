@@ -255,3 +255,9 @@ Now it is compatible with the ganglion so i might do it
 
  >Where did you get those electrodes?
 
+3/7/2017 7:30 AM
+
+ **physionikhil** :
+
+ >can any one help me with the hardware part for making an eeg controlled electrical muscle stimulation device
+
