@@ -261,3 +261,9 @@ Now it is compatible with the ganglion so i might do it
 
  >can any one help me with the hardware part for making an eeg controlled electrical muscle stimulation device
 
+3/7/2017 9:01 AM
+
+ **alexandre.barachant** :
+
+ >sydneyneurotechx  this is my own design. There a link with the video with instruction to oder components (PCB + pogo pins)
+
