@@ -57,3 +57,9 @@
 
  >note that error related potential are "commonly" use to correct mistakes in P300 speller.
 
+3/7/2017 6:11 PM
+
+ **yannick** :
+
+ >You should coin that term. Write a blog post about it and own it :wink:
+
