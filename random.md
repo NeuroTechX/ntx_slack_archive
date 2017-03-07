@@ -84,3 +84,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >the dataset 013-2015 of BNCI is like that : <http://bnci-horizon-2020.eu/database/data-sets> (for those who want data)
 
+3/7/2017 6:24 PM
+
+ **yrenard** :
+
+ >does the 'best efforts' of the user improve the quality of his generated signal patterns ?
+
