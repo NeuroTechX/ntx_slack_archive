@@ -573,3 +573,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >graeme it's a new / custom made Cognionics device that will be used for the EEG recording.
 
+3/7/2017 1:34 PM
+
+ **alexandre.barachant** :
+
+ >yannick do they plan to add it to their catalog ?
+
