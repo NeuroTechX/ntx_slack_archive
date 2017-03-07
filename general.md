@@ -609,3 +609,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >Haven't found much 'usefullness' about it beyond being notified on peers work - I think scholar would even make a better job at it - What are you looking for ?
 
+3/7/2017 8:00 PM
+
+ **w** :
+
+ >I can't get an account unless I'm affiliated with an institution or company that does research. I'm not. But after the whole process of applying as an individual, they put you on a wait list and say you can get off of it by giving them the account emails of people you know that use it. Ugh.
+
