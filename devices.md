@@ -120,3 +120,9 @@
 
  >Hi physionikhil. Do you have an idea of where you want to place the electrodes and the type of stimulation you would like to do?
 
+3/7/2017 4:30 PM
+
+ **physionikhil** :
+
+ >Yes , for the muscle stimulation I want to place the Electrodes on the extensor compartment of forearm and for the leg region I want to place on the front of the thigh and just below the knee outside the shin bone, usually a interrupted galvanic current is used with a 9V medically approved stimulator
+
