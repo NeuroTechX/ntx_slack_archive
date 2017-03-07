@@ -51,3 +51,9 @@
 
  >:slightly_smiling_face: , that's what i call (personnaly) a frustration-based BCI. you make random guess and probe for error potential. If present you choose the oposite action, if not you continue :slightly_smiling_face:
 
+3/7/2017 6:11 PM
+
+ **alexandre.barachant** :
+
+ >note that error related potential are "commonly" use to correct mistakes in P300 speller.
+
