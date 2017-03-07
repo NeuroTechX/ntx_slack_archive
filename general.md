@@ -585,3 +585,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >Not sure of the state of the "product", if they'll just use it themselves for that kind of projects/collaboration or make it available for purchase.
 
+3/7/2017 7:02 PM
+
+ **alainafinley** :
+
+ >Hi there! My name is Alaina Finley and I am currently an undergrad student pursuing a Computer Science degree at the University of Utah. This past summer I worked as an intern for Push the World in NYC ( aj ) I definitively want to go into the NeuroTech industry as neuroscience is my passion, however with the courses Im taking in CS, Im only exposed to neuroscience via independently reading research papers. (Im going into CS so I can eventually go into neurotech..and Im really feeling disconnected to the field) My school offers a create your own degree program that I know many kids have gone through and have had success, and I was thinking of switching and doing an Applied Neuroscience degree with an emphasis in computing. I was wondering if anyone has any input in making this move? And any advice (especially to courses youd recommend I take)?
+
