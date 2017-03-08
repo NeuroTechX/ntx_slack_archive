@@ -81,3 +81,15 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 
  ><https://github.com/NeuroTechX/eeg-101>
 
+3/8/2017 6:33 PM
+
+ **dano** :
+
+ >Hey Harris! It's true, we've open sourced our EEG tutorial app and are looking for contributors. Right now we're looking for help 
+
+> 
+1. Implementing and testing a Naive Bayes classifier for discriminating between mental states (Java)
+
+> 
+2. Bridging animated SVG Views from native android to JS in React Native
+
