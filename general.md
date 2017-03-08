@@ -705,3 +705,12 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >Hey! If you attend to the CHI conference that will take place in Denver in May ( <https://chi2017.acm.org/> ), we will give courses about... BCIs. It's a 3-parts class, with 1. Introduction to the domain (targeted at HCI researchers); 2. Hands on session with OpenViBE; 3. Pitfalls &amp; ethics. See <https://team.inria.fr/potioc/bci-courses/> . Even if you don't participate to these (awesome) courses, I hope I will see some of you there; last year I was pleasantly surprise to meet NeuroTechX pairs :slightly_smiling_face:
 
+3/8/2017 4:35 PM
+
+ **dojeda** :
+
+ >To whom it may concern : a hack to put latex on Slack: <https://github.com/fsavje/math-with-slack>...
+
+> 
+it's a client side though... so if your slacker mathematician best friend does not have it, he will not see it
+
