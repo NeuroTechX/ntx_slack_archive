@@ -759,3 +759,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >most certainly not
 
+3/8/2017 5:19 PM
+
+ **sydneyneurotechx** :
+
+ >dojeda  Nice work! Would be nice to have an app which we could integrate into Slack
+
