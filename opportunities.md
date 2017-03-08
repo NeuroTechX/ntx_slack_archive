@@ -69,3 +69,9 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 
  >Good one based on your skill could be the <#C0K883P71|interactive-tutorial> . We are also in the process of building NeuroTechEDU which will contain open source education content. Once it's ready you would be able to contribute to it. dano  Maybe you could tell him a bit about the project?
 
+3/8/2017 6:12 PM
+
+ **sydneyneurotechx** :
+
+ >Here's the link to the project
+
