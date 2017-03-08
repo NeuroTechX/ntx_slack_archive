@@ -42,3 +42,9 @@ anyone have any good ideas for where I should look?
 
  >For those that are in San Francisco I will be visiting from March 13-17th. It would be great to connect with other Neuro Tech X people.
 
+3/8/2017 2:59 PM
+
+ **pharo** :
+
+ >Awesome! See you then!
+
