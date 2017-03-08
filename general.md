@@ -819,3 +819,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >test : $ N^{\kern-0.25emEURO}\kern-0.25emT_{\kern-0.15emECH}\kern-0.25emX $
 
+3/8/2017 5:37 PM
+
+ **qbarthelemy** :
+
+ >works for me!
+
