@@ -813,3 +813,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >You're right, if we add the feature to the bot, he will generate a second rendered message, spamy but the advantage is, it would be visible to everyone and is probably update safe.
 
+3/8/2017 5:36 PM
+
+ **qbarthelemy** :
+
+ >test : $ N^{\kern-0.25emEURO}\kern-0.25emT_{\kern-0.15emECH}\kern-0.25emX $
+
