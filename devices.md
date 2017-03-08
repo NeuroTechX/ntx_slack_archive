@@ -153,3 +153,9 @@
 > 
 
 
+3/8/2017 2:56 PM
+
+ **sydneyneurotechx** :
+
+ >And the electrode montage will primarily be in the C location? Also, out of curiosity is there any ethical dilemmas in doing this project? Do you have University approval or is it not required?
+
