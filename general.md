@@ -699,3 +699,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >It great
 
+3/8/2017 4:17 PM
+
+ **jfrey** :
+
+ >Hey! If you attend to the CHI conference that will take place in Denver in May ( <https://chi2017.acm.org/> ), we will give courses about... BCIs. It's a 3-parts class, with 1. Introduction to the domain (targeted at HCI researchers); 2. Hands on session with OpenViBE; 3. Pitfalls &amp; ethics. See <https://team.inria.fr/potioc/bci-courses/> . Even if you don't participate to these (awesome) courses, I hope I will see some of you there; last year I was pleasantly surprise to meet NeuroTechX pairs :slightly_smiling_face:
+
