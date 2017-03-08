@@ -741,3 +741,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >¯\_(Ä)_/¯
 
+3/8/2017 4:52 PM
+
+ **alexandre.barachant** :
+
+ >you have to restart completely slack
+
