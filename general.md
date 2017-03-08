@@ -693,3 +693,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  >hey alainafinley! in terms of putting together courses for a degree, you should check out the degree requirements for a neuroscience major at some undergraduate colleges, and see what classes they generally suggest (for example, i think Brown has a good program: <https://www.brown.edu/academics/neuroscience/undergraduate/neuroscience-concentration-requirements>). Usually starts off with some introductory bio, chem, physics, psych, and then assorted advanced neuroscience courses, but it's dependent on the style of the degree and what you want to focus on.
 
+3/8/2017 7:27 AM
+
+ **physionikhil** :
+
+ >It great
+
