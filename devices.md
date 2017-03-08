@@ -138,3 +138,9 @@
 
  >physionikhil: For the EEG component, how many electrodes will you be using?
 
+3/8/2017 12:42 AM
+
+ **physionikhil** :
+
+ >For EEG 8 Electrode system
+
