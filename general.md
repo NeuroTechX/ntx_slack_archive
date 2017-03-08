@@ -771,3 +771,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >$$ N^{EURO} T_{ECH} X $$
 
+3/8/2017 5:21 PM
+
+ **sydneyneurotechx** :
+
+ >I know there are research labs out there that use slack as their communication method, so I can definitely see a market for it
+
