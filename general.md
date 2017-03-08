@@ -789,3 +789,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >BTW this is not a hack of my own, I just found it yesterday on github...
 
+3/8/2017 5:27 PM
+
+ **sydneyneurotechx** :
+
+ >dojeda: Ah ok. Good find nonetheless ^_^
+
