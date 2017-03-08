@@ -801,3 +801,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >The client can receive images like the ones you uploaded above.
 
+3/8/2017 5:33 PM
+
+ **dojeda** :
+
+ >But the mathjax hack here is that mathjax replaces "dollar latex dollar" with a &lt;span&gt; with the rendered output
+
