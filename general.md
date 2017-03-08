@@ -681,3 +681,9 @@ Were aware, and as we understand the product is discontinued, and not currently
 
  ><https://qz.com/866352/scientists-say-your-mind-isnt-confined-to-your-brain-or-even-your-body/>
 
+3/8/2017 1:50 AM
+
+ **z3** :
+
+ >sry if this fall more in <#C073WQK34|random>
+
