@@ -825,3 +825,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >works for me!
 
+3/8/2017 5:48 PM
+
+ **sydneyneurotechx** :
+
+ >amine.abdessemed  is it possible for the second rendered message to be added to thread of the original message instead of being a standalone one?
+
