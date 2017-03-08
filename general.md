@@ -765,3 +765,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >dojeda  Nice work! Would be nice to have an app which we could integrate into Slack
 
+3/8/2017 5:20 PM
+
+ **qbarthelemy** :
+
+ >$$ N^{EURO} T_{ECH} X $$
+
