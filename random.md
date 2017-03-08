@@ -96,3 +96,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >I guess the lack of rewarding feedback plays against any progress of the user what so ever
 
+3/8/2017 5:58 AM
+
+ **gabe.ibagon** :
+
+ >using error potentials for external control is a really cool BCI paradigm. like alexandre mentioned, one paradigm is that the BCI guesses randomly, and then the error potential acts as a "critic" of the BCI's.  things get really interesting when the BCI uses a learning paradigm, like reinforcement learning / q-learning, to start to figure out which state-action pairs cause error, and eventually converges to adopt the state-action sequence that minimizes these evoked error potentials.
+
