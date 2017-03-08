@@ -807,3 +807,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >But the mathjax hack here is that mathjax replaces "dollar latex dollar" with a &lt;span&gt; with the rendered output
 
+3/8/2017 5:36 PM
+
+ **amine.abdessemed** :
+
+ >You're right, if we add the feature to the bot, he will generate a second rendered message, spamy but the advantage is, it would be visible to everyone and is probably update safe.
+
