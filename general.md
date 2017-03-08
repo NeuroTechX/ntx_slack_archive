@@ -723,3 +723,9 @@ it's a client side though... so if your slacker mathematician best friend does n
 > 
 $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
+3/8/2017 4:39 PM
+
+ **alexandre.barachant** :
+
+ >awesome, i can type math now !
+
