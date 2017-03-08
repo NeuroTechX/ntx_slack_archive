@@ -75,3 +75,9 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 
  >Here's the link to the project
 
+3/8/2017 6:12 PM
+
+ **sydneyneurotechx** :
+
+ ><https://github.com/NeuroTechX/eeg-101>
+
