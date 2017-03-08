@@ -93,3 +93,9 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 > 
 2. Bridging animated SVG Views from native android to JS in React Native
 
+3/8/2017 6:34 PM
+
+ **dano** :
+
+ >come on over to <#C0K883P71|interactive-tutorial> for more details
+
