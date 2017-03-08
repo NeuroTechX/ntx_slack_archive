@@ -114,3 +114,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  ><https://techcrunch.com/2017/03/07/google-is-acquiring-data-science-community-kaggle/>
 
+3/8/2017 4:42 PM
+
+ **alexandre.barachant** :
+
+ >I hope they will not kill it ...
+
