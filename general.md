@@ -714,3 +714,12 @@ Were aware, and as we understand the product is discontinued, and not currently
 > 
 it's a client side though... so if your slacker mathematician best friend does not have it, he will not see it
 
+3/8/2017 4:36 PM
+
+ **dojeda** :
+
+ >You see
+
+> 
+$$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
+
