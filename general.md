@@ -753,3 +753,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >does it survive to auto-updates ?
 
+3/8/2017 5:15 PM
+
+ **dojeda** :
+
+ >most certainly not
+
