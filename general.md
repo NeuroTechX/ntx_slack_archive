@@ -837,3 +837,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >yeah
 
+3/8/2017 6:18 PM
+
+ **dojeda** :
+
+ >but that would create a thread (or a new message)... wouldn't it be better to replace the message? I think it's possible but I'm not very familiar with the bot API
+
