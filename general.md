@@ -783,3 +783,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >Well, if you want a bot that does that, it would have to watch for some expressions, and then inject a JS script that does the magic... I don't know if it's possible for the clients to receive anything other than text
 
+3/8/2017 5:26 PM
+
+ **dojeda** :
+
+ >BTW this is not a hack of my own, I just found it yesterday on github...
+
