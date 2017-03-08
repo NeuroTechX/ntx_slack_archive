@@ -777,3 +777,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >I know there are research labs out there that use slack as their communication method, so I can definitely see a market for it
 
+3/8/2017 5:25 PM
+
+ **dojeda** :
+
+ >Well, if you want a bot that does that, it would have to watch for some expressions, and then inject a JS script that does the magic... I don't know if it's possible for the clients to receive anything other than text
+
