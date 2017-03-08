@@ -843,3 +843,12 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >but that would create a thread (or a new message)... wouldn't it be better to replace the message? I think it's possible but I'm not very familiar with the bot API
 
+3/8/2017 6:19 PM
+
+ **dano** :
+
+ >Hey alainafinley, I might also suggest looking in to the cognitive science minor at your school. The coursework will overlap with your program in CS and, in my experience, professors in cognitive science are usually the most likely to expose students to bleeding-edge neurotech/AI stuff
+
+> 
+<http://philosophy.utah.edu/undergraduate/cognitive-science.php>
+
