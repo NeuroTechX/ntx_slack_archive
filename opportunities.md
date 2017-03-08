@@ -57,3 +57,9 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 
  >harris: Hey harris  Have you considered contributing to some of the open sources projects that exists within NeuroTechX? might be a good way to get started. DM if you need to direction on where to start
 
+3/8/2017 5:50 PM
+
+ **harris** :
+
+ >Could you give a link where I can look more into it? I've wanted to get involved but never realized there were open source projects within NeuroTechX itself.
+
