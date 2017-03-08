@@ -729,3 +729,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >awesome, i can type math now !
 
+3/8/2017 4:45 PM
+
+ **dojeda** :
+
+ >I am not sure why it does not work out-of-the-box... I tried yesterday and did not work, now I tried again and it works
+
