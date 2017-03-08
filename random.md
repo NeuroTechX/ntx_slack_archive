@@ -108,3 +108,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >nice paper about it: <http://www.nature.com/articles/srep13893>
 
+3/8/2017 4:01 PM
+
+ **sydneyneurotechx** :
+
+ ><https://techcrunch.com/2017/03/07/google-is-acquiring-data-science-community-kaggle/>
+
