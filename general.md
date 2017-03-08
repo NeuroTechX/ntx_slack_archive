@@ -852,3 +852,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 > 
 <http://philosophy.utah.edu/undergraduate/cognitive-science.php>
 
+3/8/2017 6:27 PM
+
+ **dano** :
+
+ >I'm on there -&gt; Dano Morrison
+
