@@ -747,3 +747,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >you have to restart completely slack
 
+3/8/2017 5:12 PM
+
+ **yrenard** :
+
+ >does it survive to auto-updates ?
+
