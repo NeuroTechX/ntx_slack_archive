@@ -99,3 +99,9 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 
  >come on over to <#C0K883P71|interactive-tutorial> for more details
 
+3/9/2017 2:04 AM
+
+ **harris** :
+
+ >Thanks, I'll be checking it out
+
