@@ -42,3 +42,9 @@
 
  >Where are you located ?
 
+3/9/2017 11:16 AM
+
+ **firassafieddine** :
+
+ >I live in Barcelona
+
