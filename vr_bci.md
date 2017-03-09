@@ -12,3 +12,9 @@
 
  >do you have a project that you have created which is open source and think would work well being paired with EEG? I was working on something for a conference but didn't have time to finish it
 
+3/9/2017 3:11 AM
+
+ **sydneyneurotechx** :
+
+ >Would love to know if you have anything in mind that would be a good fit for BCI integration.
+
