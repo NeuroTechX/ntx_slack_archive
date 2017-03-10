@@ -405,3 +405,9 @@ I generally use K-Fold when i don't shuffle, but this one will make sure you don
 
  >yes ive been struggling with the kfolds. im able to keep my train and test separate just fine for final analysis, but within the gridsearch step in training, where one might further split into train/validation, i end up using CV, and am worried that train data is overfitting by being mixed with validation folds because they are close in time proximity.
 
+3/10/2017 11:23 AM
+
+ **octonomy** :
+
+ >hm no, actually im cropping epochs, so its not like sampling randomly from a continuous time series. sorry, just thinking out loud.
+
