@@ -342,3 +342,9 @@ TRAIN: [0 1 2] TEST: [3]
 > 
 ```
 
+3/10/2017 11:12 AM
+
+ **octonomy** :
+
+ >so your train sets are gradually increasing. its like each test fold is trained with X cumulative up to the y.
+
