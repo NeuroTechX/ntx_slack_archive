@@ -120,3 +120,12 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >I hope they will not kill it ...
 
+3/10/2017 8:50 PM
+
+ **dano** :
+
+ >Cool new findings from Christof Koch on consciousness: large neurons from the claustrum (thin layer of tissue surrounding the thalamus and insula) that wrap around the entire cortex might be critical for consciousness. Publication coming shortly
+
+> 
+<https://singularityhub.com/2017/03/09/are-these-giant-neurons-the-seat-of-consciousness-in-the-brain/>
+
