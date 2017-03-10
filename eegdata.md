@@ -267,3 +267,18 @@ Now it is compatible with the ganglion so i might do it
 
  >sydneyneurotechx  this is my own design. There a link with the video with instruction to oder components (PCB + pogo pins)
 
+3/10/2017 11:10 AM
+
+ **octonomy** :
+
+ >hi everybody, long time no see. hope youre all doing well in your work as spring arrives.
+
+> 
+I have a sklearn question to ask. Has anyone tried to use the sklearn TimeSeriesSplit instead of the more common StratifiedKFold() or test_train_split() cross-eval methods?
+
+> 
+
+
+> 
+<http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html>
+
