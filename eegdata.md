@@ -357,3 +357,9 @@ TRAIN: [0 1 2] TEST: [3]
 > 
 I generally use K-Fold when i don't shuffle, but this one will make sure you don't train with data that will be recorded after your test set.
 
+3/10/2017 11:15 AM
+
+ **alexandre.barachant** :
+
+ >this is a cool validator for benchmarking the number of trial to use in a realistic setup
+
