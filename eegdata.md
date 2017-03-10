@@ -387,3 +387,9 @@ I generally use K-Fold when i don't shuffle, but this one will make sure you don
 
  >yeah i saw that. with this model_selection package
 
+3/10/2017 11:16 AM
+
+ **octonomy** :
+
+ >its good
+
