@@ -411,3 +411,30 @@ I generally use K-Fold when i don't shuffle, but this one will make sure you don
 
  >hm no, actually im cropping epochs, so its not like sampling randomly from a continuous time series. sorry, just thinking out loud.
 
+3/10/2017 11:54 AM
+
+ **octonomy** :
+
+ >one problem with the TimeSeriesSplit I guess is that it is mixing times series information from different classes?  for example: in the example above, if X[0] and X[2] were class 1, and X[1] and X[3] were class 2, then:
+
+> 
+```
+
+> 
+[0] -&gt; class 1
+
+> 
+[0, 1] -&gt; class 2
+
+> 
+[0,1,2] -&gt; class 1
+
+> 
+[0,1,2,3] -&gt; class 2
+
+> 
+```
+
+> 
+this seems not good. must be some other use case where this split is useful, but maybe not already epoched EEG.  seems like this would be useful where cumulative past time series leads to current class label.
+
