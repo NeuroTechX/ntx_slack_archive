@@ -96,3 +96,9 @@
 
  >I am based in Hamilton, so maybe we could Skype this week? Let me know what days are best for you :smile:
 
+3/10/2017 8:36 PM
+
+ **bryan_j** :
+
+ >Unfortunately I am crazy busy this week; evident by the fact it has already flown by! How does next Monday look in your calendar?! 
+
