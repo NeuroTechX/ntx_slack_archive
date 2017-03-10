@@ -393,3 +393,9 @@ I generally use K-Fold when i don't shuffle, but this one will make sure you don
 
  >its good
 
+3/10/2017 11:17 AM
+
+ **alexandre.barachant** :
+
+ >they have also GroupKFold or LeaveOneGroupOut that is very usefull for cross-subject, session
+
