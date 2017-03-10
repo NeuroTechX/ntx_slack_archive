@@ -282,3 +282,63 @@ I have a sklearn question to ask. Has anyone tried to use the sklearn TimeSeries
 > 
 <http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html>
 
+3/10/2017 11:12 AM
+
+ **octonomy** :
+
+ >Im trying to understand, from high level, if this is going to be problematic for EEG epochs data? It is a weird concept: 
+
+> 
+"Note that unlike standard cross-validation methods, successive training sets are supersets of those that come before them.
+
+> 
+
+
+> 
+Here is example of what happens with this split:
+
+> 
+```
+
+> 
+&gt;&gt;&gt; from sklearn.model_selection import TimeSeriesSplit
+
+> 
+&gt;&gt;&gt; X = np.array([[1, 2], [3, 4], [1, 2], [3, 4]])
+
+> 
+&gt;&gt;&gt; y = np.array([1, 2, 3, 4])
+
+> 
+&gt;&gt;&gt; tscv = TimeSeriesSplit(n_splits=3)
+
+> 
+&gt;&gt;&gt; print(tscv)  
+
+> 
+TimeSeriesSplit(n_splits=3)
+
+> 
+&gt;&gt;&gt; for train_index, test_index in tscv.split(X):
+
+> 
+...    print("TRAIN:", train_index, "TEST:", test_index)
+
+> 
+...    X_train, X_test = X[train_index], X[test_index]
+
+> 
+...    y_train, y_test = y[train_index], y[test_index]
+
+> 
+TRAIN: [0] TEST: [1]
+
+> 
+TRAIN: [0 1] TEST: [2]
+
+> 
+TRAIN: [0 1 2] TEST: [3]
+
+> 
+```
+
