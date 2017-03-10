@@ -381,3 +381,9 @@ I generally use K-Fold when i don't shuffle, but this one will make sure you don
 
  >they rewrote the cross validation API
 
+3/10/2017 11:16 AM
+
+ **octonomy** :
+
+ >yeah i saw that. with this model_selection package
+
