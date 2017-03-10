@@ -348,3 +348,12 @@ TRAIN: [0 1 2] TEST: [3]
 
  >so your train sets are gradually increasing. its like each test fold is trained with X cumulative up to the y.
 
+3/10/2017 11:14 AM
+
+ **alexandre.barachant** :
+
+ >This is an interesting split that keep time structure. 
+
+> 
+I generally use K-Fold when i don't shuffle, but this one will make sure you don't train with data that will be recorded after your test set.
+
