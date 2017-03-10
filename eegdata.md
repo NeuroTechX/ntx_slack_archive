@@ -375,3 +375,9 @@ I generally use K-Fold when i don't shuffle, but this one will make sure you don
 
  >yes, it's new
 
+3/10/2017 11:16 AM
+
+ **alexandre.barachant** :
+
+ >they rewrote the cross validation API
+
