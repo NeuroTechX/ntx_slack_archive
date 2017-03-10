@@ -363,3 +363,9 @@ I generally use K-Fold when i don't shuffle, but this one will make sure you don
 
  >this is a cool validator for benchmarking the number of trial to use in a realistic setup
 
+3/10/2017 11:16 AM
+
+ **octonomy** :
+
+ >yes i never notice it before, but not sure its new to 0.18
+
