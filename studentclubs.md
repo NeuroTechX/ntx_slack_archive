@@ -21,3 +21,9 @@ The Student Clubs committee is looking for someone to help us develop a website 
 
  >Hi! Does anyone here know which companies are more likely to send student clubs sample products to demo and expose studnets to what is out there
 
+3/11/2017 1:13 PM
+
+ **sabrina.k.tang** :
+
+ >?
+
