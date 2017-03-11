@@ -864,3 +864,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >Apparently it's not possible via the API according to Amine.
 
+3/11/2017 4:36 AM
+
+ **micslab** :
+
+ >Hey folks has anyone done any product viability tests for a wearable that helps rock climbers stay in a state of flow/ mindfulness with slight beta expression?
+
