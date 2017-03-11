@@ -18,3 +18,9 @@
 
  >Would love to know if you have anything in mind that would be a good fit for BCI integration.
 
+3/11/2017 1:06 PM
+
+ **dan** :
+
+ >I don't have anything that's open source at this time. sydneyneurotechx
+
