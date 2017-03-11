@@ -27,3 +27,9 @@ The Student Clubs committee is looking for someone to help us develop a website 
 
  >?
 
+3/11/2017 6:38 PM
+
+ **sydneyneurotechx** :
+
+ >Muse, Neurosky and OpenBCI have always been very nice about doing that. If you are looking for TDCS <http://Foc.us|Foc.us> have been helpful.
+
