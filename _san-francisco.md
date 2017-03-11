@@ -48,3 +48,9 @@ anyone have any good ideas for where I should look?
 
  >Awesome! See you then!
 
+3/11/2017 6:44 PM
+
+ **bhargava2566302** :
+
+ >by monday i will be at SFO ready for Neurotechx expo lets plan a meetup or hacknight on monday or tuesday guys
+
