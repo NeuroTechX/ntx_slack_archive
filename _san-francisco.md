@@ -66,3 +66,9 @@ anyone have any good ideas for where I should look?
 
  ><!channel> who else is in SF this week?
 
+3/12/2017 11:09 PM
+
+ **yrenard** :
+
+ >frentrepreneur jonas.chatel-goldman
+
