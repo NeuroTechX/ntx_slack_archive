@@ -60,3 +60,9 @@ anyone have any good ideas for where I should look?
 
  >bhargava2566302, our hacknight is on Thursdays. Will you still be around?
 
+3/12/2017 11:08 PM
+
+ **w** :
+
+ ><!channel> who else is in SF this week?
+
