@@ -54,3 +54,9 @@
 
  >sydneyneurotechx: thnx Sydney
 
+3/12/2017 10:45 PM
+
+ **pawel** :
+
+ >Hi, My name is Pawel (Paul). Im a neuropsychologist and the CEO of Polish company specialized in engineering of equipment for neuroscientists, supporting the labs and equipping them. We have a lot of successful science projects around neuroscience and few commercialized products. My work and passion is neuroscience, a dream - to be a part of the team who will build neuroprosthesis. I believe I will reach this goal soon. As a member of NeuroTechX I will try to organize next chapter in Europe - here, in Poland :wink:.
+
