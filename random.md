@@ -129,3 +129,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 > 
 <https://singularityhub.com/2017/03/09/are-these-giant-neurons-the-seat-of-consciousness-in-the-brain/>
 
+3/12/2017 11:56 PM
+
+ **bryan_j** :
+
+ >Thanks for sharing, dano. The imagery is beautiful isn't it?
+
