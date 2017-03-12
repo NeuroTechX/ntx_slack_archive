@@ -72,3 +72,9 @@
 
  >Thank you Yann!
 
+3/12/2017 11:58 PM
+
+ **bryan_j** :
+
+ >Great to be connected, pawel! Welcome to the community!
+
