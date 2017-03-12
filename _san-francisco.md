@@ -54,3 +54,9 @@ anyone have any good ideas for where I should look?
 
  >by monday i will be at SFO ready for Neurotechx expo lets plan a meetup or hacknight on monday or tuesday guys
 
+3/12/2017 11:07 PM
+
+ **w** :
+
+ >bhargava2566302, our hacknight is on Thursdays. Will you still be around?
+
