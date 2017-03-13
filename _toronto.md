@@ -114,3 +114,9 @@
 
  >To view archived text from Slack please visit:<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_toronto.md>
 
+3/13/2017 11:32 PM
+
+ **bryan_j** :
+
+ >Was a pleasure speaking with you hectordomorozco! Have a great evening!
+
