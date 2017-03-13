@@ -150,3 +150,12 @@ sometimes, error potential are easier to detect than the actual command, so you 
 > 
 <http://www.mindgamersmovie.com/#/join>
 
+3/13/2017 11:24 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/random.md>
+
