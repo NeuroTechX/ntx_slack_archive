@@ -870,3 +870,9 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >Hey folks has anyone done any product viability tests for a wearable that helps rock climbers stay in a state of flow/ mindfulness with slight beta expression?
 
+3/13/2017 11:13 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/general.md>
+
