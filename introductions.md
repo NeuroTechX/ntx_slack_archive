@@ -114,3 +114,9 @@
 
  >Hi All, my name is Kay Igwe and I am doing research in Computational Neuroscience. I am really excited about joining this group and am looking forward to learning more and contributing where I can. 
 
+3/13/2017 9:24 PM
+
+ **sydneyneurotechx** :
+
+ >Nice to meet you igweckay ! Where you from?
+
