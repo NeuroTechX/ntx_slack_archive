@@ -45,3 +45,12 @@ The Student Clubs committee is looking for someone to help us develop a website 
 
  >Hi pawel , when r those cranial stimulation devices be available?
 
+3/13/2017 11:25 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/studentclubs.md>
+
