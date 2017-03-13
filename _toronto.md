@@ -108,3 +108,9 @@
 
  >For those new to the channel, check us out at <http://www.meetup.com/NeuroTechTO|www.meetup.com/NeuroTechTO> and on Twitter @NeuroTechTO 
 
+3/13/2017 11:17 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_toronto.md>
+
