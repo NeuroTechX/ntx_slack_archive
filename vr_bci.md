@@ -30,3 +30,12 @@
 
  >I´m thinking to do one too, inspired by this project: <http://cradle.jayvidyarthi.com/>
 
+3/13/2017 11:25 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/vr_bci.md>
+
