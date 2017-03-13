@@ -96,3 +96,9 @@ anyone have any good ideas for where I should look?
 
  >Hey any updates on today or tomorrow meetup
 
+3/13/2017 5:53 PM
+
+ **w** :
+
+ >bhargava2566302: I'm not able to meet tonight and tomorrow I'll be at the Tech Stands Up protest. Pick a place and time and let people know. Happy to push the note out to the Facebook group too
+
