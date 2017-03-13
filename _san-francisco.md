@@ -84,3 +84,9 @@ anyone have any good ideas for where I should look?
 
  >so can we have on tuesday or monday night
 
+3/13/2017 5:25 AM
+
+ **bhargava2566302** :
+
+ ><!channel>  can you just let me know if we have any meet on tomorrow night or day after tomorrow so we can have small intro where we all can meet and talk who all are attending this time conference
+
