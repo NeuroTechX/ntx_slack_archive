@@ -12,3 +12,12 @@
 
  >No problem, thanks for the quick response <@U0BLLQTBM>
 
+3/13/2017 11:16 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_oslo.md>
+
