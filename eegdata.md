@@ -438,3 +438,12 @@ I generally use K-Fold when i don't shuffle, but this one will make sure you don
 > 
 this seems not good. must be some other use case where this split is useful, but maybe not already epoched EEG.  seems like this would be useful where cumulative past time series leads to current class label.
 
+3/13/2017 11:18 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/eegdata.md>
+
