@@ -150,3 +150,9 @@
 
  >It was really fun!
 
+3/13/2017 11:12 PM
+
+ **sydneyneurotechx** :
+
+ >In order to view archived text from Slack please visit: <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/introductions.md>
+
