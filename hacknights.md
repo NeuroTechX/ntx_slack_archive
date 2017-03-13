@@ -33,3 +33,12 @@ can i get some of that? :slightly_smiling_face:
 
  >that will be like eeg for a subject with chronic pain(fibromyalgia)
 
+3/13/2017 11:19 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/hacknights.md>
+
