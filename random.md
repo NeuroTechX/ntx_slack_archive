@@ -141,3 +141,12 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >Nice experiment in New York &amp; Los Angeles. 1000 Brains Connected (EEG recorded -&gt; Cloud) while watching a movie (MindGamers is the movie).
 
+3/13/2017 6:31 PM
+
+ **yannick** :
+
+ >If you are in either NYC or LAX, you should join! 
+
+> 
+<http://www.mindgamersmovie.com/#/join>
+
