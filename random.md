@@ -135,3 +135,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >Thanks for sharing, dano. The imagery is beautiful isn't it?
 
+3/13/2017 6:30 PM
+
+ **yannick** :
+
+ >Nice experiment in New York &amp; Los Angeles. 1000 Brains Connected (EEG recorded -&gt; Cloud) while watching a movie (MindGamers is the movie).
+
