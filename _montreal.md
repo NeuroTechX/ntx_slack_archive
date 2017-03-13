@@ -105,3 +105,12 @@ Emotiv Insight 1.6m$
 
  >We'll try and achieve this in 11 days less than Emotiv, and 25 less than Kokoon :wink: haha
 
+3/13/2017 11:15 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_montreal.md>
+
