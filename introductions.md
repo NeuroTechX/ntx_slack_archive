@@ -96,3 +96,9 @@
 
  >Welcome marceloneil ! Feel free to reach out to <#C0VTC19DW|_toronto>  to get connected with the local chapter
 
+3/13/2017 3:37 PM
+
+ **sydneyneurotechx** :
+
+ >If you are looking for more resources in the field check out our Awesome bci list
+
