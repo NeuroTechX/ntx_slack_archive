@@ -84,3 +84,9 @@
 
  >pawel  Welcome! feel free to message me or Yannick if you want to learn more about creating a chapter
 
+3/13/2017 1:58 PM
+
+ **marceloneil** :
+
+ >Hey all, my name is Marcel and I'm a high school student from Toronto. I'm an avid hacker/programmer, and I just started learning about neurotechnology at Toronto's DementiaHack 2017. I'm hoping to learn a lot more!
+
