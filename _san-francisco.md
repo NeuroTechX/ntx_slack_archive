@@ -108,3 +108,12 @@ anyone have any good ideas for where I should look?
 
  >Ya as i do know much let you decide
 
+3/13/2017 11:16 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_san-francisco.md>
+
