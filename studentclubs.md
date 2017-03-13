@@ -39,3 +39,9 @@ The Student Clubs committee is looking for someone to help us develop a website 
 
  >Hi Sabrina, My company - Neuro Device is very open to support a students. We provide stimulators for fMRI (tactile and olfactometer), but very soon we will announce two new products - transcranial electro stimulator (with much more modulations as are offered currently) and GSR/Pulse wearable bracelet. If you are interested in, please send me direct message. We have also our lab, where you can use EEGs, eyetrackers, face-recording, psychophysiology apparatus. Unfortunately lab is located in Warsaw, Poland...
 
+3/13/2017 8:15 AM
+
+ **physionikhil** :
+
+ >Hi pawel , when r those cranial stimulation devices be available?
+
