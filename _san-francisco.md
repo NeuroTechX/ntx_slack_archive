@@ -90,3 +90,9 @@ anyone have any good ideas for where I should look?
 
  ><!channel>  can you just let me know if we have any meet on tomorrow night or day after tomorrow so we can have small intro where we all can meet and talk who all are attending this time conference
 
+3/13/2017 4:54 PM
+
+ **bhargava2566302** :
+
+ >Hey any updates on today or tomorrow meetup
+
