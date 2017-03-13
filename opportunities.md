@@ -105,3 +105,12 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 
  >Thanks, I'll be checking it out
 
+3/13/2017 11:23 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/opportunities.md>
+
