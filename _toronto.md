@@ -102,3 +102,9 @@
 
  >Unfortunately I am crazy busy this week; evident by the fact it has already flown by! How does next Monday look in your calendar?! 
 
+3/13/2017 5:57 PM
+
+ **bryan_j** :
+
+ >For those new to the channel, check us out at <http://www.meetup.com/NeuroTechTO|www.meetup.com/NeuroTechTO> and on Twitter @NeuroTechTO 
+
