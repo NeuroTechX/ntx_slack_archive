@@ -138,3 +138,9 @@
 
  >Hey igweckay! Welcome on board. Congrats for your talk at Hackaday Superconference on SSVEP Brain Gaming :slightly_smiling_face:
 
+3/13/2017 9:34 PM
+
+ **igweckay** :
+
+ >yannick thank you!! And cool! :grin:
+
