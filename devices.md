@@ -165,3 +165,12 @@
 
  >Yes that can work as well but fronto parietal locations will be better suited for it in my opinion. I am a private clinician and we already have patients with stroke and movement dysfunction. We will be taking written consents from our therapy clients and even now we have their verbal consent. I don't think there should be any ethical dilemma in this kind of study. If we could develop a working prototype of it I will be able to get a University approval where I am teaching
 
+3/13/2017 11:17 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/devices.md>
+
