@@ -90,3 +90,12 @@ The campaign goes live tomorrow at 8am EST. Be the first to grab one of the earl
 
  >endoxaneuro uploaded a file: #BAW #brainweek #mentalhealth @danafoundation @fens.org Neuchâtel Switzerland  :flag-ch: 
 
+3/13/2017 11:14 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_announcements_.md>
+
