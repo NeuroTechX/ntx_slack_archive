@@ -78,3 +78,9 @@
 
  >Great to be connected, pawel! Welcome to the community!
 
+3/13/2017 2:54 AM
+
+ **sydneyneurotechx** :
+
+ >pawel  Welcome! feel free to message me or Yannick if you want to learn more about creating a chapter
+
