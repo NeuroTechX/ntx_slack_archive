@@ -90,3 +90,9 @@
 
  >Hey all, my name is Marcel and I'm a high school student from Toronto. I'm an avid hacker/programmer, and I just started learning about neurotechnology at Toronto's DementiaHack 2017. I'm hoping to learn a lot more!
 
+3/13/2017 3:36 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome marceloneil ! Feel free to reach out to <#C0VTC19DW|_toronto>  to get connected with the local chapter
+
