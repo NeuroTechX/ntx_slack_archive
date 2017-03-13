@@ -18,3 +18,12 @@
 
  >zzzzzzzzzzz:zzz:
 
+3/13/2017 11:20 PM
+
+ **sydneyneurotechx** :
+
+ >To view archived text from Slack please visit:
+
+> 
+<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/machinelearning_ai.md>
+
