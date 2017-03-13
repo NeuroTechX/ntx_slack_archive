@@ -108,3 +108,9 @@
 
  ><https://www.c2montreal.com/post/new-the-ai-forum-at-c2-montreal-2017/>
 
+3/13/2017 9:22 PM
+
+ **igweckay** :
+
+ >Hi All, my name is Kay Igwe and I am doing research in Computational Neuroscience. I am really excited about joining this group and am looking forward to learning more and contributing where I can. 
+
