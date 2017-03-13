@@ -102,3 +102,9 @@
 
  >If you are looking for more resources in the field check out our Awesome bci list
 
+3/13/2017 3:37 PM
+
+ **sydneyneurotechx** :
+
+ ><https://www.c2montreal.com/post/new-the-ai-forum-at-c2-montreal-2017/>
+
