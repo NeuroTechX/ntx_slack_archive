@@ -933,3 +933,9 @@ I'm really interested to get one of then.
 
  >If you're looking for the matlab code to replicate that experiment, you can find it at <http://www.neuroeconlab.com/muse.html>
 
+3/14/2017 4:29 PM
+
+ **graeme** :
+
+ >We'll be demonstrating this and NeuroTechTO's EEG 101 at the Rotman Research Conference next week, so if you're in attendance, please stop by and check it out
+
