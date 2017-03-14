@@ -123,3 +123,9 @@ anyone have any good ideas for where I should look?
 
  >Hey you guys doing the usual Thursday thing? Friend of mine is down from Dartmouth and we have a Ganglion board that just shipped  and thought we'd try to get running
 
+3/14/2017 7:24 AM
+
+ **bhargava2566302** :
+
+ >Oh thats great guys but is there any chance to make it tomorrow and who all of u coming tmrw
+
