@@ -876,3 +876,15 @@ $$ \sum_{k=1}^{N} k = \frac{N (N+1)}{2} $$
 
  >To view archived text from Slack please visit:<https://github.com/NeuroTechX/ntx_slack_archive/blob/master/general.md>
 
+3/14/2017 10:22 AM
+
+ **fsuarezj** :
+
+ >Hi everybody,
+
+> 
+I'm a computer engineer interested in neurotechnology, so I'm learning about it and planning to buy a device within the next months. But before choosing what device to buy I would like to learn about what I want to do, to make the best choice. I would like to research about pain detection and/or mood state detection. Do you know any resources or other papers about it?
+
+> 
+Thanks a lot!!
+
