@@ -162,3 +162,9 @@
 
  >Hello all! &lt;--- Michael McCarthy, war veteran, former activist, freelance animator for Mozilla and others - happy to talk to anyone regarding all things NeuroTechX. Especially curious about therapeutic uses for invdividualized deep-learning for BCI via EEG.
 
+3/14/2017 6:34 PM
+
+ **physionikhil** :
+
+ >Hi Michael
+
