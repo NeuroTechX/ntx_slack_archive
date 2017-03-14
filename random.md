@@ -165,3 +165,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >Here is an interesting article: <http://spectrum.ieee.org/the-human-os/biomedical/bionics/one-small-step-for-a-paraplegic-one-big-step-toward-reversing-paralysis>
 
+3/14/2017 8:35 PM
+
+ **igweckay** :
+
+ >It's about a neuroprosthetic implanted in the spinal cord to reverse paralysis 
+
