@@ -927,3 +927,9 @@ I'm really interested to get one of then.
 
  ><http://journal.frontiersin.org/article/10.3389/fnins.2017.00109/full>
 
+3/14/2017 4:28 PM
+
+ **graeme** :
+
+ >If you're looking for the matlab code to replicate that experiment, you can find it at <http://www.neuroeconlab.com/muse.html>
+
