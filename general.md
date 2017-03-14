@@ -915,3 +915,9 @@ I'm really interested to get one of then.
 
  >Sorry for my bad English... I was not writing and talking English for years.
 
+3/14/2017 4:27 PM
+
+ **graeme** :
+
+ >The full Muse ERP &amp; P300 paper has been published.
+
