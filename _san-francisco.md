@@ -117,3 +117,9 @@ anyone have any good ideas for where I should look?
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_san-francisco.md>
 
+3/14/2017 3:45 AM
+
+ **xcorr** :
+
+ >Hey you guys doing the usual Thursday thing? Friend of mine is down from Dartmouth and we have a Ganglion board that just shipped  and thought we'd try to get running
+
