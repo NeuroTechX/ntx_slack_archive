@@ -939,3 +939,9 @@ I'm really interested to get one of then.
 
  >We'll be demonstrating this and NeuroTechTO's EEG 101 at the Rotman Research Conference next week, so if you're in attendance, please stop by and check it out
 
+3/14/2017 4:29 PM
+
+ **graeme** :
+
+ ><http://research.baycrest.org/conf2017-program>
+
