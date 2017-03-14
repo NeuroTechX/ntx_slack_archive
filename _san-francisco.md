@@ -129,3 +129,9 @@ anyone have any good ideas for where I should look?
 
  >Oh thats great guys but is there any chance to make it tomorrow and who all of u coming tmrw
 
+3/14/2017 8:36 AM
+
+ **judd** :
+
+ >I'll be at the conference tomorrow - is there any particular Neuro Tech X part or meetup?
+
