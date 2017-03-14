@@ -156,3 +156,9 @@
 
  >In order to view archived text from Slack please visit: <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/introductions.md>
 
+3/14/2017 6:24 PM
+
+ **sandinmytea** :
+
+ >Hello all! &lt;--- Michael McCarthy, war veteran, former activist, freelance animator for Mozilla and others - happy to talk to anyone regarding all things NeuroTechX. Especially curious about therapeutic uses for invdividualized deep-learning for BCI via EEG.
+
