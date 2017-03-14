@@ -897,3 +897,9 @@ Thanks a lot!!
 > 
 I'm really interested to get one of then.
 
+3/14/2017 3:03 PM
+
+ **yannick** :
+
+ >"chips that get implemented to the arm and then you can robotarm and so on"? Not sure I understand what you mean. Are you talking about an invasive technology (implanted / under the skin)? Or non-invasive technology like EMG reading muscle activity allowing you to send commands to control 'something'.
+
