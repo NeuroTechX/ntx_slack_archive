@@ -174,3 +174,15 @@
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/devices.md>
 
+3/14/2017 3:35 AM
+
+ **physionikhil** :
+
+ >Cheap cranial stimulation device from China, not sure how authentic it is as it doesnt specify any technical info
+
+> 
+
+
+> 
+<https://f2rq3.app.goo.gl/?link=https%3A%2F%2Fm.alibaba.com%2Fproduct%2F60315578379%2FHaobro-design-electric-brain-stimulate-device.html&amp;apn=com.alibaba.intl.android.apps.poseidon&amp;ibi=com.alibaba.sourcing&amp;isi=503451073&amp;amv=69>
+
