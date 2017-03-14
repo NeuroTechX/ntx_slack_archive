@@ -888,3 +888,12 @@ I'm a computer engineer interested in neurotechnology, so I'm learning about it 
 > 
 Thanks a lot!!
 
+3/14/2017 2:55 PM
+
+ **friedstoeren** :
+
+ >Hi there. I have question: same days ago I saw a documentation about  chips that get implemented to the arm and then you can robotarm and so on. It there such a technic and how is the name of it? 
+
+> 
+I'm really interested to get one of then.
+
