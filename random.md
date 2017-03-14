@@ -159,3 +159,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/random.md>
 
+3/14/2017 8:33 PM
+
+ **igweckay** :
+
+ >Here is an interesting article: <http://spectrum.ieee.org/the-human-os/biomedical/bionics/one-small-step-for-a-paraplegic-one-big-step-toward-reversing-paralysis>
+
