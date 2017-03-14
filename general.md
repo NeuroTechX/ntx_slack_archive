@@ -921,3 +921,9 @@ I'm really interested to get one of then.
 
  >The full Muse ERP &amp; P300 paper has been published.
 
+3/14/2017 4:27 PM
+
+ **graeme** :
+
+ ><http://journal.frontiersin.org/article/10.3389/fnins.2017.00109/full>
+
