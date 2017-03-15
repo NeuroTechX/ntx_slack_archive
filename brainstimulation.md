@@ -33,3 +33,15 @@
 > 
 Fisher Wallace Stimulator has one of the few Brain Stim Devices that received FDA Clearance - so I'm more confident than if it was random people.
 
+3/15/2017 2:57 PM
+
+ **yannick** :
+
+ >_"The result of years of scientific and clinical validation, Kortex" uses the same technology as our first generation wearable, the Fisher Wallace Stimulator", which was cleared by the FDA to treat anxiety, insomnia and depression."_ 
+
+> 
+_"All studies performed using the Fisher Wallace Stimulator" used the same stimulation dosage as Kortex". "_
+
+> 
+That way they just open a new market segment, but keep (arguably) their scientific validation they did in previous studies, since it was on somewhat related topics (sleep &amp; stress).
+
