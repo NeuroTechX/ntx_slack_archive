@@ -210,3 +210,9 @@ Does this works as much as they say?
 
  >This is a cool award :slightly_smiling_face: It's pretty open but historically they are very biased toward medical application \ rehab and Intracranial recordings
 
+3/15/2017 3:50 PM
+
+ **alexandre.barachant** :
+
+ >that's probably because it's what works best.
+
