@@ -45,3 +45,9 @@ _"All studies performed using the Fisher Wallace Stimulator" used the same stimu
 > 
 That way they just open a new market segment, but keep (arguably) their scientific validation they did in previous studies, since it was on somewhat related topics (sleep &amp; stress).
 
+3/15/2017 3:06 PM
+
+ **omer** :
+
+ >Marketing :slightly_smiling_face:
+
