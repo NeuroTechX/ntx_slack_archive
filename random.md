@@ -204,3 +204,9 @@ Does this works as much as they say?
 
  ><http://www.bci-award.com/>
 
+3/15/2017 3:49 PM
+
+ **alexandre.barachant** :
+
+ >This is a cool award :slightly_smiling_face: It's pretty open but historically they are very biased toward medical application \ rehab and Intracranial recordings
+
