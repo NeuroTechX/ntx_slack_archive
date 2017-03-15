@@ -222,3 +222,12 @@ Does this works as much as they say?
 
  >I would more bet on the fact that g.tec being the organizer of the award, and g.tec being on that segment, this is what they want to sell - this is marketing after all :wink:
 
+3/15/2017 5:36 PM
+
+ **alexandre.barachant** :
+
+ >They pick the jury for sure so this is some kind of bias but I would like to think they are not too involved in the decision process. 
+
+> 
+IMO Invasive BCI just give so much impressive results that it is what stick in the end.
+
