@@ -54,3 +54,9 @@ The Student Clubs committee is looking for someone to help us develop a website 
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/studentclubs.md>
 
+3/15/2017 10:34 PM
+
+ **sabrina.k.tang** :
+
+ >Hi Pawel, Do you have a website? Would love to learn more abou tit.
+
