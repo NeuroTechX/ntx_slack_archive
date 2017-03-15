@@ -945,3 +945,9 @@ I'm really interested to get one of then.
 
  ><http://research.baycrest.org/conf2017-program>
 
+3/15/2017 10:45 AM
+
+ **omer** :
+
+ >not sure how you can deal with the excessive sweat
+
