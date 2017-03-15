@@ -24,3 +24,12 @@
 
  >Hadn't thought of VR and TACS though. Interesting concept
 
+3/15/2017 2:52 PM
+
+ **yannick** :
+
+ >I agree with omer, I feel like they've simply repackaged their original device to make it sexier and to fit on a VR strap. Ending up raising $100k during a "Marketing Campaign" (because I doubt they needed the money to do the device in the first place).
+
+> 
+Fisher Wallace Stimulator has one of the few Brain Stim Devices that received FDA Clearance - so I'm more confident than if it was random people.
+
