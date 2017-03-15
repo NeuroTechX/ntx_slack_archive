@@ -186,3 +186,9 @@ Does this works as much as they say?
 
  >z3 without looking too much into it, Halo's product is a bit more respected as the person who is leading it is well known in the field.
 
+3/15/2017 2:32 PM
+
+ **sydneyneurotechx** :
+
+ >I'm not sure of any research done on the product outside of the companies own
+
