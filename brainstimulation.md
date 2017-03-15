@@ -12,3 +12,9 @@
 
  >Seems like it's tACS like the original device by Fischer Wallace 
 
+3/15/2017 11:03 AM
+
+ **omer** :
+
+ >It is just the original device
+
