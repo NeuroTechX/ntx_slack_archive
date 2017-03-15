@@ -174,3 +174,9 @@
 
  >Welcome sandinmytea
 
+3/15/2017 1:18 PM
+
+ **catpitch** :
+
+ >Hello everyone!  I'm Catherine Pitcher, educator, game designer and cognitive science enthusiast.  Really happy to be here and looking forward to absorbing general knowledge about anything NeuroTechX related and especially curious about anything related to the science of learning, memory, Aha! moments, problem solving and brain retraining.
+
