@@ -180,3 +180,9 @@ sometimes, error potential are easier to detect than the actual command, so you 
 > 
 Does this works as much as they say?
 
+3/15/2017 2:31 PM
+
+ **sydneyneurotechx** :
+
+ >z3 without looking too much into it, Halo's product is a bit more respected as the person who is leading it is well known in the field.
+
