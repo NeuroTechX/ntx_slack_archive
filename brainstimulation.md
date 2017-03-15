@@ -57,3 +57,9 @@ That way they just open a new market segment, but keep (arguably) their scientif
 
  >FDA clearance is not a proff of efficiency
 
+3/15/2017 3:30 PM
+
+ **yannick** :
+
+ >But showing that they are more serious than some small kickstarters trying to "ride" the buzzwords.
+
