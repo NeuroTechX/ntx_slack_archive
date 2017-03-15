@@ -216,3 +216,9 @@ Does this works as much as they say?
 
  >that's probably because it's what works best.
 
+3/15/2017 4:20 PM
+
+ **yrenard** :
+
+ >I would more bet on the fact that g.tec being the organizer of the award, and g.tec being on that segment, this is what they want to sell - this is marketing after all :wink:
+
