@@ -447,3 +447,9 @@ this seems not good. must be some other use case where this split is useful, but
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/eegdata.md>
 
+3/15/2017 10:56 AM
+
+ **omer** :
+
+ >Yeaa probably, we use this kind of ful  night spectrals in our lab for years also in publications. I guess it just new for the clinic, you don't really need multitaper for that...
+
