@@ -171,3 +171,12 @@ sometimes, error potential are easier to detect than the actual command, so you 
 
  >It's about a neuroprosthetic implanted in the spinal cord to reverse paralysis 
 
+3/15/2017 10:22 AM
+
+ **z3** :
+
+ ><https://www.haloneuro.com/>
+
+> 
+Does this works as much as they say?
+
