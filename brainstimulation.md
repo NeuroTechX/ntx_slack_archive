@@ -18,3 +18,9 @@
 
  >It is just the original device
 
+3/15/2017 2:37 PM
+
+ **sydneyneurotechx** :
+
+ >Hadn't thought of VR and TACS though. Interesting concept
+
