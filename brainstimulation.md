@@ -63,3 +63,9 @@ That way they just open a new market segment, but keep (arguably) their scientif
 
  >But showing that they are more serious than some small kickstarters trying to "ride" the buzzwords.
 
+3/15/2017 3:31 PM
+
+ **alexandre.barachant** :
+
+ >for sure
+
