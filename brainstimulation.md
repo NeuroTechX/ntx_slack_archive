@@ -51,3 +51,9 @@ That way they just open a new market segment, but keep (arguably) their scientif
 
  >Marketing :slightly_smiling_face:
 
+3/15/2017 3:28 PM
+
+ **alexandre.barachant** :
+
+ >FDA clearance is not a proff of efficiency
+
