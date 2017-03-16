@@ -501,3 +501,9 @@ AF3, AF4, F3, F4, FC5, FC6, F7, F8, T7, T8, P7, P8, O1, O2
 > 
 anything about that ?
 
+3/16/2017 7:09 PM
+
+ **yrenard** :
+
+ >firassafieddine ^^ <http://www.mariusthart.net/downloads/eeg_electrodes_10-20.svg>
+
