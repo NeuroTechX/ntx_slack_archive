@@ -459,3 +459,15 @@ this seems not good. must be some other use case where this split is useful, but
 
  >you can build one yourself
 
+3/16/2017 9:16 AM
+
+ **dojeda** :
+
+ >Hey, is anyone currently saving EEG data on a distributed database (i.e. opentsdb, hbase, etc)? I am wondering how performant (or not) this is.
+
+> 
+When you read about "time series analysis" around the web, where the time series are stored in some sort of database, examples are mostly with series whose Fs &gt;&gt; 1Hz, but in EEG we are generally interested in &gt;128Hz. OpenTSDB, for instance, has a warning on their frequently asked questions:
+
+> 
+&gt; Can I store sub-second precision timestamps in OpenTSDB? As of version 2.0 you can store data with millisecond timestamps. However we recommend you avoid storing a data point at each millisecond as this will slow down queries dramatically.
+
