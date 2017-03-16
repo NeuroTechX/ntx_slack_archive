@@ -957,3 +957,12 @@ I'm really interested to get one of then.
 
  >Awesome read! Good work!
 
+3/16/2017 4:28 PM
+
+ **yannick** :
+
+ >Frontiers in Neuroscience now follows NeuroTechX on Twitter.
+
+> 
+(Achievement Unlocked I guess :p)
+
