@@ -519,3 +519,9 @@ anything about that ?
 
  >looks helpful! thanks yrenard  Im trying to find what each one of these sensors get
 
+3/16/2017 7:31 PM
+
+ **yannick** :
+
+ >firassafieddine There is no "simple" answer to your question. Perhaps reading a little more on EEG (<https://en.wikipedia.org/wiki/Electroencephalography>) would help refine your question?
+
