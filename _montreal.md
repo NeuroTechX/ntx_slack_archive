@@ -114,3 +114,9 @@ Emotiv Insight 1.6m$
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_montreal.md>
 
+3/16/2017 4:16 AM
+
+ **hectordomorozco** :
+
+ >Guys,
+
