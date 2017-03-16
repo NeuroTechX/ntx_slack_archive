@@ -477,3 +477,27 @@ When you read about "time series analysis" around the web, where the time series
 
  >marion w have done this in cloudbrain
 
+3/16/2017 7:06 PM
+
+ **firassafieddine** :
+
+ >hello everyone,
+
+> 
+
+
+> 
+Im trying to figure out what each of the sensors of the emotiv epoc 14 channels sense:
+
+> 
+
+
+> 
+AF3, AF4, F3, F4, FC5, FC6, F7, F8, T7, T8, P7, P8, O1, O2
+
+> 
+
+
+> 
+anything about that ?
+
