@@ -99,3 +99,9 @@ The campaign goes live tomorrow at 8am EST. Be the first to grab one of the earl
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_announcements_.md>
 
+3/16/2017 8:57 AM
+
+ **dojeda** :
+
+ >Are you generating the archive with a bot?
+
