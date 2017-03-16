@@ -27,3 +27,9 @@
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/machinelearning_ai.md>
 
+3/16/2017 3:41 PM
+
+ **yannick** :
+
+ >Hey jnaulty I know you like awesome list. Here is a good one on deep learning: <https://github.com/terryum/awesome-deep-learning-papers>
+
