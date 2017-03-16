@@ -471,3 +471,9 @@ When you read about "time series analysis" around the web, where the time series
 > 
 &gt; Can I store sub-second precision timestamps in OpenTSDB? As of version 2.0 you can store data with millisecond timestamps. However we recommend you avoid storing a data point at each millisecond as this will slow down queries dramatically.
 
+3/16/2017 10:16 AM
+
+ **pierre** :
+
+ >marion w have done this in cloudbrain
+
