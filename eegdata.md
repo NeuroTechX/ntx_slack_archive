@@ -513,3 +513,9 @@ anything about that ?
 
  >and <https://en.wikipedia.org/wiki/10-20_system_(EEG)>
 
+3/16/2017 7:11 PM
+
+ **firassafieddine** :
+
+ >looks helpful! thanks yrenard  Im trying to find what each one of these sensors get
+
