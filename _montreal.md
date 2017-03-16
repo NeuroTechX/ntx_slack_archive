@@ -126,3 +126,9 @@ Emotiv Insight 1.6m$
 
  >If youre interested, DM me :smile:
 
+3/16/2017 4:53 AM
+
+ **eferdinand** :
+
+ >hectordomorozco: hectordomorozco what about the company? Who are they? How can we can get in touch?
+
