@@ -120,3 +120,9 @@ Emotiv Insight 1.6m$
 
  >Guys,
 
+3/16/2017 4:17 AM
+
+ **hectordomorozco** :
+
+ >If youre interested, DM me :smile:
+
