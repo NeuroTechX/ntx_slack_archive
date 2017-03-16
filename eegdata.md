@@ -507,3 +507,9 @@ anything about that ?
 
  >firassafieddine ^^ <http://www.mariusthart.net/downloads/eeg_electrodes_10-20.svg>
 
+3/16/2017 7:09 PM
+
+ **yrenard** :
+
+ >and <https://en.wikipedia.org/wiki/10-20_system_(EEG)>
+
