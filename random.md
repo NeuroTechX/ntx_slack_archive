@@ -243,3 +243,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >Yes
 
+3/17/2017 10:31 PM
+
+ **perrotta** :
+
+ >Should NTX have person-specific bots? <https://latenightcoding.co/i-automated-my-friends/>
+
