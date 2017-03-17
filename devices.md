@@ -246,3 +246,9 @@
 
  >Let me check the OpenViBE driver
 
+3/17/2017 5:50 PM
+
+ **octonomy** :
+
+ >I'll look that up. Thanks for confirming, it's kind of a hard thing to search for in openBCI forum
+
