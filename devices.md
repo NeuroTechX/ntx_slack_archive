@@ -216,3 +216,9 @@
 
  >You would receive twice as much samples from the board than what you would receive if the daisy module was activated
 
+3/17/2017 5:48 PM
+
+ **octonomy** :
+
+ >Do you know the procedure to deactivate it? Is it a command line option or a physical hardware switch?
+
