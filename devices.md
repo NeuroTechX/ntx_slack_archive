@@ -228,3 +228,9 @@
 
  >Right it is 250hz for 8channel and 125 for 16channel. I was hoping I could just switch between those by specifying correct device
 
+3/17/2017 5:50 PM
+
+ **yrenard** :
+
+ >It is a command that you send through the BT protocol
+
