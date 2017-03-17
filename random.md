@@ -231,3 +231,9 @@ Does this works as much as they say?
 > 
 IMO Invasive BCI just give so much impressive results that it is what stick in the end.
 
+3/17/2017 6:00 PM
+
+ **dano** :
+
+ >The scroll acceleration on that page is annoying, but otherwise beautiful site and branding. Anyone here thinking of submitting?
+
