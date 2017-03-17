@@ -240,3 +240,9 @@
 
  >Ok I see 
 
+3/17/2017 5:50 PM
+
+ **yrenard** :
+
+ >Let me check the OpenViBE driver
+
