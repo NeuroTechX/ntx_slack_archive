@@ -210,3 +210,9 @@
 
  >and this has an impact on the sampling rate
 
+3/17/2017 4:16 PM
+
+ **yrenard** :
+
+ >You would receive twice as much samples from the board than what you would receive if the daisy module was activated
+
