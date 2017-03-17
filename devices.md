@@ -198,3 +198,9 @@
 
  >No you can ask the 8 channels of the OpenBCI without removing the daisy board
 
+3/17/2017 4:16 PM
+
+ **yrenard** :
+
+ >It must be deactivated though
+
