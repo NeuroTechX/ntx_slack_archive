@@ -264,3 +264,9 @@
 
  >Btw, you should find it in the documentation - But I needed to read it once to understand how to search in it :wink:
 
+3/17/2017 5:57 PM
+
+ **yrenard** :
+
+ >You need to look at this page specifically <http://docs.openbci.com/OpenBCI%20Software/04-OpenBCI_Cyton_SDK>
+
