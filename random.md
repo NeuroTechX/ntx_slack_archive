@@ -237,3 +237,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >The scroll acceleration on that page is annoying, but otherwise beautiful site and branding. Anyone here thinking of submitting?
 
+3/17/2017 7:07 PM
+
+ **igweckay** :
+
+ >Yes
+
