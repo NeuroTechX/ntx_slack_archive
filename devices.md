@@ -204,3 +204,9 @@
 
  >It must be deactivated though
 
+3/17/2017 4:16 PM
+
+ **yrenard** :
+
+ >and this has an impact on the sampling rate
+
