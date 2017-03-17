@@ -258,3 +258,9 @@
 
  >So sending `c` should do the trick
 
+3/17/2017 5:55 PM
+
+ **yrenard** :
+
+ >Btw, you should find it in the documentation - But I needed to read it once to understand how to search in it :wink:
+
