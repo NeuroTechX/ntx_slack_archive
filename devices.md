@@ -252,3 +252,9 @@
 
  >I'll look that up. Thanks for confirming, it's kind of a hard thing to search for in openBCI forum
 
+3/17/2017 5:53 PM
+
+ **yrenard** :
+
+ >So sending `c` should do the trick
+
