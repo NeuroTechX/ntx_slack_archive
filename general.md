@@ -984,3 +984,9 @@ I'm really interested to get one of then.
 
  >First Toronto hacknight at VarageSale nearly confirmed...
 
+3/17/2017 3:53 PM
+
+ **leonfrench** :
+
+ >Hello and thanks for the invite
+
