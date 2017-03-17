@@ -531,3 +531,9 @@ anything about that ?
 
  >firassafieddine The best answer as to what each of the electrodes will get, is dependent on the type of task you are looking to measure. There are a variety of types of brain signals that you can acquire with an eeg(For example your emotiv). for example you can look at Neural Oscillations (more commonly known as brain waves) or Event Related Potentials, which is where you measure the brains response to some form external or internal stimulation. iMotions has a great pdf which explains the basic of eeg (If you find the wiki article overwhelming). I'd also looking at their pdf on experimental design as it's good idea to follow an experimental procedure when trying to acquire eeg signal
 
+3/17/2017 5:31 AM
+
+ **physionikhil** :
+
+ >Does any one know about an affordable and portable Nirs device for measure cerebral oxygenation in stroke patients after physical therapy interventions including conditioning exercises
+
