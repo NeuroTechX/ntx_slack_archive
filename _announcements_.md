@@ -111,3 +111,9 @@ The campaign goes live tomorrow at 8am EST. Be the first to grab one of the earl
 
  >dojeda  Yup!
 
+3/17/2017 2:59 AM
+
+ **sydneyneurotechx** :
+
+ >It only looks at public channels though
+
