@@ -222,3 +222,9 @@
 
  >Do you know the procedure to deactivate it? Is it a command line option or a physical hardware switch?
 
+3/17/2017 5:49 PM
+
+ **octonomy** :
+
+ >Right it is 250hz for 8channel and 125 for 16channel. I was hoping I could just switch between those by specifying correct device
+
