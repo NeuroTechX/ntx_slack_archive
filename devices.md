@@ -192,3 +192,9 @@
 
  >Has anyone experienced an issue with openBCI dropping every other sample? I have a 16 channel kit but running it in 8 channel mode. Wondering if it's a limitation of the board (like you have to take off daisy while running in 8 channel mode). Looking it up on openBCI forum now but thought I'd ask you all here too
 
+3/17/2017 4:16 PM
+
+ **yrenard** :
+
+ >No you can ask the 8 channels of the OpenBCI without removing the daisy board
+
