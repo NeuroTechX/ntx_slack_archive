@@ -255,3 +255,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >Haha. Cool idea amine.abdessemed  Check it out
 
+3/18/2017 2:49 PM
+
+ **amine.abdessemed** :
+
+ >sydneyneurotechx really good idea hahaha but neurobot is already person specific, don't hurt his feelings.
+
