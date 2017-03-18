@@ -597,3 +597,9 @@ You might like to look at
 
  >yannick any experience with artinis octamon or portalite for Nirs studies?
 
+3/18/2017 2:34 PM
+
+ **yannick** :
+
+ >No, sorry :disappointed:
+
