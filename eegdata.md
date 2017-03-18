@@ -537,3 +537,15 @@ anything about that ?
 
  >Does any one know about an affordable and portable Nirs device for measure cerebral oxygenation in stroke patients after physical therapy interventions including conditioning exercises
 
+3/18/2017 9:19 AM
+
+ **a.tech** :
+
+ >physionikhil 
+
+> 
+You might like to look at
+
+> 
+<https://www.biopac.com/application/fnir-functional-near-infrared-optical-brain-imaging/>
+
