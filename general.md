@@ -990,3 +990,9 @@ I'm really interested to get one of then.
 
  >Hello and thanks for the invite
 
+3/18/2017 11:08 PM
+
+ **mkos** :
+
+ >hi - I have a question about Muse 2016 - is this the right place to ask?
+
