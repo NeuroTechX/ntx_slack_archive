@@ -561,3 +561,9 @@ You might like to look at
 
  >The cheapest consumer NIRS I found was 2 thousand by Hitachi. Not sure if you can find cheaper or not
 
+3/18/2017 2:16 PM
+
+ **physionikhil** :
+
+ >2000$? Their units go over 500k I think
+
