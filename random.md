@@ -261,3 +261,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >sydneyneurotechx really good idea hahaha but neurobot is already person specific, don't hurt his feelings.
 
+3/18/2017 2:55 PM
+
+ **yannick** :
+
+ >:disappointed:
+
