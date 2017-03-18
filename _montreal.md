@@ -141,3 +141,9 @@ Emotiv Insight 1.6m$
 > 
 <https://www.linkedin.com/jobs/view/278805769/>
 
+3/18/2017 1:39 PM
+
+ **yannick** :
+
+ >(pour détecter le facteur "fun")
+
