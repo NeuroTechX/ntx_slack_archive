@@ -555,3 +555,9 @@ You might like to look at
 
  >a.tech hi thnx for the info for Biopac. Do u have an idea how much their system cost. I also searched about artinis oxymon Fnirs device. Yet to get a quote from them
 
+3/18/2017 1:39 PM
+
+ **sydneyneurotechx** :
+
+ >The cheapest consumer NIRS I found was 2 thousand by Hitachi. Not sure if you can find cheaper or not
+
