@@ -132,3 +132,12 @@ Emotiv Insight 1.6m$
 
  >hectordomorozco: hectordomorozco what about the company? Who are they? How can we can get in touch?
 
+3/18/2017 1:38 PM
+
+ **yannick** :
+
+ >Ubisoft is hiring a Biometric Project Manager.
+
+> 
+<https://www.linkedin.com/jobs/view/278805769/>
+
