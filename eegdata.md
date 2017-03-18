@@ -591,3 +591,9 @@ You might like to look at
 
  >yannick thnx let me check
 
+3/18/2017 2:23 PM
+
+ **physionikhil** :
+
+ >yannick any experience with artinis octamon or portalite for Nirs studies?
+
