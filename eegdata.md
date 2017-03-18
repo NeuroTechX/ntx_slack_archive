@@ -579,3 +579,9 @@ You might like to look at
 
  >Nan they do have a "consumer" version they presented last year
 
+3/18/2017 2:21 PM
+
+ **yannick** :
+
+ ><http://www.hitachi-hightech.com/global/about/news/2016/nr20160224.html>
+
