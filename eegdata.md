@@ -549,3 +549,9 @@ You might like to look at
 > 
 <https://www.biopac.com/application/fnir-functional-near-infrared-optical-brain-imaging/>
 
+3/18/2017 10:58 AM
+
+ **physionikhil** :
+
+ >a.tech hi thnx for the info for Biopac. Do u have an idea how much their system cost. I also searched about artinis oxymon Fnirs device. Yet to get a quote from them
+
