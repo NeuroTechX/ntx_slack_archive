@@ -135,3 +135,9 @@
 > 
 featuring dano at 1:25, haha :slightly_smiling_face:
 
+3/18/2017 5:13 PM
+
+ **bryan_j** :
+
+ >yannick: saw that - what a good-looking individual! 
+
