@@ -573,3 +573,9 @@ You might like to look at
 
  >Artinis have another by the name porta lite , not sure how reliable it is
 
+3/18/2017 2:20 PM
+
+ **yannick** :
+
+ >Nan they do have a "consumer" version they presented last year
+
