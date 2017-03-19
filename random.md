@@ -282,3 +282,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 > 
 <https://www.indiegogo.com/projects/bg7-super-brain-2-meditation-sleep#>
 
+3/19/2017 6:01 PM
+
+ **yannick** :
+
+ >(few months apart - before even delivering any device - both successfully funded)
+
