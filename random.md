@@ -288,3 +288,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >(few months apart - before even delivering any device - both successfully funded)
 
+3/19/2017 6:04 PM
+
+ **alexandre.barachant** :
+
+ >well, those consideration would appears minor when you claim "Dreams from the film Limitless come to reality"
+
