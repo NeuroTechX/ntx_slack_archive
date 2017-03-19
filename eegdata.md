@@ -615,3 +615,9 @@ You might like to look at
 
  >physionikhil I'm using Nirsport made by NIRX (<https://nirx.net/nirsport/>) and my supervisor told me it costs around 30k¬. Also, I know Biopac sell a fNIRS system at 19000 ¬ HT in France but i don't remember if it's the fNIR100 or other
 
+3/19/2017 11:26 AM
+
+ **physionikhil** :
+
+ >nedack thank you, may I know what are your applications for fNIRS system
+
