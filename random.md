@@ -267,3 +267,18 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >:disappointed:
 
+3/19/2017 5:59 PM
+
+ **yannick** :
+
+ >Is that even legit to run 2 Crowdfunding campaigns with slightly different writing and different countries on 2 different platforms (Kickstarter &amp; Indiegogo) ...
+
+> 
+*Super Brain II*
+
+> 
+<https://www.kickstarter.com/projects/1987764045/super-brain-ii>
+
+> 
+<https://www.indiegogo.com/projects/bg7-super-brain-2-meditation-sleep#>
+
