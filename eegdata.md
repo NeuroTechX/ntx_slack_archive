@@ -621,3 +621,9 @@ You might like to look at
 
  >nedack thank you, may I know what are your applications for fNIRS system
 
+3/19/2017 2:20 PM
+
+ **nedack** :
+
+ >physionikhil Yeah, I'm working on the assessment of the mental workload in flight condition
+
