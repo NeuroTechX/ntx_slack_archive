@@ -222,3 +222,9 @@
 
  >greetings from Boston
 
+3/19/2017 1:42 AM
+
+ **sydneyneurotechx** :
+
+ >Welcome mkos. Head on over to <#C0VT5N8S2|_boston>  channel to meet some locals :slightly_smiling_face:
+
