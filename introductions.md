@@ -228,3 +228,9 @@
 
  >Welcome mkos. Head on over to <#C0VT5N8S2|_boston>  channel to meet some locals :slightly_smiling_face:
 
+3/20/2017 1:43 PM
+
+ **dk360** :
+
+ >Hi everyone. I'm Dawn Kolpin, a Development and Strategy Consultant for startups. I'm currently based in Colorado (US) after moving my family here from London (#_London), and before that Silicon Valley. I've been consulting in the areas of online audience, virtual communities, content strategy &amp; media development, gaming, and marketing communications since Netscape Communicator was released (so I've had the pleasure to help launch a few new technologies and platforms). I'm fascinated by educational technology, immersive technology, and human experience with emerging technology platforms. My academic background is in Cultural Anthropology. I love the dynamic potential of neurotechnology, cognitive feedback, AI (and even implants) with all the hope that a non-programming futurist like me can dream of.  I am thrilled to be working with Sydney, Yannick, and the rest of you at NeuroTechX. Thank you! [ Bio: <http://linkedin.com/in/dawnkolpin> ]
+
