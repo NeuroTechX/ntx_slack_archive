@@ -687,3 +687,9 @@ c) MusePlayer.
 
  >oh, very useful! thank you amilenkovic !
 
+3/20/2017 8:46 PM
+
+ **mkos** :
+
+ >So for now, the safest bet would be to get the older hardware, correct?
+
