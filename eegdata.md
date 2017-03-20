@@ -663,3 +663,9 @@ b) MuseLab,
 > 
 c) MusePlayer.
 
+3/20/2017 6:48 PM
+
+ **amilenkovic** :
+
+ >I believe Muse are still working on updating the SDK to support the Muse 2016 hardware, though I hope someone will correct me if that information is out of date
+
