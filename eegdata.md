@@ -633,3 +633,9 @@ You might like to look at
 
  >nedack great
 
+3/20/2017 3:18 PM
+
+ **eferdinand** :
+
+ >any recommendation for reading ECG from the forehead?
+
