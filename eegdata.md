@@ -699,3 +699,9 @@ c) MusePlayer.
 
  >Older hardware will work, but from my understanding the 2016 hardware should work just fine with those three applications  mkos . Correct me if I'm wrong graeme
 
+3/20/2017 10:57 PM
+
+ **graeme** :
+
+ >That's right, and we're working on an update to the research tools for Windows, which will work with all the Muses (and be more awesome in general) 
+
