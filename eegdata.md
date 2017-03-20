@@ -648,3 +648,18 @@ You might like to look at
 > 
 so if you can only place electrodes on the forehead that will be tricky
 
+3/20/2017 6:15 PM
+
+ **mkos** :
+
+ >Hi, I am interested in buying Muse 2016 for my research project. I found some inconsistencies on Muse's website and I am wondering if the following are available for Muse 2016?
+
+> 
+a) MuseIO,
+
+> 
+b) MuseLab,
+
+> 
+c) MusePlayer.
+
