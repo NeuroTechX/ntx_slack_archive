@@ -639,3 +639,12 @@ You might like to look at
 
  >any recommendation for reading ECG from the forehead?
 
+3/20/2017 4:48 PM
+
+ **alexandre.barachant** :
+
+ >you can read ECG everywhere as long as the reference electrode and the signal electrodes are far away.
+
+> 
+so if you can only place electrodes on the forehead that will be tricky
+
