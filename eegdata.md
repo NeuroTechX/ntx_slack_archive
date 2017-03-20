@@ -693,3 +693,9 @@ c) MusePlayer.
 
  >So for now, the safest bet would be to get the older hardware, correct?
 
+3/20/2017 10:53 PM
+
+ **sydneyneurotechx** :
+
+ >Older hardware will work, but from my understanding the 2016 hardware should work just fine with those three applications  mkos . Correct me if I'm wrong graeme
+
