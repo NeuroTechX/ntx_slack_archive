@@ -675,3 +675,9 @@ c) MusePlayer.
 
  >if you are looking for a solution to access EEG data on a Muse 2016, there's an app called MuseMonitor on both Android / iOS that works quite well and lets you pair the muse to a phone or tablet, as well as get the full data in CSV / Zip / stream to an OSC server
 
+3/20/2017 6:50 PM
+
+ **amilenkovic** :
+
+ >There are also some ways to get a muse 2016 working in Linux apparently, though I haven't tried them since I have a 2014
+
