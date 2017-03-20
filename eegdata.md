@@ -669,3 +669,9 @@ c) MusePlayer.
 
  >I believe Muse are still working on updating the SDK to support the Muse 2016 hardware, though I hope someone will correct me if that information is out of date
 
+3/20/2017 6:49 PM
+
+ **amilenkovic** :
+
+ >if you are looking for a solution to access EEG data on a Muse 2016, there's an app called MuseMonitor on both Android / iOS that works quite well and lets you pair the muse to a phone or tablet, as well as get the full data in CSV / Zip / stream to an OSC server
+
