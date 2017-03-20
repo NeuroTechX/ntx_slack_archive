@@ -681,3 +681,9 @@ c) MusePlayer.
 
  >There are also some ways to get a muse 2016 working in Linux apparently, though I haven't tried them since I have a 2014
 
+3/20/2017 8:46 PM
+
+ **mkos** :
+
+ >oh, very useful! thank you amilenkovic !
+
