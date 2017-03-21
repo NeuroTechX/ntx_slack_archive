@@ -1017,3 +1017,9 @@ I'm really interested to get one of then.
 > 
 I wish I could be there, the event sounds nice!
 
+3/21/2017 12:03 PM
+
+ **igweckay** :
+
+ >Legit! Was there a register link on the site? I didn't find one
+
