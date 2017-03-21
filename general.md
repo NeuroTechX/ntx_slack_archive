@@ -1008,3 +1008,12 @@ I'm really interested to get one of then.
 
  >mkos send a direct message to me or hubertjb 
 
+3/21/2017 11:40 AM
+
+ **yannick** :
+
+ >Hey teon &amp; alexandre.barachant - if people are interested in the "Supervised Neural Time Series 2017 sprint" (March 27th - 31st, in NYC) - <https://kingjr.github.io/supervised_time_series/> - what's the deadline to register?
+
+> 
+I wish I could be there, the event sounds nice!
+
