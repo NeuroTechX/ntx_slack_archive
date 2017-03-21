@@ -726,3 +726,9 @@ c) MusePlayer.
 > 
 It can works on windows/mac but you need a special dongle and patching the pygatt python library
 
+3/21/2017 1:47 PM
+
+ **mkos** :
+
+ >excellent - I like linux :slightly_smiling_face: thanks! alexandre.barachant
+
