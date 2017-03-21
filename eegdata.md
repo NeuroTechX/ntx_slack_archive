@@ -705,3 +705,9 @@ c) MusePlayer.
 
  >That's right, and we're working on an update to the research tools for Windows, which will work with all the Muses (and be more awesome in general) 
 
+3/21/2017 12:38 AM
+
+ **mkos** :
+
+ >graeme - nice but I want to ran a pilot next month :slightly_smiling_face:
+
