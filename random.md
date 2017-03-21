@@ -294,3 +294,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >well, those consideration would appears minor when you claim "Dreams from the film Limitless come to reality"
 
+3/21/2017 12:31 AM
+
+ **yannick** :
+
+ >For those in Research with a Machine Learning component, I might be worth keeping an eye on this: <http://distill.pub>
+
