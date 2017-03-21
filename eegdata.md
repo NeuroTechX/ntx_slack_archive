@@ -732,3 +732,9 @@ It can works on windows/mac but you need a special dongle and patching the pygat
 
  >excellent - I like linux :slightly_smiling_face: thanks! alexandre.barachant
 
+3/21/2017 1:53 PM
+
+ **alexandre.barachant** :
+
+ >mkos you can read more on my blog : <http://alexandre.barachant.org/blog/2017/01/27/reverse-engineering-muse-eeg-headband-bluetooth-protocol.html>
+
