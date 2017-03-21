@@ -711,3 +711,9 @@ c) MusePlayer.
 
  >graeme - nice but I want to ran a pilot next month :slightly_smiling_face:
 
+3/21/2017 12:41 AM
+
+ **graeme** :
+
+ >you can easily stream eeg data from Muse Monitor right now (also via MuseLab) then forward it to wherever you want. That will only create challenges if you're looking for low-latency responses because of the network latency
+
