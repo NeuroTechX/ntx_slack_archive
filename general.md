@@ -1023,3 +1023,9 @@ I wish I could be there, the event sounds nice!
 
  >Legit! Was there a register link on the site? I didn't find one
 
+3/21/2017 12:09 PM
+
+ **alexandre.barachant** :
+
+ >Jean-remi king is the organizer of the event, you might want to contact him : <https://sites.google.com/site/jeanremiking/>
+
