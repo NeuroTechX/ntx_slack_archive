@@ -1029,3 +1029,9 @@ I wish I could be there, the event sounds nice!
 
  >Jean-remi king is the organizer of the event, you might want to contact him : <https://sites.google.com/site/jeanremiking/>
 
+3/21/2017 5:01 PM
+
+ **aj** :
+
+ >I'm gonna go!
+
