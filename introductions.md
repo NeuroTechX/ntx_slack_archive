@@ -246,3 +246,9 @@
 
  >Hi everyone! I'm Vlad Gidea from Copenhagen. I've been working and building tech products so far, and in the past years grew an interest in neuroscience and brain computer interfaces. I'm currently playing around with Emotiv and with an OpenBCI kit (ganglion board and various headset prototypes) and I'm still learning a lot in this area. My goal is to build an API that enables app developers to build smartphone applications or cloud solutions (I call it <http://brain2.io|brain2.io>). I feel more people should be able to track their mental activity and come up with novel ways that in can improve our daily lives. Let me know if you're from Copenhagen or if you have any connections here. I'm considering starting a Neurotechx chapter if there is enough interest in the local community.
 
+3/21/2017 7:23 PM
+
+ **sydneyneurotechx** :
+
+ >welcome Vlad!
+
