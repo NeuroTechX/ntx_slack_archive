@@ -300,3 +300,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >For those in Research with a Machine Learning component, I might be worth keeping an eye on this: <http://distill.pub>
 
+3/21/2017 12:33 AM
+
+ **yannick** :
+
+ >(I mean, when people from Google, from the New York Times, OpenAI, YC Reasearch and Yosha Bengio team up... It's worth looking at!)
+
