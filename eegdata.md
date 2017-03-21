@@ -717,3 +717,12 @@ c) MusePlayer.
 
  >you can easily stream eeg data from Muse Monitor right now (also via MuseLab) then forward it to wherever you want. That will only create challenges if you're looking for low-latency responses because of the network latency
 
+3/21/2017 9:13 AM
+
+ **alexandre.barachant** :
+
+ >mkos On linux, you can use my code : <https://github.com/alexandrebarachant/muse-lsl>
+
+> 
+It can works on windows/mac but you need a special dongle and patching the pygatt python library
+
