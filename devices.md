@@ -294,3 +294,9 @@ Maybe it'll get better contact or be more comfortable if the helmet had some fle
 
  >Im ordering in some filament right now so I thought I'd ask haha
 
+3/22/2017 3:44 AM
+
+ **sydneyneurotechx** :
+
+ >conor  Showed me some prototype with ninja flex I believe. Unsure of the results though
+
