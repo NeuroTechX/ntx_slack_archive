@@ -1086,3 +1086,12 @@ I wish I could be there, the event sounds nice!
 
  >Also, a few days ago it said that the website was hacked...
 
+3/22/2017 5:15 PM
+
+ **mertnesvat** :
+
+ >Hello everyone Im new but eager to the topic and I have general question.
+
+> 
+Im human computer interaction student at tallinn. Ive recently discovered this workshop which will be take in place at Cambridge, UK since Im not living UK I calculated all the cost transportation+accommodation etc and its around 850 ¬ and Im confused does it worth it or not..  I can afford it but as all students my budget is limited and want to spend it carefully :slightly_smiling_face:
+
