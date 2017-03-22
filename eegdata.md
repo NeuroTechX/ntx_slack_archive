@@ -807,3 +807,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >dano that'd be awesome, let me know how it goes!
 
+3/22/2017 7:00 PM
+
+ **pierre** :
+
+ >Feel free to message me if you have any questions or concerns
+
