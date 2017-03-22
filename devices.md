@@ -276,3 +276,15 @@
 
  >Thank you!!
 
+3/22/2017 1:54 AM
+
+ **a.tech** :
+
+ >Has anyone tried printing an UltraCortex using a flexible filament like (TPE or TPU) instead of ABS or PLA? 
+
+> 
+
+
+> 
+Maybe it'll get better contact or be more comfortable if the helmet had some flex to it?
+
