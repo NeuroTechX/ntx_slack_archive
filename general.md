@@ -1095,3 +1095,9 @@ I wish I could be there, the event sounds nice!
 > 
 Im human computer interaction student at tallinn. Ive recently discovered this workshop which will be take in place at Cambridge, UK since Im not living UK I calculated all the cost transportation+accommodation etc and its around 850 ¬ and Im confused does it worth it or not..  I can afford it but as all students my budget is limited and want to spend it carefully :slightly_smiling_face:
 
+3/22/2017 5:15 PM
+
+ **mertnesvat** :
+
+ ><http://www.qeeg.co.uk/course-qeeg.htm#spec>
+
