@@ -288,3 +288,9 @@
 > 
 Maybe it'll get better contact or be more comfortable if the helmet had some flex to it?
 
+3/22/2017 1:55 AM
+
+ **a.tech** :
+
+ >Im ordering in some filament right now so I thought I'd ask haha
+
