@@ -1125,3 +1125,9 @@ Im human computer interaction student at tallinn. Ive recently discovered this
 
  >I think it is a problem with the http/https security
 
+3/22/2017 7:25 PM
+
+ **benjamindeleener** :
+
+ >you need to allow the website to be opened, in the same page it was refused
+
