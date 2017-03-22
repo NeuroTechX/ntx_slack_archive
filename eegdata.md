@@ -795,3 +795,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >We are also working on NeurotechEDU and content should be ready soon for that.
 
+3/22/2017 6:52 PM
+
+ **dano** :
+
+ >pierre that looks really cool! I'll see if we can get a replication with the Muse at one of our TO hacknights
+
