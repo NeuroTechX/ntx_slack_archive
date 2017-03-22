@@ -300,3 +300,9 @@
 
  >Greetings from San Francisco! Im Watson, pulled into the NTX world through marion after we teamed up on the Cognitive Technology Exploratorium exhibit ( <http://www.explorecogtech.com/> ) back in 2015. My background is in Computational Neuroscience (BS from MIT and Applied Math PhD from UC Davis). My focus has shifted over the years from building neuro-inspired AI towards building technology that augments our own intelligence through triggering awareness and guiding intervention in the moment at those moments that matter most (onset of anxiety etc). While I have interest in EEG my primary interests these days is on RR interval heart signal analyses (via ECG or PPG), electrodermal activity (i.e. galvanic skin response), EMG and other such simple signals which give us a window into our autonomic nervous system and hence emotional orientation etc. Are there other folks on this slack team who share such interests?
 
+3/22/2017 9:23 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome watson !
+
