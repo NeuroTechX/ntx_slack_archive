@@ -276,3 +276,9 @@
 
  >Hi there, I am Jörn from Germany. Got invited here after I helped someone about NIRS devices. Got a Bachelor in Knowledge Engineer, Master and PhD in Cognitive Neuroscience (working on BCI with EEG and MEG among other things), and now working at one of the few NIRS/fNIRS companies in the world (<http://www.artinis.com|www.artinis.com>). I am always happy to help if you have any questions about these topics.
 
+3/22/2017 2:23 PM
+
+ **yannick** :
+
+ >Welcome on board jmhorschig!
+
