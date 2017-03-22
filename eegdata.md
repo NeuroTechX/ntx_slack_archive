@@ -801,3 +801,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >pierre that looks really cool! I'll see if we can get a replication with the Muse at one of our TO hacknights
 
+3/22/2017 6:52 PM
+
+ **pierre** :
+
+ >dano that'd be awesome, let me know how it goes!
+
