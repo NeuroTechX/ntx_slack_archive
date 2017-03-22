@@ -33,3 +33,9 @@
 
  >Hey jnaulty I know you like awesome list. Here is a good one on deep learning: <https://github.com/terryum/awesome-deep-learning-papers>
 
+3/22/2017 2:26 PM
+
+ **harris** :
+
+ >Although I've been teaching myself machinelearning &amp; ai through various online resources and my studies, where would be a good place for me to learn how to apply this knowledge to BCI related datasets
+
