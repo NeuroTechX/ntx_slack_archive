@@ -1113,3 +1113,9 @@ Im human computer interaction student at tallinn. Ive recently discovered this
 
  >mertnesvat . Going to an event like that will be great to get connected with people, however if you are looking for knowledge, there are some good online resources available as davidevaleriani  mentioned
 
+3/22/2017 7:06 PM
+
+ **mertnesvat** :
+
+ >Thanks davidevaleriani yes it seems good start point :+1:
+
