@@ -258,3 +258,9 @@
 
  >Hi everyone im Rob from Seattle, I just bought muse headband. Have some ideas for apps but dont really understand neurofeeback all that well yet. Hope To learn
 
+3/22/2017 1:16 PM
+
+ **sydneyneurotechx** :
+
+ >welcome lemiesz . Feel free to dm me if you have any questions. hubertjb could also potentially help you (He works at Muse)
+
