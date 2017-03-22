@@ -1059,3 +1059,12 @@ I wish I could be there, the event sounds nice!
 
  >it's up!
 
+3/22/2017 5:50 AM
+
+ **w** :
+
+ >Yves Meyer, Wavelet Expert, Wins Abel Prize
+
+> 
+<http://hn.premii.com/#/article/13921208>
+
