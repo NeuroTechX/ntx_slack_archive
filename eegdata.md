@@ -789,3 +789,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >lemiesz You can take a look at our awesome BCI page. It has a non-exhaustive list of resources to help you get started.
 
+3/22/2017 1:15 PM
+
+ **sydneyneurotechx** :
+
+ >We are also working on NeurotechEDU and content should be ready soon for that.
+
