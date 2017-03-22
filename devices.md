@@ -300,3 +300,9 @@ Maybe it'll get better contact or be more comfortable if the helmet had some fle
 
  >conor  Showed me some prototype with ninja flex I believe. Unsure of the results though
 
+3/22/2017 3:52 AM
+
+ **sydneyneurotechx** :
+
+ >irene.viguix  May have an answer for you
+
