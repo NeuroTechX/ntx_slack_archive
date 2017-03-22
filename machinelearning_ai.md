@@ -39,3 +39,9 @@
 
  >Although I've been teaching myself machinelearning &amp; ai through various online resources and my studies, where would be a good place for me to learn how to apply this knowledge to BCI related datasets
 
+3/22/2017 2:28 PM
+
+ **yannick** :
+
+ >In few months from now the answer will be NeuroTechEDU (no pressure sydneyneurotechx) :wink:
+
