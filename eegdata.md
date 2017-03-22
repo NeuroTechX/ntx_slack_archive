@@ -768,3 +768,12 @@ It can works on windows/mac but you need a special dongle and patching the pygat
 
  >we placed the electrodes in frontal and temporal, so it should be doable with muse, but I'm guessing you guys are already aware of this
 
+3/22/2017 5:58 AM
+
+ **lemiesz** :
+
+ >Hi everyone, im new to this but it all sounds really interesting. 
+
+> 
+Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurofeedback
+
