@@ -252,3 +252,9 @@
 
  >welcome Vlad!
 
+3/22/2017 5:55 AM
+
+ **lemiesz** :
+
+ >Hi everyone im Rob from Seattle, I just bought muse headband. Have some ideas for apps but dont really understand neurofeeback all that well yet. Hope To learn
+
