@@ -738,3 +738,9 @@ It can works on windows/mac but you need a special dongle and patching the pygat
 
  >mkos you can read more on my blog : <http://alexandre.barachant.org/blog/2017/01/27/reverse-engineering-muse-eeg-headband-bluetooth-protocol.html>
 
+3/22/2017 3:44 AM
+
+ **pierre** :
+
+ >I'm not quite sure where to post this, but you can get attention through cross-brain correlations with the OpenBCI ganglion!
+
