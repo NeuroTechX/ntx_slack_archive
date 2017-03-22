@@ -756,3 +756,9 @@ It can works on windows/mac but you need a special dongle and patching the pygat
 
  >I feel it has a lot of promise
 
+3/22/2017 3:45 AM
+
+ **pierre** :
+
+ >here's a reference: <https://github.com/NeurotechBerkeley/bci-course/tree/master/lab7>
+
