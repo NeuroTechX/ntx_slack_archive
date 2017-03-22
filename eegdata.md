@@ -744,3 +744,9 @@ It can works on windows/mac but you need a special dongle and patching the pygat
 
  >I'm not quite sure where to post this, but you can get attention through cross-brain correlations with the OpenBCI ganglion!
 
+3/22/2017 3:44 AM
+
+ **pierre** :
+
+ >I led a lab on this today, and everyone got it to work and got interesting results
+
