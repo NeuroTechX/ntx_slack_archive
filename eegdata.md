@@ -762,3 +762,9 @@ It can works on windows/mac but you need a special dongle and patching the pygat
 
  >here's a reference: <https://github.com/NeurotechBerkeley/bci-course/tree/master/lab7>
 
+3/22/2017 3:48 AM
+
+ **pierre** :
+
+ >we placed the electrodes in frontal and temporal, so it should be doable with muse, but I'm guessing you guys are already aware of this
+
