@@ -324,3 +324,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >anyone know have experience with MQTT?
 
+3/22/2017 6:55 PM
+
+ **aj** :
+
+ >i've seen and held one
+
