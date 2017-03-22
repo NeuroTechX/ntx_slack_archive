@@ -777,3 +777,9 @@ It can works on windows/mac but you need a special dongle and patching the pygat
 > 
 Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurofeedback
 
+3/22/2017 7:01 AM
+
+ **physionikhil** :
+
+ >lemiesz u can check this out
+
