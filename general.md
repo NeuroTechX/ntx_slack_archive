@@ -1101,3 +1101,9 @@ Im human computer interaction student at tallinn. Ive recently discovered this
 
  ><http://www.qeeg.co.uk/course-qeeg.htm#spec>
 
+3/22/2017 5:33 PM
+
+ **davidevaleriani** :
+
+ >I think it covers too many topics for four days, so you will probably end up knowing a bit of everything. For getting that kind of knowledge, you can check online resources, such as our <http://www.neurotechedu.com|www.neurotechedu.com>, or read some good books like these <https://github.com/NeuroTechX/awesome-bci#technical-books> or the Introduction to Event-Related Potentials by Luck.
+
