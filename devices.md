@@ -306,3 +306,15 @@ Maybe it'll get better contact or be more comfortable if the helmet had some fle
 
  >irene.viguix  May have an answer for you
 
+3/22/2017 2:27 PM
+
+ **yannick** :
+
+ >hey jmhorschig do you have an idea of the price range for the OctaMon device?
+
+> 
+<http://www.artinis.com/octamon/>
+
+> 
+We were having a discussion about the price range of portable fNIRS devices recently.
+
