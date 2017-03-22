@@ -750,3 +750,9 @@ It can works on windows/mac but you need a special dongle and patching the pygat
 
  >I led a lab on this today, and everyone got it to work and got interesting results
 
+3/22/2017 3:44 AM
+
+ **pierre** :
+
+ >I feel it has a lot of promise
+
