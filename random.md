@@ -306,3 +306,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >(I mean, when people from Google, from the New York Times, OpenAI, YC Reasearch and Yosha Bengio team up... It's worth looking at!)
 
+3/22/2017 4:19 AM
+
+ **sydneyneurotechx** :
+
+ ><https://www.quantamagazine.org/20170321-yves-meyer-abel-prize/>
+
