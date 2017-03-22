@@ -318,3 +318,9 @@ Maybe it'll get better contact or be more comfortable if the helmet had some fle
 > 
 We were having a discussion about the price range of portable fNIRS devices recently.
 
+3/22/2017 6:54 PM
+
+ **aj** :
+
+ >anyone know have experience with MQTT?
+
