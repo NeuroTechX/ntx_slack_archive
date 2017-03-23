@@ -843,3 +843,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >Thanks guys
 
+3/23/2017 5:27 AM
+
+ **lemiesz** :
+
+ >So the way I understand it, MuseIO does not work with the current headband right now
+
