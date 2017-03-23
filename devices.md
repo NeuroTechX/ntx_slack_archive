@@ -336,3 +336,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >Is there any software to use with openBCI that is like emotiv's where you can do command recognition
 
+3/23/2017 8:57 PM
+
+ **sydneyneurotechx** :
+
+ >Like Keyboard control?
+
