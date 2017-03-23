@@ -111,3 +111,9 @@ but yeah you definitely don't need to pay for it; we just recruited students who
 > 
 and hectordomorozco definitely feel free to contact me if you need anything :smile:
 
+3/23/2017 6:52 PM
+
+ **sayan_faraz** :
+
+ >also yannick is this the official channel for student clubs now (ie are we stopping the use of the nt-studentclubs slack?
+
