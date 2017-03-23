@@ -837,3 +837,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >send me an email at moffat at interaxon dot ca
 
+3/23/2017 5:27 AM
+
+ **lemiesz** :
+
+ >Thanks guys
+
