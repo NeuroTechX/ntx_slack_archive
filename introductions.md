@@ -312,3 +312,9 @@
 
  >I have an interest, although I don't have the background yet to fully get it. I purchased the empatica embrace as I was looking for a cheap EDA unit, however didn't realize that they haven't launched the API yet :disappointed:. However a future project does involve multi modal input (Current have a EEG, EDA and EKG device)
 
+3/23/2017 8:44 AM
+
+ **davidevaleriani** :
+
+ >Hey watson, welcome to NTX. I've interest too in RR peaks and GSR, especially for their correlates with decision making. What are you using them for? Emotions?
+
