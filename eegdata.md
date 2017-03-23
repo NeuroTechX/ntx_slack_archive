@@ -861,3 +861,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >I don't see why it wouldn't. How did you come to that conclusion?
 
+3/23/2017 8:27 PM
+
+ **igweckay** :
+
+ >Has anyone connected Emotiv with Processing.js ? 
+
