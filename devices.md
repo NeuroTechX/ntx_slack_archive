@@ -348,3 +348,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >If so, you could potentially with OpenVibe
 
+3/23/2017 9:00 PM
+
+ **sydneyneurotechx** :
+
+ ><http://openbci.com/forum/index.php?p=/discussion/475/moving-the-cursor-via-openvibe-ongoing-tutorial-for-beginners>
+
