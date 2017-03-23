@@ -87,3 +87,9 @@ The Student Clubs committee is looking for someone to help us develop a website 
 > 
 And Sayan as we all know, with his awesome team, is behind NeuroTechUofT.
 
+3/23/2017 6:30 PM
+
+ **yannick** :
+
+ >hectordomorozco do not hesitate to contact them to get the McMaster one online :smile:
+
