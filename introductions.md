@@ -336,3 +336,9 @@
 
  >vasilisa are you pursuing the PhD with Pr. Cuntai Guan group?
 
+3/23/2017 11:14 PM
+
+ **watson** :
+
+ >davidevaleriani , sydneyneurotechx : great! Ive created the channel <#C4NA4CTK3|autonomic-system> to focus on topics related to autonomic (and peripheral more generally) NS & Im interested in emotional orientation (anxious, excited, &) and general cognitive state (e.g. sleepy, focused etc).
+
