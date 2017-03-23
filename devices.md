@@ -354,3 +354,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  ><http://openbci.com/forum/index.php?p=/discussion/475/moving-the-cursor-via-openvibe-ongoing-tutorial-for-beginners>
 
+3/23/2017 9:05 PM
+
+ **harris** :
+
+ >How much work needs to be done with OpenVIBE to achieve something similar to Emotiv's kit?
+
