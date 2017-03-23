@@ -60,3 +60,9 @@ The Student Clubs committee is looking for someone to help us develop a website 
 
  >Hi Pawel, Do you have a website? Would love to learn more abou tit.
 
+3/23/2017 4:46 PM
+
+ **hectordomorozco** :
+
+ >Beautiful NTX people, quick question: If you were budgeting a webpage for a student club (nothing too fancy, nothing too big)... How much money would you allocate to this?
+
