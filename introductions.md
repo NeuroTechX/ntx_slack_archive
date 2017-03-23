@@ -324,3 +324,9 @@
 
  >Hi, everyone! I am Vasilisa from Singapore (originally from Belarus). I am doing PhD in BCI :slightly_smiling_face: My topic is feature extraction from EEG for Motor Imagery BCI. Happy to join community!
 
+3/23/2017 11:48 AM
+
+ **sydneyneurotechx** :
+
+ >welcome!
+
