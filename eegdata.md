@@ -849,3 +849,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >So the way I understand it, MuseIO does not work with the current headband right now
 
+3/23/2017 6:25 AM
+
+ **franko** :
+
+ >Hello, any reviews on Emotiv Insight? Need something for brain work analysis during working hours. Is it accurate?
+
