@@ -813,3 +813,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >Feel free to message me if you have any questions or concerns
 
+3/23/2017 1:02 AM
+
+ **graeme** :
+
+ >pierre that is really slick
+
