@@ -318,3 +318,9 @@
 
  >Hey watson, welcome to NTX. I've interest too in RR peaks and GSR, especially for their correlates with decision making. What are you using them for? Emotions?
 
+3/23/2017 11:40 AM
+
+ **vasilisa** :
+
+ >Hi, everyone! I am Vasilisa from Singapore (originally from Belarus). I am doing PhD in BCI :slightly_smiling_face: My topic is feature extraction from EEG for Motor Imagery BCI. Happy to join community!
+
