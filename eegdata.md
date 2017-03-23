@@ -831,3 +831,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >When i uploading an app that uses muse its asking for some id can you just how can i get it
 
+3/23/2017 1:04 AM
+
+ **graeme** :
+
+ >send me an email at moffat at interaxon dot ca
+
