@@ -78,3 +78,12 @@ The Student Clubs committee is looking for someone to help us develop a website 
 
  >CC hectordomorozco, braden, sayan_faraz
 
+3/23/2017 6:29 PM
+
+ **yannick** :
+
+ >Braden is currently spearheading the Indiana University NeuroTech Student Club.
+
+> 
+And Sayan as we all know, with his awesome team, is behind NeuroTechUofT.
+
