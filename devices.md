@@ -330,3 +330,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >i've seen and held one
 
+3/23/2017 8:20 PM
+
+ **harris** :
+
+ >Is there any software to use with openBCI that is like emotiv's where you can do command recognition
+
