@@ -825,3 +825,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >graeme: hey i need a help with you guys
 
+3/23/2017 1:03 AM
+
+ **bhargava2566302** :
+
+ >When i uploading an app that uses muse its asking for some id can you just how can i get it
+
