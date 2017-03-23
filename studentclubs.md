@@ -126,3 +126,9 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 > 
 <http://neurotechuoft.github.io/index.html>
 
+3/23/2017 8:48 PM
+
+ **yannick** :
+
+ >As for the Student Club Slack, I'd come back here, until too much is happening and we really need subsections for specific conversations. benjamindeleener, your thoughts?
+
