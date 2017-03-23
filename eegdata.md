@@ -819,3 +819,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >pierre that is really slick
 
+3/23/2017 1:03 AM
+
+ **bhargava2566302** :
+
+ >graeme: hey i need a help with you guys
+
