@@ -117,3 +117,12 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 
  >also yannick is this the official channel for student clubs now (ie are we stopping the use of the nt-studentclubs slack?
 
+3/23/2017 8:46 PM
+
+ **yannick** :
+
+ >sayan_faraz Ho! Really! By the look of it, I thought it was.
+
+> 
+<http://neurotechuoft.github.io/index.html>
+
