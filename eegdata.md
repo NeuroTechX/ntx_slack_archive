@@ -855,3 +855,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >Hello, any reviews on Emotiv Insight? Need something for brain work analysis during working hours. Is it accurate?
 
+3/23/2017 12:12 PM
+
+ **sydneyneurotechx** :
+
+ >I don't see why it wouldn't. How did you come to that conclusion?
+
