@@ -342,3 +342,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >Like Keyboard control?
 
+3/23/2017 8:59 PM
+
+ **sydneyneurotechx** :
+
+ >If so, you could potentially with OpenVibe
+
