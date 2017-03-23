@@ -72,3 +72,9 @@ The Student Clubs committee is looking for someone to help us develop a website 
 
  >You shouldn't pay for it, students should do it. The easiest way is to fork the NeuroTechUofT one on GitHub (Jekyll based). Indiana University is currently doing their website as well based on that approach. We'd like to make a "Template out of it". Thumbs up to NeuroTechUofT! Now we can copy their website and improve on it and provide a nice template to new student clubs!
 
+3/23/2017 6:28 PM
+
+ **yannick** :
+
+ >CC hectordomorozco, braden, sayan_faraz
+
