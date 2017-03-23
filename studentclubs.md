@@ -93,3 +93,21 @@ And Sayan as we all know, with his awesome team, is behind NeuroTechUofT.
 
  >hectordomorozco do not hesitate to contact them to get the McMaster one online :smile:
 
+3/23/2017 6:51 PM
+
+ **sayan_faraz** :
+
+ >yannick ours isn't jekyll based yet :stuck_out_tongue: (we've been just hard-coding our blog posts :cry: ... yes i know very hacky .-.) but we're going to make it jekyll-based very soon
+
+> 
+
+
+> 
+but yeah you definitely don't need to pay for it; we just recruited students who were interested in learning web development and gave them an awesome project to work on :smile:
+
+> 
+
+
+> 
+and hectordomorozco definitely feel free to contact me if you need anything :smile:
+
