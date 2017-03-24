@@ -144,3 +144,9 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 
  >I was planning on getting a website together this weekend, so perhaps it would be more efficient to start something on wordpress since Im more familiar? Im willing to help with this process, hectordomorozco.
 
+3/24/2017 5:42 AM
+
+ **braden** :
+
+ >any thoughts? yannick benjamindeleener
+
