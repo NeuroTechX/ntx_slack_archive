@@ -333,3 +333,9 @@ Hope that helps!
 > 
 (we'll try to summarize all that feedback (&amp; insights) in the documentation as it might help many student clubs. Thanks braden &amp; sayan_faraz for starting the conversation! :slightly_smiling_face:
 
+3/24/2017 12:16 PM
+
+ **yannick** :
+
+ >PS: No approach is the 100% best as the situation &amp; university &amp; ecosystem &amp; people will be different from one student club to another. And because it all started last year, we're still all learning what works and help and what doesn't. The best thing we can do is exactly what you guys are doing and share experiences and build from one another. (my two cents)
+
