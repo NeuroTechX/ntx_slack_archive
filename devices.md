@@ -372,3 +372,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >jmhorschig yeah, we had a similar conversation few months ago about some EEG (research) devices not showing their prices but offering a "Get a Quote" button. (e.g. Cognionics)
 
+3/24/2017 12:21 PM
+
+ **yannick** :
+
+ >Thanks for the price range!
+
