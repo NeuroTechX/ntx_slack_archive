@@ -114,3 +114,81 @@ Feel free to email me at <mailto:conor@openbci.com|conor@openbci.com> or <mailto
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/opportunities.md>
 
+3/24/2017 12:49 PM
+
+ **yannick** :
+
+ >---------------------------------
+
+> 
+New opportunity that some of you might be interested in. 
+
+> 
+
+
+> 
+*Summer Internship in Japan*
+
+> 
+
+
+> 
+*beBit*, a consulting firm devoted to human brain understanding
+
+> 
+beBit is a consulting company focusing on internet strategies using human-centered problem-solving approaches. Were skilled at deeply understanding customers minds, and helping our clients design business solution based on their customers needs. We established R&amp;D Department last year in order to research into the latest technologies of human brain understanding. Given the fast growth in this field, we are looking for more talents, who are full of passion and curiosity, and eager to work with the pioneer companies to disclose the mysteries of human minds and behaviors.
+
+> 
+
+
+> 
+One month internship in R&amp;D
+
+> 
+-Time: 1 month, before mid-August (the exact dates can be discussed)
+
+> 
+-Location: beBit headquarter in Tokyo
+
+> 
+-Work content:
+
+> 
+You will be working with beBits R&amp;D team, researching into the fields of neuroscience, physiology and cutting-edge technologies according to the needs and focus of the team.
+
+> 
+-Compensation: 7,500 †/day (may be higher depending on your proficiency in neuroscience/physiology)
+
+> 
+beBit will also cover your round-trip tickets and your accommodation in Tokyo.
+
+> 
+
+
+> 
+Who are we looking for?
+
+> 
+-Possessed of knowledge about Neuroscience or Physiology
+
+> 
+-Interested in human brain understanding
+
+> 
+-Excited about cutting-edge technologies
+
+> 
+-Fluent in English
+
+> 
+
+
+> 
+*If you are interested, please let me know, I'll put you in touch with the person responsible  for that position at beBit.*
+
+> 
+_(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
+
+> 
+---------------------------------
+
