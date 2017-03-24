@@ -297,3 +297,39 @@ Thats amazing you already found a few students interested! I agree that keeping
 
  >and we will try to get more student clubs in this call
 
+3/24/2017 12:07 PM
+
+ **yannick** :
+
+ >Damn I need to stop going to bed before 2am, that's when the convos are happening!
+
+> 
+
+
+> 
+1) I'd like to know if McGill people have any insights on how they approached support from Faculty and/or Grad Students. /CC sonia, abhishek
+
+> 
+2) At ETS, with SynapsETS (CC jp.portant.etsmtl, nicomaque.jette), the strategy was to approach Profs working with EEG (&amp; MEG), because they would understand the value of "hacking" on EEG devices during undergrad years and develop skills on electrophys, cog sci, machine learning, signal processing, etc.
+
+> 
+Don't try to involve them necessarily at the beginning, but get their "support" as it can unlock doors down the road (the more senior and/or decorated the Prof, the more weight (s)he can have). Don't try to have them "do stuff" at the beginning or being actively involved, that will come once you have some momentum. Meet them, explain the idea and you'll see you will be your allies and help you a lot and the others at least will know that you exist and can redirect people your way.
+
+> 
+The first pain point for researchers / research labs that NTX student clubs can help with, is to speed up the "hands on" learning curve. Neurotech-related fields are multidisciplinary and you now require lots of skills to be efficient and researchers start to see that more than ever before. (e.g. Grad students with little experience in programming when starting their master/PhD) The second pain point is recruitment, finding (good) candidates to join their lab. Such a student club can help in that regard.
+
+> 
+3) *Grad Students* can be key. They might have limited time, but their knowledge makes every minute they give to the club very valuable! Lots of them, working in related fields wish that such clubs existed when they where undergrads themselves and will see the value and will want to help (benjamindeleener &amp; I would be good examples I guess, both PhD students)
+
+> 
+
+
+> 
+Hope that helps!
+
+> 
+
+
+> 
+(we'll try to summarize all that feedback (&amp; insights) in the documentation as it might help many student clubs. Thanks braden &amp; sayan_faraz for starting the conversation! :slightly_smiling_face:
+
