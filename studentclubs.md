@@ -285,3 +285,9 @@ Thats amazing you already found a few students interested! I agree that keeping
 
  >And as Sayan said, if not professor gives you support, try getting in touch with graduate students. They will provide you with advices, help you getting started, and maybe sometimes convince their supervisor to get involved (I cite the example of PolyCortex, at Polytechnique Montreal, which had a few graduate students that helped at the very beginning).
 
+3/24/2017 11:42 AM
+
+ **benjamindeleener** :
+
+ >I would be happy to do a meeting discussing with you some point about running a club and the directions you could take. Ill update my availabilities on when2meet.
+
