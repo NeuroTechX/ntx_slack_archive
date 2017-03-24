@@ -240,3 +240,9 @@ speaking of which yannick benjamindeleener should we have a meeting to discuss o
 
  >yesss point taken. the curriculum Im currently in is strictly group projects, which has definitely shown me all varieties of successful and disastrous team dynamics. :slightly_smiling_face::upside_down_face:
 
+3/24/2017 6:21 AM
+
+ **braden** :
+
+ >I do hope to connect and collaborate with student groups from other universities though, tons of value through those relationships!!
+
