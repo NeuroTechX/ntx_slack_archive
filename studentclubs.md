@@ -246,3 +246,9 @@ speaking of which yannick benjamindeleener should we have a meeting to discuss o
 
  >I do hope to connect and collaborate with student groups from other universities though, tons of value through those relationships!!
 
+3/24/2017 6:27 AM
+
+ **braden** :
+
+ >If youd like to meet, heres my availability for the next week, let me know when would work best for you! <https://www.when2meet.com/?6111623-GHMGY>
+
