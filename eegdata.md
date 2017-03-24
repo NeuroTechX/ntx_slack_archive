@@ -876,3 +876,9 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 > 
 try this application with your device (for Muse2016) to read and save the signals from Muse2016, it is the only solution until now <https://play.google.com/store/apps/details?id=com.myr.mymuse2017>
 
+3/24/2017 8:29 PM
+
+ **graeme** :
+
+ >lemiesz you can use Muse Monitor as a substitute for MuseIO if you're using the 2016 headband. It can output an osc stream in the same way MuseIO does.
+
