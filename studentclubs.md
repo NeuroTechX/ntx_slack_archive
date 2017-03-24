@@ -156,3 +156,9 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 
  >Also just as a quick update on the status of moving parts here at IU, so far Ive found 4 other students that want to be engaged with neurotech.
 
+3/24/2017 5:51 AM
+
+ **braden** :
+
+ >I also met with the hacker squad within our psych department today, theyre going to let me use a mini race track controlled by neurosky as a tangible promotional example rather than trying to inspire others through only a slide deck
+
