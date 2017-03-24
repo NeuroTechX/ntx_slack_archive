@@ -390,3 +390,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >yrenard Any ideas?
 
+3/24/2017 3:58 PM
+
+ **yrenard** :
+
+ >I would say reading the tutorials mainly, to understand the underlying of a BCI process (preprocess, feature extraction, modeling and feedback pipeline basically) - Everything is in the software to let you do pretty much the same as Emotiv's EmoKey
+
