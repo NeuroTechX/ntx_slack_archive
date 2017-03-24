@@ -132,3 +132,9 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 
  >As for the Student Club Slack, I'd come back here, until too much is happening and we really need subsections for specific conversations. benjamindeleener, your thoughts?
 
+3/24/2017 12:42 AM
+
+ **benjamindeleener** :
+
+ >sayan_faraz yannick indeed this channel is a little bit more used that a whole studentclubs slack domain. And I guess it is enough for small conversations during the year. Although, we could keep the studentclubs domain for the competition, or create a specific channel on this one.
+
