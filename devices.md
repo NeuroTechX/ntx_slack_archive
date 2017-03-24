@@ -360,3 +360,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >How much work needs to be done with OpenVIBE to achieve something similar to Emotiv's kit?
 
+3/24/2017 7:52 AM
+
+ **jmhorschig** :
+
+ >yannick: sure I have, I am working here ;) the whole industry is hesitant with making their prices publicly available though (not sure why, we all know what prices of competitors are anyway), and it varies per country Think of something around 20k$.
+
