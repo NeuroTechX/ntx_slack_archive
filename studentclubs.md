@@ -150,3 +150,9 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 
  >any thoughts? yannick benjamindeleener
 
+3/24/2017 5:45 AM
+
+ **braden** :
+
+ >Also just as a quick update on the status of moving parts here at IU, so far Ive found 4 other students that want to be engaged with neurotech.
+
