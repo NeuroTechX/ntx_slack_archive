@@ -378,3 +378,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >Thanks for the price range!
 
+3/24/2017 12:35 PM
+
+ **jmhorschig** :
+
+ >Generally with EEG research devices, it's about 500$ per channel up until 32ch, and then 250$ per additional channel up until 64ch, and from then on ~125$ per channel ( i.e. 8ch is 4k$, 32ch ~16k$, 64ch ~24k$, 128ch ~32k$, 256ch ~48k$). Just rough estimates though, differs a bit per company. It's a bit stupid that it's so secretive, but that's the market...
+
