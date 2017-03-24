@@ -222,3 +222,15 @@ i'll definitely say it has its pros and cons
 
  >it would be great to talk to you about your past experiences with this whole process sometime, would you be willing sayan_faraz?
 
+3/24/2017 6:11 AM
+
+ **sayan_faraz** :
+
+ >braden yeah ofc :smile:
+
+> 
+but i def want to stress that our way might not be the best, and other groups have probably had more success with their ways of doing things
+
+> 
+speaking of which yannick benjamindeleener should we have a meeting to discuss our approaches in running our clubs? would be an awesome way of learning from each other :stuck_out_tongue:
+
