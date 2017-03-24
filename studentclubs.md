@@ -291,3 +291,9 @@ Thats amazing you already found a few students interested! I agree that keeping
 
  >I would be happy to do a meeting discussing with you some point about running a club and the directions you could take. Ill update my availabilities on when2meet.
 
+3/24/2017 11:49 AM
+
+ **benjamindeleener** :
+
+ >and we will try to get more student clubs in this call
+
