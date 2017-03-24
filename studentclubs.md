@@ -267,3 +267,9 @@ speaking of which yannick benjamindeleener should we have a meeting to discuss o
 > 
 Thats amazing you already found a few students interested! I agree that keeping the momentum with the students you have is very important, probably more than getting more people involved. Trying to create a small group that is very passionated and willing to help is key and the rest will follow.
 
+3/24/2017 11:30 AM
+
+ **benjamindeleener** :
+
+ >Concerning faculty support, I agree that it can be difficult to get them involved. However, your student clubs is first a way of learning, by project and with the help of other clubs around the world, and faculty members are very sensitive to the learning aspect. Try to expose them to this, as well as showing how getting students closer to the technology will help them increase to students potential for graduate studies (faculty members are always looking for good graduate students). Dont try to involve too much faculty members, except if you have specific requirements from the university, because they are usually very busy. However, they can give you great advice, and sometimes access to technologies.
+
