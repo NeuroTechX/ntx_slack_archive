@@ -867,3 +867,12 @@ Anyone have any resources I could read, to help introduce me to Muse/EEGs/Neurof
 
  >Has anyone connected Emotiv with Processing.js ? 
 
+3/24/2017 8:02 AM
+
+ **rimsmb** :
+
+ >Hi,
+
+> 
+try this application with your device (for Muse2016) to read and save the signals from Muse2016, it is the only solution until now <https://play.google.com/store/apps/details?id=com.myr.mymuse2017>
+
