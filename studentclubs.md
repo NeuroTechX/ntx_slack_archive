@@ -273,3 +273,9 @@ Thats amazing you already found a few students interested! I agree that keeping
 
  >Concerning faculty support, I agree that it can be difficult to get them involved. However, your student clubs is first a way of learning, by project and with the help of other clubs around the world, and faculty members are very sensitive to the learning aspect. Try to expose them to this, as well as showing how getting students closer to the technology will help them increase to students potential for graduate studies (faculty members are always looking for good graduate students). Dont try to involve too much faculty members, except if you have specific requirements from the university, because they are usually very busy. However, they can give you great advice, and sometimes access to technologies.
 
+3/24/2017 11:31 AM
+
+ **benjamindeleener** :
+
+ >Building a video with students experience is a amazing idea!
+
