@@ -339,3 +339,21 @@ Hope that helps!
 
  >PS: No approach is the 100% best as the situation &amp; university &amp; ecosystem &amp; people will be different from one student club to another. And because it all started last year, we're still all learning what works and help and what doesn't. The best thing we can do is exactly what you guys are doing and share experiences and build from one another. (my two cents)
 
+3/24/2017 1:12 PM
+
+ **hectordomorozco** :
+
+ >Thanks everyone for the tips and tricks. I am not paying for it; the reason Im asking for a price is because my undergrads are applying for club status at Mac, so McMaster is paying for it. They need to hand in a yearly budget and they asked me how much should they allocate (from the money that mcmaster is potentially giving them) to the building of a website. 
+
+> 
+
+
+> 
+braden, the way weve been doing it around here is that I actually have been getting on board more people from the health sciences and engineering departments than they psych ones. Usually psych people are not interested in this kind of projects (sadly). 
+
+> 
+
+
+> 
+If there is a meeting, I would love to be part of it, if you guys are Ok with this :smile:
+
