@@ -180,3 +180,12 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 
  >My first thought was to make some sort of video or podcast portraying testimonials from undergrads or professors from other universities
 
+3/24/2017 5:55 AM
+
+ **sayan_faraz** :
+
+ >braden our approach so far has been not to approach faculty until we have something that they can contribute to; or else they end up sitting around not really knowing how to contribute
+
+> 
+but on the other hand they can really give helpful tips that would save lots of time and worrying
+
