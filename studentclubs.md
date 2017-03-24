@@ -258,3 +258,12 @@ speaking of which yannick benjamindeleener should we have a meeting to discuss o
 
  >not sure youve used when2meet, but if yannick or benjamindeleener would like to join in, we could all fill out our availabilities through that link to figure out the best time  to meet as a group
 
+3/24/2017 11:24 AM
+
+ **benjamindeleener** :
+
+ >braden Of course you can create your website with the template you prefer. Wordpress is a great one and very easy to update with news.
+
+> 
+Thats amazing you already found a few students interested! I agree that keeping the momentum with the students you have is very important, probably more than getting more people involved. Trying to create a small group that is very passionated and willing to help is key and the rest will follow.
+
