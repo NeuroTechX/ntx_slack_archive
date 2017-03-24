@@ -1137,3 +1137,21 @@ Im human computer interaction student at tallinn. Ive recently discovered this
 
  >congrats on the mit tech review article pharo <https://www.technologyreview.com/s/603896/controlling-vr-with-your-mind/>
 
+3/24/2017 11:52 PM
+
+ **eferdinand** :
+
+ >Call for speakers -- O'Reilly Artificial Intelligence Conference in San Francisco
+
+> 
+
+
+> 
+The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to explore the most essential and intriguing topics in intelligence engineering and applied AI. Were looking for compelling case studies, technical sessions, tear-downs of both successful and failed AI projects, technical and organizational best practices, and more. Apply to speak by March 28.
+
+> 
+
+
+> 
+<http://www.oreilly.com/pub/cpc/68827>
+
