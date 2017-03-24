@@ -279,3 +279,9 @@ Thats amazing you already found a few students interested! I agree that keeping
 
  >Building a video with students experience is a amazing idea!
 
+3/24/2017 11:33 AM
+
+ **benjamindeleener** :
+
+ >And as Sayan said, if not professor gives you support, try getting in touch with graduate students. They will provide you with advices, help you getting started, and maybe sometimes convince their supervisor to get involved (I cite the example of PolyCortex, at Polytechnique Montreal, which had a few graduate students that helped at the very beginning).
+
