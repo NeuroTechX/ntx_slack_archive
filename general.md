@@ -1131,3 +1131,9 @@ Im human computer interaction student at tallinn. Ive recently discovered this
 
  >you need to allow the website to be opened, in the same page it was refused
 
+3/24/2017 3:03 AM
+
+ **sydneyneurotechx** :
+
+ >congrats on the mit tech review article pharo <https://www.technologyreview.com/s/603896/controlling-vr-with-your-mind/>
+
