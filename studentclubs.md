@@ -189,3 +189,12 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 > 
 but on the other hand they can really give helpful tips that would save lots of time and worrying
 
+3/24/2017 5:57 AM
+
+ **sayan_faraz** :
+
+ >but again a lot of this is 'trial and error' like in startups, so not completely sure if our approach has been a good one :stuck_out_tongue:
+
+> 
+i'll definitely say it has its pros and cons
+
