@@ -342,3 +342,9 @@
 
  >davidevaleriani , sydneyneurotechx : great! Ive created the channel <#C4NA4CTK3|autonomic-system> to focus on topics related to autonomic (and peripheral more generally) NS & Im interested in emotional orientation (anxious, excited, &) and general cognitive state (e.g. sleepy, focused etc).
 
+3/24/2017 4:03 AM
+
+ **vasilisa** :
+
+ >okbalefthanded no :slightly_smiling_face: but I know few people from their group.
+
