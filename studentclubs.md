@@ -198,3 +198,9 @@ but on the other hand they can really give helpful tips that would save lots of 
 > 
 i'll definitely say it has its pros and cons
 
+3/24/2017 5:57 AM
+
+ **sayan_faraz** :
+
+ >we've tried asking grad students and postdocs instead; one of them really saved us with a few projects
+
