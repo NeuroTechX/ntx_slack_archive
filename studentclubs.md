@@ -252,3 +252,9 @@ speaking of which yannick benjamindeleener should we have a meeting to discuss o
 
  >If youd like to meet, heres my availability for the next week, let me know when would work best for you! <https://www.when2meet.com/?6111623-GHMGY>
 
+3/24/2017 6:31 AM
+
+ **braden** :
+
+ >not sure youve used when2meet, but if yannick or benjamindeleener would like to join in, we could all fill out our availabilities through that link to figure out the best time  to meet as a group
+
