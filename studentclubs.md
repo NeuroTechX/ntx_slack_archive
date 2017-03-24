@@ -234,3 +234,9 @@ but i def want to stress that our way might not be the best, and other groups ha
 > 
 speaking of which yannick benjamindeleener should we have a meeting to discuss our approaches in running our clubs? would be an awesome way of learning from each other :stuck_out_tongue:
 
+3/24/2017 6:18 AM
+
+ **braden** :
+
+ >yesss point taken. the curriculum Im currently in is strictly group projects, which has definitely shown me all varieties of successful and disastrous team dynamics. :slightly_smiling_face::upside_down_face:
+
