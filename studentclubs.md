@@ -174,3 +174,9 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 
  >I met with the psych departments director of outreach today, and he thought it might be difficult to get most of our professors to understand the value in what were trying to do
 
+3/24/2017 5:55 AM
+
+ **braden** :
+
+ >My first thought was to make some sort of video or podcast portraying testimonials from undergrads or professors from other universities
+
