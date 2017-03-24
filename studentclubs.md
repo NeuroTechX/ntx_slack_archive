@@ -210,3 +210,9 @@ i'll definitely say it has its pros and cons
 
  >yes that makes complete sense. I have some experience working with an awesome faculty member whose support would be super helpful, but its been a couple days with no response. Im sure it would be helpful if we were able to show him that were serious through some tangible project we did
 
+3/24/2017 6:07 AM
+
+ **braden** :
+
+ >good to hear that youve found grad/post doc support though, that is definitely part of my plans for next week. I have a list of EEG Labs Im going to visit next week with hopes of finding a mentor of sorts
+
