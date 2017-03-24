@@ -204,3 +204,9 @@ i'll definitely say it has its pros and cons
 
  >we've tried asking grad students and postdocs instead; one of them really saved us with a few projects
 
+3/24/2017 6:05 AM
+
+ **braden** :
+
+ >yes that makes complete sense. I have some experience working with an awesome faculty member whose support would be super helpful, but its been a couple days with no response. Im sure it would be helpful if we were able to show him that were serious through some tangible project we did
+
