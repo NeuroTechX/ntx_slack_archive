@@ -216,3 +216,9 @@ i'll definitely say it has its pros and cons
 
  >good to hear that youve found grad/post doc support though, that is definitely part of my plans for next week. I have a list of EEG Labs Im going to visit next week with hopes of finding a mentor of sorts
 
+3/24/2017 6:08 AM
+
+ **braden** :
+
+ >it would be great to talk to you about your past experiences with this whole process sometime, would you be willing sayan_faraz?
+
