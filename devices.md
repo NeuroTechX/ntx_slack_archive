@@ -366,3 +366,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >yannick: sure I have, I am working here ;) the whole industry is hesitant with making their prices publicly available though (not sure why, we all know what prices of competitors are anyway), and it varies per country Think of something around 20k$.
 
+3/24/2017 12:21 PM
+
+ **yannick** :
+
+ >jmhorschig yeah, we had a similar conversation few months ago about some EEG (research) devices not showing their prices but offering a "Get a Quote" button. (e.g. Cognionics)
+
