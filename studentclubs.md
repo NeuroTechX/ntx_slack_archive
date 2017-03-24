@@ -138,3 +138,9 @@ and hectordomorozco definitely feel free to contact me if you need anything :smi
 
  >sayan_faraz yannick indeed this channel is a little bit more used that a whole studentclubs slack domain. And I guess it is enough for small conversations during the year. Although, we could keep the studentclubs domain for the competition, or create a specific channel on this one.
 
+3/24/2017 5:42 AM
+
+ **braden** :
+
+ >I was planning on getting a website together this weekend, so perhaps it would be more efficient to start something on wordpress since Im more familiar? Im willing to help with this process, hectordomorozco.
+
