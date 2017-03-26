@@ -24,3 +24,9 @@
 
  >alex and rdesai are organizing the Boston chapter
 
+3/26/2017 9:19 PM
+
+ **alex** :
+
+ >mkos welcome!
+
