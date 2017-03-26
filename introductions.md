@@ -354,3 +354,9 @@
 
  >Hi everyone! I'm Max. I got Muse several months ago and recently got an idea to try actually get some fun data out of it
 
+3/26/2017 10:21 PM
+
+ **maxim** :
+
+ >First idea is to try to do a meditation timer app, that would also record Muse data, saving them for future analysis. Having an additional signal to "focus back on the breath" + recording ambient noise through phone mic (to detect outside distraction) seems like might be enough for some data analysis. Does it sound plausible?
+
