@@ -357,3 +357,9 @@ braden, the way weve been doing it around here is that I actually have been get
 > 
 If there is a meeting, I would love to be part of it, if you guys are Ok with this :smile:
 
+3/26/2017 11:45 PM
+
+ **sayan_faraz** :
+
+ >anyone have tips on sponsorship? would love to hear!
+
