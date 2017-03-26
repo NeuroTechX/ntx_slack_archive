@@ -882,3 +882,9 @@ try this application with your device (for Muse2016) to read and save the signal
 
  >lemiesz you can use Muse Monitor as a substitute for MuseIO if you're using the 2016 headband. It can output an osc stream in the same way MuseIO does.
 
+3/26/2017 10:30 PM
+
+ **maxim** :
+
+ >By the way, you can use official Muse test application as well. It will save all the data in the file in sdcard, that file can then be saved and analyzed (if there is no need for realt-time interaction)
+
