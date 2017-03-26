@@ -348,3 +348,9 @@
 
  >okbalefthanded no :slightly_smiling_face: but I know few people from their group.
 
+3/26/2017 10:20 PM
+
+ **maxim** :
+
+ >Hi everyone! I'm Max. I got Muse several months ago and recently got an idea to try actually get some fun data out of it
+
