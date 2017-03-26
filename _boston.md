@@ -18,3 +18,9 @@
 
  >Hello!
 
+3/26/2017 8:00 PM
+
+ **sydneyneurotechx** :
+
+ >alex and rdesai are organizing the Boston chapter
+
