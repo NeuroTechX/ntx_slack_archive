@@ -372,3 +372,9 @@
 
  >I'm very new to biohacking, programming, and neuroscience, by the way. Hopefully I'll be able to grow and help out.
 
+3/27/2017 1:00 AM
+
+ **yannick** :
+
+ >Hi vitruvia! Where are you from?
+
