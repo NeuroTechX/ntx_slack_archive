@@ -324,3 +324,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >Python is perfect to start with. Then it will be more "contextual" (depending on the team / lab / company) and project specific.
 
+3/27/2017 10:55 AM
+
+ **igweckay** :
+
+ >Pyt
+
