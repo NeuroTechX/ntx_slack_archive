@@ -312,3 +312,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  ><https://www.quantamagazine.org/20170321-yves-meyer-abel-prize/>
 
+3/27/2017 10:22 AM
+
+ **vitruvia** :
+
+ >What computer language do you think is best suited for BCI projects? Is python fine or should I learn something else?
+
