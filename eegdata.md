@@ -888,3 +888,9 @@ try this application with your device (for Muse2016) to read and save the signal
 
  >By the way, you can use official Muse test application as well. It will save all the data in the file in sdcard, that file can then be saved and analyzed (if there is no need for realt-time interaction)
 
+3/27/2017 10:29 PM
+
+ **danbaker** :
+
+ >lemiesz I believe thats correct - I had purchased a 2016 band but it doesnt work with latest bluetooth LE or whatever it is, so I had to return it and use the 2015 model
+
