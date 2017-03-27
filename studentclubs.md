@@ -369,3 +369,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >It seems like benjamindeleener and I are free Tuesday at 5:30pm EST,  would you be free hectordomorozco? 
 
+3/27/2017 7:44 PM
+
+ **hectordomorozco** :
+
+ >braden Yes, Im in :slightly_smiling_face:
+
