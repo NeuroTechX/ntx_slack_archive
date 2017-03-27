@@ -366,3 +366,9 @@
 
  >Helo guys. I'm a medical student with interest in programming and I've just found out about NeuroTechX. Happy to meet you!
 
+3/27/2017 12:29 AM
+
+ **vitruvia** :
+
+ >I'm very new to biohacking, programming, and neuroscience, by the way. Hopefully I'll be able to grow and help out.
+
