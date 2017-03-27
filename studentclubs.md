@@ -363,3 +363,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >anyone have tips on sponsorship? would love to hear!
 
+3/27/2017 5:40 AM
+
+ **braden** :
+
+ >It seems like benjamindeleener and I are free Tuesday at 5:30pm EST,  would you be free hectordomorozco? 
+
