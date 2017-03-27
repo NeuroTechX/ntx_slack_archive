@@ -141,3 +141,15 @@ featuring dano at 1:25, haha :slightly_smiling_face:
 
  >yannick: saw that - what a good-looking individual! 
 
+3/27/2017 8:34 PM
+
+ **dano** :
+
+ >Hey guys,
+
+> 
+
+
+> 
+We've got an opportunity to hold a hacknight next Monday April 3rd. How does that work for people? If it's not ideal, we could push it back a week.
+
