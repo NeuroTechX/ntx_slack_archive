@@ -384,3 +384,9 @@
 
  >@yannic I'm from Brazil
 
+3/27/2017 6:34 AM
+
+ **sydneyneurotechx** :
+
+ >vitruvia  Welcome! ch.yumin  is also in Brazil
+
