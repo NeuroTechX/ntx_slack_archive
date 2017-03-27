@@ -366,3 +366,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >yannick You mean Brain Cyborg Gator Race :stuck_out_tongue: ...
 
+3/27/2017 8:41 PM
+
+ **vitruvia** :
+
+ >yannick igweckay benjamindeleener Thanks. That's good to hear, because I'm loving python so far
+
