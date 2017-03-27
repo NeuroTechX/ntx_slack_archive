@@ -1155,3 +1155,9 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 > 
 <http://www.oreilly.com/pub/cpc/68827>
 
+3/27/2017 10:25 PM
+
+ **sydneyneurotechx** :
+
+ ><http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs>
+
