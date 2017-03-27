@@ -336,3 +336,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >Python*
 
+3/27/2017 11:10 AM
+
+ **benjamindeleener** :
+
+ >vitruvia I agree with Yannick. Python is a great starting point for BCI projects and you will find a lot of resources online.
+
