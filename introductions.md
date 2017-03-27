@@ -360,3 +360,9 @@
 
  >First idea is to try to do a meditation timer app, that would also record Muse data, saving them for future analysis. Having an additional signal to "focus back on the breath" + recording ambient noise through phone mic (to detect outside distraction) seems like might be enough for some data analysis. Does it sound plausible?
 
+3/27/2017 12:28 AM
+
+ **vitruvia** :
+
+ >Helo guys. I'm a medical student with interest in programming and I've just found out about NeuroTechX. Happy to meet you!
+
