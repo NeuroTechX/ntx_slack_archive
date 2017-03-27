@@ -375,3 +375,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >braden Yes, Im in :slightly_smiling_face:
 
+3/27/2017 9:18 PM
+
+ **benjamindeleener** :
+
+ >thats a date!
+
