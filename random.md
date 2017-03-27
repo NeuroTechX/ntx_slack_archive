@@ -354,3 +354,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >marvinandujar &amp; chriscrawford instead of the Brain-Drone Race at U. of Florida, what about Brain Cyborg Turtle Race? You think Intel would sponsor it? :stuck_out_tongue:
 
+3/27/2017 4:37 PM
+
+ **joeyo** :
+
+ >Cockroaches and other insects [Maharbiz], rats [Chapin], bulls [Delgado] and now turtles & what animal will become a cyborg next?!
+
