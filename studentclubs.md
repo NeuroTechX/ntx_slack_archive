@@ -387,3 +387,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >benjamindeleener Excellent. Will it be through Skype? My skype user is hector.dom.orozco
 
+3/28/2017 12:55 PM
+
+ **benjamindeleener** :
+
+ >Skype is good. Ill let braden start the call. <!channel> if there is any one else interested in joining the call, feel free to tell us!
+
