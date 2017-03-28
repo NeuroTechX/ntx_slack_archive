@@ -432,3 +432,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >yannick - lol the turtle race would be fun! Maybe if we put the intel logo on top of the turtle, they would sponsor it
 
+3/28/2017 12:21 PM
+
+ **wqerwerwerwer** :
+
+ >bci
+
