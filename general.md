@@ -1206,3 +1206,9 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 
  ><!channel>  ^
 
+3/28/2017 4:42 PM
+
+ **physionikhil** :
+
+ >Thnx , they r only hiring for the time being
+
