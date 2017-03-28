@@ -1233,3 +1233,12 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 > 
 <http://www.theverge.com/2017/2/22/14631122/kernel-neuroscience-bryan-johnson-human-intelligence-ai-startup|www.theverge.com/2017/2/22/14631122/kernel-neuroscience-bryan-johnson-human-intelligence-ai-startup>
 
+3/28/2017 10:00 PM
+
+ **stephen** :
+
+ >Its really exciting that Elon is joining the neurotechnology industry  
+
+> 
+<http://www.theverge.com/2017/2/22/14631122/kernel-neuroscience-bryan-johnson-human-intelligence-ai-startup|www.theverge.com/2017/2/22/14631122/kernel-neuroscience-bryan-johnson-human-intelligence-ai-startup>
+
