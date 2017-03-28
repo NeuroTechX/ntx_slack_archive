@@ -399,3 +399,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >So it is going to be 5:30 EST, right?
 
+3/28/2017 1:24 PM
+
+ **benjamindeleener** :
+
+ >hectordomorozco yes
+
