@@ -462,3 +462,12 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >Ed Bergen?
 
+3/28/2017 6:25 PM
+
+ **yannick** :
+
+ >I liked his view on "We need more engineers in neuroscience" - <https://www.youtube.com/watch?v=teuKfeEkaKs>
+
+> 
+(I'm biased, I'm an engineer in (visual) neuroscience :p)
+
