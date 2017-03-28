@@ -405,3 +405,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >hectordomorozco yes
 
+3/28/2017 9:24 PM
+
+ **braden** :
+
+ >Anyone else is welcome to join our conversation!
+
