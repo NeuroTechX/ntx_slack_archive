@@ -204,3 +204,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 > 
 <https://neuralink.com/>
 
+3/28/2017 6:37 AM
+
+ **w** :
+
+ >the site loads jQuery :confused:   &and then doesnt even use it
+
