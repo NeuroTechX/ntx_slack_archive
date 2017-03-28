@@ -372,3 +372,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >yannick igweckay benjamindeleener Thanks. That's good to hear, because I'm loving python so far
 
+3/28/2017 12:06 AM
+
+ **sc** :
+
+ ><http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs>
+
