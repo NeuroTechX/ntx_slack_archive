@@ -402,3 +402,9 @@
 
  >Just saw this message! I'm from Toronto (UofT/SickKids)
 
+3/28/2017 2:53 PM
+
+ **sydneyneurotechx** :
+
+ >Sweet. I once chatted Tom Chau of IBBME and Sick Kids. He's my hero. <http://www.theglobeandmail.com/report-on-business/tom-chau-is-giving-children-with-physical-challenges-tools-to-speak-out/article1316405/>
+
