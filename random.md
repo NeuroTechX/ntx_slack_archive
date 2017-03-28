@@ -450,3 +450,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >Yea, agreed on Boyden. A contact of mine is doing work at the MIT Media Lab under Ed and he has nothing but positive things to say about him. I think Ed has like 5 degrees in different subjects.
 
+3/28/2017 4:09 PM
+
+ **karchie** :
+
+ >his first Nobel is going to be optogenetics. not sure what else is coming.
+
