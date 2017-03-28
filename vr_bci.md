@@ -39,3 +39,9 @@
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/vr_bci.md>
 
+3/28/2017 3:43 PM
+
+ **lincolnn** :
+
+ >Anyone work with gsr?
+
