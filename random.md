@@ -426,3 +426,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >Or are they still planning to do an invasive device?
 
+3/28/2017 4:14 AM
+
+ **marvinandujar** :
+
+ >yannick - lol the turtle race would be fun! Maybe if we put the intel logo on top of the turtle, they would sponsor it
+
