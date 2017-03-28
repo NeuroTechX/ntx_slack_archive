@@ -75,3 +75,9 @@
 
  >yes, I am developing my thesis project on architecture and cognitive neuroscience
 
+3/28/2017 3:17 PM
+
+ **firassafieddine** :
+
+ >im trying to find how architectural space influence us(neuro/physio)
+
