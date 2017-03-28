@@ -1218,3 +1218,9 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 
  >It's already begun...<http://bostinno.streetwise.co/2017/03/28/elon-musks-neuralink-hires-boston-university-researcher/?mc_cid=4e967feddd&amp;mc_eid=172080915b>
 
+3/28/2017 7:14 PM
+
+ **sydneyneurotechx** :
+
+ >sc I think you can take credit for the Neural Lace idea :stuck_out_tongue:
+
