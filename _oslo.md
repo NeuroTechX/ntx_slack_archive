@@ -27,3 +27,9 @@
 
  ><!channel> all set for the event on Thursday?
 
+3/28/2017 6:55 PM
+
+ **yannick** :
+
+ ><https://www.meetup.com/NeuroTechOSLO/events/237351061/>
+
