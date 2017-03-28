@@ -1173,3 +1173,12 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 
  >Definitely general worthy. Let's wait and see if they put out a call for hires
 
+3/28/2017 1:03 AM
+
+ **dano** :
+
+ >Also, some good BCI discussion in the Hacker News comments + a Muse mention
+
+> 
+<https://news.ycombinator.com/item?id=13971728#13972913>
+
