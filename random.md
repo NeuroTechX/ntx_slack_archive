@@ -378,3 +378,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  ><http://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs>
 
+3/28/2017 12:11 AM
+
+ **yrenard** :
+
+ >Remember that party in the mountains a year ago sc ? looks like you inspired him :wink:
+
