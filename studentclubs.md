@@ -393,3 +393,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >Skype is good. Ill let braden start the call. <!channel> if there is any one else interested in joining the call, feel free to tell us!
 
+3/28/2017 12:58 PM
+
+ **hectordomorozco** :
+
+ >So it is going to be 5:30 EST, right?
+
