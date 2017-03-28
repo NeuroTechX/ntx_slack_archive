@@ -396,3 +396,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >So is there going to be a Recruiting war between Kernel and Neuralink?
 
+3/28/2017 12:53 AM
+
+ **sc** :
+
+ >I think Kernel moved away from what Neuralink is talking about, didn't they?
+
