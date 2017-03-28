@@ -894,3 +894,9 @@ try this application with your device (for Muse2016) to read and save the signal
 
  >lemiesz I believe thats correct - I had purchased a 2016 band but it doesnt work with latest bluetooth LE or whatever it is, so I had to return it and use the 2015 model
 
+3/28/2017 4:38 PM
+
+ **d.adamos** :
+
+ >Hi all,  an event synchronization tutorial between OpenSesame open-source experiment builder and Emotiv EEG Testbench is provided in our Groups web page: <http://neuroinformatics.gr/node/37>
+
