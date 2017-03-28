@@ -456,3 +456,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >his first Nobel is going to be optogenetics. not sure what else is coming.
 
+3/28/2017 5:21 PM
+
+ **aj** :
+
+ >Ed Bergen?
+
