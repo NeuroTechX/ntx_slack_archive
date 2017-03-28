@@ -210,3 +210,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >the site loads jQuery :confused:   &and then doesnt even use it
 
+3/28/2017 4:33 PM
+
+ **sayan_faraz** :
+
+ >yeah :confused: ... its literally just an image and an email address lool
+
