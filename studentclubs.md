@@ -429,3 +429,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >thanks to everyone who contributed to the conversation, it was nice meeting you all!
 
+3/28/2017 11:41 PM
+
+ **hectordomorozco** :
+
+ >Yes indeed, it was great to see you guys :slightly_smiling_face:
+
