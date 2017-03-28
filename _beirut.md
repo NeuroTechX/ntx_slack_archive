@@ -63,3 +63,9 @@
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_beirut.md>
 
+3/28/2017 2:03 PM
+
+ **hish** :
+
+ >firassafieddine are you a student? What is your interest in NeuroTech?
+
