@@ -1188,3 +1188,9 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 
  >sc  haha yea, I figured it was going to be a race between me, yannick,  you and stephen  in posting it here. There is a <#C0HBD8S86|neurotechnews> so maybe we can post in there.
 
+3/28/2017 5:10 AM
+
+ **physionikhil** :
+
+ >Neuralink doesn't have a website as yet 
+
