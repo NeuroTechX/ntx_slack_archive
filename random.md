@@ -420,3 +420,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >ah, so he's going down the eeg/tdcs path? Neuroelectrics and <http://Foc.us|Foc.us> beat them :stuck_out_tongue:
 
+3/28/2017 3:59 AM
+
+ **sydneyneurotechx** :
+
+ >Or are they still planning to do an invasive device?
+
