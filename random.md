@@ -438,3 +438,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >bci
 
+3/28/2017 1:08 PM
+
+ **karchie** :
+
+ >quick summary on the Kernel article: switching from one invasive approach to another. (oddly, I know both PIs. Berger is super smart but I never got a sense anything important would come out of his lab. Boyden is the smartest guy I've ever met; at the level of the article, the tech sounds unworkable, but if anyone can make it work it's Boyden.)
+
