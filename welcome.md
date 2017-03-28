@@ -1,4 +1,4 @@
-Welcome to the NeuroTechX Slack! This Slack brings together hundreds of people from across the world to communicate about Neurotechnology. Everyone here is passionate about the domain and is willing to help out.
+Welcome to the *NeuroTechX* Slack! This Slack brings together hundreds of people from across the world to communicate about Neurotechnology. Everyone here is passionate about the domain and is willing to help out.
 
 Here is how you should get started:
 
