@@ -1167,3 +1167,9 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 
  >ha you did beat me to posting that. I can never tell if <#C073WP1T9|general> is the right place or <#C073WQK34|random> for articles. And if anyone decides to make a #news channel, then I'll never know which of the 3 to use (c:
 
+3/28/2017 1:02 AM
+
+ **dano** :
+
+ >Definitely general worthy. Let's wait and see if they put out a call for hires
+
