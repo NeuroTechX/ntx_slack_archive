@@ -1212,3 +1212,9 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 
  >Thnx , they r only hiring for the time being
 
+3/28/2017 6:43 PM
+
+ **adamm_neurable** :
+
+ >It's already begun...<http://bostinno.streetwise.co/2017/03/28/elon-musks-neuralink-hires-boston-university-researcher/?mc_cid=4e967feddd&amp;mc_eid=172080915b>
+
