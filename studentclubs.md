@@ -381,3 +381,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >thats a date!
 
+3/28/2017 12:52 PM
+
+ **hectordomorozco** :
+
+ >benjamindeleener Excellent. Will it be through Skype? My skype user is hector.dom.orozco
+
