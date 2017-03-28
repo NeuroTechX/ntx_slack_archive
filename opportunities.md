@@ -157,7 +157,7 @@ One month internship in R&amp;D
 You will be working with beBits R&amp;D team, researching into the fields of neuroscience, physiology and cutting-edge technologies according to the needs and focus of the team.
 
 > 
--Compensation: 7,500 †/day (may be higher depending on your proficiency in neuroscience/physiology)
+-Compensation: 7,500  /day (may be higher depending on your proficiency in neuroscience/physiology)
 
 > 
 beBit will also cover your round-trip tickets and your accommodation in Tokyo.
@@ -191,4 +191,16 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
 > 
 ---------------------------------
+
+3/28/2017 5:24 AM
+
+ **sayan_faraz** :
+
+ >Well, so turns out Elon Musk is hiring :stuck_out_tongue:
+
+> 
+
+
+> 
+<https://neuralink.com/>
 
