@@ -69,3 +69,9 @@
 
  >firassafieddine are you a student? What is your interest in NeuroTech?
 
+3/28/2017 3:17 PM
+
+ **firassafieddine** :
+
+ >yes, I am developing my thesis project on architecture and cognitive neuroscience
+
