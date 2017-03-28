@@ -384,3 +384,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >Remember that party in the mountains a year ago sc ? looks like you inspired him :wink:
 
+3/28/2017 12:13 AM
+
+ **sc** :
+
+ >Ha ha :zipper_mouth_face: 
+
