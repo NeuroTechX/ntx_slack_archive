@@ -408,3 +408,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  ><https://www.technologyreview.com/s/603771/the-entrepreneur-with-the-100-million-plan-to-link-brains-to-computers/>
 
+3/28/2017 12:54 AM
+
+ **sc** :
+
+ >"But it turns out that connecting to the brain isnt so easy. Six months after launching Kernel amid a media blitz, Johnson says hes dropped his initial plans for a memory implant, switched scientific advisors, hired a new team, and decided to instead invest in developing a more general-purpose technology for recording and stimulating the brain using electrodes."
+
