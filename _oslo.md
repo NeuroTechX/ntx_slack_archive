@@ -21,3 +21,9 @@
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/_oslo.md>
 
+3/28/2017 6:55 PM
+
+ **yannick** :
+
+ ><!channel> all set for the event on Thursday?
+
