@@ -402,3 +402,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >I think Kernel moved away from what Neuralink is talking about, didn't they?
 
+3/28/2017 12:54 AM
+
+ **sc** :
+
+ ><https://www.technologyreview.com/s/603771/the-entrepreneur-with-the-100-million-plan-to-link-brains-to-computers/>
+
