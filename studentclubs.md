@@ -411,3 +411,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >Anyone else is welcome to join our conversation!
 
+3/28/2017 9:24 PM
+
+ **braden** :
+
+ ><https://hangouts.google.com/hangouts/_/umail.iu.edu/neurotechxstudentclubs>
+
