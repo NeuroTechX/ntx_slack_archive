@@ -153,3 +153,63 @@ featuring dano at 1:25, haha :slightly_smiling_face:
 > 
 We've got an opportunity to hold a hacknight next Monday April 3rd. How does that work for people? If it's not ideal, we could push it back a week.
 
+3/29/2017 3:09 PM
+
+ **dano** :
+
+ >```
+
+> 
+  _   _            _          _       _     _   
+
+> 
+ | | | | __ _  ___| | ___ __ (_) __ _| |__ | |_ 
+
+> 
+ | |_| |/ _` |/ __| |/ / '_ \| |/ _` | '_ \| __|
+
+> 
+ |  _  | (_| | (__|   &lt;| | | | | (_| | | | | |_ 
+
+> 
+ |_| |_|\__,_|\___|_|\_\_| |_|_|\__, |_| |_|\__|
+
+> 
+                                |___/           
+
+> 
+```
+
+> 
+Monday April 3rd,
+
+> 
+6pm-?
+
+> 
+
+
+> 
+Come take a crack at neurotech software development and meet other neurotechers. Limited space available.
+
+> 
+
+
+> 
+Projects:
+
+> 
+- EEG 101 (Java, EEG, UI/UX)
+
+> 
+- Neurodoro (ML, Firebase, Cloudbrain, Java)
+
+> 
+- Gamma light (idk how do lights work?)
+
+> 
+
+
+> 
+PM me to be included on the guest list
+
