@@ -1461,3 +1461,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  >And lots and lots of FUD and how nothing will ever come of it or be viable
 
+3/29/2017 6:06 PM
+
+ **amilenkovic** :
+
+ >I just find it odd that it's all in there in a sort of smorgasbord of doubt and maybes and jokes, when the stuff they cover is very real and on the horizon
+
