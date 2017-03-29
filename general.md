@@ -1254,3 +1254,135 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 
  >Fellow Neurotecher melanie  recently had her article released for IEEE on DBS in the military. Part of the article provides a good perspective as to whether cognitive implants are in fact worth it. <http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7879372>
 
+3/29/2017 7:21 AM
+
+ **sydneyneurotechx** :
+
+ >"These advances in medical technology
+
+> 
+are inextricably linked to discussions
+
+> 
+of human augmentation,
+
+> 
+especially in the context of military
+
+> 
+research. However, the existence
+
+> 
+of super-soldiers enhanced by
+
+> 
+brain implants are far from a reality.
+
+> 
+Although a great deal of progress
+
+> 
+has been made in animal models
+
+> 
+towards aims such as accelerated
+
+> 
+learning and increased memory
+
+> 
+capacity using implantable brain
+
+> 
+technology, research in humans
+
+> 
+is currently limited to therapeutic
+
+> 
+applications. Even if the therapeutic
+
+> 
+applications were to augment function
+
+> 
+beyond current human capabilities,
+
+> 
+it is still an open question
+
+> 
+whether or not the risks would be
+
+> 
+deemed acceptable for non-clinical
+
+> 
+populations. The only precedent
+
+> 
+for cognitive enhancement comes
+
+> 
+from pharmaceuticals, which are
+
+> 
+often used to keep soldiers alert.
+
+> 
+Similarly, non-invasive brain stimulation
+
+> 
+(transcranial direct current
+
+> 
+stimulation (tDCS) and transcranial
+
+> 
+magnetic stimulation (TMS)) techniques
+
+> 
+are being investigated for
+
+> 
+accelerated learning, improved decision
+
+> 
+making, and alertness. However,
+
+> 
+unlike an implanted device,
+
+> 
+these substances and techniques
+
+> 
+can be used on a per-need basis.
+
+> 
+While they do carry risks, both long
+
+> 
+and short term, their use can be discontinued
+
+> 
+once they are no longer
+
+> 
+needed. A brain implant, although
+
+> 
+considered reversible, carries the
+
+> 
+risks of surgery at both implantation
+
+> 
+and at removal, and cannot
+
+> 
+be replaced or repaired outside of
+
+> 
+a hospital"
+
