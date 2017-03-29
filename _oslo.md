@@ -33,3 +33,9 @@
 
  ><https://www.meetup.com/NeuroTechOSLO/events/237351061/>
 
+3/29/2017 9:02 AM
+
+ **alebai** :
+
+ >yeah, seems to be quite a high number of people coming also :smile:
+
