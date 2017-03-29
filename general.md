@@ -1437,3 +1437,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 > 
 <http://www.theverge.com/2017/3/28/15094040/elon-musk-neuralink-kernel-brain-chips-ai-apocalypse>
 
+3/29/2017 6:05 PM
+
+ **amilenkovic** :
+
+ >I appreciate that this is getting coverage in general, and the links are great
+
