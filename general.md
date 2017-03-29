@@ -1455,3 +1455,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  >then the next article mocks the same ideas "ha ha no the robots aren't coming"
 
+3/29/2017 6:05 PM
+
+ **amilenkovic** :
+
+ >And lots and lots of FUD and how nothing will ever come of it or be viable
+
