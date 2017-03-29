@@ -1416,3 +1416,9 @@ a hospital"
 
  >jmhorschig wow, that's great, thanks. haven't read in detail yet but at a glance it looks like a really nice summary worth a careful read.
 
+3/29/2017 3:32 PM
+
+ **yannick** :
+
+ >Thanks for sharing jmhorschig indeed it looks very interesting and worth a careful read!
+
