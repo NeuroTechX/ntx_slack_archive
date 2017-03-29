@@ -1386,3 +1386,9 @@ be replaced or repaired outside of
 > 
 a hospital"
 
+3/29/2017 8:29 AM
+
+ **tenoke** :
+
+ >Literally every article on the subject has a quote like that. Yes, we dont have much outside of theurapetic applications *today*, which is why we want to develop that for *tomorrow*. What's your point?
+
