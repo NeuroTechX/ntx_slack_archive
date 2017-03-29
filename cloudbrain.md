@@ -12,3 +12,9 @@
 > 
 To actually make <#C4LSDAE95|neurodoro>
 
+3/29/2017 8:11 AM
+
+ **marion** :
+
+ >Hey dano. Sorry I just saw that. Yes yoy can send data to cloudbrain with the muse. Do you mind emailing me directly at <mailto:leborgne.mar@gmail.com|leborgne.mar@gmail.com> to continue the conversation? I don't always get slack notifications 
+
