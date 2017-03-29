@@ -471,3 +471,15 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 > 
 (I'm biased, I'm an engineer in (visual) neuroscience :p)
 
+3/29/2017 8:10 PM
+
+ **yannick** :
+
+ >And what do y'all think about the first Human Head Transplant that should take place in few months from now? (December 2017)
+
+> 
+<http://www.independent.co.uk/news/science/head-transplant-human-uk-2017-sergio-canavero-valery-spiridonov-when-where-a7429991.html>
+
+> 
+<https://www.facebook.com/ScienceNaturePage/videos/1033910753407849/?pnref=story>
+
