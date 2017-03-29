@@ -99,3 +99,9 @@
 
  >I have interest in the medical application of Neuro
 
+3/29/2017 4:12 AM
+
+ **hish** :
+
+ >We were assessing its potential psychological treatment 
+
