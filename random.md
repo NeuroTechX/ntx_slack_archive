@@ -489,3 +489,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >(talking about implanting chips and going invasive and all with Kernel and Neuralink, but Head Transplant...)
 
+3/29/2017 8:48 PM
+
+ **igweckay** :
+
+ >I think it is cool, however, if the brain already has a model of the body it contains, I wonder if he will be able to use the body. I am assuming all things go well such as surgery and possible compatibility issues. Also, I am aware of neuroplasticity, but this, I guess, would be the ultimate test. Let's see...
+
