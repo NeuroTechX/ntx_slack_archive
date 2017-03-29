@@ -1422,3 +1422,18 @@ a hospital"
 
  >Thanks for sharing jmhorschig indeed it looks very interesting and worth a careful read!
 
+3/29/2017 5:22 PM
+
+ **yannick** :
+
+ >Another interesting piece, posted following Elon Musk news
+
+> 
+_"So its important to keep all of these considerations in mind when discussing Neuralink, Kernel, and the scores of brain-computer interface companies that will undoubtedly sprout up in their wake. Its fun to talk about fighting Skynet or preventing The Matrix, but Musk and other entrepreneurs in Silicon Valley do have more realistic concerns and are, at least right now, more open to admitting that the more near-term goal is combating diseases and funding neuroscience research. It doesnt grab headlines quite like combatting the extinction of the human race, but we should all rest easy knowing that were not quite there yet."_
+
+> 
+*Elon Musks Neuralink is not about preventing an AI apocalypse*
+
+> 
+<http://www.theverge.com/2017/3/28/15094040/elon-musk-neuralink-kernel-brain-chips-ai-apocalypse>
+
