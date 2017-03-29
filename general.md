@@ -1392,3 +1392,9 @@ a hospital"
 
  >Literally every article on the subject has a quote like that. Yes, we dont have much outside of theurapetic applications *today*, which is why we want to develop that for *tomorrow*. What's your point?
 
+3/29/2017 2:45 PM
+
+ **karchie** :
+
+ >there's risk in unsupported hype. around neurotech (interpreting the term very broadly), there are relatively easy problems (stimulating/reading anything peripheral) and moderately easy problems (deep brain stimulation), and then there's anything involving neocortex. with pyramidal cells, there's almost certainly semantic content not just to the coarse location and intensity of stimulation, but to the fine location (certainly apical vs. basal dendrites, maybe even at the level of individual branches) and the fine temporal structure; and these details will vary from one cell to the next. I've been hearing about cortical prosthetic modules (for a particularly egregious example) for 20 years; but if that's going to work at all, I think at best there's a period of months while the nearby neurons learn how to interface with this chunk of new stuff. That's without even getting into the biochemical problems like controlling inflammation and infection and creating a local chemical environment to promote plasticity. I mean, yes, march on with the rats, but I'll bet a nickel against any sort of cognitive upgrades in my lifetime. (sensory upgrades, sure, but noninvasive approaches work pretty well there.)
+
