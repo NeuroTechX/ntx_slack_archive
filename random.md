@@ -495,3 +495,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >I think it is cool, however, if the brain already has a model of the body it contains, I wonder if he will be able to use the body. I am assuming all things go well such as surgery and possible compatibility issues. Also, I am aware of neuroplasticity, but this, I guess, would be the ultimate test. Let's see...
 
+3/29/2017 8:53 PM
+
+ **tenoke** :
+
+ >Im more curious how it will affect the patient's mind - embodied cognition and all
+
