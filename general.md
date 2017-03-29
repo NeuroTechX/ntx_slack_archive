@@ -1449,3 +1449,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  >the tone of the authors writing these articles really boggles me sometimes. It's so glib, talking about robot uprisings like it's a real thing around the corner
 
+3/29/2017 6:05 PM
+
+ **amilenkovic** :
+
+ >then the next article mocks the same ideas "ha ha no the robots aren't coming"
+
