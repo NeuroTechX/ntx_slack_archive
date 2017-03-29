@@ -1410,3 +1410,9 @@ a hospital"
 
  >There was a report of Nuffield Council on Bioethics on this matter in 2013. Their report is extremely elaborate on that issue: <https://nuffieldbioethics.org/wp-content/uploads/2013/06/Novel_neurotechnologies_report_PDF_web_0.pdf> (and while on it, also check out <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/>)
 
+3/29/2017 3:23 PM
+
+ **karchie** :
+
+ >jmhorschig wow, that's great, thanks. haven't read in detail yet but at a glance it looks like a really nice summary worth a careful read.
+
