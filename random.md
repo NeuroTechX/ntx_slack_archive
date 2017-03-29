@@ -483,3 +483,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 > 
 <https://www.facebook.com/ScienceNaturePage/videos/1033910753407849/?pnref=story>
 
+3/29/2017 8:11 PM
+
+ **yannick** :
+
+ >(talking about implanting chips and going invasive and all with Kernel and Neuralink, but Head Transplant...)
+
