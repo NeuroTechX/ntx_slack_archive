@@ -408,3 +408,9 @@
 
  >Sweet. I once chatted Tom Chau of IBBME and Sick Kids. He's my hero. <http://www.theglobeandmail.com/report-on-business/tom-chau-is-giving-children-with-physical-challenges-tools-to-speak-out/article1316405/>
 
+3/29/2017 1:44 AM
+
+ **ch.yumin** :
+
+ >Hello vitruvia ! Nice to meet you. I'm graduating in computer engineering and learning about neurotechnologies too :smile:
+
