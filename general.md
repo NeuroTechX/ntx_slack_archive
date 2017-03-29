@@ -1242,3 +1242,9 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 > 
 <http://www.theverge.com/2017/2/22/14631122/kernel-neuroscience-bryan-johnson-human-intelligence-ai-startup|www.theverge.com/2017/2/22/14631122/kernel-neuroscience-bryan-johnson-human-intelligence-ai-startup>
 
+3/29/2017 1:28 AM
+
+ **a.tech** :
+
+ >Yeaaa! I bet you that because of this news fund raising will be a little easier for neurotech startups looking forward 
+
