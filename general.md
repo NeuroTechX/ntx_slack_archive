@@ -1248,3 +1248,9 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 
  >Yeaaa! I bet you that because of this news fund raising will be a little easier for neurotech startups looking forward 
 
+3/29/2017 7:20 AM
+
+ **sydneyneurotechx** :
+
+ >Fellow Neurotecher melanie  recently had her article released for IEEE on DBS in the military. Part of the article provides a good perspective as to whether cognitive implants are in fact worth it. <http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7879372>
+
