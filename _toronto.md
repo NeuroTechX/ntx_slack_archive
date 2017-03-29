@@ -213,3 +213,9 @@ Projects:
 > 
 PM me to be included on the guest list
 
+3/29/2017 10:57 PM
+
+ **bryan_j** :
+
+ >Welcome, new Toronto NeuroTech Enthusiasts! Check out our previous events at <http://www.meetup.com/NeuroTechTO|www.meetup.com/NeuroTechTO>, join our community, and stay tuned for upcoming announcements regarding events and things. Connect with us whenever you would like at <mailto:to@neurotechx.com|to@neurotechx.com>. Yeah!
+
