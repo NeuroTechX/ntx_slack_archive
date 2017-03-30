@@ -507,3 +507,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >I doubt that it'll work, it will either fail catastrophically or be just a vast overstatement of a 'head transplant'. In general, it is however quite fascinating but ethically on the edge. I wonder what will happen to the mind... some people even cannot handle VR probably... ethically and philosophically highly interesting.
 
+3/30/2017 7:17 AM
+
+ **tenoke** :
+
+ >He hasnt even passed a review by an ethical board, so he is doing it abroad (UK if he managed to pull it off, China otherwise as far as I understand), though I dont see much of an ethical issue myself.
+
