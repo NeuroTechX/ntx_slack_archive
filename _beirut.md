@@ -117,3 +117,9 @@
 
  >do you know about anyone in Lebanon working on the link between architecture and cognitive neuroscience?
 
+3/30/2017 9:36 AM
+
+ **firassafieddine** :
+
+ >I would love to see whatever you guys are publishing, if there is a link to that
+
