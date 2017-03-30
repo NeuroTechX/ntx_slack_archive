@@ -513,3 +513,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >He hasnt even passed a review by an ethical board, so he is doing it abroad (UK if he managed to pull it off, China otherwise as far as I understand), though I dont see much of an ethical issue myself.
 
+3/30/2017 7:19 AM
+
+ **tenoke** :
+
+ >and in theory it can work, although the minimal effort spent on applying the relevant techniques on animals first is not too promising
+
