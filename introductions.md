@@ -414,3 +414,9 @@
 
  >Hello vitruvia ! Nice to meet you. I'm graduating in computer engineering and learning about neurotechnologies too :smile:
 
+3/30/2017 3:28 PM
+
+ **vitruvia** :
+
+ >ch.yumin Hi! It's good to know there are other students in Brazil who share similar interests! =]
+
