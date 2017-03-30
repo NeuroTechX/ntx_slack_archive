@@ -39,3 +39,9 @@
 
  >yeah, seems to be quite a high number of people coming also :smile:
 
+3/30/2017 2:04 PM
+
+ **cosmicdrifter** :
+
+ >Thank you guys again for sending us that equipment! I think everyone will be quite happy. :slightly_smiling_face:
+
