@@ -501,3 +501,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >Im more curious how it will affect the patient's mind - embodied cognition and all
 
+3/30/2017 7:13 AM
+
+ **jmhorschig** :
+
+ >I doubt that it'll work, it will either fail catastrophically or be just a vast overstatement of a 'head transplant'. In general, it is however quite fascinating but ethically on the edge. I wonder what will happen to the mind... some people even cannot handle VR probably... ethically and philosophically highly interesting.
+
