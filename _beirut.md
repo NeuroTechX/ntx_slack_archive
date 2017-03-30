@@ -111,3 +111,9 @@
 
  >amazing, i honestly have no clue on the progress on neuroscience in lebanon
 
+3/30/2017 9:35 AM
+
+ **firassafieddine** :
+
+ >do you know about anyone in Lebanon working on the link between architecture and cognitive neuroscience?
+
