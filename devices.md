@@ -411,3 +411,12 @@ We were having a discussion about the price range of portable fNIRS devices rece
 > 
 <http://open-rtms.sourceforge.net/>
 
+3/31/2017 12:08 PM
+
+ **yannick** :
+
+ ><http://www.neuroelectrics.com/products/caps/headcap-cover-r>
+
+> 
+Adding a Faraday shielding over the EEG cap. Interesting...
+
