@@ -519,3 +519,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >and in theory it can work, although the minimal effort spent on applying the relevant techniques on animals first is not too promising
 
+3/31/2017 6:55 AM
+
+ **jmhorschig** :
+
+ >tenoke: he is fucking with someone's brain and self-representation - if this is not an ethical issue, then I don't know what is...
+
