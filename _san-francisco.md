@@ -237,3 +237,9 @@ anyone have any good ideas for where I should look?
 
  >Also I just realized that our cogtech group from Berkeley took over the bay area Neurotech scene hahah
 
+3/31/2017 6:27 PM
+
+ **joke.d** :
+
+ >haha, ok ! Will do.
+
