@@ -177,3 +177,9 @@ anyone have any good ideas for where I should look?
 
  >Its on June 9 in Berkeley.
 
+3/31/2017 6:18 PM
+
+ **pierre** :
+
+ >What's it like? What would you expect from us?
+
