@@ -159,3 +159,9 @@ anyone have any good ideas for where I should look?
 
  >liked it too
 
+3/31/2017 5:49 PM
+
+ **joke.d** :
+
+ >Hi ! Im co-organising a workshop on brain computing for neuroscientists in Inria (France), Stanford and Berkeley.  We would like to invite someone to present the neurotechX community.  Whats the organisation like in San Francisco?  Is this something you do?
+
