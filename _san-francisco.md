@@ -213,3 +213,9 @@ anyone have any good ideas for where I should look?
 
  >The people attending are working on informatics and statistics (for example machine learning for resting state fMRI), and wed like to give an overview of what is happening in the field, inside and outside of academia.
 
+3/31/2017 6:22 PM
+
+ **pierre** :
+
+ >Ah I see
+
