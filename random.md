@@ -525,3 +525,9 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >tenoke: he is fucking with someone's brain and self-representation - if this is not an ethical issue, then I don't know what is...
 
+3/31/2017 8:14 AM
+
+ **tenoke** :
+
+ >jmhorschig that's true of literally every brain surgery.. ethics isnt so black and white
+
