@@ -225,3 +225,9 @@ anyone have any good ideas for where I should look?
 
  >sure
 
+3/31/2017 6:22 PM
+
+ **pierre** :
+
+ >I don't know how involved they can be, but I suggest cc'ing marion w  (who lead the Neurotech SF chapter) and jnaulty (who leads the NeurotechSV in Palo Alto chapter)
+
