@@ -231,3 +231,9 @@ anyone have any good ideas for where I should look?
 
  >I don't know how involved they can be, but I suggest cc'ing marion w  (who lead the Neurotech SF chapter) and jnaulty (who leads the NeurotechSV in Palo Alto chapter)
 
+3/31/2017 6:24 PM
+
+ **pierre** :
+
+ >Also I just realized that our cogtech group from Berkeley took over the bay area Neurotech scene hahah
+
