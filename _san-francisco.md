@@ -189,3 +189,9 @@ anyone have any good ideas for where I should look?
 
  >We could have people at Neurotech Berkeley demo devices, or just talk about our Neurotech groups
 
+3/31/2017 6:19 PM
+
+ **joke.d** :
+
+ >Can I maybe write you an email?
+
