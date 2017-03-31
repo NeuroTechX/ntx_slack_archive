@@ -402,3 +402,12 @@ We were having a discussion about the price range of portable fNIRS devices rece
 
  >Say 2 days of reading and messing around with the software and you should be good to build what you need
 
+3/31/2017 6:13 AM
+
+ **pierre** :
+
+ >Anybody know the status of this and similar open TMS projects? 
+
+> 
+<http://open-rtms.sourceforge.net/>
+
