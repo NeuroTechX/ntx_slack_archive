@@ -1473,3 +1473,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  ><http://news.mit.edu/2017/multifunctional-tiny-fibers-brain-0221>
 
+3/31/2017 4:12 PM
+
+ **davidevaleriani** :
+
+ >Another piece related to Elon Musk with a NTX citation ;)  <https://theconversation.com/elon-musk-wants-to-merge-man-and-machine-heres-what-hell-need-to-work-out-75321>
+
