@@ -420,3 +420,9 @@ We were having a discussion about the price range of portable fNIRS devices rece
 > 
 Adding a Faraday shielding over the EEG cap. Interesting...
 
+3/31/2017 2:59 PM
+
+ **aj** :
+
+ >Lit
+
