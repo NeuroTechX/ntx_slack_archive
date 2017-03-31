@@ -1479,3 +1479,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  >Another piece related to Elon Musk with a NTX citation ;)  <https://theconversation.com/elon-musk-wants-to-merge-man-and-machine-heres-what-hell-need-to-work-out-75321>
 
+3/31/2017 4:13 PM
+
+ **marvinandujar** :
+
+ ><https://www.linkedin.com/pulse/thoughts-from-bci-researcher-elon-musks-new-company-marvin-andujar>
+
