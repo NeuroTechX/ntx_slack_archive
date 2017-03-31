@@ -546,3 +546,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >okay, to reword, I don't see an ethical problem with it
 
+3/31/2017 2:27 PM
+
+ **dano** :
+
+ >The dude who's trying to do it has operated out of mainstream medical circles for so long and made so many evidence-less statements that he's deep in 'dangerous quack' territory. I don't think anything good will come of this.
+
