@@ -165,3 +165,9 @@ anyone have any good ideas for where I should look?
 
  >Hi ! Im co-organising a workshop on brain computing for neuroscientists in Inria (France), Stanford and Berkeley.  We would like to invite someone to present the neurotechX community.  Whats the organisation like in San Francisco?  Is this something you do?
 
+3/31/2017 6:14 PM
+
+ **pierre** :
+
+ >Heya joke.d, I'm leading the Berkeley chapter and involved in the SF chapter. Both groups have people that have talked about the NeurotechX community (especially NeurotechSF). What would this workshop be like? Where and when is it happening?
+
