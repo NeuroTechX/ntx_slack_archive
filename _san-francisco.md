@@ -207,3 +207,9 @@ anyone have any good ideas for where I should look?
 
  >That all sounds awesome. I think you can be flexible.
 
+3/31/2017 6:21 PM
+
+ **joke.d** :
+
+ >The people attending are working on informatics and statistics (for example machine learning for resting state fMRI), and wed like to give an overview of what is happening in the field, inside and outside of academia.
+
