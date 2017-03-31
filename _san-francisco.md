@@ -183,3 +183,9 @@ anyone have any good ideas for where I should look?
 
  >What's it like? What would you expect from us?
 
+3/31/2017 6:19 PM
+
+ **pierre** :
+
+ >We could have people at Neurotech Berkeley demo devices, or just talk about our Neurotech groups
+
