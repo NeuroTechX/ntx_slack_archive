@@ -171,3 +171,9 @@ anyone have any good ideas for where I should look?
 
  >Heya joke.d, I'm leading the Berkeley chapter and involved in the SF chapter. Both groups have people that have talked about the NeurotechX community (especially NeurotechSF). What would this workshop be like? Where and when is it happening?
 
+3/31/2017 6:17 PM
+
+ **joke.d** :
+
+ >Its on June 9 in Berkeley.
+
