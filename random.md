@@ -531,3 +531,12 @@ IMO Invasive BCI just give so much impressive results that it is what stick in t
 
  >jmhorschig that's true of literally every brain surgery.. ethics isnt so black and white
 
+3/31/2017 9:18 AM
+
+ **jmhorschig** :
+
+ >There is a difference between a medical necessary, well-renowned brain surgery and putting someones head on another one's body. 
+
+> 
+Just because something is an ethical issue does not make ethics black and white. Maybe you have a different definition of ethical issue than I do - for me it means that something that needs to be discussed and pro and cons need be weighed up thoroughly and discussing the consequences before going through with it, not just doing it because it might work and sounds like a good idea.
+
