@@ -552,3 +552,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >The dude who's trying to do it has operated out of mainstream medical circles for so long and made so many evidence-less statements that he's deep in 'dangerous quack' territory. I don't think anything good will come of this.
 
+4/1/2017 12:21 PM
+
+ **yannick** :
+
+ >For those following the kickstarters and crowdfunding campaigns in EEG &amp; BCI, I wrote a piece you might be interested in: <https://medium.com/neurotechx/eeg-bci-crowdfunding-landscape-cfdb0da08937>
+
