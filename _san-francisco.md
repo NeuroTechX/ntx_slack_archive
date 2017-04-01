@@ -294,3 +294,12 @@ Any chance to meet marion ?!
 
  >Im at Inria Saclay (neurospin).  But staying first 2 years at Stanford :slightly_smiling_face:
 
+4/1/2017 11:10 PM
+
+ **rouffi** :
+
+ >Nice ! roselyne is currently in Standford for 2 month, a collaboration with her PhD lab (Donders Institute, NL)
+
+> 
+We can meet you in a few days
+
