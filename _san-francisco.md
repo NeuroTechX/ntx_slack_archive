@@ -255,3 +255,9 @@ anyone have any good ideas for where I should look?
 
  >joke.d: oh cool, let's talk about it sometime, my boyfriend rouffi is lead of the Neurotechx Paris, he is coming around Easter in SF
 
+4/1/2017 6:15 PM
+
+ **joke.d** :
+
+ >Oh awesome ! Didnt even know there was a community in Paris !
+
