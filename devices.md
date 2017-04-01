@@ -432,3 +432,12 @@ Adding a Faraday shielding over the EEG cap. Interesting...
 
  >This is great
 
+4/1/2017 12:13 PM
+
+ **yannick** :
+
+ >Looking forward to see the signal from:
+
+> 
+<https://www.youtube.com/watch?v=5CZtoYbfbHU>
+
