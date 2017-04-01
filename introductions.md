@@ -426,3 +426,9 @@
 
  >Hello Everyone. Really glad to be the part of community. I am a computer scientist based in Barcelona, Spain. Planning to buy OpenBCI set soon. Enjoy the weekend, guys!
 
+4/1/2017 6:43 PM
+
+ **igweckay** :
+
+ >Welcome pskorupinski 
+
