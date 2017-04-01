@@ -420,3 +420,9 @@
 
  >ch.yumin Hi! It's good to know there are other students in Brazil who share similar interests! =]
 
+4/1/2017 2:34 PM
+
+ **pskorupinski** :
+
+ >Hello Everyone. Really glad to be the part of community. I am a computer scientist based in Barcelona, Spain. Planning to buy OpenBCI set soon. Enjoy the weekend, guys!
+
