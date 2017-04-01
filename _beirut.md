@@ -135,3 +135,9 @@
 
  >I am not sure whether there is any activity related to architecture.  I will check and update you
 
+4/1/2017 8:54 AM
+
+ **firassafieddine** :
+
+ >yeah, actually its the same here too, most of the people working with neuro are basically in science or med
+
