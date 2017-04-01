@@ -261,3 +261,30 @@ anyone have any good ideas for where I should look?
 
  >Oh awesome ! Didnt even know there was a community in Paris !
 
+4/1/2017 10:54 PM
+
+ **rouffi** :
+
+ >Yes, we are called CogLab / NeuroTechX Paris :slightly_smiling_face:
+
+> 
+We have our own Slack / Facebook community / Twitter / & (since 2013, born before NTX)
+
+> 
+All info on <http://www.coglab.fr/>
+
+> 
+
+
+> 
+Where a you in France joke.d ? Which Inria center ?
+
+> 
+
+
+> 
+Ill be in SF with roselyne between 14 to 18 april
+
+> 
+Any chance to meet marion ?!
+
