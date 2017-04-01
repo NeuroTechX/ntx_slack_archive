@@ -249,3 +249,9 @@ anyone have any good ideas for where I should look?
 
  >Thanks !
 
+4/1/2017 5:05 AM
+
+ **roselyne** :
+
+ >joke.d: oh cool, let's talk about it sometime, my boyfriend rouffi is lead of the Neurotechx Paris, he is coming around Easter in SF
+
