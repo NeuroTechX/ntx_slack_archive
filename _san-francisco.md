@@ -288,3 +288,9 @@ Ill be in SF with roselyne between 14 to 18 april
 > 
 Any chance to meet marion ?!
 
+4/1/2017 11:04 PM
+
+ **joke.d** :
+
+ >Im at Inria Saclay (neurospin).  But staying first 2 years at Stanford :slightly_smiling_face:
+
