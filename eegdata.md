@@ -900,3 +900,12 @@ try this application with your device (for Muse2016) to read and save the signal
 
  >Hi all,  an event synchronization tutorial between OpenSesame open-source experiment builder and Emotiv EEG Testbench is provided in our Groups web page: <http://neuroinformatics.gr/node/37>
 
+4/2/2017 6:52 PM
+
+ **dano** :
+
+ >Anyone interested in recording data from a Muse headset can now use EEG 101 to do so! We skip the .muse format and go straight to simple, legible CSVs
+
+> 
+<https://play.google.com/store/apps/details?id=com.eeg_project&amp;hl=en>
+
