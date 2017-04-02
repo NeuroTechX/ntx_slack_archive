@@ -1506,3 +1506,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  >d.adamos: would be interested in working on an open source implementation of their algorithm
 
+4/2/2017 11:39 PM
+
+ **sydneyneurotechx** :
+
+ >ray any plans to make Mules compatible with Mac OS?
+
