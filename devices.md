@@ -453,3 +453,9 @@ Adding a Faraday shielding over the EEG cap. Interesting...
 
  >Yup, the new InteraXon's device. (you can kinda recognize the Muse behind the ear electrodes)
 
+4/2/2017 11:06 PM
+
+ **harris** :
+
+ >'Lowdown Focus Mpowered by Muses frames includes brainwave-sensing EEG, EOG and EMG technology as well as other sensors, including a 3-axis accelerometer, a 3-axis gyro, a 3-axis magnetometer, a UV sensor (UVA and UVB), a temperature gauge and a pressure sensor, providing a rich upgrade path for applications via an open SDK.'
+
