@@ -1491,3 +1491,12 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  ><https://qz.com/812498/eeg-brain-scans-can-tell-if-you-like-a-song-better-than-any-music-streaming-service-algorithm/>
 
+4/2/2017 6:57 PM
+
+ **ray_cassani** :
+
+ >Hey everyone, good news, the *BCI workshop repository* has been updated. Before the workshop only ran *Python2*, now the scripts are *Python3*-compatible, and the same exercises are provided as *MATLAB/Octave* compatible scripts. 
+
+> 
+<https://github.com/NeuroTechX/bci-workshop>
+
