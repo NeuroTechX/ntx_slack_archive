@@ -921,3 +921,9 @@ try this application with your device (for Muse2016) to read and save the signal
 
  >It would also help for when I'm talking at events about your projects :stuck_out_tongue:
 
+4/2/2017 11:43 PM
+
+ **dano** :
+
+ >But.. who's brain? What should they be doing? So many questions get raised everytime I ponder offline mode! :open_mouth:
+
