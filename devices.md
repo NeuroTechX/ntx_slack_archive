@@ -441,3 +441,9 @@ Adding a Faraday shielding over the EEG cap. Interesting...
 > 
 <https://www.youtube.com/watch?v=5CZtoYbfbHU>
 
+4/2/2017 11:05 PM
+
+ **harris** :
+
+ >yannick are those glasses at the end the supposed product?
+
