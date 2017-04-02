@@ -309,3 +309,9 @@ We can meet you in a few days
 
  >Indeed rouffi actually joke.d knows me ;)
 
+4/2/2017 6:56 PM
+
+ **rouffi** :
+
+ >Oh my bad, I didnt made the connection ! :upside_down_face:
+
