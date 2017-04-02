@@ -1485,3 +1485,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  ><https://www.linkedin.com/pulse/thoughts-from-bci-researcher-elon-musks-new-company-marvin-andujar>
 
+4/2/2017 4:42 PM
+
+ **d.adamos** :
+
+ ><https://qz.com/812498/eeg-brain-scans-can-tell-if-you-like-a-song-better-than-any-music-streaming-service-algorithm/>
+
