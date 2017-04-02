@@ -909,3 +909,9 @@ try this application with your device (for Muse2016) to read and save the signal
 > 
 <https://play.google.com/store/apps/details?id=com.eeg_project&amp;hl=en>
 
+4/2/2017 11:40 PM
+
+ **sydneyneurotechx** :
+
+ >dano  I'd suggest include a sample Muse dataset for the eeg 101 tutorial for people that don't have the Muse
+
