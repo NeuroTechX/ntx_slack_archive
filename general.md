@@ -1500,3 +1500,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 > 
 <https://github.com/NeuroTechX/bci-workshop>
 
+4/2/2017 7:27 PM
+
+ **dano** :
+
+ >d.adamos: would be interested in working on an open source implementation of their algorithm
+
