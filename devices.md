@@ -447,3 +447,9 @@ Adding a Faraday shielding over the EEG cap. Interesting...
 
  >yannick are those glasses at the end the supposed product?
 
+4/2/2017 11:06 PM
+
+ **yannick** :
+
+ >Yup, the new InteraXon's device. (you can kinda recognize the Muse behind the ear electrodes)
+
