@@ -15,3 +15,9 @@
 
  ><https://twitter.com/SCogLab/status/837441315587620864>
 
+4/2/2017 4:46 PM
+
+ **rouffi** :
+
+ ><https://twitter.com/cultureveille/status/842726626026831873>
+
