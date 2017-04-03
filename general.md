@@ -1803,3 +1803,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >They also have a great SDK. I would just love to see more open source projects with it (There are a few, but I would love to see more)
 
+4/3/2017 6:16 PM
+
+ **maxim** :
+
+ >Yeah, their SDK was a big motivation to buy the headset. What kind of OSS projects with Muse would you want to see? I'm interested in doing something with it now, but having a better understanding of what's possible will be great
+
