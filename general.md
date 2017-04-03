@@ -1797,3 +1797,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >In terms of hardware specs, it's comparable to most eeg systems. The main limitation is you are stuck to those electrode locations. It is a pretty well designed eeg. ERP and Oscillations are both possible with the Muse headband. Someone was also able to do Frontal Assymetry as well with the headband (<https://imotions.com/blog/frontal-asymmetry-101-get-insights-motivation-emotions-eeg/>)
 
+4/3/2017 6:07 PM
+
+ **sydneyneurotechx** :
+
+ >They also have a great SDK. I would just love to see more open source projects with it (There are a few, but I would love to see more)
+
