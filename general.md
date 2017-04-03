@@ -1518,3 +1518,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  >That would be nice
 
+4/3/2017 1:03 AM
+
+ **ray_cassani** :
+
+ >sydneyneurotechx, last year I made some tests, there isn't out-of-the-box support for Bluetooth in LabVIEW (2013, the license I have access) on OS X 10; the Muse support seems to have no-problem. I need to fix some small details to make the entire project fully Windows/OSX compatible rather than two different versions.
+
