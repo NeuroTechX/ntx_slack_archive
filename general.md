@@ -1857,3 +1857,15 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >cool! The eeg-101 tutorial is open source so you can take a look at their project and see how they do it if you get stuck.
 
+4/3/2017 7:05 PM
+
+ **dano** :
+
+ >Yea, recording Muse data isn't that hard, but do take a look at the EEG 101 code if you get stuck. I found that the Java/Android stuff was the harder part.
+
+> 
+
+
+> 
+Also, maxim, as you may know we're working on building an open source Muse dataset storage and analysis pipeline with Cloudbrain and we could definitely use some help on that front. Let's talk!
+
