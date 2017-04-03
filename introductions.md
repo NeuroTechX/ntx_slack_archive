@@ -444,3 +444,9 @@
 
  >Hey guys
 
+4/3/2017 4:45 PM
+
+ **ericlaycock** :
+
+ >I do cognitive neuroscience at UBC, just joined an engineering team to participate in the upcoming neurotechx challenge 
+
