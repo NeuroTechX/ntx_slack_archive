@@ -939,3 +939,9 @@ try this application with your device (for Muse2016) to read and save the signal
 
  >My brain!
 
+4/3/2017 12:23 AM
+
+ **sydneyneurotechx** :
+
+ >I volunteer my brain
+
