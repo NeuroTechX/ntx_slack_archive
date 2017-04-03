@@ -465,3 +465,9 @@ Adding a Faraday shielding over the EEG cap. Interesting...
 
  >what i want is to start an eeg modeling agency
 
+4/3/2017 3:19 AM
+
+ **sydneyneurotechx** :
+
+ >Neat cap. What is  Spacer and silver fabric? Anyone have any ideas? Can't find much online.
+
