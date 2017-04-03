@@ -1737,3 +1737,9 @@ Here are some specific projects that could be interesting, or problems to solve.
 
  >I really like this. It captures a lot of the skepticism I have about the field but also gives some concrete steps forward. I'm hoping to steal some time for a detailed review later this week but too many balls in the air so don't hold your breath.
 
+4/3/2017 4:26 PM
+
+ **stephen** :
+
+ >Thanks karchie would love your feedback
+
