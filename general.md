@@ -1761,3 +1761,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 > 
 - explore other avenues besides quantified self: things like diagnosis, drug detection, lie detection, "real" attention tracking for optimizing content, which involve using a device for a relatively short period of time, have been relatively underexplored in Neurotech, but are some of the areas where it has the most potential with the current tools
 
+4/3/2017 5:36 PM
+
+ **pierre** :
+
+ >As an addendum to "read the literature", you can get a lot of mileage when getting started from replicating scientific papers using biosignals to measure the effect you're curious about.
+
