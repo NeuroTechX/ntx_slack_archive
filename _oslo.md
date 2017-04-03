@@ -45,3 +45,9 @@
 
  >Thank you guys again for sending us that equipment! I think everyone will be quite happy. :slightly_smiling_face:
 
+4/3/2017 6:08 PM
+
+ **sydneyneurotechx** :
+
+ >I hope you guys make good use of the equipment!
+
