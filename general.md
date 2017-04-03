@@ -1791,3 +1791,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >Also, what are you talking about when saying "remix normal data science tools to create better workflows for dealing with neural data"? Any specific use cases in mind?
 
+4/3/2017 6:05 PM
+
+ **sydneyneurotechx** :
+
+ >In terms of hardware specs, it's comparable to most eeg systems. The main limitation is you are stuck to those electrode locations. It is a pretty well designed eeg. ERP and Oscillations are both possible with the Muse headband. Someone was also able to do Frontal Assymetry as well with the headband (<https://imotions.com/blog/frontal-asymmetry-101-get-insights-motivation-emotions-eeg/>)
+
