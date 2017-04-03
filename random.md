@@ -564,3 +564,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >yannick, nice post! Well done! And I appreciated your view on fNIRS as well! I am not so sure how long it will take until the tech will be ready for the mass market, but <http://foc.us|foc.us> seems to be starting right now already (not crowdfunded though). I just honestly wonder how they can offer such a device for such a low price, which is the crux with fNIRS currently. But I give it another 2-4 years. Brain stim will definitely be first, and it has already started. That'll be the next big thing (but go and see your doctor first, children! Don't fuck with your brain if you are not an expert.)
 
+4/3/2017 6:36 PM
+
+ **sydneyneurotechx** :
+
+ >Great article. I'm sure a lot of the Academics in here can relate. <https://svpow.com/2017/03/17/every-attempt-to-manage-academia-makes-it-worse/>
+
