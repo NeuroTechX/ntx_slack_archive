@@ -1785,3 +1785,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >Is Calm app the maximum of what can be achieved with the little signal the device produces?
 
+4/3/2017 5:57 PM
+
+ **maxim** :
+
+ >Also, what are you talking about when saying "remix normal data science tools to create better workflows for dealing with neural data"? Any specific use cases in mind?
+
