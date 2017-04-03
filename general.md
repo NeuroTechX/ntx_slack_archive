@@ -1605,3 +1605,9 @@ Here are some specific projects that could be interesting, or problems to solve.
 > 
 - find a way to help people to reliably have restorative sleep. This researcher found a way to turn REM sleep on and off with optogenetics (<http://news.berkeley.edu/2015/10/15/researchers-find-neural-switch-that-turns-dreams-on-and-off/>). Could you do that non-invasively?
 
+4/3/2017 3:05 AM
+
+ **stephen** :
+
+ >Heres a rough draft:
+
