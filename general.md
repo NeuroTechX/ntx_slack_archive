@@ -1833,3 +1833,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >Yeah, I saw that eeg-101 is starting to store data now, although I'm interested in storing raw data and not a processed CSV, don't want to potentially miss out on some signal (although that might be my lack of BCI knowledge). Storing data doesn't seem that hard anyway, Muse's own demo app does it, so it is literally just extending it to allow you to save it in different files.
 
+4/3/2017 6:42 PM
+
+ **sydneyneurotechx** :
+
+ >I believe they store all date in the CSV. It's just a different filetype. dano  Can answer this better than I can though.
+
