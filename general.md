@@ -1815,3 +1815,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >Also, we are kind of stuck with writing smartphone apps for now due to the SDK mostly working on iOS and Android.
 
+4/3/2017 6:22 PM
+
+ **maxim** :
+
+ >Thanks for the frontal asymmetry link! On challenge here is that there seems to be a lack of publicly available Muse datasets, so the first thing would be to make an app to record and store them for later analysis
+
