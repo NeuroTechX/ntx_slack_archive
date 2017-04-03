@@ -1743,3 +1743,21 @@ Here are some specific projects that could be interesting, or problems to solve.
 
  >Thanks karchie would love your feedback
 
+4/3/2017 5:28 PM
+
+ **pierre** :
+
+ >stephen I agree with your post. One thing is that a lot of the solutions that you list would involve developing new technology, which is a solid step forward, but a hard problem for hobbyists and student clubs. Developing hardware takes decent funding and continued interest and investment from team members.   
+
+> 
+
+
+> 
+Beyond developing new technology, the other side is taking more advantage of the low-hanging fruit present with the *current technology*. Here are some recommendations for doing that:   
+
+> 
+- Read the literature! Scientists have been correlating various biosignals for decades and wrote about many things beyond motor imagery and meditation. A few examples are memory encoding, visual/auditory/sensory perception, emotion valence, various specific cognitive processing, etc.  It will also give you a sense of what the current limits of the field are. If scientists can't get motor imagery to work reliably (&gt;95% accuracy, which is roughly what would be needed for using an input device with low frustration) with 32 electrodes, then what's the chance of getting it to work with 4-8 electrodes? 
+
+> 
+- explore other avenues besides quantified self: things like diagnosis, drug detection, lie detection, "real" attention tracking for optimizing content, which involve using a device for a relatively short period of time, have been relatively underexplored in Neurotech, but are some of the areas where it has the most potential with the current tools
+
