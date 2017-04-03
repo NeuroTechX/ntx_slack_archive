@@ -459,3 +459,9 @@ Adding a Faraday shielding over the EEG cap. Interesting...
 
  >'Lowdown Focus Mpowered by Muses frames includes brainwave-sensing EEG, EOG and EMG technology as well as other sensors, including a 3-axis accelerometer, a 3-axis gyro, a 3-axis magnetometer, a UV sensor (UVA and UVB), a temperature gauge and a pressure sensor, providing a rich upgrade path for applications via an open SDK.'
 
+4/3/2017 3:08 AM
+
+ **octonomy** :
+
+ >what i want is to start an eeg modeling agency
+
