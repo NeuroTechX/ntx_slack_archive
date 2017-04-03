@@ -1512,3 +1512,9 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  >ray any plans to make Mules compatible with Mac OS?
 
+4/3/2017 12:54 AM
+
+ **benjamindeleener** :
+
+ >That would be nice
+
