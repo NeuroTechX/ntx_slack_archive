@@ -315,3 +315,9 @@ We can meet you in a few days
 
  >Oh my bad, I didnt made the connection ! :upside_down_face:
 
+4/3/2017 8:07 PM
+
+ **w** :
+
+ ><!channel>: hey all, we're going to be making the last hacknight of every month (last Wednesday of every month) a demo night. The next one will be Apr 26 at 7:30.
+
