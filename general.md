@@ -1611,3 +1611,69 @@ Here are some specific projects that could be interesting, or problems to solve.
 
  >Heres a rough draft:
 
+4/3/2017 3:05 AM
+
+ **stephen** :
+
+ >Heres a rough draft:
+
+> 
+
+
+> 
+PONG
+
+> 
+Theres a pattern thats common in neurotech: 
+
+> 
+Some enthusiastic engineers will discover EEG or tDCS, order a kit, and start making random things while caught up in the romance of neurohacking. 
+
+> 
+
+
+> 
+There are a couple of common forms this initial exploration takes:
+
+> 
+1) A meditation app." "Well do neurofeedback to show people when theyre in a meditative state, and use that help them meditate more! Then more people will start meditating, and the world will become more conscious."
+
+> 
+This is the hello world of neurohacking. A good idea for your own education, but Interaxons Muse is already a highly optimized version of this product. <http://www.choosemuse.com/people-behind-muse/>
+
+> 
+
+
+> 
+1b) A variant: Attention-tracking app. People will wear an EEG at their computers and it will tell them when their focused! 
+
+> 
+To  test whether people will actually use this, try offering a friend $20 to wear an EEG headset for six hours per day for one week. 
+
+> 
+
+
+> 
+2) Control X with my brain. A mood-tracking LED shirt, a robot, your Spotify music playlist, a flamethrower, a drone. With motor imagery, you can use the brain as a up-down or left-right switch for any device. I wouldnt say dont do this. I would just say be aware youre doing this for your own education, in the way that freshman CS majors are often given homework to write their own version of Pong. Because of the benefit-intrusiveness tradeoff of consumer EEG headsets, basically no one will walk around with an EEG on their head in order to express their emotions through your cool LED shirt. Heck, most people wont consistently wear a fitness tracking bracelet (from which you can infer mood). (<http://insights.dice.com/2017/02/07/lessons-jawbone-failures/>). 
+
+> 
+
+
+> 
+3) tDCS. "We heard on that one NPR episode that the army uses these to speed up learning. What if we could enhance learning?" Thats what Thync said in their original sales pitch. 
+
+> 
+
+
+> 
+Consider the first generation (2005-2017+) of consumer EEG and tDCS devices. Much of their sales momentum came from the novelty of a brain-reading or a brain-zapping device. After consumers order them, most are not consistently used because they were a wiz-bang gadget to show at a party, or an exciting thing to hack on, rather than consistently solving a problem that people have. 
+
+> 
+<http://Foc.us|Foc.us> recently introduced a product line targeted at DIY hackers: <https://www.foc.us/eeg>. Out of all the potential markets they could target, its alarming that brain hacking enthusiast are the largest. 
+
+> 
+
+
+> 
+If consumer neurotech wants to make really useful and commercially successful devices, we need to expand our technological toolkit.
+
