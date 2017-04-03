@@ -456,3 +456,9 @@
 
  >Hey ericlaycock Welcome on board! You might want to join the <#C08S3426L|studentclubs> channel :slightly_smiling_face:
 
+4/3/2017 4:55 PM
+
+ **sydneyneurotechx** :
+
+ >welcome ericlaycock
+
