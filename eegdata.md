@@ -927,3 +927,9 @@ try this application with your device (for Muse2016) to read and save the signal
 
  >But.. who's brain? What should they be doing? So many questions get raised everytime I ponder offline mode! :open_mouth:
 
+4/3/2017 12:22 AM
+
+ **sydneyneurotechx** :
+
+ >Your brain!
+
