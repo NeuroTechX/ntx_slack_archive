@@ -1839,3 +1839,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >I believe they store all date in the CSV. It's just a different filetype. dano  Can answer this better than I can though.
 
+4/3/2017 6:42 PM
+
+ **maxim** :
+
+ >VR is potentially an interesting application, but even harder to find people to do it it seems. I don't have a VR headset, so there is no way for me to debug it and I bet an intersection of people that have both VR and Muse is pretty small. Mental state detection is something that seems more interesting personally.
+
