@@ -1779,3 +1779,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >Piling up on this discussion - what would you say are the limitations of what you can do with Muse?
 
+4/3/2017 5:40 PM
+
+ **maxim** :
+
+ >Is Calm app the maximum of what can be achieved with the little signal the device produces?
+
