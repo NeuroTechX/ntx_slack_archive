@@ -1827,3 +1827,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >The eeg 101 app that dano and team  have created, allows for storing of datasets. You can take a look at at. What I'm personally motivated to see is a framework/sandbox to use the muse with VR. It's a pretty good form factor for it (Not perfect though. VR glasses and the Muse fit well on my head. It may not on others). I'd also love to see some open source algorithms for different mental states.
 
+4/3/2017 6:41 PM
+
+ **maxim** :
+
+ >Yeah, I saw that eeg-101 is starting to store data now, although I'm interested in storing raw data and not a processed CSV, don't want to potentially miss out on some signal (although that might be my lack of BCI knowledge). Storing data doesn't seem that hard anyway, Muse's own demo app does it, so it is literally just extending it to allow you to save it in different files.
+
