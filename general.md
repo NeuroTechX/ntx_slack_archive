@@ -1524,3 +1524,24 @@ _"So its important to keep all of these considerations in mind when discussing 
 
  >sydneyneurotechx, last year I made some tests, there isn't out-of-the-box support for Bluetooth in LabVIEW (2013, the license I have access) on OS X 10; the Muse support seems to have no-problem. I need to fix some small details to make the entire project fully Windows/OSX compatible rather than two different versions.
 
+4/3/2017 2:15 AM
+
+ **stephen** :
+
+ >We should make a blog post for bright-eyed, bushy-tailed engineers who discover EEG or tDCS, order a kit, and start making random things while caught up in the romance of neurohacking. 
+
+> 
+(Eventually these people tend to keep iterating on the same BCI paradigms, or leave neurotech entirely because those paradigms arent powerful and/or accessible enough to do actually new things.)
+
+> 
+
+
+> 
+The post would describe the standard types of projects that have been done so far, and then list NEW types of projects that merit more attention from talented engineers. 
+
+> 
+
+
+> 
+yannick melanie brian.westerman andreacoravos a.tech
+
