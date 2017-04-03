@@ -450,3 +450,9 @@
 
  >I do cognitive neuroscience at UBC, just joined an engineering team to participate in the upcoming neurotechx challenge 
 
+4/3/2017 4:54 PM
+
+ **yannick** :
+
+ >Hey ericlaycock Welcome on board! You might want to join the <#C08S3426L|studentclubs> channel :slightly_smiling_face:
+
