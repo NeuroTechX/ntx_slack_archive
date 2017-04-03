@@ -51,3 +51,9 @@
 
  >I hope you guys make good use of the equipment!
 
+4/3/2017 6:15 PM
+
+ **alebai** :
+
+ >:slightly_smiling_face: yeah, the meetup seems to be a hit and more and more are joining
+
