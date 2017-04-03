@@ -1809,3 +1809,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >Yeah, their SDK was a big motivation to buy the headset. What kind of OSS projects with Muse would you want to see? I'm interested in doing something with it now, but having a better understanding of what's possible will be great
 
+4/3/2017 6:17 PM
+
+ **maxim** :
+
+ >Also, we are kind of stuck with writing smartphone apps for now due to the SDK mostly working on iOS and Android.
+
