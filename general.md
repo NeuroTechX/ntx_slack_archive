@@ -1851,3 +1851,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >That's fine, storing data is one of the first trivial steps, so no harm in redoing it to get used to working with Muse SDK. I'm thinking of also storing a bunch of stuff that's also available from a general phone (mic for noise level and light sensor maybe?) to have more variables to correlate with later on
 
+4/3/2017 6:57 PM
+
+ **sydneyneurotechx** :
+
+ >cool! The eeg-101 tutorial is open source so you can take a look at their project and see how they do it if you get stuck.
+
