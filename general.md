@@ -1767,3 +1767,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >As an addendum to "read the literature", you can get a lot of mileage when getting started from replicating scientific papers using biosignals to measure the effect you're curious about.
 
+4/3/2017 5:38 PM
+
+ **pierre** :
+
+ >Also, I think the current barrier to entry to all of this is that people don't know how to start recording &amp; processing biosignals, and don't have a good sense of the whole field. <#C3525BTBN|neurotechedu> should help out with both of these problems
+
