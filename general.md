@@ -1677,3 +1677,57 @@ Consider the first generation (2005-2017+) of consumer EEG and tDCS devices. Muc
 > 
 If consumer neurotech wants to make really useful and commercially successful devices, we need to expand our technological toolkit.
 
+4/3/2017 3:05 AM
+
+ **stephen** :
+
+ >SO WHAT NOW, PARTY POOPER
+
+> 
+Most of the interesting problems havent been solved yet. 
+
+> 
+What are problems that noninvasive neurotechnology developers face? How could we &?
+
+> 
+- record higher-quality data
+
+> 
+- record more types of data
+
+> 
+- with sensors that are less invasive, smaller, and cheaper
+
+> 
+
+
+> 
+
+
+> 
+Here are some specific projects that could be interesting, or problems to solve. 
+
+> 
+- make EEG, EMG, HRV, GSR, and IR sensors that are less invasive, smaller cheaper. (the ideal externally-worn ephys device would be invisible, weigh &lt;1g, and cost &lt;$1. how close can you get to that?)
+
+> 
+- could you make temporary sticker tattoos that stick in the skin, transmit to an external device, and could be washed off with special solution? What if you just used normal tattoo-injection material in the scalp? 
+
+> 
+- connect all those tiny ephys things in a mesh network that also knows about your environment.
+
+> 
+- data integration. h/t to Cloudbrain for starting on this.
+
+> 
+- super-easy API to connect a game engine (Unity; Unreal&) with any ephys sensor.
+
+> 
+- fNIRS. Hats off to <#C0TK3ULLS|openfnir> for a noble attempt. There are probably ways to do this even better and cheaper. 
+
+> 
+- create a way to detect mental energy levels throughout the day, with a device anyone could wear to any workplace. not HRV, not number of steps walked. Actual mental energy. Probably the most important physiologically-measurable variable for the lifestyle and careers that most people reading this post want. You could correlate this with sleep, diet, and anything else. Ill start by offering a $1000 bounty for a good solution to this problem. 
+
+> 
+- find a way to help people to reliably have restorative sleep. This researcher found a way to turn REM sleep on and off with optogenetics (<http://news.berkeley.edu/2015/10/15/researchers-find-neural-switch-that-turns-dreams-on-and-off/>). Could you do that non-invasively?
+
