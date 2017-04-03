@@ -1821,3 +1821,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >Thanks for the frontal asymmetry link! On challenge here is that there seems to be a lack of publicly available Muse datasets, so the first thing would be to make an app to record and store them for later analysis
 
+4/3/2017 6:39 PM
+
+ **sydneyneurotechx** :
+
+ >The eeg 101 app that dano and team  have created, allows for storing of datasets. You can take a look at at. What I'm personally motivated to see is a framework/sandbox to use the muse with VR. It's a pretty good form factor for it (Not perfect though. VR glasses and the Muse fit well on my head. It may not on others). I'd also love to see some open source algorithms for different mental states.
+
