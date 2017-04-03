@@ -1773,3 +1773,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >Also, I think the current barrier to entry to all of this is that people don't know how to start recording &amp; processing biosignals, and don't have a good sense of the whole field. <#C3525BTBN|neurotechedu> should help out with both of these problems
 
+4/3/2017 5:40 PM
+
+ **maxim** :
+
+ >Piling up on this discussion - what would you say are the limitations of what you can do with Muse?
+
