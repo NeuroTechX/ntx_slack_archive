@@ -1845,3 +1845,9 @@ Beyond developing new technology, the other side is taking more advantage of the
 
  >VR is potentially an interesting application, but even harder to find people to do it it seems. I don't have a VR headset, so there is no way for me to debug it and I bet an intersection of people that have both VR and Muse is pretty small. Mental state detection is something that seems more interesting personally.
 
+4/3/2017 6:44 PM
+
+ **maxim** :
+
+ >That's fine, storing data is one of the first trivial steps, so no harm in redoing it to get used to working with Muse SDK. I'm thinking of also storing a bunch of stuff that's also available from a general phone (mic for noise level and light sensor maybe?) to have more variables to correlate with later on
+
