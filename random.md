@@ -681,3 +681,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >Though there is research lab in BME, how do you suggest would be a good way to approach the professors?
 
+4/4/2017 4:36 PM
+
+ **karchie** :
+
+ >small advantage if they've seen you around, e.g. at seminars (which is another reason to attend). multiple ways to do this but here's a suggestion: pick one or two profs working on relevant things, send a short email introducing yourself, say you're particularly interested in &lt;something you are interested in that overlaps with their work&gt;, ask if they can recommend a survey article that would be a good introduction. read that in depth; come up with some questions. another email saying you have questions, ask if they have office hours or some other time that would be convenient to drop by. maybe repeat if things go well. (don't push this too hard; profs do have lots of demands on their time.)
+
