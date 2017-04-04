@@ -1887,3 +1887,12 @@ Also, maxim, as you may know we're working on building an open source Muse datas
 > 
 <http://feeler.evadurall.com|feeler.evadurall.com> attention and cognitive load tracker which uses neuroSKY
 
+4/4/2017 4:22 PM
+
+ **tenoke** :
+
+ >another common example for 2) - games. Also I'd be more explicit in what is possible today (and in general with eeg) - up/down yes (or binary options in general) but not much more (e.g. full control of a character).
+
+> 
+i'd also add more examples (with years next to them) and more details on the limitations of eeg (so newral hackers can figure out if it's likely that their current idea is not possible without a more invasive procedure like an implant)
+
