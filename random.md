@@ -711,3 +711,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >Im already in my uni Student club, so that's one step done! Ill look into the research labs in my sector and look for seminar too!
 
+4/4/2017 5:00 PM
+
+ **karchie** :
+
+ >sounds like you're well on your way already then. good luck!
+
