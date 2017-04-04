@@ -579,3 +579,9 @@ Just because something is an ethical issue does not make ethics black and white.
 > 
 <https://www.amazon.ca/Biomedical-Engineering-Design-Handbook-Fundamentals/dp/0071498389/ref=dp_ob_title_bk>
 
+4/4/2017 2:18 PM
+
+ **copizo** :
+
+ >Thanks!
+
