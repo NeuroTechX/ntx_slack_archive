@@ -621,3 +621,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >Thanks for the replies! Im more into Biorobotics, bionics and Biomimetics, so maybe the topics that would be more interesting are Biomechanics and Bioelectrics!
 
+4/4/2017 4:10 PM
+
+ **copizo** :
+
+ >For the background, im well equipped about electrodynamics and got the base for calculus, mechanics and such, of course im halfway through the first year as an undergrad, but is it a good idea to start studying bioengineering so soon?
+
