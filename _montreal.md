@@ -159,3 +159,9 @@ Emotiv Insight 1.6m$
 
  >Even if Im a ETS Student, can I attend to McGill's BME seminars?
 
+4/4/2017 6:42 PM
+
+ **sydneyneurotechx** :
+
+ >Can I go as well? Even though I graduated school 4 years ago? It looks really cool
+
