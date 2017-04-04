@@ -729,3 +729,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >sure, no problem. I'm here somewhat irregularly but happy to field questions when I'm on
 
+4/4/2017 5:05 PM
+
+ **copizo** :
+
+ >Thank you again! :slightly_smiling_face:
+
