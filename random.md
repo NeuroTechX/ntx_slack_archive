@@ -603,3 +603,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >but I would strongly recommend first making sure your math and physics chops are up to it. hard to see you'd make much sense of any corner of the field without reasonable grasp of multivariate calc, ordinary and probably partial differential eqns, linear algebra, probability and statistics, classical mechanics and electrodynamics.
 
+4/4/2017 3:43 PM
+
+ **karchie** :
+
+ >(not meaning to overwhelm; but there's a reason practicing engineers generally worked really hard in college.)
+
