@@ -147,3 +147,9 @@ Emotiv Insight 1.6m$
 
  >(pour détecter le facteur "fun")
 
+4/4/2017 6:30 PM
+
+ **copizo** :
+
+ >I got a question for McGill people!
+
