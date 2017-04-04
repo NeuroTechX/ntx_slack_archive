@@ -1869,3 +1869,21 @@ Beyond developing new technology, the other side is taking more advantage of the
 > 
 Also, maxim, as you may know we're working on building an open source Muse dataset storage and analysis pipeline with Cloudbrain and we could definitely use some help on that front. Let's talk!
 
+4/4/2017 8:48 AM
+
+ **mertnesvat** :
+
+ >Cool post :slightly_smiling_face: I would like to add some scientific papers to idea 1b) 
+
+> 
+
+
+> 
+<http://wearcam.org/inventometer>  real light bulb like in cartoons :smile: 
+
+> 
+
+
+> 
+<http://feeler.evadurall.com|feeler.evadurall.com> attention and cognitive load tracker which uses neuroSKY
+
