@@ -591,3 +591,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >caveat: I don't have those books so I can't give a really informed answer. plowing on ahead anyway: no. biomedical engineering is a big enough umbrella that you're just not going to deeply understand that wide a swath; and starting out trying to understand the whole space seems like a recipe for failure. I think the most useful part of a book like that would be the table of contents: look for 2, maybe 3 topics that really intrigue you, then read some surveys of those three topics, and then dig into one in gory detail. Now you're much better equipped to start looking at the other subjects.
 
+4/4/2017 3:38 PM
+
+ **karchie** :
+
+ >find a mentor, spend six years doing the above, and that's a capsule summary of grad school. :wink:
+
