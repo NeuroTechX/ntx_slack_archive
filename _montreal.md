@@ -153,3 +153,9 @@ Emotiv Insight 1.6m$
 
  >I got a question for McGill people!
 
+4/4/2017 6:30 PM
+
+ **copizo** :
+
+ >Even if Im a ETS Student, can I attend to McGill's BME seminars?
+
