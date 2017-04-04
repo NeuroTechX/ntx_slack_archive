@@ -570,3 +570,12 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >Great article. I'm sure a lot of the Academics in here can relate. <https://svpow.com/2017/03/17/every-attempt-to-manage-academia-makes-it-worse/>
 
+4/4/2017 2:18 PM
+
+ **copizo** :
+
+ >I got some questions about Engineering literature. Can someone tell me if these two volume are a good starting point for studying Biomedical engineering?
+
+> 
+<https://www.amazon.ca/Biomedical-Engineering-Design-Handbook-Fundamentals/dp/0071498389/ref=dp_ob_title_bk>
+
