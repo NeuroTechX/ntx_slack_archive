@@ -717,3 +717,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >sounds like you're well on your way already then. good luck!
 
+4/4/2017 5:01 PM
+
+ **copizo** :
+
+ >Thank you for your input, it help a lot! Im excited to start looking into it! If I get more question, is it ok if I reach for you you on slack?
+
