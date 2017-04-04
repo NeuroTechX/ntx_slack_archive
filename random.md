@@ -645,3 +645,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >occasionally those conversations turn into working in their lab, summer or school year. usually just support work but being in a lab and listening to what's going on can teach a lot
 
+4/4/2017 4:17 PM
+
+ **karchie** :
+
+ >if your school has some sort of summer research program, look into that; if not, many other unis do and accept students from other colleges
+
