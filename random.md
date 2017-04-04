@@ -651,3 +651,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >if your school has some sort of summer research program, look into that; if not, many other unis do and accept students from other colleges
 
+4/4/2017 4:19 PM
+
+ **karchie** :
+
+ >setting up time to talk to professors is hard--especially if you're sort of introverted, and lots of engineering types are--and sometimes they'll say no. but I'd say it has the highest potential payoff of any of these.
+
