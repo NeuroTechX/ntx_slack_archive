@@ -609,3 +609,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >(not meaning to overwhelm; but there's a reason practicing engineers generally worked really hard in college.)
 
+4/4/2017 3:57 PM
+
+ **karchie** :
+
+ >bonus challenge: skim the table of contents, find the subject that sounds least interesting to you, and dive in deep enough to learn why it's important and what the hard problems are. I keep finding that there's all sorts of interesting detail buried in things that made my eyes glaze over at first, second, and third glance.
+
