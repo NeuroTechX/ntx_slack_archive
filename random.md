@@ -663,3 +663,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >at the very least ultimately you'll want letters of recommendation, and it's easier if it's a prof who's seen you outside of class. (go to office hours!)
 
+4/4/2017 4:21 PM
+
+ **karchie** :
+
+ >and at best, maybe you turn it into some undergrad lab experience. you want that.
+
