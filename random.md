@@ -675,3 +675,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >For now, im in automated production engineering at ETS, Montreal Canada. What is nice about this program is that it touches Mechanical, electrical, software and robotic engineering, so you basically have skill in everything, without mastering one topic(beside automation). But, there is course in health and biomedical engineering, so ill attend to that for sure!
 
+4/4/2017 4:29 PM
+
+ **copizo** :
+
+ >Though there is research lab in BME, how do you suggest would be a good way to approach the professors?
+
