@@ -615,3 +615,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >bonus challenge: skim the table of contents, find the subject that sounds least interesting to you, and dive in deep enough to learn why it's important and what the hard problems are. I keep finding that there's all sorts of interesting detail buried in things that made my eyes glaze over at first, second, and third glance.
 
+4/4/2017 4:08 PM
+
+ **copizo** :
+
+ >Thanks for the replies! Im more into Biorobotics, bionics and Biomimetics, so maybe the topics that would be more interesting are Biomechanics and Bioelectrics!
+
