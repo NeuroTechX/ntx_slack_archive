@@ -471,3 +471,15 @@ Adding a Faraday shielding over the EEG cap. Interesting...
 
  >Neat cap. What is  Spacer and silver fabric? Anyone have any ideas? Can't find much online.
 
+4/4/2017 6:15 AM
+
+ **sydneyneurotechx** :
+
+ >For those interested. japesinator  created at TDCS Badge for Cyphercon (Hacker conference in Wisconsin). It is functional (tried it on myself). I did a simple optic nerve stimulation and it created beautiful phosphenes.
+
+> 
+
+
+> 
+All hail Electric Cthulhu!
+
