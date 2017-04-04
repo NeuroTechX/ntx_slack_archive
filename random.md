@@ -657,3 +657,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >setting up time to talk to professors is hard--especially if you're sort of introverted, and lots of engineering types are--and sometimes they'll say no. but I'd say it has the highest potential payoff of any of these.
 
+4/4/2017 4:20 PM
+
+ **karchie** :
+
+ >at the very least ultimately you'll want letters of recommendation, and it's easier if it's a prof who's seen you outside of class. (go to office hours!)
+
