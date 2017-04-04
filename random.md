@@ -633,3 +633,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >if you're at a school with a decent graduate BME program, I'd say find out when the seminars are and start attending. maybe sit in on some dissertation defenses. you might start out getting only 20% of what they're saying, but that's actually true of a lot of people in the room (mostly being specialists in some other corner of the field). let it wash over you, listen to the questions, read some recent papers from each speaker
 
+4/4/2017 4:14 PM
+
+ **karchie** :
+
+ >set up a time to talk to professors (whether or not you're in their classes) about their research. professors are busy but cannot resist the opportunity to talk about their work
+
