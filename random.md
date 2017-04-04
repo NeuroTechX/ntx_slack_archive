@@ -693,3 +693,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >key is that the questions you're asking are actually questions that you're interested in. it must be worth your time even if it doesn't turn into a lab gig (which it usually won't)
 
+4/4/2017 4:47 PM
+
+ **karchie** :
+
+ >"any suggestions on how I might learn more about &lt;x&gt;" is pretty much always a safe question. there are often journal clubs, usually aimed at grad students but there's nothing wrong with asking politely if you can sit in.
+
