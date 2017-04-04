@@ -705,3 +705,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >also (and maybe you're already doing this, given that you're here): the neurotechx core people are local to you. get connected with the student club, talk to whoever's local. don't worry too much about what you don't know yet, go and listen and see what people are up to and how you can get involved with the knowledge and skills you have today.
 
+4/4/2017 4:59 PM
+
+ **copizo** :
+
+ >Im already in my uni Student club, so that's one step done! Ill look into the research labs in my sector and look for seminar too!
+
