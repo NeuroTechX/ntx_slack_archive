@@ -699,3 +699,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >"any suggestions on how I might learn more about &lt;x&gt;" is pretty much always a safe question. there are often journal clubs, usually aimed at grad students but there's nothing wrong with asking politely if you can sit in.
 
+4/4/2017 4:58 PM
+
+ **karchie** :
+
+ >also (and maybe you're already doing this, given that you're here): the neurotechx core people are local to you. get connected with the student club, talk to whoever's local. don't worry too much about what you don't know yet, go and listen and see what people are up to and how you can get involved with the knowledge and skills you have today.
+
