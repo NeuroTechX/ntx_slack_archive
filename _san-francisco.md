@@ -321,3 +321,12 @@ We can meet you in a few days
 
  ><!channel>: hey all, we're going to be making the last hacknight of every month (last Wednesday of every month) a demo night. The next one will be Apr 26 at 7:30.
 
+4/4/2017 5:32 PM
+
+ **octonomy** :
+
+ >Some action this coming weekend - anybody going?
+
+> 
+<http://boingboing.net/2017/04/03/mindreading-robots-and-tec.html>
+
