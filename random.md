@@ -597,3 +597,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >find a mentor, spend six years doing the above, and that's a capsule summary of grad school. :wink:
 
+4/4/2017 3:41 PM
+
+ **karchie** :
+
+ >but I would strongly recommend first making sure your math and physics chops are up to it. hard to see you'd make much sense of any corner of the field without reasonable grasp of multivariate calc, ordinary and probably partial differential eqns, linear algebra, probability and statistics, classical mechanics and electrodynamics.
+
