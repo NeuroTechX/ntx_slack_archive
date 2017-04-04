@@ -24,3 +24,9 @@
 
  >Hey sam_gregz  and francescacoo  I forgot to mention that the way I'd like to manage of the Project management is through Trello. You can get the link to the Google Drive through that
 
+4/4/2017 4:48 PM
+
+ **sydneyneurotechx** :
+
+ ><https://trello.com/b/YYfrMDIA>
+
