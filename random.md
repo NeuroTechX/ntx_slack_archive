@@ -639,3 +639,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >set up a time to talk to professors (whether or not you're in their classes) about their research. professors are busy but cannot resist the opportunity to talk about their work
 
+4/4/2017 4:15 PM
+
+ **karchie** :
+
+ >occasionally those conversations turn into working in their lab, summer or school year. usually just support work but being in a lab and listening to what's going on can teach a lot
+
