@@ -627,3 +627,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >For the background, im well equipped about electrodynamics and got the base for calculus, mechanics and such, of course im halfway through the first year as an undergrad, but is it a good idea to start studying bioengineering so soon?
 
+4/4/2017 4:13 PM
+
+ **karchie** :
+
+ >if you're at a school with a decent graduate BME program, I'd say find out when the seminars are and start attending. maybe sit in on some dissertation defenses. you might start out getting only 20% of what they're saying, but that's actually true of a lot of people in the room (mostly being specialists in some other corner of the field). let it wash over you, listen to the questions, read some recent papers from each speaker
+
