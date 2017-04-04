@@ -18,3 +18,9 @@
 
  ><!channel>  hey y'all! Everything is good to go for the first set of meetings this week. Looking forward to moving this forward and creating open content!
 
+4/4/2017 4:48 PM
+
+ **sydneyneurotechx** :
+
+ >Hey sam_gregz  and francescacoo  I forgot to mention that the way I'd like to manage of the Project management is through Trello. You can get the link to the Google Drive through that
+
