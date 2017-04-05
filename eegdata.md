@@ -981,3 +981,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >in order to avoir that, you should ensure that the rank of your matrices is equal to the number of channels you have (use `np.linalg.rank` to get this), or reduce the matrices by dropping some channels that can be reconstructed as a linear combination of other channels
 
+4/5/2017 6:01 AM
+
+ **yrenard** :
+
+ >if you referenced to common average, just drop any of your input channels before sending them to pyriemann
+
