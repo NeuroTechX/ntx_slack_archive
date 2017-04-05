@@ -1104,3 +1104,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >yes, because that's a function, not a class.
 
+4/5/2017 12:47 PM
+
+ **alexandre.barachant** :
+
+ >i should change the example to use the `Covariances` class instead
+
