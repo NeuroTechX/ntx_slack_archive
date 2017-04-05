@@ -1176,3 +1176,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >that's not a 'add' in mathematical sense, you add the projector tha apply the average reference
 
+4/5/2017 1:03 PM
+
+ **octonomy** :
+
+ >ok, thank you. im now using the latest master of pyRiemann, excited to be here on the edge.
+
