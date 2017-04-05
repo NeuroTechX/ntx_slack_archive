@@ -963,3 +963,9 @@ I try the `cov_data_train = np.nan_to_num(cov_data_train)` right before clf_mdm.
 > 
 Is there any chance theres something in the code a bit deeper that might cause the dreaded Nan/Inf?
 
+4/5/2017 5:58 AM
+
+ **yrenard** :
+
+ >octonomy: the number one reason is if your input signal, for any reason, has inf or nan numbers. You can check your epochs with `np.all(np.isfinite())` and validate that this input is always numeric
+
