@@ -1152,3 +1152,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >so to work from latest master, i could just `pip uninstall pyriemann`, git clone master, and then do setup.py?
 
+4/5/2017 12:53 PM
+
+ **alexandre.barachant** :
+
+ >yep, you can uninstall pyriemann, clone the master, and then do `python setup.py develop`
+
