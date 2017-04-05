@@ -1110,3 +1110,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >i should change the example to use the `Covariances` class instead
 
+4/5/2017 12:47 PM
+
+ **octonomy** :
+
+ >ah, ok. i see, you gave me example with capital C, so its class, not function. understood.
+
