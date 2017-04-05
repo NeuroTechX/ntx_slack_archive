@@ -42,3 +42,9 @@
 
  >done!
 
+4/5/2017 2:34 PM
+
+ **sydneyneurotechx** :
+
+ >Hey everyone. For those who haven't joined the trello board, please use this link to do so
+
