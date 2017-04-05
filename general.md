@@ -1908,3 +1908,9 @@ i'd also add more examples (with years next to them) and more details on the lim
 > 
 Hey you other people reading this post, what else do you agree or disagree with? :slightly_smiling_face:
 
+4/5/2017 7:03 AM
+
+ **frederictaieb** :
+
+ >Hi All, I've just received my 2014 Muse. I am trying to make it work with a Raspberry Pi. Unfortunately, I have understood that Interaxon didn't develop their SDK for ARM Systems. I was wondering if some of you were using RPi+Muse and if anybody could give me some advice to start. Thank you all.
+
