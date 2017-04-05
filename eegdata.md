@@ -1047,3 +1047,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >no, the data nevers goes into the constructor
 
+4/5/2017 12:43 PM
+
+ **alexandre.barachant** :
+
+ >for mne, the average reference is generally applied during the epoching
+
