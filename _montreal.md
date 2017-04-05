@@ -165,3 +165,9 @@ Emotiv Insight 1.6m$
 
  >Can I go as well? Even though I graduated school 4 years ago? It looks really cool
 
+4/5/2017 1:09 PM
+
+ **melanie** :
+
+ >Yeah for sure! These things are usually open to the public and, even if they aren't, I sincerely doubt anyone would mind
+
