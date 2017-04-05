@@ -1134,3 +1134,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >When i will release the new version, the doc will be updated
 
+4/5/2017 12:50 PM
+
+ **octonomy** :
+
+ >ohhh. i see, so your master is ahead of distributed package used by pip
+
