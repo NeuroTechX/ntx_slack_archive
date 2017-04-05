@@ -48,3 +48,12 @@
 
  >Hey everyone. For those who haven't joined the trello board, please use this link to do so
 
+4/5/2017 7:01 PM
+
+ **francescacoo** :
+
+ >Hi everybody, here I am starting with the questions about building content... sorry if they are basic... 
+
+> 
+I have access to online libraries through my university, so I was reading an article on the IEEE digital library. If I want to add a picture found in the article, can I do it? Of course referencing it correctly. I know I can for my university assignments, but I am not really sure about this case. Thanks a lot!
+
