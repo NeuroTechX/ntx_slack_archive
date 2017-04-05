@@ -1194,3 +1194,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >i was using tangent space, which produce vectors from covariances matrices
 
+4/5/2017 1:07 PM
+
+ **alexandre.barachant** :
+
+ >you can build a pipeline like that
+
