@@ -1944,3 +1944,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 > 
 3 - this far more tricky, I guess most the scitifc community still truely do not know do tdcs/tacs work, and there are few papers you can trust. It seems that every good one has a startup trying to implement it to the market. I think people try to go to market too fast, if every entrepreneur would try first to replicate the findings he is basing on things will look different.
 
+4/5/2017 12:52 PM
+
+ **benjamindeleener** :
+
+ >frederictaieb PolyCortex also developed a Python library receiving data from the Muse (<https://github.com/PolyCortex/pyMuse>) but it still needs Muse connectivity and we did not tested it on the RPi
+
