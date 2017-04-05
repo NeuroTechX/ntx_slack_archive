@@ -1029,3 +1029,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  ><https://github.com/alexandrebarachant/pyRiemann/issues/40>
 
+4/5/2017 12:35 PM
+
+ **octonomy** :
+
+ >ah ok, i was looking down the average reference suggestion, which i think  is set by `mne.io.set_eeg_reference`. i will try regularization, this was my next idea too. happy to see its just a param to the covariances() constructor so i dont have to do it from scratch
+
