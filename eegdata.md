@@ -1170,3 +1170,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >great. im curious about why MNE would *add* the average reference by default? wouldnt you want to subtract the average rather than add it, if you were to use it?
 
+4/5/2017 12:55 PM
+
+ **alexandre.barachant** :
+
+ >that's not a 'add' in mathematical sense, you add the projector tha apply the average reference
+
