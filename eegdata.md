@@ -1164,3 +1164,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >this way when you update the repo, the package follows
 
+4/5/2017 12:54 PM
+
+ **octonomy** :
+
+ >great. im curious about why MNE would *add* the average reference by default? wouldnt you want to subtract the average rather than add it, if you were to use it?
+
