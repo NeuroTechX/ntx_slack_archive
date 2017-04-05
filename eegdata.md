@@ -1041,3 +1041,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >in this way you showed just now, do you not pass in EEG as X to constructor, and instead pass it in into the transform call explicitly? I expected: `Covariances(X=EEG, estimator='lwf')` instead of `Covariances(estimator='lwf').transform(EEG)`?
 
+4/5/2017 12:43 PM
+
+ **alexandre.barachant** :
+
+ >no, the data nevers goes into the constructor
+
