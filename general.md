@@ -1914,3 +1914,21 @@ Hey you other people reading this post, what else do you agree or disagree with?
 
  >Hi All, I've just received my 2014 Muse. I am trying to make it work with a Raspberry Pi. Unfortunately, I have understood that Interaxon didn't develop their SDK for ARM Systems. I was wondering if some of you were using RPi+Muse and if anybody could give me some advice to start. Thank you all.
 
+4/5/2017 10:52 AM
+
+ **yannick** :
+
+ >Hey frederictaieb, yes, atom2626 &amp; ron.brash developed *IntelliPi* an EEG library for the Pi using Muse headset.
+
+> 
+You might want to look at:
+
+> 
+1) <http://www.atlantsembedded.com/intellipi-machine-learning-solution>
+
+> 
+2) <https://github.com/AtlantsEmbedded/IntelliPi>
+
+> 
+3) <https://github.com/NeuroTechX/awesome-bci>
+
