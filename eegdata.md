@@ -1158,3 +1158,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >yep, you can uninstall pyriemann, clone the master, and then do `python setup.py develop`
 
+4/5/2017 12:53 PM
+
+ **alexandre.barachant** :
+
+ >this way when you update the repo, the package follows
+
