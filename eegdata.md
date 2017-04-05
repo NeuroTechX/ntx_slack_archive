@@ -1098,3 +1098,9 @@ cov_data_train = covariances(epochs_data_train)```
 > 
 <http://pythonhosted.org/pyriemann/auto_examples/motor-imagery/plot_single.html>
 
+4/5/2017 12:46 PM
+
+ **alexandre.barachant** :
+
+ >yes, because that's a function, not a class.
+
