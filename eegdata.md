@@ -1200,3 +1200,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >you can build a pipeline like that
 
+4/5/2017 1:08 PM
+
+ **octonomy** :
+
+ >i see
+
