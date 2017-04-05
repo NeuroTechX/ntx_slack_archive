@@ -987,3 +987,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >if you referenced to common average, just drop any of your input channels before sending them to pyriemann
 
+4/5/2017 11:49 AM
+
+ **alexandre.barachant** :
+
+ >octonomy: yrenard got it right. this error usually happens when you have rank deficient matrices. This is the case when applying an average reference, or when the number of time sample in your covariance window is lower than the number of channels. To fix that, disable average refrence (older version of MNE set it by default), increase your window size, or add regularization during the estimation.
+
