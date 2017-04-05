@@ -999,3 +999,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >Note that i suggest you to work from the github version of the toolbox. I recently added some more explicit error message for this problem
 
+4/5/2017 11:53 AM
+
+ **alexandre.barachant** :
+
+ >I plan to release a new version in the next couple of weeks
+
