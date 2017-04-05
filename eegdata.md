@@ -1128,3 +1128,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  ><https://github.com/alexandrebarachant/pyRiemann/blob/master/examples/motor-imagery/plot_single.py#L68>
 
+4/5/2017 12:48 PM
+
+ **alexandre.barachant** :
+
+ >When i will release the new version, the doc will be updated
+
