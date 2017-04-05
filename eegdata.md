@@ -1053,3 +1053,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >for mne, the average reference is generally applied during the epoching
 
+4/5/2017 12:44 PM
+
+ **alexandre.barachant** :
+
+ ><http://martinos.org/mne/stable/generated/mne.Epochs.html>
+
