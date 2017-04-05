@@ -1023,3 +1023,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >if you estimates your cov mats with regularization =&gt; `Covariances(estimator='lwf').transform(EEG)` the the problem will go away
 
+4/5/2017 12:32 PM
+
+ **alexandre.barachant** :
+
+ ><https://github.com/alexandrebarachant/pyRiemann/issues/40>
+
