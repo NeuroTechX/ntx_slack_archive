@@ -1140,3 +1140,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >ohhh. i see, so your master is ahead of distributed package used by pip
 
+4/5/2017 12:51 PM
+
+ **alexandre.barachant** :
+
+ >yes, big time :slightly_smiling_face:
+
