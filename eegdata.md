@@ -969,3 +969,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >octonomy: the number one reason is if your input signal, for any reason, has inf or nan numbers. You can check your epochs with `np.all(np.isfinite())` and validate that this input is always numeric
 
+4/5/2017 5:59 AM
+
+ **yrenard** :
+
+ >the number two reason is that the rank of your matrices is not up to the number of channels (which means you lost a degree of freedom, e.g. by referencing all channels to the common average)
+
