@@ -1065,3 +1065,18 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >add_eeg_ref=False
 
+4/5/2017 12:45 PM
+
+ **alexandre.barachant** :
+
+ >```
+
+> 
+add_eeg_ref : bool
+
+> 
+      If True, an EEG average reference will be added (unless one already exists). The default value of True in 0.13 will change to False in 0.14, and the parameter will be removed in 0.15. Use mne.set_eeg_reference() instead.
+
+> 
+```
+
