@@ -1896,3 +1896,15 @@ Also, maxim, as you may know we're working on building an open source Muse datas
 > 
 i'd also add more examples (with years next to them) and more details on the limitations of eeg (so newral hackers can figure out if it's likely that their current idea is not possible without a more invasive procedure like an implant)
 
+4/5/2017 2:00 AM
+
+ **stephen** :
+
+ >Thanks mertnesvat 
+
+> 
+
+
+> 
+Hey you other people reading this post, what else do you agree or disagree with? :slightly_smiling_face:
+
