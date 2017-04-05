@@ -1962,3 +1962,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >yannick, do you know if IntelliPi is working correctly on a Pi3?
 
+4/5/2017 5:55 PM
+
+ **sydneyneurotechx** :
+
+ >ron.brash ^.
+
