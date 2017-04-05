@@ -945,3 +945,21 @@ try this application with your device (for Muse2016) to read and save the signal
 
  >I volunteer my brain
 
+4/5/2017 2:51 AM
+
+ **octonomy** :
+
+ >My dear Mr. alexandre.barachant , a small question for you. I have been using the pyRiemann lib (which is excellent,, thank you for this gift), and noticed it seems to frequently come back with the `ValueError: array must not contain infs or NaNs` error.
+
+> 
+
+
+> 
+I try the `cov_data_train = np.nan_to_num(cov_data_train)` right before clf_mdm.fit(), but doesnt help. 
+
+> 
+
+
+> 
+Is there any chance theres something in the code a bit deeper that might cause the dreaded Nan/Inf?
+
