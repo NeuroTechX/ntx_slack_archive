@@ -1146,3 +1146,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >yes, big time :slightly_smiling_face:
 
+4/5/2017 12:52 PM
+
+ **octonomy** :
+
+ >so to work from latest master, i could just `pip uninstall pyriemann`, git clone master, and then do setup.py?
+
