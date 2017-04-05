@@ -1011,3 +1011,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >thanks so much yrenard and alexandre.barachant for the clues. yrenard i did put in this check you mention `np.isfinite()` right before the call to `fit()` and the data is ok, so its something further down inside the fit() call that further transforms my input data to result with nan/inf
 
+4/5/2017 12:31 PM
+
+ **alexandre.barachant** :
+
+ >yes, the problem is not input matrices contain nans, they are rank deficient
+
