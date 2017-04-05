@@ -1059,3 +1059,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  ><http://martinos.org/mne/stable/generated/mne.Epochs.html>
 
+4/5/2017 12:44 PM
+
+ **alexandre.barachant** :
+
+ >add_eeg_ref=False
+
