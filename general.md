@@ -1950,3 +1950,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >frederictaieb PolyCortex also developed a Python library receiving data from the Muse (<https://github.com/PolyCortex/pyMuse>) but it still needs Muse connectivity and we did not tested it on the RPi
 
+4/5/2017 4:35 PM
+
+ **frederictaieb** :
+
+ >Thank you yannick benjamindeleener . I guess I will start with intelliPi then, even if if would much easier for me to use a python lib. 
+
