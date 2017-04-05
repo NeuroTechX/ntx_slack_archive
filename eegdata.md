@@ -993,3 +993,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >octonomy: yrenard got it right. this error usually happens when you have rank deficient matrices. This is the case when applying an average reference, or when the number of time sample in your covariance window is lower than the number of channels. To fix that, disable average refrence (older version of MNE set it by default), increase your window size, or add regularization during the estimation.
 
+4/5/2017 11:50 AM
+
+ **alexandre.barachant** :
+
+ >Note that i suggest you to work from the github version of the toolbox. I recently added some more explicit error message for this problem
+
