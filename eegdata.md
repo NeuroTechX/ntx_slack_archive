@@ -1035,3 +1035,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >ah ok, i was looking down the average reference suggestion, which i think  is set by `mne.io.set_eeg_reference`. i will try regularization, this was my next idea too. happy to see its just a param to the covariances() constructor so i dont have to do it from scratch
 
+4/5/2017 12:39 PM
+
+ **octonomy** :
+
+ >in this way you showed just now, do you not pass in EEG as X to constructor, and instead pass it in into the transform call explicitly? I expected: `Covariances(X=EEG, estimator='lwf')` instead of `Covariances(estimator='lwf').transform(EEG)`?
+
