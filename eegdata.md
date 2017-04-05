@@ -1182,3 +1182,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >ok, thank you. im now using the latest master of pyRiemann, excited to be here on the edge.
 
+4/5/2017 1:05 PM
+
+ **octonomy** :
+
+ >may i ask one more q? in your work with xgboost, alexandre.barachant were you using that algorithm with inputs of covariance (like with pyRiemann) or spatial filters (like with CSP), or something else entirely?
+
