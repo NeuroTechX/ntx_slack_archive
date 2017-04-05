@@ -1017,3 +1017,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >yes, the problem is not input matrices contain nans, they are rank deficient
 
+4/5/2017 12:31 PM
+
+ **alexandre.barachant** :
+
+ >if you estimates your cov mats with regularization =&gt; `Covariances(estimator='lwf').transform(EEG)` the the problem will go away
+
