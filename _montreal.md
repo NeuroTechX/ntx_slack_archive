@@ -171,3 +171,9 @@ Emotiv Insight 1.6m$
 
  >Yeah for sure! These things are usually open to the public and, even if they aren't, I sincerely doubt anyone would mind
 
+4/5/2017 11:05 PM
+
+ **copizo** :
+
+ >Thanks for the info! :smile:
+
