@@ -1932,3 +1932,15 @@ You might want to look at:
 > 
 3) <https://github.com/NeuroTechX/awesome-bci>
 
+4/5/2017 12:44 PM
+
+ **omer** :
+
+ >Yes, Thank you. I guess I agree with the general impression that things are more complicated than they seem, in comparison to software neurohacking requires more knowledge and understanding, and the quick and dirty startup practice people are used to may not work.
+
+> 
+More specifically, regarding 1see the attempts to incorporate sensors in already wearable tech such as glasses and jewlery (as the bracelet went into a watch - same will follow here).  regarding 2 this the same, while you already wear it... anyway I haven't seen any convincing products so far that are not based on muscles perhaps the new gtec initiative with als wil prove me wrong.
+
+> 
+3 - this far more tricky, I guess most the scitifc community still truely do not know do tdcs/tacs work, and there are few papers you can trust. It seems that every good one has a startup trying to implement it to the market. I think people try to go to market too fast, if every entrepreneur would try first to replicate the findings he is basing on things will look different.
+
