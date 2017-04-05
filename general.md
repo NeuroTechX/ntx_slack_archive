@@ -1956,3 +1956,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Thank you yannick benjamindeleener . I guess I will start with intelliPi then, even if if would much easier for me to use a python lib. 
 
+4/5/2017 4:36 PM
+
+ **frederictaieb** :
+
+ >yannick, do you know if IntelliPi is working correctly on a Pi3?
+
