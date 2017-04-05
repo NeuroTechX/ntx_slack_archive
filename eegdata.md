@@ -1122,3 +1122,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >haha, i already did it on the last code
 
+4/5/2017 12:48 PM
+
+ **alexandre.barachant** :
+
+ ><https://github.com/alexandrebarachant/pyRiemann/blob/master/examples/motor-imagery/plot_single.py#L68>
+
