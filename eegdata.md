@@ -1188,3 +1188,9 @@ cov_data_train = covariances(epochs_data_train)```
 
  >may i ask one more q? in your work with xgboost, alexandre.barachant were you using that algorithm with inputs of covariance (like with pyRiemann) or spatial filters (like with CSP), or something else entirely?
 
+4/5/2017 1:07 PM
+
+ **alexandre.barachant** :
+
+ >i was using tangent space, which produce vectors from covariances matrices
+
