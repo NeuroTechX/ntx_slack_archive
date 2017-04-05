@@ -1206,3 +1206,18 @@ cov_data_train = covariances(epochs_data_train)```
 
  >i see
 
+4/5/2017 1:08 PM
+
+ **alexandre.barachant** :
+
+ >```
+
+> 
+clf = make_pipeline(Covariances(estimator='lwf'), TangentSpace(), XGBClassifier())
+
+> 
+clf.fit(EEG_data, labels)
+
+> 
+```
+
