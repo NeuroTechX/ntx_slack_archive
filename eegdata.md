@@ -975,3 +975,9 @@ Is there any chance theres something in the code a bit deeper that might cause 
 
  >the number two reason is that the rank of your matrices is not up to the number of channels (which means you lost a degree of freedom, e.g. by referencing all channels to the common average)
 
+4/5/2017 6:00 AM
+
+ **yrenard** :
+
+ >in order to avoir that, you should ensure that the rank of your matrices is equal to the number of channels you have (use `np.linalg.rank` to get this), or reduce the matrices by dropping some channels that can be reconstructed as a linear combination of other channels
+
