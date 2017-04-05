@@ -69,3 +69,9 @@ That way they just open a new market segment, but keep (arguably) their scientif
 
  >for sure
 
+4/5/2017 10:20 PM
+
+ **andreacoravos** :
+
+ ><https://www.psfk.com/2017/04/how-neurotechnology-is-helping-the-san-francisco-giants-train-better.html>
+
