@@ -1080,3 +1080,21 @@ add_eeg_ref : bool
 > 
 ```
 
+4/5/2017 12:45 PM
+
+ **octonomy** :
+
+ >im working with pyRiemann 0.2.4.  the example here does pass in X to constructor of covariances:
+
+> 
+```
+
+> 
+# compute covariance matrices
+
+> 
+cov_data_train = covariances(epochs_data_train)```
+
+> 
+<http://pythonhosted.org/pyriemann/auto_examples/motor-imagery/plot_single.html>
+
