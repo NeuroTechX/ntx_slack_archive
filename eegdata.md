@@ -1221,3 +1221,9 @@ clf.fit(EEG_data, labels)
 > 
 ```
 
+4/5/2017 1:16 PM
+
+ **octonomy** :
+
+ >understood. thanks for your help today
+
