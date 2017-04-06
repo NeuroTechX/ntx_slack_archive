@@ -1320,3 +1320,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >i actually fixed a small bug in the CSP implementation of MNE yesterday (<https://github.com/mne-tools/mne-python/pull/4144>). they are now strictly equivalent
 
+4/6/2017 4:11 PM
+
+ **alexandre.barachant** :
+
+ >An estimator is the "base class" of sklearn
+
