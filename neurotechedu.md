@@ -69,3 +69,9 @@ I have access to online libraries through my university, so I was reading an art
 
  >francescacoo yes I don't see any issue as long as you are referencing it, once it's published it is meant for the public to see! 
 
+4/6/2017 10:06 AM
+
+ **davidevaleriani** :
+
+ >mmmh not necessarily, it depends on the copyright, sometimes (like in the case of IEEE) you have to request a permission for that. Have a look here <https://www.ieee.org/publications_standards/publications/rights/reqperm.html>
+
