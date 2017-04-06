@@ -564,3 +564,9 @@ All electrodes on bottom row of both boards
 
  >that's the right setup
 
+4/6/2017 5:38 PM
+
+ **octonomy** :
+
+ >excellent, thank you
+
