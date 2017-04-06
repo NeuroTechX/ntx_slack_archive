@@ -582,3 +582,9 @@ All electrodes on bottom row of both boards
 
  >you should send me your daisy board lol
 
+4/6/2017 5:39 PM
+
+ **aj** :
+
+ >i would have already had it fixed and sent back
+
