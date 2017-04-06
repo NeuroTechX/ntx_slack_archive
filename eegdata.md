@@ -1332,3 +1332,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >CSP is a transformer
 
+4/6/2017 4:11 PM
+
+ **alexandre.barachant** :
+
+ >tranformer have a fit and transform, but no predict
+
