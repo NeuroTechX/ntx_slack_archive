@@ -594,3 +594,9 @@ All electrodes on bottom row of both boards
 
  >ask teon
 
+4/6/2017 5:40 PM
+
+ **octonomy** :
+
+ >i might just send it. i have to get the other one soldered up and running and i will do it. could be out in the post tomorrow :slightly_smiling_face:
+
