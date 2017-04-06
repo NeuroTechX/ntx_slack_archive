@@ -1986,3 +1986,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Can't find any tech specs on the AHEAD 300. Any ideas?
 
+4/6/2017 8:23 PM
+
+ **kowalej** :
+
+ >I reached out to the company and they will get back to me shortly with information I should be able to share.
+
