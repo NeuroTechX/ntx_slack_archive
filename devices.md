@@ -528,3 +528,9 @@ All electrodes on bottom row of both boards
 
  >so i think its not the main board
 
+4/6/2017 4:42 PM
+
+ **octonomy** :
+
+ >of course i had to solder the headers onto daisy myself, os i second guess myself, but the solder points do look clean
+
