@@ -588,3 +588,9 @@ All electrodes on bottom row of both boards
 
  >i would have already had it fixed and sent back
 
+4/6/2017 5:39 PM
+
+ **aj** :
+
+ >ask teon
+
