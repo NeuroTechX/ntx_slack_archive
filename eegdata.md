@@ -1275,3 +1275,9 @@ Then, when you predict (or score) it call `transform` on every step, then call `
 
  >pipelines are super usefull :slightly_smiling_face:
 
+4/6/2017 4:04 PM
+
+ **octonomy** :
+
+ >i love it. just getting the hang of it
+
