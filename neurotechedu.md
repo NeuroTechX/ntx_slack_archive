@@ -132,3 +132,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >guys, you can share the draft with anyone
 
+4/6/2017 4:57 PM
+
+ **sydneyneurotechx** :
+
+ >The draft of the paper? It doesn't fall under the copyright of IEEE?
+
