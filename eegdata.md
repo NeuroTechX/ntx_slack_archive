@@ -1338,3 +1338,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >tranformer have a fit and transform, but no predict
 
+4/6/2017 4:12 PM
+
+ **alexandre.barachant** :
+
+ >the other base class have (Classifier, Regressor, Cluster) have a predict
+
