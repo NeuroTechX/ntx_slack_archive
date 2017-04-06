@@ -1269,3 +1269,9 @@ Then, when you predict (or score) it call `transform` on every step, then call `
 
  >thank you
 
+4/6/2017 3:59 PM
+
+ **alexandre.barachant** :
+
+ >pipelines are super usefull :slightly_smiling_face:
+
