@@ -489,3 +489,9 @@ All hail Electric Cthulhu!
 
  >hello, does anyone on here use an openbci with daisy module? wondering if i have the wires hooked up correctly
 
+4/6/2017 4:20 PM
+
+ **octonomy** :
+
+ >im seeing weirdness, quite high voltage readings (range of ~2000uv) and every channel is identical, which im pretty sure is not supposed to happen
+
