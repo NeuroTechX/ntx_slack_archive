@@ -1380,3 +1380,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >yes, i see
 
+4/6/2017 4:21 PM
+
+ **alexandre.barachant** :
+
+ >some estimator can be both classifier and transformer. like my MDM which has a transform method (and return the distance to each centroid). it can therefore be piped before another classifier to to 'manifold embedding'
+
