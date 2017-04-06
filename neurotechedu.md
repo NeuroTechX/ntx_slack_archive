@@ -102,3 +102,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >An alternative would be to contact the author, ask for his/her permission and then slightly change the figure
 
+4/6/2017 4:25 PM
+
+ **davidevaleriani** :
+
+ >It gives me $125 if I ask to reuse a picture of one of my papers :expressionless:
+
