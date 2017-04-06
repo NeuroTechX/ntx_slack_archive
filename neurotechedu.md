@@ -87,3 +87,12 @@ I have access to online libraries through my university, so I was reading an art
 
  >If you need any help on getting permission francescacoo  let me know !
 
+4/6/2017 4:21 PM
+
+ **francescacoo** :
+
+ >I tried through the link davidevaleriani posted and it came up a price of 225.00 USD :scream: I guess it's not that important to use that picture :stuck_out_tongue: but good to know how it works! Hopefully I can just cite the journal without using images or copying their text! I will try to learn more about copyrights while writing the content!
+
+> 
+sheida I believe the difference is because this is a published journal / paper so not available for the public?
+
