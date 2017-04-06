@@ -534,3 +534,9 @@ All electrodes on bottom row of both boards
 
  >of course i had to solder the headers onto daisy myself, os i second guess myself, but the solder points do look clean
 
+4/6/2017 4:42 PM
+
+ **octonomy** :
+
+ >i also question if i did a good enough job soldering the y connector wire to connect the SRB
+
