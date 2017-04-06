@@ -516,3 +516,9 @@ All electrodes on bottom row of both boards
 
  >Does it work correctly without the Daisy module? octonomy ?
 
+4/6/2017 4:41 PM
+
+ **octonomy** :
+
+ >yes, without the daisy its great
+
