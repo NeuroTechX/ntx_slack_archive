@@ -1308,3 +1308,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >i still dont quite understand the diff between estimator vs classifier. i thought estimator was just sklearns word for a classifier
 
+4/6/2017 4:08 PM
+
+ **alexandre.barachant** :
+
+ >finally, CSP in pyRiemann is also implementing multiclass CSP, which i later added to the CSP of mne
+
