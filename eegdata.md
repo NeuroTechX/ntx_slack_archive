@@ -1257,3 +1257,9 @@ in a pipeline, when you fit, it call `fit_transform` to every steps, except the 
 > 
 Then, when you predict (or score) it call `transform` on every step, then call `predict` on the last one
 
+4/6/2017 3:44 PM
+
+ **alexandre.barachant** :
+
+ ><http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html>
+
