@@ -504,3 +504,9 @@ All hail Electric Cthulhu!
 > 
 All electrodes on bottom row of both boards 
 
+4/6/2017 4:25 PM
+
+ **octonomy** :
+
+ >Including the GND (connected bottom row on bottom board) and the SRB (connected bottom pins on both boards - to a y-connector)
+
