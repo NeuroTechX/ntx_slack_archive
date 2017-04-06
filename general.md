@@ -1974,3 +1974,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Hey all, not sure if you've heard of the Brain Scope EEG but a new study out of John Hopkins has shown this handheld device can identify brain bleeding in people with head injuries at a 97% accuracy. The idea is this would be a low cost portable pre scan tool. Could be an interesting device for us hobbyists to get our hands on. Here's the article: <http://www.hopkinsmedicine.org/news/media/releases/quickly_assessing_brain_bleeding_in_head_injuries_using_new_device> 
 
+4/6/2017 6:56 PM
+
+ **sydneyneurotechx** :
+
+ >Yea, met a former engineer at Brainscope. I like their approach to using eeg for concussion detection.
+
