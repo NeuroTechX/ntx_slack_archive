@@ -552,3 +552,9 @@ All electrodes on bottom row of both boards
 
  >it seems to work most normally when i take off my right ear clip. this brings the signal within normal range of 0-200uV
 
+4/6/2017 5:03 PM
+
+ **octonomy** :
+
+ >when i have both clips on, it exhibits weird behavior, where it will be normal for about 5 sec, then suddenly jump up to 10,000uV range for 5 sec, then back down again. it seems to just jump between orders of magnitude of voltage every 5sec or so
+
