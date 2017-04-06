@@ -237,3 +237,9 @@ PM me to be included on the guest list
 
  >Yes last weekend, sorry will respond tonight. We are on board and planning! 
 
+4/6/2017 11:17 PM
+
+ **bryan_j** :
+
+ >Planning for May 29. Get stoked Toronto! <!channel> 
+
