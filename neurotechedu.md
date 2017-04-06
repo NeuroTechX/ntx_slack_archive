@@ -150,3 +150,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >I mean, I wouldn't risk, especially if we are aiming at large audience. Then, the PDFs of all my papers are freely available on my website :stuck_out_tongue:
 
+4/6/2017 6:02 PM
+
+ **sydneyneurotechx** :
+
+ ><https://sci-hub.cc/>
+
