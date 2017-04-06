@@ -606,3 +606,9 @@ All electrodes on bottom row of both boards
 
  >thnks
 
+4/6/2017 5:40 PM
+
+ **octonomy** :
+
+ >btw aj your openbci node connector is the greatest thing since sliced bread
+
