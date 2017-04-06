@@ -96,3 +96,9 @@ I have access to online libraries through my university, so I was reading an art
 > 
 sheida I believe the difference is because this is a published journal / paper so not available for the public?
 
+4/6/2017 4:22 PM
+
+ **davidevaleriani** :
+
+ >An alternative would be to contact the author, ask for his/her permission and then slightly change the figure
+
