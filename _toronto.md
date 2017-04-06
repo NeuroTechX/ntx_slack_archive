@@ -231,3 +231,9 @@ PM me to be included on the guest list
 
  >Tom has reached out to you for WWTO bryan_j, right? He wants to do it on BCI and Affective Computing
 
+4/6/2017 11:17 PM
+
+ **bryan_j** :
+
+ >Yes last weekend, sorry will respond tonight. We are on board and planning! 
+
