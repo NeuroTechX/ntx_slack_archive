@@ -57,3 +57,9 @@
 > 
 I have access to online libraries through my university, so I was reading an article on the IEEE digital library. If I want to add a picture found in the article, can I do it? Of course referencing it correctly. I know I can for my university assignments, but I am not really sure about this case. Thanks a lot!
 
+4/6/2017 1:28 AM
+
+ **sydneyneurotechx** :
+
+ >hmm unsure davidevaleriani alexandre.barachant  sheida hectordomorozco  Any ideas?
+
