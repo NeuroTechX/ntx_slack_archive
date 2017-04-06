@@ -624,3 +624,9 @@ All electrodes on bottom row of both boards
 
  >and thanks!
 
+4/6/2017 5:43 PM
+
+ **aj** :
+
+ >when i use the openbci GUI, packets get dropped, but with my node connector inside thinker, packets never get dropped because it's on it's own process separate from analysis
+
