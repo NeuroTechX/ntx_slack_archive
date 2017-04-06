@@ -1287,3 +1287,9 @@ Then, when you predict (or score) it call `transform` on every step, then call `
 
  >in your pyRiemann library, you offer a CSP transformer? how is it different from the MNE version?
 
+4/6/2017 4:06 PM
+
+ **octonomy** :
+
+ >i guess i shoudl say estimator, since it is not just transform
+
