@@ -1245,3 +1245,15 @@ clf.score(test_X, test_y)
 > 
 Does this properly handle the transform on the new data before running score?
 
+4/6/2017 3:42 PM
+
+ **alexandre.barachant** :
+
+ >yes.
+
+> 
+in a pipeline, when you fit, it call `fit_transform` to every steps, except the last one where it call `fit`.
+
+> 
+Then, when you predict (or score) it call `transform` on every step, then call `predict` on the last one
+
