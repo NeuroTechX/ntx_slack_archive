@@ -546,3 +546,9 @@ All electrodes on bottom row of both boards
 
  >but before i go down that path, i just wanted to ask if anyone can validate that i just have the wires on daisy hooked up correctly. this is one thing is just cant find on Openbci forums or their how to.
 
+4/6/2017 5:02 PM
+
+ **octonomy** :
+
+ >it seems to work most normally when i take off my right ear clip. this brings the signal within normal range of 0-200uV
+
