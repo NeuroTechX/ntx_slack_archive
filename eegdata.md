@@ -1374,3 +1374,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >a transformer is an estimator, a classifier is also an estimator. that is just the base name for a sklearn class
 
+4/6/2017 4:19 PM
+
+ **octonomy** :
+
+ >yes, i see
+
