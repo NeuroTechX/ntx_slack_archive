@@ -1362,3 +1362,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >so, its like both a classifier and estimator can both be said to be subset of estimator
 
+4/6/2017 4:13 PM
+
+ **alexandre.barachant** :
+
+ ><http://scikit-learn.org/stable/modules/classes.html#module-sklearn.base>
+
