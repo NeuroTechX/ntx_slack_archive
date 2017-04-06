@@ -219,3 +219,9 @@ PM me to be included on the guest list
 
  >Welcome, new Toronto NeuroTech Enthusiasts! Check out our previous events at <http://www.meetup.com/NeuroTechTO|www.meetup.com/NeuroTechTO>, join our community, and stay tuned for upcoming announcements regarding events and things. Connect with us whenever you would like at <mailto:to@neurotechx.com|to@neurotechx.com>. Yeah!
 
+4/6/2017 9:41 PM
+
+ **bryan_j** :
+
+ >We will be at Health TO tonight. Hope to see you there! 
+
