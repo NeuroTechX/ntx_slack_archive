@@ -144,3 +144,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >No, only the final version, but usually you don't change the figures from the draft to the final version
 
+4/6/2017 4:58 PM
+
+ **davidevaleriani** :
+
+ >I mean, I wouldn't risk, especially if we are aiming at large audience. Then, the PDFs of all my papers are freely available on my website :stuck_out_tongue:
+
