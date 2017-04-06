@@ -522,3 +522,9 @@ All electrodes on bottom row of both boards
 
  >yes, without the daisy its great
 
+4/6/2017 4:41 PM
+
+ **octonomy** :
+
+ >so i think its not the main board
+
