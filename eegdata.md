@@ -1263,3 +1263,9 @@ Then, when you predict (or score) it call `transform` on every step, then call `
 
  ><http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html>
 
+4/6/2017 3:53 PM
+
+ **octonomy** :
+
+ >thank you
+
