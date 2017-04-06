@@ -1344,3 +1344,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >the other base class have (Classifier, Regressor, Cluster) have a predict
 
+4/6/2017 4:13 PM
+
+ **octonomy** :
+
+ >yes, CSP is a way to extract features only
+
