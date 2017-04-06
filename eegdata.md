@@ -1314,3 +1314,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >finally, CSP in pyRiemann is also implementing multiclass CSP, which i later added to the CSP of mne
 
+4/6/2017 4:09 PM
+
+ **alexandre.barachant** :
+
+ >i actually fixed a small bug in the CSP implementation of MNE yesterday (<https://github.com/mne-tools/mne-python/pull/4144>). they are now strictly equivalent
+
