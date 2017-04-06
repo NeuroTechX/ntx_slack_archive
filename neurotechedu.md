@@ -114,3 +114,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Doesn't the Author of the paper also manage it's rights davidevaleriani ? If you get the authors permission, couldn't they give access for free?
 
+4/6/2017 4:33 PM
+
+ **davidevaleriani** :
+
+ >Not with IEEE, you give rights to them when you publish the paper (that's why you sign the copyright form).
+
