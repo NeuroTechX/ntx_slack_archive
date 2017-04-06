@@ -225,3 +225,9 @@ PM me to be included on the guest list
 
  >We will be at Health TO tonight. Hope to see you there! 
 
+4/6/2017 11:13 PM
+
+ **yannick** :
+
+ >Tom has reached out to you for WWTO bryan_j, right? He wants to do it on BCI and Affective Computing
+
