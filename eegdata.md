@@ -1326,3 +1326,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >An estimator is the "base class" of sklearn
 
+4/6/2017 4:11 PM
+
+ **alexandre.barachant** :
+
+ >CSP is a transformer
+
