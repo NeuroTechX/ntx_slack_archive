@@ -483,3 +483,9 @@ Adding a Faraday shielding over the EEG cap. Interesting...
 > 
 All hail Electric Cthulhu!
 
+4/6/2017 4:19 PM
+
+ **octonomy** :
+
+ >hello, does anyone on here use an openbci with daisy module? wondering if i have the wires hooked up correctly
+
