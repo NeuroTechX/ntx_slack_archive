@@ -576,3 +576,9 @@ All electrodes on bottom row of both boards
 
  >this frees me up to try other things.  ill try resoldering a different y-connector, maybe i jacked it up somehow
 
+4/6/2017 5:39 PM
+
+ **aj** :
+
+ >you should send me your daisy board lol
+
