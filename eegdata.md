@@ -1227,3 +1227,21 @@ clf.fit(EEG_data, labels)
 
  >understood. thanks for your help today
 
+4/6/2017 3:40 PM
+
+ **octonomy** :
+
+ >alexandre.barachant if you use the pipeline as you showed above, when it comes to your test data, how do you apply the transform to it before score()?  in the example above, could I just use
+
+> 
+```
+
+> 
+clf.score(test_X, test_y)
+
+> 
+```
+
+> 
+Does this properly handle the transform on the new data before running score?
+
