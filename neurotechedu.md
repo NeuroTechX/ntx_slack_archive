@@ -138,3 +138,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >The draft of the paper? It doesn't fall under the copyright of IEEE?
 
+4/6/2017 4:58 PM
+
+ **davidevaleriani** :
+
+ >No, only the final version, but usually you don't change the figures from the draft to the final version
+
