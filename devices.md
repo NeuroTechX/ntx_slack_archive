@@ -636,3 +636,9 @@ All electrodes on bottom row of both boards
 
  >it's like the most important thing for this serial connection so the nod works great for that
 
+4/6/2017 9:36 PM
+
+ **octonomy** :
+
+ >Yes exactly!
+
