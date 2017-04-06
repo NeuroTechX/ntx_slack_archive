@@ -1350,3 +1350,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >yes, CSP is a way to extract features only
 
+4/6/2017 4:13 PM
+
+ **alexandre.barachant** :
+
+ >A transformer typically does data "preprocessing" i.e step before a classifier. Feature extraction in a general sense
+
