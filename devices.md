@@ -612,3 +612,9 @@ All electrodes on bottom row of both boards
 
  >btw aj your openbci node connector is the greatest thing since sliced bread
 
+4/6/2017 5:42 PM
+
+ **aj** :
+
+ >good you should spend your time doing cool shit with the data not trying to get the data
+
