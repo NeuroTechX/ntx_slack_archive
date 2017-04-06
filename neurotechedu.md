@@ -75,3 +75,9 @@ I have access to online libraries through my university, so I was reading an art
 
  >mmmh not necessarily, it depends on the copyright, sometimes (like in the case of IEEE) you have to request a permission for that. Have a look here <https://www.ieee.org/publications_standards/publications/rights/reqperm.html>
 
+4/6/2017 10:55 AM
+
+ **francescacoo** :
+
+ >thank you! So I guess that each journal has its own rules.. I will check that next time :wink:
+
