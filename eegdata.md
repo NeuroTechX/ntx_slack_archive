@@ -1302,3 +1302,9 @@ Then, when you predict (or score) it call `transform` on every step, then call `
 > 
 This makes pyriemann CSP more flexible (can be piped as a covariance matrix dimentionality reduction, with the parameter `CSP(log=False)`) and you can also use different metric for mean covariance estimation
 
+4/6/2017 4:07 PM
+
+ **octonomy** :
+
+ >i still dont quite understand the diff between estimator vs classifier. i thought estimator was just sklearns word for a classifier
+
