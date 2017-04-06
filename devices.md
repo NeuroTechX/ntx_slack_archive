@@ -540,3 +540,9 @@ All electrodes on bottom row of both boards
 
  >i also question if i did a good enough job soldering the y connector wire to connect the SRB
 
+4/6/2017 4:43 PM
+
+ **octonomy** :
+
+ >but before i go down that path, i just wanted to ask if anyone can validate that i just have the wires on daisy hooked up correctly. this is one thing is just cant find on Openbci forums or their how to.
+
