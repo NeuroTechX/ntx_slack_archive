@@ -630,3 +630,9 @@ All electrodes on bottom row of both boards
 
  >when i use the openbci GUI, packets get dropped, but with my node connector inside thinker, packets never get dropped because it's on it's own process separate from analysis
 
+4/6/2017 5:43 PM
+
+ **aj** :
+
+ >it's like the most important thing for this serial connection so the nod works great for that
+
