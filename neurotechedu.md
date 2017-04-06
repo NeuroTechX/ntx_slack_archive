@@ -63,3 +63,9 @@ I have access to online libraries through my university, so I was reading an art
 
  >hmm unsure davidevaleriani alexandre.barachant  sheida hectordomorozco  Any ideas?
 
+4/6/2017 2:38 AM
+
+ **sheida** :
+
+ >francescacoo yes I don't see any issue as long as you are referencing it, once it's published it is meant for the public to see! 
+
