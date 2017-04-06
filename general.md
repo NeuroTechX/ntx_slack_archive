@@ -1980,3 +1980,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Yea, met a former engineer at Brainscope. I like their approach to using eeg for concussion detection.
 
+4/6/2017 7:00 PM
+
+ **sydneyneurotechx** :
+
+ >Can't find any tech specs on the AHEAD 300. Any ideas?
+
