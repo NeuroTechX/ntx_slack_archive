@@ -1992,3 +1992,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >I reached out to the company and they will get back to me shortly with information I should be able to share.
 
+4/6/2017 8:40 PM
+
+ **sydneyneurotechx** :
+
+ >sweet! Thanks!
+
