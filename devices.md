@@ -495,3 +495,12 @@ All hail Electric Cthulhu!
 
  >im seeing weirdness, quite high voltage readings (range of ~2000uv) and every channel is identical, which im pretty sure is not supposed to happen
 
+4/6/2017 4:23 PM
+
+ **octonomy** :
+
+ >My connections are like this:
+
+> 
+All electrodes on bottom row of both boards 
+
