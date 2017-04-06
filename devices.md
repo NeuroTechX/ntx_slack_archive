@@ -558,3 +558,9 @@ All electrodes on bottom row of both boards
 
  >when i have both clips on, it exhibits weird behavior, where it will be normal for about 5 sec, then suddenly jump up to 10,000uV range for 5 sec, then back down again. it seems to just jump between orders of magnitude of voltage every 5sec or so
 
+4/6/2017 5:38 PM
+
+ **aj** :
+
+ >that's the right setup
+
