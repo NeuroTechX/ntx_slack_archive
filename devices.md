@@ -618,3 +618,9 @@ All electrodes on bottom row of both boards
 
  >good you should spend your time doing cool shit with the data not trying to get the data
 
+4/6/2017 5:42 PM
+
+ **aj** :
+
+ >and thanks!
+
