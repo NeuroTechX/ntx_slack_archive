@@ -81,3 +81,9 @@ I have access to online libraries through my university, so I was reading an art
 
  >thank you! So I guess that each journal has its own rules.. I will check that next time :wink:
 
+4/6/2017 12:55 PM
+
+ **sydneyneurotechx** :
+
+ >If you need any help on getting permission francescacoo  let me know !
+
