@@ -510,3 +510,9 @@ All electrodes on bottom row of both boards
 
  >Including the GND (connected bottom row on bottom board) and the SRB (connected bottom pins on both boards - to a y-connector)
 
+4/6/2017 4:35 PM
+
+ **sydneyneurotechx** :
+
+ >Does it work correctly without the Daisy module? octonomy ?
+
