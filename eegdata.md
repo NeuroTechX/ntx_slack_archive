@@ -1437,3 +1437,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >ok, ignore the above - it looks like I could get --lsl_eeg working! :slightly_smiling_face:
 
+4/7/2017 1:31 AM
+
+ **alexandre.barachant** :
+
+ >pat do you have a muse 2014 headband ? my code is only compatible with muse 2016
+
