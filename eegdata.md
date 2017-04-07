@@ -1413,3 +1413,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >unfortunately gatt can't connect after 5s, although muse-io has no problems.
 
+4/7/2017 12:34 AM
+
+ **dano** :
+
+ >Of course. You might have a gatt BLE issue then. Can you test on another computer/OS?
+
