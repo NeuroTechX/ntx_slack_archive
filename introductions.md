@@ -492,3 +492,9 @@
 
  >hi kirkins , go ahead, tell us more about yourself don't be shy :wink:
 
+4/7/2017 11:14 PM
+
+ **yrenard** :
+
+ >this is a friendly community
+
