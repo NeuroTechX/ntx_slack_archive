@@ -2016,3 +2016,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Basically a super hard signal processing problem 
 
+4/7/2017 12:32 AM
+
+ **breeves** :
+
+ >Any interesting reads on optical or electromagnetic approaches are much appreciated 
+
