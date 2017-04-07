@@ -228,3 +228,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >Welp! Looks like they need a web dev! I'm goin in :stuck_out_tongue:
 
+4/7/2017 6:21 PM
+
+ **w** :
+
+ >Hey all, a friends startup is focused on 3D body scanning and looking for their first backend / cloud engineer / architect and also their first iOS engineer. Its not brain data, but thought someone here might be interested in body imaging. Theyve developed awesome hardware and have the some analysis work done. PM me if youre interested and able to architect and build this.
+
