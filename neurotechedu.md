@@ -156,3 +156,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  ><https://sci-hub.cc/>
 
+4/7/2017 2:52 AM
+
+ **sheida** :
+
+ >francescacoo davidevaleriani thanks for double checking! I assumed you only need permission if you want to re-publish a figure (eg in a book) but I suppose this may fall under the same category. Might be worth asking the editors for future ref
+
