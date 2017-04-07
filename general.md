@@ -2004,3 +2004,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Anyone here know of this company? They are based out of Japan <http://www.araya.org>
 
+4/7/2017 12:31 AM
+
+ **breeves** :
+
+ >Anyone have a good papers or readings on noninvasive ways to map out neural activity i.e., not implanting electrodes 
+
