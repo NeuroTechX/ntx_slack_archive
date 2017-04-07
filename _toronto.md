@@ -243,3 +243,12 @@ PM me to be included on the guest list
 
  >Planning for May 29. Get stoked Toronto! <!channel> 
 
+4/7/2017 12:33 AM
+
+ **yannick** :
+
+ >1) Great! Then I'll let you handle it with Tom. (he poked me on FB after I was tagged on his status)
+
+> 
+2) JLABS sounds like an awesome place for some NeuroTechTO event, no?
+
