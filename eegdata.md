@@ -1401,3 +1401,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 > 
 <https://github.com/alexandrebarachant/muse-lsl>
 
+4/7/2017 12:32 AM
+
+ **pat** :
+
+ >yep, that's muse-lsl.py
+
