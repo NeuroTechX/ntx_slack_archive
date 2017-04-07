@@ -2022,3 +2022,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Any interesting reads on optical or electromagnetic approaches are much appreciated 
 
+4/7/2017 12:49 AM
+
+ **yannick** :
+
+ >You mean the Inverse Problem? (Source Localization)
+
