@@ -1419,3 +1419,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >Of course. You might have a gatt BLE issue then. Can you test on another computer/OS?
 
+4/7/2017 12:40 AM
+
+ **pat** :
+
+ >not easily :disappointed: no worries though, I'll look into why gatt is failing. thanks!
+
