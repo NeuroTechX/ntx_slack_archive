@@ -2010,3 +2010,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Anyone have a good papers or readings on noninvasive ways to map out neural activity i.e., not implanting electrodes 
 
+4/7/2017 12:32 AM
+
+ **breeves** :
+
+ >Basically a super hard signal processing problem 
+
