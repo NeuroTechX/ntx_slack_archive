@@ -1461,3 +1461,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >pat: The official support for 2016 headbands hasn't been added to muse-io yet. Alexandres code is a good stop gap solution
 
+4/7/2017 9:40 PM
+
+ **pat** :
+
+ >Thanks! Good to know it's safe for me to stick to muse-io then
+
