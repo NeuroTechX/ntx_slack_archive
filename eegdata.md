@@ -1425,3 +1425,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >not easily :disappointed: no worries though, I'll look into why gatt is failing. thanks!
 
+4/7/2017 12:55 AM
+
+ **pat** :
+
+ >ah, damn - I guess the original muse wasn't BLE, so won't be found by gatt?
+
