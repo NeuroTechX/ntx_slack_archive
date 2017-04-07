@@ -1386,3 +1386,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >some estimator can be both classifier and transformer. like my MDM which has a transform method (and return the distance to each centroid). it can therefore be piped before another classifier to to 'manifold embedding'
 
+4/7/2017 12:26 AM
+
+ **pat** :
+
+ >Has anyone had luck connecting Muse to openvibe? I'm trying to go through LSL, but after running muse-io --lsl_eeg I can't seem to connect (and muse-lsl.py fails as gatt can't connect to my device, though it's unclear why not)
+
