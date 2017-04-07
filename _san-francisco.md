@@ -330,3 +330,9 @@ We can meet you in a few days
 > 
 <http://boingboing.net/2017/04/03/mindreading-robots-and-tec.html>
 
+4/7/2017 3:40 AM
+
+ **marion** :
+
+ >Hey rouffi ! Just saw that. Yes, please, let's meet! Come to hack nights, I'll PM you for more details
+
