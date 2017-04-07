@@ -2028,3 +2028,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >You mean the Inverse Problem? (Source Localization)
 
+4/7/2017 1:23 PM
+
+ **breeves** :
+
+ >yannick: yes but looking into alternatives to the Elon / Bryan Johnson approach of implanting hardware
+
