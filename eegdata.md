@@ -1443,3 +1443,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >pat do you have a muse 2014 headband ? my code is only compatible with muse 2016
 
+4/7/2017 1:46 AM
+
+ **pat** :
+
+ >Indeed, that was the issue (e.g. not appearing in lescan)
+
