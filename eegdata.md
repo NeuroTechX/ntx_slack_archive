@@ -1455,3 +1455,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >Do the 2016 devices not work with musi-io's --lsl_eeg, or was muse-lsl.py adding more functionality that I should be wary of missing with muse-io?
 
+4/7/2017 9:21 PM
+
+ **dano** :
+
+ >pat: The official support for 2016 headbands hasn't been added to muse-io yet. Alexandres code is a good stop gap solution
+
