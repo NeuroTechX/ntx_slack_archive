@@ -1449,3 +1449,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >Indeed, that was the issue (e.g. not appearing in lescan)
 
+4/7/2017 1:56 AM
+
+ **pat** :
+
+ >Do the 2016 devices not work with musi-io's --lsl_eeg, or was muse-lsl.py adding more functionality that I should be wary of missing with muse-io?
+
