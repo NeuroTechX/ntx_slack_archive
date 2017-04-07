@@ -1407,3 +1407,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >yep, that's muse-lsl.py
 
+4/7/2017 12:33 AM
+
+ **pat** :
+
+ >unfortunately gatt can't connect after 5s, although muse-io has no problems.
+
