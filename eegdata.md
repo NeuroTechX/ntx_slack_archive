@@ -1431,3 +1431,9 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >ah, damn - I guess the original muse wasn't BLE, so won't be found by gatt?
 
+4/7/2017 1:11 AM
+
+ **pat** :
+
+ >ok, ignore the above - it looks like I could get --lsl_eeg working! :slightly_smiling_face:
+
