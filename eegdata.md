@@ -1392,3 +1392,12 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >Has anyone had luck connecting Muse to openvibe? I'm trying to go through LSL, but after running muse-io --lsl_eeg I can't seem to connect (and muse-lsl.py fails as gatt can't connect to my device, though it's unclear why not)
 
+4/7/2017 12:32 AM
+
+ **dano** :
+
+ >Have you tried this? Never used OpenVibe, but it worked for me
+
+> 
+<https://github.com/alexandrebarachant/muse-lsl>
+
