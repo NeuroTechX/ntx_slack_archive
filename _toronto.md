@@ -252,3 +252,9 @@ PM me to be included on the guest list
 > 
 2) JLABS sounds like an awesome place for some NeuroTechTO event, no?
 
+4/7/2017 3:32 AM
+
+ **bryan_j** :
+
+ >yannick: oh yes! If is a beautiful venue! Heard from them tonight at HealthTO
+
