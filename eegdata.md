@@ -1605,3 +1605,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >As an alternative, you can call transformer.fit(train_X) first, and then have two transforms
 
+4/8/2017 10:36 PM
+
+ **aj** :
+
+ >Had any one done wensockets? Arduino to node.js?
+
