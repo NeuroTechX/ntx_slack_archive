@@ -1593,3 +1593,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >yeah, you are exactly right
 
+4/8/2017 6:05 PM
+
+ **maxim** :
+
+ >Some transformers are stateless and you don't have to fit them, but a lot of them need to be fit first
+
