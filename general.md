@@ -2040,3 +2040,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Also interested in this. What approaches or projects do you think are interesting so far? How would you go about searching the field to find others?
 
+4/8/2017 4:45 PM
+
+ **prefrontalvortex** :
+
+ >breeves phase slope index is a pretty new idea and it's pretty exciting imho <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5171906/> <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996143/>
+
