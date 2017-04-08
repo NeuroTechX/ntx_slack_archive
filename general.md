@@ -2034,3 +2034,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >yannick: yes but looking into alternatives to the Elon / Bryan Johnson approach of implanting hardware
 
+4/8/2017 12:45 AM
+
+ **stephen** :
+
+ >Also interested in this. What approaches or projects do you think are interesting so far? How would you go about searching the field to find others?
+
