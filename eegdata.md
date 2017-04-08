@@ -1554,3 +1554,9 @@ im now wondering if splitting them into two steps significantly alters the clas
 
  >maxim thanks, do you mean in the first code block or second?
 
+4/8/2017 5:50 PM
+
+ **octonomy** :
+
+ >ah yes, i see, that does it
+
