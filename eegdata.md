@@ -1599,3 +1599,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >Some transformers are stateless and you don't have to fit them, but a lot of them need to be fit first
 
+4/8/2017 6:06 PM
+
+ **maxim** :
+
+ >As an alternative, you can call transformer.fit(train_X) first, and then have two transforms
+
