@@ -642,3 +642,15 @@ All electrodes on bottom row of both boards
 
  >Yes exactly!
 
+4/8/2017 11:25 PM
+
+ **kshen** :
+
+ >Does anyone know if brain sensing devices/headbands are being used in banks to monitor emotions of traders?
+
+> 
+
+
+> 
+<https://www.bloomberg.com/news/articles/2016-09-01/wall-street-s-next-frontier-is-hacking-into-emotions-of-traders>
+
