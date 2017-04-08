@@ -48,3 +48,9 @@ can i get some of that? :slightly_smiling_face:
 
  >Started a prototype at the hack night, game portion is going well but no access to a device. Anyway to use one at the Concordia building for a bit sometime this week?
 
+4/8/2017 4:17 AM
+
+ **kirkins** :
+
+ >realizing this thread is for ppl all over not just mtrl
+
