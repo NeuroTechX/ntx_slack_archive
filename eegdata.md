@@ -1581,3 +1581,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >i see, so the transform should be fit when using the train data. and then that information is persisted until you use it to transform the test data later. im familiar with this from CSP, where you have to calculate some spatial filters from the covariances.
 
+4/8/2017 5:53 PM
+
+ **octonomy** :
+
+ >thanks for the help, it was obvious, but im still learning.
+
