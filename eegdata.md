@@ -1587,3 +1587,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >thanks for the help, it was obvious, but im still learning.
 
+4/8/2017 6:05 PM
+
+ **maxim** :
+
+ >yeah, you are exactly right
+
