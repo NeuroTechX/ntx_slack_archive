@@ -1467,3 +1467,60 @@ This makes pyriemann CSP more flexible (can be piped as a covariance matrix dime
 
  >Thanks! Good to know it's safe for me to stick to muse-io then
 
+4/8/2017 5:02 PM
+
+ **octonomy** :
+
+ >alexandre.barachant about the pipeline, pyriemann, xgb:
+
+> 
+
+
+> 
+I was expecting the same results from either of these 2 operations. However, they give different scores.
+
+> 
+
+
+> 
+```
+
+> 
+# split transformer and classifier
+
+> 
+transformer = make_pipeline(Covariances(estimator='lwf'), TangentSpace())
+
+> 
+clf = XGBClassifier()
+
+> 
+clf.fit(transformer.transform(train_X), train_y)
+
+> 
+print clf.score(transformer.transform(test_X),test_y)
+
+> 
+```
+
+> 
+```
+
+> 
+# unified pipeline
+
+> 
+clf2 = make_pipeline(Covariances(estimator='lwf'), TangentSpace(), XGBClassifier())
+
+> 
+clf2.fit(train_X, train_y)
+
+> 
+print clf2.score(test_X, test_y)
+
+> 
+```
+
+> 
+do you know why?
+
