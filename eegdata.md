@@ -1542,3 +1542,9 @@ do you know why?
 > 
 im now wondering if splitting them into two steps significantly alters the classification outcome.
 
+4/8/2017 5:44 PM
+
+ **maxim** :
+
+ >maybe use fit_transform instead of transform on train_X?
+
