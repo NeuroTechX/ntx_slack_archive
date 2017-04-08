@@ -42,3 +42,9 @@ can i get some of that? :slightly_smiling_face:
 > 
 <https://github.com/NeuroTechX/ntx_slack_archive/blob/master/hacknights.md>
 
+4/8/2017 3:55 AM
+
+ **kirkins** :
+
+ >Started a prototype at the hack night, game portion is going well but no access to a device. Anyway to use one at the Concordia building for a bit sometime this week?
+
