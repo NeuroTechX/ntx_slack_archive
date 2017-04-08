@@ -1548,3 +1548,9 @@ im now wondering if splitting them into two steps significantly alters the clas
 
  >maybe use fit_transform instead of transform on train_X?
 
+4/8/2017 5:49 PM
+
+ **octonomy** :
+
+ >maxim thanks, do you mean in the first code block or second?
+
