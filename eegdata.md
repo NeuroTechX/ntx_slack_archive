@@ -1524,3 +1524,21 @@ print clf2.score(test_X, test_y)
 > 
 do you know why?
 
+4/8/2017 5:05 PM
+
+ **octonomy** :
+
+ >the reason i want to split transformer and estimator is 
+
+> 
+1) decouple them to allow modular configuration of feature extraction method/classifier
+
+> 
+2) to be able to try some extra code in between the transform and fit step (optimization attempts) 
+
+> 
+
+
+> 
+im now wondering if splitting them into two steps significantly alters the classification outcome.
+
