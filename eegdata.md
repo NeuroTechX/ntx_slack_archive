@@ -1560,3 +1560,18 @@ im now wondering if splitting them into two steps significantly alters the clas
 
  >ah yes, i see, that does it
 
+4/8/2017 5:52 PM
+
+ **octonomy** :
+
+ >so i changed 
+
+> 
+`clf.fit(transformer.transform(train_X), train_y)` to:
+
+> 
+`clf.fit(transformer.fit_transform(train_X), train_y)`
+
+> 
+but the second call, to `test_X` remains only `transform()`
+
