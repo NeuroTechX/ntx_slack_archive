@@ -672,3 +672,9 @@ All electrodes on bottom row of both boards
 
  >I would say that High Frequency Trading will make all/most Traders obsolete anyways
 
+4/9/2017 10:37 PM
+
+ **kshen** :
+
+ >Interesting, why do you say that?
+
