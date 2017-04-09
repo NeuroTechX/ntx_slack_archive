@@ -2052,3 +2052,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  ><https://www.inverse.com/article/22200-stars-consciousness-physics-greg-matloff-panspychism-rocket-science-astronomy>
 
+4/9/2017 5:54 AM
+
+ **nirmeshg** :
+
+ >Still a theory until additional data is out by the Gaia project in the next 5 years.  Still an interesting article.
+
