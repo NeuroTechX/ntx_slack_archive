@@ -2070,3 +2070,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >francescacoo harvard's intro to neuroscience mooc is supposed to be good <https://www.mcb80x.org/faq>
 
+4/9/2017 5:20 PM
+
+ **pierre** :
+
+ >There's a list of Summer schools here: <https://github.com/PhABC/neuroSummerSchools/blob/master/README.md>
+
