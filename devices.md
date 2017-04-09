@@ -660,3 +660,9 @@ All electrodes on bottom row of both boards
 
  >I've heard people considering it, but I haven't seen it implemented anywhere
 
+4/9/2017 1:49 PM
+
+ **kshen** :
+
+ >melanie how accurate would EEG data even be
+
