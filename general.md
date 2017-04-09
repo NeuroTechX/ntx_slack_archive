@@ -2064,3 +2064,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Hi everybody, I was wondering if anybody knows of some event/summer school/something where to learn something more on neuroscience or anything related to BCI. I applied for a summer school in machine learning in Lisbon, waiting to see if they accept me, so I was thinking to something similar. I have a degree in IT and currently doing a master in Software Engineering, so unfortunately something where the requirements are not too high (btw I am in Europe)
 
+4/9/2017 3:45 PM
+
+ **andreacoravos** :
+
+ >francescacoo harvard's intro to neuroscience mooc is supposed to be good <https://www.mcb80x.org/faq>
+
