@@ -666,3 +666,9 @@ All electrodes on bottom row of both boards
 
  >melanie how accurate would EEG data even be
 
+4/9/2017 6:34 PM
+
+ **sydneyneurotechx** :
+
+ >I would say that High Frequency Trading will make all/most Traders obsolete anyways
+
