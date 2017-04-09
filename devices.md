@@ -654,3 +654,9 @@ All electrodes on bottom row of both boards
 > 
 <https://www.bloomberg.com/news/articles/2016-09-01/wall-street-s-next-frontier-is-hacking-into-emotions-of-traders>
 
+4/9/2017 12:57 PM
+
+ **melanie** :
+
+ >I've heard people considering it, but I haven't seen it implemented anywhere
+
