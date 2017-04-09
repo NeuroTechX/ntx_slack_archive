@@ -2046,3 +2046,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >breeves phase slope index is a pretty new idea and it's pretty exciting imho <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5171906/> <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996143/>
 
+4/9/2017 5:17 AM
+
+ **nirmeshg** :
+
+ ><https://www.inverse.com/article/22200-stars-consciousness-physics-greg-matloff-panspychism-rocket-science-astronomy>
+
