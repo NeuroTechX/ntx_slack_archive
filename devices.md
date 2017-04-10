@@ -777,3 +777,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >or doyond
 
+4/10/2017 4:22 PM
+
+ **yannick** :
+
+ >( jacobflood &amp; doyond are the founders of Mindset - the EEG headphones kickstarter )
+
