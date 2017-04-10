@@ -552,3 +552,9 @@
 
  >What about you yannick 
 
+4/10/2017 2:32 PM
+
+ **rouffi** :
+
+ >Hi frederictaieb, welcome and come say Bonjour in <#C0VTD0ETW|_paris> channel :slightly_smiling_face:
+
