@@ -1641,3 +1641,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >going with a standard tcp socket for now
 
+4/10/2017 5:02 AM
+
+ **aj** :
+
+ >just working on how to pass along the port and ip address
+
