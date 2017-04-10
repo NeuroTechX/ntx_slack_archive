@@ -1623,3 +1623,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >Yes done websockets but not with arduino 
 
+4/10/2017 3:13 AM
+
+ **dano** :
+
+ >Did a websocket project off a Raspberry Pi once. Websockets are awesome, especially when hooked up with RxJs and Redux Observables 
+
