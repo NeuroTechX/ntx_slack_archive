@@ -678,3 +678,9 @@ All electrodes on bottom row of both boards
 
  >Interesting, why do you say that?
 
+4/10/2017 2:17 PM
+
+ **bciguy** :
+
+ >another pair of headphones (powered by Onkyo) with EEG capabilities succesfully crowdfunded.. <https://www.indiegogo.com/projects/mindset-smart-headphones-that-improve-your-focus#/> This is the 2nd Ive seen with this type of montage (first is Kokoon).. Ive never seen anything like this come close to measuring real EEG .. and given my experiences (challenges) with skin-contact dry electrodes, Im not willing to believe any useful signal can be measured this way. Can someone change my mind about this?
+
