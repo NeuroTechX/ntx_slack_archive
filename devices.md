@@ -753,3 +753,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >well, it seems you can remove the electrode from the headset, so at least you will get a nice pair of headset :slightly_smiling_face:
 
+4/10/2017 3:32 PM
+
+ **alexandre.barachant** :
+
+ >It would be nice to have the founders join the slack for a Q/A session.
+
