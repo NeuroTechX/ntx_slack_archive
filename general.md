@@ -2094,3 +2094,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 > 
 If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading the Muse data from an iPhone app and then sending data to the Raspberry PI through websockets. Here's a decent tutorial on how to set up a Node.Js server on an arduino that receives LED controls over websocket
 
+4/10/2017 7:07 PM
+
+ **frederictaieb** :
+
+ >Thank you Dano!
+
