@@ -1635,3 +1635,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >yea trying to figure them out
 
+4/10/2017 5:02 AM
+
+ **aj** :
+
+ >going with a standard tcp socket for now
+
