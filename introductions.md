@@ -534,3 +534,9 @@
 
  >Painting, sculpting, composing music and theater. I start practicing meditation too.
 
+4/10/2017 10:44 AM
+
+ **frederictaieb** :
+
+ >After exploring and floating around,  I would like to be more focus and I would like to create pieces of Art mixing technology, art (visual or auditive) And health/spirituality.
+
