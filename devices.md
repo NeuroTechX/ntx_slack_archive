@@ -693,3 +693,9 @@ All electrodes on bottom row of both boards
 > 
 Looking just at the picture from the headset, i would say you better have short hair to get anything from it.
 
+4/10/2017 3:12 PM
+
+ **bciguy** :
+
+ >alexandre.barachant do your electrodes protrude out of the case? Looking at this type of design it really seems like the best signal quality will be maybe comparable to earlier studies of EEG measured through the hair. I remember the signal attenuation being very high for those approaches, not to mention the uncontrollable factor of differing hair styles/thicknesses etc when targeting such an EEG device to consumer markets.
+
