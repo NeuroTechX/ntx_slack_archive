@@ -510,3 +510,9 @@
 
  >Hello Everybody.
 
+4/10/2017 10:39 AM
+
+ **yannick** :
+
+ >Hey frederictaieb, go ahead, tell us more about yourself don't be shy. This is a friendly community (to re-use yrenard words :p)
+
