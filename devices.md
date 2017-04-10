@@ -699,3 +699,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >alexandre.barachant do your electrodes protrude out of the case? Looking at this type of design it really seems like the best signal quality will be maybe comparable to earlier studies of EEG measured through the hair. I remember the signal attenuation being very high for those approaches, not to mention the uncontrollable factor of differing hair styles/thicknesses etc when targeting such an EEG device to consumer markets.
 
+4/10/2017 3:15 PM
+
+ **alexandre.barachant** :
+
+ >my electrodes are note completely different but are made to go through hair. i posted some picture a while ago but they might have diseapered from the slack
+
