@@ -795,3 +795,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >Gonna give away 10 free for beta test, only a couple spots left
 
+4/10/2017 10:30 PM
+
+ **aj** :
+
+ ><https://docs.google.com/forms/d/e/1FAIpQLSfjMzITl3Z_bMxCZlXaUVHxj0vVZ6oXyk3G05epOMYWBOiAFA/viewform>
+
