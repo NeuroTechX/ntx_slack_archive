@@ -234,3 +234,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >Hey all, a friends startup is focused on 3D body scanning and looking for their first backend / cloud engineer / architect and also their first iOS engineer. Its not brain data, but thought someone here might be interested in body imaging. Theyve developed awesome hardware and have the some analysis work done. PM me if youre interested and able to architect and build this.
 
+4/10/2017 6:59 AM
+
+ **frentrepreneur** :
+
+ >Hey <!channel> we are hiring a data scientist / neuroscience in France to hack thousands of brain  : <https://omind.me/startup-de-neurosciences-inge-data-scientist-rd-cdi/>
+
