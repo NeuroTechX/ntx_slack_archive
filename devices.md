@@ -747,3 +747,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >yep, that has been my experience too. Just watching the field it makes me nervous when I see crowdfunding projects like these, when it is so obvious that what they have prototyped couldnt possibly work..
 
+4/10/2017 3:26 PM
+
+ **alexandre.barachant** :
+
+ >well, it seems you can remove the electrode from the headset, so at least you will get a nice pair of headset :slightly_smiling_face:
+
