@@ -729,3 +729,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >there is a huge tradeoff between comfort and signal quality with this kind of dry electrodes
 
+4/10/2017 3:20 PM
+
+ **alexandre.barachant** :
+
+ >you generally want bigger pins so it can got through any length of hair.
+
