@@ -759,3 +759,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >It would be nice to have the founders join the slack for a Q/A session.
 
+4/10/2017 4:19 PM
+
+ **yannick** :
+
+ >The founders of Mindset you mean alexandre.barachant ?
+
