@@ -606,3 +606,9 @@ If I can help with anything, I'm always 1 ping away. ( like this community, I'm 
 > 
 Let me know if I can help about anything web-related. Currently trying to build a centralized online platform for reasearcers in my area to publish their experiments and gather their data all at the same place, allowing us to create a single huge repo of behavioral data
 
+4/10/2017 5:17 PM
+
+ **yannick** :
+
+ >You should connect with teon for Psych / Cog Sci &amp; Web &amp; JS stuff. Even more if it's Open Source ( a little fox told me he was really into open source stuff :stuck_out_tongue: )
+
