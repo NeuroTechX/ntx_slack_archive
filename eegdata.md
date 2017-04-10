@@ -1629,3 +1629,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >Did a websocket project off a Raspberry Pi once. Websockets are awesome, especially when hooked up with RxJs and Redux Observables 
 
+4/10/2017 5:02 AM
+
+ **aj** :
+
+ >yea trying to figure them out
+
