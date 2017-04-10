@@ -594,3 +594,15 @@ On my side, my background is in engineering, currently doing my PhD in visual ne
 > 
 If I can help with anything, I'm always 1 ping away. ( like this community, I'm friendly :wink: )
 
+4/10/2017 4:34 PM
+
+ **drivas** :
+
+ >Hi! I'm a first year PhD student in Cognitive informatics at UQÀM in Montreal, previously did Cognitive Science at Mcgill. Interested in everything AI and Machine Learning, especially Deep Learning and how it helps us learn about the real brain. However, my actual skills are around web technologies and web development. I've been collaborating on (and using!) jsPsych, a JavaScript library to make online experiments. 
+
+> 
+
+
+> 
+Let me know if I can help about anything web-related. Currently trying to build a centralized online platform for reasearcers in my area to publish their experiments and gather their data all at the same place, allowing us to create a single huge repo of behavioral data
+
