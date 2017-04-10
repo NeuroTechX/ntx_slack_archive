@@ -612,3 +612,9 @@ Let me know if I can help about anything web-related. Currently trying to build 
 
  >You should connect with teon for Psych / Cog Sci &amp; Web &amp; JS stuff. Even more if it's Open Source ( a little fox told me he was really into open source stuff :stuck_out_tongue: )
 
+4/10/2017 6:12 PM
+
+ **frederictaieb** :
+
+ >Thank you yannick! I won't hesitate :).
+
