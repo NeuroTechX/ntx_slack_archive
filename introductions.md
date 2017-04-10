@@ -558,3 +558,9 @@
 
  >Hi frederictaieb, welcome and come say Bonjour in <#C0VTD0ETW|_paris> channel :slightly_smiling_face:
 
+4/10/2017 3:32 PM
+
+ **sydneyneurotechx** :
+
+ >welcome frederictaieb !
+
