@@ -27,3 +27,9 @@
 
  >Some news from Paris :slightly_smiling_face:
 
+4/10/2017 4:19 PM
+
+ **frederictaieb** :
+
+ >Salut tout le monde, ravi de me joindre à vous :)
+
