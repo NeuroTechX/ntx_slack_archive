@@ -705,3 +705,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >my electrodes are note completely different but are made to go through hair. i posted some picture a while ago but they might have diseapered from the slack
 
+4/10/2017 3:15 PM
+
+ **alexandre.barachant** :
+
+ >it's just some pins, bassicaly
+
