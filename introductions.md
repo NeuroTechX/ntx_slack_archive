@@ -546,3 +546,9 @@
 
  >So i bought a lil muse And by exploring I read msg about intelliPi and Atom and here I am :)
 
+4/10/2017 10:45 AM
+
+ **frederictaieb** :
+
+ >What about you yannick 
+
