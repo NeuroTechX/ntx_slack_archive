@@ -765,3 +765,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >The founders of Mindset you mean alexandre.barachant ?
 
+4/10/2017 4:19 PM
+
+ **sydneyneurotechx** :
+
+ >jacobflood  Comments? ^
+
