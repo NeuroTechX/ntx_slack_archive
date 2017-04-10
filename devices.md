@@ -789,3 +789,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >Totally game! Ill be travelling for the next few weeks though as we head back to Shenzhen, maybe we can organize an AMA?
 
+4/10/2017 10:30 PM
+
+ **aj** :
+
+ >Gonna give away 10 free for beta test, only a couple spots left
+
