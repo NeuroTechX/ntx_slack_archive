@@ -528,3 +528,9 @@
 
  >I spent these 4 last years exploring different kinds of Art.
 
+4/10/2017 10:43 AM
+
+ **frederictaieb** :
+
+ >Painting, sculpting, composing music and theater. I start practicing meditation too.
+
