@@ -783,3 +783,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >( jacobflood &amp; doyond are the founders of Mindset - the EEG headphones kickstarter )
 
+4/10/2017 4:35 PM
+
+ **jacobflood** :
+
+ >Totally game! Ill be travelling for the next few weeks though as we head back to Shenzhen, maybe we can organize an AMA?
+
