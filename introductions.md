@@ -540,3 +540,9 @@
 
  >After exploring and floating around,  I would like to be more focus and I would like to create pieces of Art mixing technology, art (visual or auditive) And health/spirituality.
 
+4/10/2017 10:45 AM
+
+ **frederictaieb** :
+
+ >So i bought a lil muse And by exploring I read msg about intelliPi and Atom and here I am :)
+
