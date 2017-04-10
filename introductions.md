@@ -582,3 +582,15 @@
 
  >welcome drivas  Please introduce yourself. We are friendly. We promise :slightly_smiling_face:
 
+4/10/2017 4:27 PM
+
+ **yannick** :
+
+ >Hey frederictaieb I'm glad rouffi jumped in, I would have suggested you to join the <#C0VTD0ETW|_paris> channel and connect with rouffi :slightly_smiling_face:
+
+> 
+On my side, my background is in engineering, currently doing my PhD in visual neuroscience (psychophysics) working on a closed-loop system (mainly EEG) for cognitive training. I'm passionate (obsessed) about neurotechnology. 
+
+> 
+If I can help with anything, I'm always 1 ping away. ( like this community, I'm friendly :wink: )
+
