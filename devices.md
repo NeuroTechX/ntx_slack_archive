@@ -735,3 +735,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >you generally want bigger pins so it can got through any length of hair.
 
+4/10/2017 3:22 PM
+
+ **alexandre.barachant** :
+
+ >most dry electrode based on pins (g.tec, wearable sensing, and to some extend cognonics) have pins with length &gt; 7mm
+
