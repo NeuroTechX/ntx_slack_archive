@@ -2076,3 +2076,9 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >There's a list of Summer schools here: <https://github.com/PhABC/neuroSummerSchools/blob/master/README.md>
 
+4/10/2017 6:50 AM
+
+ **frederictaieb** :
+
+ >Hi all, for fun, I would like to make a project that read the MUSE (Iphone or RPi), detect if I am calm and if I am calm it communicate to a raspberry pi to trigger a LED. Do you know if there are some websites where I can find this kind of information. Thank you very much for your help. Have a great day.
+
