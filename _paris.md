@@ -33,3 +33,9 @@
 
  >Salut tout le monde, ravi de me joindre à vous :)
 
+4/10/2017 4:44 PM
+
+ **rouffi** :
+
+ >Bienvenue dans la communauté NTX Frédéric ! :slightly_smiling_face:
+
