@@ -2082,3 +2082,15 @@ More specifically, regarding 1see the attempts to incorporate sensors in already
 
  >Hi all, for fun, I would like to make a project that read the MUSE (Iphone or RPi), detect if I am calm and if I am calm it communicate to a raspberry pi to trigger a LED. Do you know if there are some websites where I can find this kind of information. Thank you very much for your help. Have a great day.
 
+4/10/2017 3:47 PM
+
+ **dano** :
+
+ >Hey Frederic,
+
+> 
+
+
+> 
+If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading the Muse data from an iPhone app and then sending data to the Raspberry PI through websockets. Here's a decent tutorial on how to set up a Node.Js server on an arduino that receives LED controls over websocket
+
