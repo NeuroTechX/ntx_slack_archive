@@ -2100,3 +2100,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Thank you Dano!
 
+4/10/2017 7:07 PM
+
+ **frederictaieb** :
+
+ >I will take a look :slightly_smiling_face:
+
