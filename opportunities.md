@@ -240,3 +240,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >Hey <!channel> we are hiring a data scientist / neuroscience in France to hack thousands of brain  : <https://omind.me/startup-de-neurosciences-inge-data-scientist-rd-cdi/>
 
+4/10/2017 7:01 AM
+
+ **frentrepreneur** :
+
+ >Hey <!channel> we (Open Mind - <http://Omind.me|Omind.me>)  are hiring a Neuroscience Data Scientist to hack thousands of EEG : <https://omind.me/en/startup-de-neurosciences-data-scientist-ingenieur-rd-cdi/>
+
