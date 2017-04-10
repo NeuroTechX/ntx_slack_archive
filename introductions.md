@@ -522,3 +522,9 @@
 
  >Hello Yannick :) im French living in Paris, I have spent 5 years in NY, I was working in Computer technology then finances, and after A burn out I decided to quit everything.
 
+4/10/2017 10:42 AM
+
+ **frederictaieb** :
+
+ >I spent these 4 last years exploring different kinds of Art.
+
