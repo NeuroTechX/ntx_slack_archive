@@ -1647,3 +1647,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >just working on how to pass along the port and ip address
 
+4/10/2017 5:02 AM
+
+ **aj** :
+
+ >brainwaves coming to an internet near you shortly
+
