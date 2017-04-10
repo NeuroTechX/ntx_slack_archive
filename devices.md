@@ -711,3 +711,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >it's just some pins, bassicaly
 
+4/10/2017 3:16 PM
+
+ **alexandre.barachant** :
+
+ >they might have made pin smaller for their pictures (not to scare people off) but the principle is the same
+
