@@ -717,3 +717,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >they might have made pin smaller for their pictures (not to scare people off) but the principle is the same
 
+4/10/2017 3:17 PM
+
+ **alexandre.barachant** :
+
+ >if the pins are really like on the picture (i.e. 1-2 mm long), then they will defenetly not touch the scalp
+
