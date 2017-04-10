@@ -741,3 +741,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >most dry electrode based on pins (g.tec, wearable sensing, and to some extend cognonics) have pins with length &gt; 7mm
 
+4/10/2017 3:24 PM
+
+ **bciguy** :
+
+ >yep, that has been my experience too. Just watching the field it makes me nervous when I see crowdfunding projects like these, when it is so obvious that what they have prototyped couldnt possibly work..
+
