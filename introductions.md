@@ -516,3 +516,9 @@
 
  >Hey frederictaieb, go ahead, tell us more about yourself don't be shy. This is a friendly community (to re-use yrenard words :p)
 
+4/10/2017 10:41 AM
+
+ **frederictaieb** :
+
+ >Hello Yannick :) im French living in Paris, I have spent 5 years in NY, I was working in Computer technology then finances, and after A burn out I decided to quit everything.
+
