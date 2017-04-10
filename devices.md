@@ -723,3 +723,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >if the pins are really like on the picture (i.e. 1-2 mm long), then they will defenetly not touch the scalp
 
+4/10/2017 3:19 PM
+
+ **alexandre.barachant** :
+
+ >there is a huge tradeoff between comfort and signal quality with this kind of dry electrodes
+
