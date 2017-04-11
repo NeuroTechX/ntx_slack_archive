@@ -216,3 +216,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Would like to discuss how we can merge this together
 
+4/11/2017 5:04 AM
+
+ **pierre** :
+
+ >Hey sydneyneurotechx, I can't right now, but I'll DM you to set a time
+
