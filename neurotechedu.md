@@ -210,3 +210,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Hey Pierre. Can we jump into a call?
 
+4/11/2017 5:04 AM
+
+ **sydneyneurotechx** :
+
+ >Would like to discuss how we can merge this together
+
