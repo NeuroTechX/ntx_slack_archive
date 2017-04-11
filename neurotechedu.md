@@ -168,3 +168,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Hey guys, my Neurotech class is starting to wrap up, and I'd like to merge it with the materials from neurotechedu and create a little Intro to Neurotech MOOC
 
+4/11/2017 4:35 AM
+
+ **pierre** :
+
+ >The materials developed are here
+
