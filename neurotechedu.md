@@ -174,3 +174,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >The materials developed are here
 
+4/11/2017 4:35 AM
+
+ **pierre** :
+
+ ><http://neurotechberkeley.org/course_schedule.html>
+
