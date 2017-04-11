@@ -192,3 +192,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >most of the labs can be adapted for Muse with just a change in the data stream to LSL
 
+4/11/2017 4:38 AM
+
+ **pierre** :
+
+ >I'm lacking in more detailed text/video explanations, and more friendly troubleshooting instructions
+
