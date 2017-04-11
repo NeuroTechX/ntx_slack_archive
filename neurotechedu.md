@@ -162,3 +162,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >francescacoo davidevaleriani thanks for double checking! I assumed you only need permission if you want to re-publish a figure (eg in a book) but I suppose this may fall under the same category. Might be worth asking the editors for future ref
 
+4/11/2017 4:34 AM
+
+ **pierre** :
+
+ >Hey guys, my Neurotech class is starting to wrap up, and I'd like to merge it with the materials from neurotechedu and create a little Intro to Neurotech MOOC
+
