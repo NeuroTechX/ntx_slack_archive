@@ -180,3 +180,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  ><http://neurotechberkeley.org/course_schedule.html>
 
+4/11/2017 4:35 AM
+
+ **pierre** :
+
+ >The most interesting are the python labs, which are ~2 hours experiments that people do with ganglions
+
