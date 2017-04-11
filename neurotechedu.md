@@ -186,3 +186,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >The most interesting are the python labs, which are ~2 hours experiments that people do with ganglions
 
+4/11/2017 4:36 AM
+
+ **pierre** :
+
+ >most of the labs can be adapted for Muse with just a change in the data stream to LSL
+
