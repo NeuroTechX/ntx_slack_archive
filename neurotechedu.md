@@ -198,3 +198,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >I'm lacking in more detailed text/video explanations, and more friendly troubleshooting instructions
 
+4/11/2017 4:38 AM
+
+ **pierre** :
+
+ >From looking at the trello board, it seems like you're on your way to creating these explanations
+
