@@ -204,3 +204,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >From looking at the trello board, it seems like you're on your way to creating these explanations
 
+4/11/2017 5:03 AM
+
+ **sydneyneurotechx** :
+
+ >Hey Pierre. Can we jump into a call?
+
