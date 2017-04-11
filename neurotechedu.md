@@ -222,3 +222,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Hey sydneyneurotechx, I can't right now, but I'll DM you to set a time
 
+4/11/2017 6:31 PM
+
+ **sydneyneurotechx** :
+
+ >hey <!channel> How's everyone doing with the Modules? Any Questions? Concerns? What can I do to help?
+
