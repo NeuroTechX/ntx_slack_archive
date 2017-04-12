@@ -276,3 +276,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >For instance the division `/` in python 2 results in integers division if both operands are integers - In python 3, this is a floating point division and you should use the '//' operator if you ever wanted to do an integer division (the rounding still is different but who cares at this point)
 
+4/12/2017 5:40 PM
+
+ **yrenard** :
+
+ >This sums up to the fact that Python 2 and Python 3 are two different languages with a very similar set of features and syntax similarities
+
