@@ -228,3 +228,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >hey <!channel> How's everyone doing with the Modules? Any Questions? Concerns? What can I do to help?
 
+4/12/2017 11:08 AM
+
+ **davidevaleriani** :
+
+ >Hey everyone, this is a very good introductory tutorial to python for data analysis, I think it is worth to include it somewhere on EDU. <https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python>
+
