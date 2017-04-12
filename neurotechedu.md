@@ -246,3 +246,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Also ch.yumin davidevaleriani  had a conversation about which version of python to use and I had suggest 3.3 as 2.7 won't be supported by 2020. Anyone disagree?
 
+4/12/2017 5:29 PM
+
+ **pierre** :
+
+ >I agree that you should use Python 3. If you're at all unsure, it's not too hard to write code that's backwards compatible with python 2 as well
+
