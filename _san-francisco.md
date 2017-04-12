@@ -372,3 +372,9 @@ We can meet you in a few days
 
  >urg
 
+4/12/2017 5:50 PM
+
+ **marion** :
+
+ >mmm. seems like wednesdays are not the best. It's harder for pierre  to come too...
+
