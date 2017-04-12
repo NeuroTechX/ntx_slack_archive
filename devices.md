@@ -855,3 +855,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >it's another ADC different from the openbci. I'm actually considering a similar one for the next iteration of my board
 
+4/12/2017 8:10 PM
+
+ **marion** :
+
+ >I just saw the link you posted above. OK, I guess I filled the form 2 times :stuck_out_tongue:
+
