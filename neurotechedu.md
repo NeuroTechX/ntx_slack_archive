@@ -264,3 +264,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >(and there is also a 3to2 package <https://pypi.python.org/pypi/3to2>)
 
+4/12/2017 5:38 PM
+
+ **yrenard** :
+
+ >Just mind the `if a syntactical conversion is possible`
+
