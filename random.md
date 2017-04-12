@@ -741,3 +741,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >Credit goes to davidevaleriani  for the find : <http://myomo.com/>
 
+4/12/2017 3:50 AM
+
+ **sydneyneurotechx** :
+
+ >In ten minutes it will be exactly 3 years before python 2.7 is deprecated <https://pythonclock.org/>
+
