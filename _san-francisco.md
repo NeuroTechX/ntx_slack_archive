@@ -336,3 +336,9 @@ We can meet you in a few days
 
  >Hey rouffi ! Just saw that. Yes, please, let's meet! Come to hack nights, I'll PM you for more details
 
+4/12/2017 4:39 PM
+
+ **w** :
+
+ ><!channel>: reminder that hacknights are on Wednesdays now.
+
