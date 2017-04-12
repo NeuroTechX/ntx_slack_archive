@@ -867,3 +867,15 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >I just saw the link you posted above. OK, I guess I filled the form 2 times :stuck_out_tongue:
 
+4/12/2017 8:52 PM
+
+ **alexandre.barachant** :
+
+ >Looking at the BOM, they have some expensive component, but its wont be that much
+
+> 
+You can upload the design on MacroFab or Circuithub and get a quote. 
+
+> 
+I might be totally wrong, but i would say around 200-300$ per unit for 10 units
+
