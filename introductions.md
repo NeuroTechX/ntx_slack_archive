@@ -684,3 +684,9 @@ Let me know if I can help about anything web-related. Currently trying to build 
 
  >welcome elgin  . You should get connected with giuliosuprig of UBC
 
+4/12/2017 9:27 PM
+
+ **pat** :
+
+ >Welcome! We also have <#C0VTMQ5CH|_vancouver> although it's pretty quiet currently
+
