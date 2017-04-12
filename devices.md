@@ -801,3 +801,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  ><https://docs.google.com/forms/d/e/1FAIpQLSfjMzITl3Z_bMxCZlXaUVHxj0vVZ6oXyk3G05epOMYWBOiAFA/viewform>
 
+4/12/2017 7:40 PM
+
+ **sydneyneurotechx** :
+
+ >credit goes to yannick  for the find. But this might be interesting for people: <https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography>
+
