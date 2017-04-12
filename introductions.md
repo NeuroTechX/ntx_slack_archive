@@ -648,3 +648,9 @@ Let me know if I can help about anything web-related. Currently trying to build 
 
  >Hello everybody!
 
+4/12/2017 7:39 AM
+
+ **jlegeny** :
+
+ >I am a software engineer working at Mensia Technologies on NeuroRT software. Before that I have been working on the OpenViBE platform.
+
