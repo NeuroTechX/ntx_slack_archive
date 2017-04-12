@@ -282,3 +282,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >This sums up to the fact that Python 2 and Python 3 are two different languages with a very similar set of features and syntax similarities
 
+4/12/2017 5:57 PM
+
+ **ch.yumin** :
+
+ >Hmm, I'm going to use python3 than
+
