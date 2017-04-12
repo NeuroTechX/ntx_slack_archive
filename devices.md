@@ -813,3 +813,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >Looks like an openbci inspired 32 channel eeg
 
+4/12/2017 7:48 PM
+
+ **benjamindeleener** :
+
+ >Very nice! Do we have a rough idea of how much it would cost to produce it?
+
