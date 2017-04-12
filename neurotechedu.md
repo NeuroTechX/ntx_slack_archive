@@ -270,3 +270,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Just mind the `if a syntactical conversion is possible`
 
+4/12/2017 5:40 PM
+
+ **yrenard** :
+
+ >For instance the division `/` in python 2 results in integers division if both operands are integers - In python 3, this is a floating point division and you should use the '//' operator if you ever wanted to do an integer division (the rounding still is different but who cares at this point)
+
