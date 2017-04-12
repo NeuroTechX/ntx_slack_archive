@@ -819,3 +819,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >Very nice! Do we have a rough idea of how much it would cost to produce it?
 
+4/12/2017 7:51 PM
+
+ **benjamindeleener** :
+
+ >and I see it has a Wifi shield integrated. What would be the max acquisition frequency? :smile:
+
