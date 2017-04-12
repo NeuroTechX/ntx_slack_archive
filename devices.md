@@ -837,3 +837,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >At least that's what it looks like from the picture
 
+4/12/2017 7:53 PM
+
+ **benjamindeleener** :
+
+ >seems like it indeed
+
