@@ -825,3 +825,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >and I see it has a Wifi shield integrated. What would be the max acquisition frequency? :smile:
 
+4/12/2017 7:52 PM
+
+ **sydneyneurotechx** :
+
+ >No Idea, but my assumption is that they are just x4 up on most compontents of the 8 channel openbci BOM.
+
