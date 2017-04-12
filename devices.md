@@ -849,3 +849,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >Interesting. Also aj, this wifi shield looks awesome. How can we get on the beta list? (I think i remember completing a beta tester form some time ago, but i'm not sure). And I second octonomy , your nodeJS connector is the best. So much more stable!!
 
+4/12/2017 7:58 PM
+
+ **alexandre.barachant** :
+
+ >it's another ADC different from the openbci. I'm actually considering a similar one for the next iteration of my board
+
