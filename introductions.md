@@ -636,3 +636,9 @@ Let me know if I can help about anything web-related. Currently trying to build 
 
  >drivas  You might be interested in this <http://brainbox.pasteur.fr/>
 
+4/12/2017 2:29 AM
+
+ **aj** :
+
+ >drivas take a look at neuro-js on github
+
