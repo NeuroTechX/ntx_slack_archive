@@ -843,3 +843,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >seems like it indeed
 
+4/12/2017 7:58 PM
+
+ **marion** :
+
+ >Interesting. Also aj, this wifi shield looks awesome. How can we get on the beta list? (I think i remember completing a beta tester form some time ago, but i'm not sure). And I second octonomy , your nodeJS connector is the best. So much more stable!!
+
