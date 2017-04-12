@@ -2112,3 +2112,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Using Human Brain Activity to Guide Machine Learning <https://arxiv.org/pdf/1703.05463.pdf>
 
+4/12/2017 8:17 PM
+
+ **andreacoravos** :
+
+ >We've been drafting more stories for the NeuroTechX medium publication. Just published a post on the BRAIN Initiative: <https://medium.com/neurotechx/the-brain-initiative-the-race-to-understand-the-human-brain-c2fddfea271e>
+
