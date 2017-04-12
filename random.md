@@ -747,3 +747,9 @@ Just because something is an ethical issue does not make ethics black and white.
 
  >In ten minutes it will be exactly 3 years before python 2.7 is deprecated <https://pythonclock.org/>
 
+4/12/2017 3:50 AM
+
+ **sydneyneurotechx** :
+
+ >(unofficially)
+
