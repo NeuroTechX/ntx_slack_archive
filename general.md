@@ -2106,3 +2106,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >I will take a look :slightly_smiling_face:
 
+4/12/2017 4:27 AM
+
+ **sydneyneurotechx** :
+
+ >Using Human Brain Activity to Guide Machine Learning <https://arxiv.org/pdf/1703.05463.pdf>
+
