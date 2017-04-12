@@ -678,3 +678,9 @@ Let me know if I can help about anything web-related. Currently trying to build 
 
  >Hi  everyone! I'm a Masters student at Simon Fraser University's School of Interactive Arts &amp; Technology in Vancouver. I use consumer BCI technologies in some of my research (NeuroSky/Muse). Looking forward to connecting with you folks!
 
+4/12/2017 7:37 PM
+
+ **sydneyneurotechx** :
+
+ >welcome elgin  . You should get connected with giuliosuprig of UBC
+
