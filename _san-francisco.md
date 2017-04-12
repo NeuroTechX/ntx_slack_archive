@@ -354,3 +354,9 @@ We can meet you in a few days
 
  >As in, you can't make Wednesdays?
 
+4/12/2017 5:38 PM
+
+ **sc** :
+
+ >That's my running night at Kezar, but hell, I can't often make SF full stop so do what works for you guys (c:
+
