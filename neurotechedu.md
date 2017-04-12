@@ -234,3 +234,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Hey everyone, this is a very good introductory tutorial to python for data analysis, I think it is worth to include it somewhere on EDU. <https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python>
 
+4/12/2017 5:24 PM
+
+ **sydneyneurotechx** :
+
+ >very cool.
+
