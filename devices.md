@@ -831,3 +831,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >No Idea, but my assumption is that they are just x4 up on most compontents of the 8 channel openbci BOM.
 
+4/12/2017 7:52 PM
+
+ **sydneyneurotechx** :
+
+ >At least that's what it looks like from the picture
+
