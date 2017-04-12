@@ -240,3 +240,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >very cool.
 
+4/12/2017 5:24 PM
+
+ **sydneyneurotechx** :
+
+ >Also ch.yumin davidevaleriani  had a conversation about which version of python to use and I had suggest 3.3 as 2.7 won't be supported by 2020. Anyone disagree?
+
