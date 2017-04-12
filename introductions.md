@@ -672,3 +672,9 @@ Let me know if I can help about anything web-related. Currently trying to build 
 
  >welcome jlegeny !
 
+4/12/2017 6:57 PM
+
+ **elgin** :
+
+ >Hi  everyone! I'm a Masters student at Simon Fraser University's School of Interactive Arts &amp; Technology in Vancouver. I use consumer BCI technologies in some of my research (NeuroSky/Muse). Looking forward to connecting with you folks!
+
