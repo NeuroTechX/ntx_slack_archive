@@ -318,3 +318,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Hi guys, I was wondering if you have maybe access to more databases than me for full text articles? I do have access to some of them through my university library, but it looks like I can't download some articles. In case I need can I ask here? (ok, not that I am doing anything special, just the intro, but reading a lot helps me :slightly_smiling_face: )
 
+4/12/2017 9:56 PM
+
+ **davidevaleriani** :
+
+ >What about <http://sci-hub.cc|sci-hub.cc>? 
+
