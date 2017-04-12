@@ -258,3 +258,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Also, scripts written in Python 2 could be easily converted into Python 3 with the 2to3 program <https://docs.python.org/2/library/2to3.html>
 
+4/12/2017 5:38 PM
+
+ **davidevaleriani** :
+
+ >(and there is also a 3to2 package <https://pypi.python.org/pypi/3to2>)
+
