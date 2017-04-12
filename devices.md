@@ -807,3 +807,9 @@ Looking just at the picture from the headset, i would say you better have short 
 
  >credit goes to yannick  for the find. But this might be interesting for people: <https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography>
 
+4/12/2017 7:41 PM
+
+ **sydneyneurotechx** :
+
+ >Looks like an openbci inspired 32 channel eeg
+
