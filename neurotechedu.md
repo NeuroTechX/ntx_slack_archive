@@ -252,3 +252,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >I agree that you should use Python 3. If you're at all unsure, it's not too hard to write code that's backwards compatible with python 2 as well
 
+4/12/2017 5:37 PM
+
+ **davidevaleriani** :
+
+ >Also, scripts written in Python 2 could be easily converted into Python 3 with the 2to3 program <https://docs.python.org/2/library/2to3.html>
+
