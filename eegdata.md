@@ -1653,3 +1653,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >brainwaves coming to an internet near you shortly
 
+4/13/2017 6:14 AM
+
+ **w** :
+
+ >Has anyone come across a Node module for LSL, at least publishing to LSL if not reading from
+
