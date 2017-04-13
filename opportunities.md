@@ -246,3 +246,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >Hey <!channel> we (Open Mind - <http://Omind.me|Omind.me>)  are hiring a Neuroscience Data Scientist to hack thousands of EEG : <https://omind.me/en/startup-de-neurosciences-data-scientist-ingenieur-rd-cdi/>
 
+4/13/2017 6:21 PM
+
+ **dutch84** :
+
+ >Anyone looking to hire an entry-level java developer?
+
