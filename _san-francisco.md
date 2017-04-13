@@ -396,3 +396,9 @@ We can meet you in a few days
 
  >sydneyneurotechx: I was expecting to see you in SF. So disappoint.
 
+4/13/2017 3:46 PM
+
+ **micslab** :
+
+ >hey w amilenkovic jnaulty marion Im coming to Maker Faire Bay Area so will be back in town late May if you want to catch up. I have news from AU!
+
