@@ -402,3 +402,9 @@ We can meet you in a few days
 
  >hey w amilenkovic jnaulty marion Im coming to Maker Faire Bay Area so will be back in town late May if you want to catch up. I have news from AU!
 
+4/13/2017 5:17 PM
+
+ **marion** :
+
+ >:+1: sweet! Hacknights are on Wednesdays now by the way
+
