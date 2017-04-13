@@ -324,3 +324,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >What about <http://sci-hub.cc|sci-hub.cc>? 
 
+4/13/2017 1:23 AM
+
+ **vasilisa** :
+
+ >Hi, francescacoo . I have access to all big databases trough my university. Feel free to ask me :)
+
