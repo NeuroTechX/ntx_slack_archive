@@ -939,3 +939,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >haha harris maybe the difference is on one site, they have it on stock whereas on the other one, they promise delivery within 60 (!) days (if it ever happens)
 
+4/13/2017 1:45 AM
+
+ **harris** :
+
+ >I've bought quite a bit from aliexpress in the past, they do have buyer production.
+
