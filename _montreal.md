@@ -177,3 +177,9 @@ Emotiv Insight 1.6m$
 
  >Thanks for the info! :smile:
 
+4/13/2017 5:27 PM
+
+ **drivas** :
+
+ >Hi everyone, is there a hacknight tonight?
+
