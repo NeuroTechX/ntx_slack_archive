@@ -975,3 +975,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >sydneyneurotechx wahhh trying to peel apart this wifi code but so much better c code then I can read lol
 
+4/13/2017 2:15 AM
+
+ **harris** :
+
+ >Found some others
+
