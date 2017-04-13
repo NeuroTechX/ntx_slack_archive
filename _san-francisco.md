@@ -390,3 +390,9 @@ We can meet you in a few days
 
  >That's cool
 
+4/13/2017 5:25 AM
+
+ **w** :
+
+ >sydneyneurotechx: I was expecting to see you in SF. So disappoint.
+
