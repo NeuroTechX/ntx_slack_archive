@@ -189,3 +189,12 @@ Emotiv Insight 1.6m$
 
  >eferdinand yannick ?
 
+4/13/2017 5:34 PM
+
+ **eferdinand** :
+
+ >drivas the hacknight is usually on Friday and it is for current team members who are working on projects and have prior experience with BCI,
+
+> 
+however You can join us to learn more about what we do, and for future reference about dates and schedules please visit <https://www.meetup.com/NeuroTechMTL/>
+
