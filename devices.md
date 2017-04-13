@@ -909,3 +909,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >true that
 
+4/13/2017 1:41 AM
+
+ **harris** :
+
+ >As a student with little money, been doing some digging.
+
