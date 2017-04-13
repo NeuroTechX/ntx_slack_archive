@@ -2118,3 +2118,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >We've been drafting more stories for the NeuroTechX medium publication. Just published a post on the BRAIN Initiative: <https://medium.com/neurotechx/the-brain-initiative-the-race-to-understand-the-human-brain-c2fddfea271e>
 
+4/13/2017 7:32 PM
+
+ **kowalej** :
+
+ >Didn't get much info on the Ahead other than it costs $10k+ for the reader and each single use headband with sensors costs $300. Also there is no open way to access the data other than with their reader other than reverse engineering it.
+
