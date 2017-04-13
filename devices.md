@@ -897,3 +897,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >you know you can still ship it in a commercial product aj
 
+4/13/2017 1:31 AM
+
+ **aj** :
+
+ >But have to disclose all the changes you make
+
