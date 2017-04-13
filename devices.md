@@ -885,3 +885,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >It's GPL :(
 
+4/13/2017 1:24 AM
+
+ **aj** :
+
+ >So much for shoving it in a commercial product 
+
