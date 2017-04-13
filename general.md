@@ -2124,3 +2124,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Didn't get much info on the Ahead other than it costs $10k+ for the reader and each single use headband with sensors costs $300. Also there is no open way to access the data other than with their reader other than reverse engineering it.
 
+4/13/2017 8:34 PM
+
+ **sydneyneurotechx** :
+
+ >No Surprise. Funny that they made it single use headband.
+
