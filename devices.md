@@ -879,3 +879,9 @@ You can upload the design on MacroFab or Circuithub and get a quote.
 > 
 I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
+4/13/2017 1:24 AM
+
+ **aj** :
+
+ >It's GPL :(
+
