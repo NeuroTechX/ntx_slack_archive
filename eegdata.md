@@ -1665,3 +1665,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >w I don't think there exist one.
 
+4/13/2017 1:40 PM
+
+ **aj** :
+
+ >w there is not a js wrapper for LSL 
+
