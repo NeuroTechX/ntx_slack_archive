@@ -963,3 +963,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >I take my joke back :wink:
 
+4/13/2017 1:59 AM
+
+ **aj** :
+
+ >Yea china has cloned the shit out of the pulse sensor
+
