@@ -1659,3 +1659,9 @@ but the second call, to `test_X` remains only `transform()`
 
  >Has anyone come across a Node module for LSL, at least publishing to LSL if not reading from
 
+4/13/2017 7:37 AM
+
+ **alexandre.barachant** :
+
+ >w I don't think there exist one.
+
