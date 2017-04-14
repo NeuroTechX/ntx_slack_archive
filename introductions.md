@@ -699,3 +699,9 @@ Let me know if I can help about anything web-related. Currently trying to build 
 > 
 I'm the founder of NeuroServo. I'm an engineer specialized in electrical conception related to precision robotics and eeg with good knowledge of programming (firmware and software). Looking forward for good exchange with you folks, I like to share!!
 
+4/14/2017 4:41 AM
+
+ **sydneyneurotechx** :
+
+ >ntremblay_neuroservo  Welcome!
+
