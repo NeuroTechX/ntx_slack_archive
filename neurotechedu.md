@@ -348,3 +348,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >vasilisa: great thank you!
 
+4/14/2017 5:02 PM
+
+ **ch.yumin** :
+
+ >hey guys, can someone help me? What exactly is 'epoch' or 'epoching' in BCIs? From my first researches, i think that it's the signal after the preprocessing. But i'm not sure about this
+
