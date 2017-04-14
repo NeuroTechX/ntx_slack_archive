@@ -360,3 +360,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Hey ch.yumin, an epoch is generally a chunk of EEG recording (usually after preprocessing, yes). The most used type of epoch is the stimulus-locked, which means that we consider 0 the onset of the stimulus and then we extract the first N milliseconds after that. So, if N is 1500, we are sampling at 32 Hz and we have 100 stimuli, we will have 100 signals of 48 samples (1.5s * 32) for each electrode, so 100 epochs of 48 samples per electrode.
 
+4/14/2017 5:38 PM
+
+ **ch.yumin** :
+
+ >Wow, nice explantion! Thank you
+
