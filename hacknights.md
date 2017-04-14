@@ -63,3 +63,9 @@ can i get some of that? :slightly_smiling_face:
 > 
 You might need to get in touch with this club for that .
 
+4/14/2017 6:22 PM
+
+ **yannick** :
+
+ >Hey, for people in Montreal, there is no HackNight tonight - long weekend. We'll see y'all next week.
+
