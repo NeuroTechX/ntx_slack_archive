@@ -198,3 +198,9 @@ Emotiv Insight 1.6m$
 > 
 however You can join us to learn more about what we do, and for future reference about dates and schedules please visit <https://www.meetup.com/NeuroTechMTL/>
 
+4/14/2017 6:22 PM
+
+ **yannick** :
+
+ ><!channel>: There is no HackNight tonight (long weekend), we'll see you all next week!
+
