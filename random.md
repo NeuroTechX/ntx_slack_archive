@@ -765,3 +765,9 @@ Just because something is an ethical issue does not make ethics black and white.
 > 
 Anyone read up on THz radiation as a Brain Imaging method?
 
+4/14/2017 8:55 AM
+
+ **sc** :
+
+ ><http://spectrum.ieee.org/the-human-os/biomedical/devices/5-neuroscience-experts-weigh-in-on-elon-musks-mysterious-neural-lace-company>
+
