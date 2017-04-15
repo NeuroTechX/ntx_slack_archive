@@ -2130,3 +2130,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >No Surprise. Funny that they made it single use headband.
 
+4/15/2017 10:59 PM
+
+ **sydneyneurotechx** :
+
+ >These new status emotes are awesome. If you have suggestions of others to add, let me know.
+
