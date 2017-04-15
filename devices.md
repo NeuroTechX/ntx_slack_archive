@@ -1017,3 +1017,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >I have 4000 Hz maximum
 
+4/15/2017 8:55 PM
+
+ **dmitryneuro** :
+
+ >from OpenBCI Cyton used only ESD protection TPD4E1B06
+
