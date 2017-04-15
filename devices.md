@@ -1029,3 +1029,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >How nice! That is quite great.
 
+4/15/2017 9:03 PM
+
+ **dmitryneuro** :
+
+ >for 4000 Hz it was test inside mcu. for output by uart-wifi-&gt;wifi-uart-usb was tested only 1000 Hz, because I have CP2102 uart-usb with only 1Mhz. soon will test CP2102N with 3 MHz
+
