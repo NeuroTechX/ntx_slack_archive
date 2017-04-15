@@ -1011,3 +1011,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >and thanks for the kind words on the nodejs connector :slightly_smiling_face: it's come a long way that's for sure!
 
+4/15/2017 8:45 PM
+
+ **dmitryneuro** :
+
+ >I have 4000 Hz maximum
+
