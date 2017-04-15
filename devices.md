@@ -1035,3 +1035,18 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >for 4000 Hz it was test inside mcu. for output by uart-wifi-&gt;wifi-uart-usb was tested only 1000 Hz, because I have CP2102 uart-usb with only 1Mhz. soon will test CP2102N with 3 MHz
 
+4/15/2017 9:14 PM
+
+ **dmitryneuro** :
+
+ >32 channels * 24 bits * 4000 Hz = 3072000 bits/second, so it is close to limit of CP2102N.
+
+> 
+STM32F427ZI have on its USART 5.625 MBits/s.
+
+> 
+
+
+> 
+I used uart-wifi-&gt;wifi-uart-usb with TCP2UART
+
