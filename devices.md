@@ -1023,3 +1023,9 @@ I might be totally wrong, but i would say around 200-300$ per unit for 10 units
 
  >from OpenBCI Cyton used only ESD protection TPD4E1B06
 
+4/15/2017 8:55 PM
+
+ **benjamindeleener** :
+
+ >How nice! That is quite great.
+
