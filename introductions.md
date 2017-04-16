@@ -717,3 +717,12 @@ I'm the founder of NeuroServo. I'm an engineer specialized in electrical concept
 
  >Welcome on board!
 
+4/16/2017 5:01 AM
+
+ **core** :
+
+ >Hello everyone!
+
+> 
+I just moved to Mountain View, CA and found the group on Meetup.  I am interested in everything to do with hacking human potential.  I am looking forward to attending an upcoming meetup.
+
