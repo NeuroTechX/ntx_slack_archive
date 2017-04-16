@@ -1719,3 +1719,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >The Friedman test looks reasonable and it doesn't seem to make too many assumptions. I personally prefer permutation tests in this situation, but I think it's mostly a matter if taste.
 
+4/16/2017 9:35 PM
+
+ **joeyo** :
+
+ >The second test also makes sense, but it seems like there should be a correction applied to account for the multiple comparisons (maybe there already is, I'm not very familiar with the Holm test).
+
