@@ -1713,3 +1713,9 @@ so far form the literature I reviewed, this seems like the most sound method of 
 > 
 Bashashatis paper is freely available here if anyone is interested: <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0129435>
 
+4/16/2017 9:28 PM
+
+ **joeyo** :
+
+ >The Friedman test looks reasonable and it doesn't seem to make too many assumptions. I personally prefer permutation tests in this situation, but I think it's mostly a matter if taste.
+
