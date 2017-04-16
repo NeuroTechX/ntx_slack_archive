@@ -1683,3 +1683,33 @@ but the second call, to `test_X` remains only `transform()`
 
  >w <https://github.com/sccn/labstreaminglayer/issues/168>
 
+4/16/2017 7:11 AM
+
+ **octonomy** :
+
+ >hi everyone. possible discussion topic if anyone is interested. I could move this over to <#C09H26C83|literaturereview> channel if thats better. anyway& in my work trying to compare performance of different classification algorithms on a common set of session datasets, I was looking for the most accepted method for reporting statistical significance.
+
+> 
+
+
+> 
+that is, many studies might attempt to show that classifier A &gt; B &gt; C with performance metric of mean accuracy, when applied to datasets 1, 2, 3, 4, 5, 6, 7, 8, etc.  however, its not enough to show just that a classifier has better accuracy than others, but also that this better performance is statistically significant.
+
+> 
+
+
+> 
+in my search of how to do this (there are many ways), the best I found was this method. its a generalized 2 step process outlined by Bashashati and earlier Demsar.  First step is to use the Friedman test, then, if null hypothesis is rejected, you can go on to post-hoc Holm test.
+
+> 
+
+
+> 
+so far form the literature I reviewed, this seems like the most sound method of comparing multiple classifiers across multiple datasets. Im just floating this out into the channel to a) see if anyone has better suggestions for evaluating statistical significance of classifier performance, and b) to share with the group in case this has not crossed your radar before.
+
+> 
+
+
+> 
+Bashashatis paper is freely available here if anyone is interested: <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0129435>
+
