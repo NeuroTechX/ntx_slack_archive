@@ -726,3 +726,9 @@ I'm the founder of NeuroServo. I'm an engineer specialized in electrical concept
 > 
 I just moved to Mountain View, CA and found the group on Meetup.  I am interested in everything to do with hacking human potential.  I am looking forward to attending an upcoming meetup.
 
+4/16/2017 5:42 PM
+
+ **sydneyneurotechx** :
+
+ >welcome core!
+
