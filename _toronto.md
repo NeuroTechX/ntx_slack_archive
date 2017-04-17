@@ -279,3 +279,42 @@ PM me to be included on the guest list
 > 
 ```
 
+4/17/2017 2:20 PM
+
+ **dano** :
+
+ >Thursday April 20th,
+
+> 
+6pm-?
+
+> 
+
+
+> 
+Our next hacknight is this Thursday at VarageSale. Come fiddle with neurotech software and meet other neurotechers. 
+
+> 
+
+
+> 
+Current Projects:
+
+> 
+- Neurodoro (Developing a CNN-based machine learning algorithm to detect focus and mental fatigue; Keras, Tensorflow)
+
+> 
+- EEG 101 (Interactive EEG tutorial; Java, signal processing, data collection for offline mode!)
+
+> 
+- Gamma light (Detecting increases in neural gamma frequency during optical gamma stimulation; Xamarin mobile app, Java)
+
+> 
+- EEG and VR? Get an example Unity app running with Muse integration
+
+> 
+
+
+> 
+If you're a first time hack attendee, PM me to be added to the guest list.  All you regulars, we'll see you there!
+
