@@ -732,3 +732,12 @@ I just moved to Mountain View, CA and found the group on Meetup.  I am intereste
 
  >welcome core!
 
+4/17/2017 10:52 PM
+
+ **tomyaumont** :
+
+ >Hi everyone!
+
+> 
+I am an electrical engineer student finishing its degree this summer at ETS, Montreal. I got recently introduce in neurotechnologies, got my first experience with sEMG this winter and I got interested in learning more about eeg. Looking forward for the next meetup, last autumn's student club competition was amazing, can't wait for the next one!
+
