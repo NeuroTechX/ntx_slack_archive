@@ -2136,3 +2136,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >These new status emotes are awesome. If you have suggestions of others to add, let me know.
 
+4/17/2017 3:22 AM
+
+ **yannick** :
+
+ >Hey dmitryneuro, welcome on board! Please introduce yourself in <#C08QEC5H7|introductions> as many people might be interested in discussing hardware with you in the <#C08T2SENQ|devices> channel :slightly_smiling_face:
+
