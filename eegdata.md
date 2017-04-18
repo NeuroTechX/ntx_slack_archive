@@ -1845,3 +1845,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >hmm thats not a bad thought
 
+4/18/2017 6:17 PM
+
+ **yrenard** :
+
+ ><http://people.csail.mit.edu/mrub/vidmag>
+
