@@ -1791,3 +1791,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >right just detect a brain in the vicinity
 
+4/18/2017 6:13 PM
+
+ **wanfuse123** :
+
+ >anywhere from a few inches to maybe 2 feet
+
