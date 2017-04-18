@@ -1863,3 +1863,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >I'm not sure what you are asking
 
+4/18/2017 6:19 PM
+
+ **wanfuse123** :
+
+ >to pick up a basic signal do the leads have to be attached to the head or just up against the head like a hat?
+
