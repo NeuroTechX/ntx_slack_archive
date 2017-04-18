@@ -753,3 +753,9 @@ I am an electrical engineer student finishing its degree this summer at ETS, Mon
 
  >Welcome tomyaumont !
 
+4/18/2017 3:45 PM
+
+ **nehabhutani** :
+
+ >Hello everyone! I am a Postdoc in Neuroscience at University of Montreal. I record neural activity in the motor cortex of monkeys while they adapt to applied perturbations to arm during reaching. I enjoy experimental design.
+
