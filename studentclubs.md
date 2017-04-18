@@ -441,3 +441,12 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 
  >Thank you all for the great conversation!
 
+4/18/2017 11:16 AM
+
+ **yannick** :
+
+ >Hey rnsriram, welcome on board! If you have any question related to student clubs, do not hesitate to ask it here and some awesome people shall magically answer.
+
+> 
+Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) starting a neurotech student club, joining the growing NTX family.
+
