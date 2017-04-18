@@ -1851,3 +1851,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  ><http://people.csail.mit.edu/mrub/vidmag>
 
+4/18/2017 6:17 PM
+
+ **wanfuse123** :
+
+ >so how close does eeg need to be to pick up a basic signal directly attached or up against ?
+
