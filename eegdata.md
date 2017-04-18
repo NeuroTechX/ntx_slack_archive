@@ -1779,3 +1779,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >if you want to investigate on healthy brain vs some unconscious brain, it is another question and there is a lot of research currently on this problem
 
+4/18/2017 6:11 PM
+
+ **yrenard** :
+
+ >you want to do that with no EEG equipment ?
+
