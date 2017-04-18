@@ -204,3 +204,21 @@ however You can join us to learn more about what we do, and for future reference
 
  ><!channel>: There is no HackNight tonight (long weekend), we'll see you all next week!
 
+4/18/2017 7:48 PM
+
+ **eferdinand** :
+
+ ><!channel>  if we are keeping the Hack Night on Fridays we will be offering a special Night on the 28th of April 
+
+> 
+Neuroservo ntremblay_neuroservo Will be joining us bringing 6 devices and devkit for us to hack.
+
+> 
+We need qualified experienced BCI geeks to hack the $**t out of it with OpenVibe since we helped developing the Driver.
+
+> 
+
+
+> 
+We'll keep you posted about updates and if we change it to another day, If you're interested please join the event on meetup <http://meetu.ps/38G6f6>
+
