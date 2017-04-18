@@ -462,3 +462,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >Hi nehabhutani, there are plenty. Take a look at <http://synapsets.etsmtl.ca/> (ETS), <http://polycortex.polymtl.ca/> (Polytechnique), <http://bsys.ca/index.html> (Concordia) and <https://www.facebook.com/McGillNeurotech> (McGill)
 
+4/18/2017 3:49 PM
+
+ **nehabhutani** :
+
+ >thanks!
+
