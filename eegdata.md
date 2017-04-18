@@ -1761,3 +1761,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >my first question is: what kind of equipment (and expense) would it cost to use eeg to detect and verify that a human brain is present vs no brain at all? in other words not to discern individual patterns (like the person is saying something) but just verify the presence of a brain?
 
+4/18/2017 6:10 PM
+
+ **wanfuse123** :
+
+ >the only other qualification on the question is an eeg not directly attached
+
