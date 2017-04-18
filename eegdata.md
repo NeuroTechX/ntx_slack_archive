@@ -1737,3 +1737,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >anyone have time?
 
+4/18/2017 5:58 PM
+
+ **yrenard** :
+
+ >wanfuse123 don't ask to ask, just ask, a lot of people here obviously know about capturing eeg data, whoever has time and skills for your question will voice an answer
+
