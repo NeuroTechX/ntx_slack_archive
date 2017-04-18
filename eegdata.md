@@ -1821,3 +1821,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >well, then EEG is not the way to go as you obviously need a contact to do that
 
+4/18/2017 6:15 PM
+
+ **yrenard** :
+
+ >I have no good answer to the problem, maybe others have
+
