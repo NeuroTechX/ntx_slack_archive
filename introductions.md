@@ -774,3 +774,9 @@ Im Bechir from London, UK (originally from France). In the past I worked on a c
 
  >Hi everyone, I am Steven I am from Boston, USA I have a couple thoughts of interesting project to do with eeg's and brain stimulation
 
+4/18/2017 10:19 PM
+
+ **lazarjov** :
+
+ >Hi everyone, I joined couple of days ago. I am Lazar and I am doing a PhD program in biomedical engineering at the University of Toronto. My focus are brain-computer interfaces and functional electrical stimulation therapy and I conduct my research at the Toronto Rehabilitation Institute. I am glad to be a part of this community and I am looking forward to share experiences with other neural-technology enthusiasts.
+
