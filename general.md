@@ -2148,3 +2148,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  ><https://futurism.com/zuckerberg-facebook-will-reveal-a-brain-interface-that-lets-you-communicate-using-only-your-mind/>
 
+4/18/2017 9:30 PM
+
+ **yannick** :
+
+ >I used to be fast on BCI/Neurotech news, but now sc youre beating me every time :disappointed: Gotta spend less time on that PhD&
+
