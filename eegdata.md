@@ -1815,3 +1815,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >house IoT devices
 
+4/18/2017 6:14 PM
+
+ **yrenard** :
+
+ >well, then EEG is not the way to go as you obviously need a contact to do that
+
