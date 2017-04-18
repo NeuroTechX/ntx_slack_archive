@@ -2142,3 +2142,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Hey dmitryneuro, welcome on board! Please introduce yourself in <#C08QEC5H7|introductions> as many people might be interested in discussing hardware with you in the <#C08T2SENQ|devices> channel :slightly_smiling_face:
 
+4/18/2017 8:41 PM
+
+ **sc** :
+
+ ><https://futurism.com/zuckerberg-facebook-will-reveal-a-brain-interface-that-lets-you-communicate-using-only-your-mind/>
+
