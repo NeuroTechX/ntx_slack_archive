@@ -2154,3 +2154,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >I used to be fast on BCI/Neurotech news, but now sc youre beating me every time :disappointed: Gotta spend less time on that PhD&
 
+4/18/2017 9:31 PM
+
+ **yannick** :
+
+ >Interesting! PR &amp; Marketing stunt or real science and/or commitment we shall see.
+
