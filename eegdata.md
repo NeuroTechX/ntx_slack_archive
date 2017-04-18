@@ -1725,3 +1725,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >The second test also makes sense, but it seems like there should be a correction applied to account for the multiple comparisons (maybe there already is, I'm not very familiar with the Holm test).
 
+4/18/2017 5:52 PM
+
+ **wanfuse123** :
+
+ >Hi! I have a few straight forward questions I would like to ask someone who knows something about capturing eeg data
+
