@@ -1833,3 +1833,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >You may be interested by the MIT work on hear rate measurement from videos, you could definitely detect that some heart is beating with no contact, and conclude that there might be a brain somewhere
 
+4/18/2017 6:16 PM
+
+ **yrenard** :
+
+ >sorry, this is nearly as vague as the question :wink:
+
