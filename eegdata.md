@@ -1773,3 +1773,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >if you compare healthy brain to literally no brain, just looking at the signal spectrum will give you good information as the human EEG is quite standard
 
+4/18/2017 6:11 PM
+
+ **yrenard** :
+
+ >if you want to investigate on healthy brain vs some unconscious brain, it is another question and there is a lot of research currently on this problem
+
