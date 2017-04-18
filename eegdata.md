@@ -1743,3 +1743,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >wanfuse123 don't ask to ask, just ask, a lot of people here obviously know about capturing eeg data, whoever has time and skills for your question will voice an answer
 
+4/18/2017 6:04 PM
+
+ **wanfuse123** :
+
+ >ok sorry thanks
+
