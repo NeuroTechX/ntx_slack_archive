@@ -1869,3 +1869,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >to pick up a basic signal do the leads have to be attached to the head or just up against the head like a hat?
 
+4/18/2017 6:20 PM
+
+ **yrenard** :
+
+ >it needs ot be in contact with the skin - if it's not, then use gel to bridge the skin to electrode gap
+
