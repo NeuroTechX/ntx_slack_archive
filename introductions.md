@@ -792,3 +792,9 @@ Im Bechir from London, UK (originally from France). In the past I worked on a c
 
  >Thank you bryan_j
 
+4/18/2017 10:47 PM
+
+ **yannick** :
+
+ >Hey wanfuse123 welcome on board. Make sure to join <#C0VT5N8S2|_boston> and to connect with alex, rdesai, aj, shivanisheopory and many other amazing people part of NeuroTechBOS
+
