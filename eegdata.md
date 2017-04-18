@@ -1875,3 +1875,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >it needs ot be in contact with the skin - if it's not, then use gel to bridge the skin to electrode gap
 
+4/18/2017 6:22 PM
+
+ **wanfuse123** :
+
+ >ok, thanks for the information , its appreciated
+
