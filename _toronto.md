@@ -324,3 +324,9 @@ If you're a first time hack attendee, PM me to be added to the guest list.  All 
 
  >If anyone gets a Unity VR app running and integrated with Muse, I'd love to see it, and I might have a part time job for you.
 
+4/18/2017 6:12 PM
+
+ **yannick** :
+
+ >We did and Im sure youd love to see the integrated Muse-IO console in Unity, plotting the EEG signal.
+
