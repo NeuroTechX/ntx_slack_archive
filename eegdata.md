@@ -1785,3 +1785,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >you want to do that with no EEG equipment ?
 
+4/18/2017 6:12 PM
+
+ **wanfuse123** :
+
+ >right just detect a brain in the vicinity
+
