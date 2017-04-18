@@ -1767,3 +1767,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >the only other qualification on the question is an eeg not directly attached
 
+4/18/2017 6:10 PM
+
+ **yrenard** :
+
+ >if you compare healthy brain to literally no brain, just looking at the signal spectrum will give you good information as the human EEG is quite standard
+
