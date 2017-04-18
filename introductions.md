@@ -747,3 +747,9 @@ I am an electrical engineer student finishing its degree this summer at ETS, Mon
 
  >Welcome tomyaumont ! Happy to hear that you enjoyed the competition last year!
 
+4/18/2017 3:54 AM
+
+ **sydneyneurotechx** :
+
+ >Welcome tomyaumont !
+
