@@ -318,3 +318,9 @@ Current Projects:
 > 
 If you're a first time hack attendee, PM me to be added to the guest list.  All you regulars, we'll see you there!
 
+4/18/2017 6:00 PM
+
+ **graeme** :
+
+ >If anyone gets a Unity VR app running and integrated with Muse, I'd love to see it, and I might have a part time job for you.
+
