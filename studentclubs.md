@@ -456,3 +456,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >Are there any student clubs in Montreal? Would like to join or start one!
 
+4/18/2017 3:48 PM
+
+ **benjamindeleener** :
+
+ >Hi nehabhutani, there are plenty. Take a look at <http://synapsets.etsmtl.ca/> (ETS), <http://polycortex.polymtl.ca/> (Polytechnique), <http://bsys.ca/index.html> (Concordia) and <https://www.facebook.com/McGillNeurotech> (McGill)
+
