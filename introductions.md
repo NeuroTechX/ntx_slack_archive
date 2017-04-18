@@ -786,3 +786,9 @@ Im Bechir from London, UK (originally from France). In the past I worked on a c
 
  >Welcome lazarjov! Join your local community at the _toronto channel - if you have not done so already! Looking forward to meeting you! 
 
+4/18/2017 10:41 PM
+
+ **lazarjov** :
+
+ >Thank you bryan_j
+
