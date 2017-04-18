@@ -450,3 +450,9 @@ If there is a meeting, I would love to be part of it, if you guys are Ok with th
 > 
 Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) starting a neurotech student club, joining the growing NTX family.
 
+4/18/2017 3:46 PM
+
+ **nehabhutani** :
+
+ >Are there any student clubs in Montreal? Would like to join or start one!
+
