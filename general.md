@@ -2160,3 +2160,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Interesting! PR &amp; Marketing stunt or real science and/or commitment we shall see.
 
+4/19/2017 5:20 AM
+
+ **sc** :
+
+ >Working hard on my honorary PhD instead
+
