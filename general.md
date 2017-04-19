@@ -2262,3 +2262,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Are you being sarcastic or are they actually building pre-established tech?
 
+4/19/2017 7:23 PM
+
+ **yannick** :
+
+ >================================================
+
