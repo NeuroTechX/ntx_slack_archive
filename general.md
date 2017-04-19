@@ -2304,3 +2304,9 @@ Good Stuff - Starting @ -18:38
 > 
 &gt; measuring the change in "the neurons as they suck in sodium and spit out potassium"
 
+4/19/2017 8:45 PM
+
+ **aj** :
+
+ >are they talking like fnirs tech?
+
