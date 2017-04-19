@@ -819,3 +819,9 @@ Im Bechir from London, UK (originally from France). In the past I worked on a c
 > 
 hi! I am wondering if anyone has seen this <https://medicalxpress.com/news/2017-03-brain-tranquility.html> and wondering if neural stimulation might apply to this meditation center of the brain...thoughts anyone?
 
+4/19/2017 2:49 PM
+
+ **sydneyneurotechx** :
+
+ >hey wanfuse123  I have not. In the future, can you post stuff like this in the <#C073WP1T9|general> or related channel? <#C08QEC5H7|introductions> is purely meant for people to introduce themselves to the community :slightly_smiling_face:
+
