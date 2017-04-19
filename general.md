@@ -2412,3 +2412,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >just a lot of work to make it happen
 
+4/19/2017 10:19 PM
+
+ **graeme** :
+
+ >if it can be done
+
