@@ -2382,3 +2382,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  ><https://arxiv.org/pdf/cond-mat/9906188.pdf>
 
+4/19/2017 10:16 PM
+
+ **graeme** :
+
+ >if you take Bob Knight's work on speech imagery:
+
