@@ -2436,3 +2436,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >Added the pdf and books to the awesome bci list if people want to look into it later on <https://github.com/NeuroTechX/awesome-bci>
 
+4/19/2017 11:35 PM
+
+ **joeyo** :
+
+ ><http://www.sciencedirect.com/science/article/pii/S1364661300017010>
+
