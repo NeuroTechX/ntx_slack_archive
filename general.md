@@ -2376,3 +2376,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >Anyone find anything better?
 
+4/19/2017 10:16 PM
+
+ **graeme** :
+
+ ><https://arxiv.org/pdf/cond-mat/9906188.pdf>
+
