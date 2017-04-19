@@ -2220,3 +2220,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >fNIRS but yes
 
+4/19/2017 6:51 PM
+
+ **joeyo** :
+
+ >the not-based-on-hemodynamic response part is interesting
+
