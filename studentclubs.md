@@ -468,3 +468,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >thanks!
 
+4/19/2017 2:04 AM
+
+ **wanfuse123** :
+
+ >hi! I am wondering if anyone has seen this <https://medicalxpress.com/news/2017-03-brain-tranquility.html> and wondering if neural stimulation might apply to this meditation center of the brain...thoughts anyone?
+
