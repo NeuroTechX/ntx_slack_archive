@@ -2256,3 +2256,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >_Implanted electrodes simply wont scale, she says. We think optical imaging is the best place to start. Using neural imaging may be the only non-invasive approach to transmitting neural activity into inputs for electronic devices, Dugan says. This could be some type of cap you wear on your head, but Dugan adds that this technology does not exist yet and would have to be developed over the course of many years._
 
+4/19/2017 7:06 PM
+
+ **sydneyneurotechx** :
+
+ >Are you being sarcastic or are they actually building pre-established tech?
+
