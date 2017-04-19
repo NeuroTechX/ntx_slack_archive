@@ -21,3 +21,9 @@
 > 
 Im Bechir from London, UK (originally from France). In the past I worked on a couple of research projects in neuroscience (visual prosthetics to restore sight to the blind in Boston, USA / machine learning applied to fMRI in Japan / decoding of pain and touch from EEG/microneurography in London) before leaving academia and working as a freelance data scientist.  I am currently part of a startup accelerator in London and I am interested in exploring consumer/industrial applications of BCI/neurotech.
 
+4/19/2017 11:20 PM
+
+ **davidevaleriani** :
+
+ >Hey guys, anyone going to the march of science this Saturday in London?
+
