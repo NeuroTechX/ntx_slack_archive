@@ -2268,3 +2268,24 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >================================================
 
+4/19/2017 7:25 PM
+
+ **yannick** :
+
+ >========================================
+
+> 
+Here is the Facebook Brain-Computer Interface talk.
+
+> 
+Head of Building 8 - Starting @ -24:10
+
+> 
+Good Stuff - Starting @ -18:38
+
+> 
+<https://www.facebook.com/FacebookforDevelopers/videos/10154616829398553/>
+
+> 
+========================================
+
