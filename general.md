@@ -2334,3 +2334,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >That's fast optical signal, or optical evoked potentials
 
+4/19/2017 9:48 PM
+
+ **sydneyneurotechx** :
+
+ >Are they serious??? 100 WPM??
+
