@@ -777,3 +777,9 @@ Anyone read up on THz radiation as a Brain Imaging method?
 
  >March for Science in San Francisco this Saturday, April 22: want to put Muse headsets on people? Teach people about EEG? We've still got space at our booth -- ping me if you're interested in volunteering as a researcher or a participant!
 
+4/19/2017 4:17 PM
+
+ **sydneyneurotechx** :
+
+ >eliricker, I'd suggest posting in the <#C0VTQK7CZ|_san-francisco>  channel
+
