@@ -783,3 +783,9 @@ Anyone read up on THz radiation as a Brain Imaging method?
 
  >eliricker, I'd suggest posting in the <#C0VTQK7CZ|_san-francisco>  channel
 
+4/19/2017 8:09 PM
+
+ **eliricker** :
+
+ >sydneyneurotechx great, thanks!
+
