@@ -2244,3 +2244,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >joeyo fast optical signal?
 
+4/19/2017 7:01 PM
+
+ **joeyo** :
+
+ ><http://www.theverge.com/2017/4/19/15360798/facebook-brain-computer-interface-ai-ar-f8-2017>
+
