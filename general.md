@@ -2208,3 +2208,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 > 
 <https://techcrunch.com/2017/04/19/facebook-brain-interface/>
 
+4/19/2017 6:38 PM
+
+ **graeme** :
+
+ >Did facebook just announce David Eagleman's sensory substitution vest and a P300 speller?
+
