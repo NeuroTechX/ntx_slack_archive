@@ -2364,3 +2364,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >I see what you mean now. Yea it sounds like they just took the concept of Neurosensory but shrunk it down
 
+4/19/2017 10:03 PM
+
+ **sydneyneurotechx** :
+
+ >Only good reference I can find on Balistic Optical Imaging is from this book. <https://books.google.ca/books?id=EJeQ0hAB76gC&amp;pg=PR3&amp;redir_esc=y#v=onepage&amp;q&amp;f=false>
+
