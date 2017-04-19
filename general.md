@@ -2352,3 +2352,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >because of semantic dude
 
+4/19/2017 9:49 PM
+
+ **sydneyneurotechx** :
+
+ >Is there any papers out there they are basing this on?
+
