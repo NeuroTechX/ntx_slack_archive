@@ -2190,3 +2190,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >#phdislife
 
+4/19/2017 2:53 PM
+
+ **wanfuse123** :
+
+ >hi! I am wondering if anyone has seen this <https://medicalxpress.com/news/2017-03-brain-tranquility.html> and wondering if neural stimulation might apply to this meditation center of the brain...thoughts anyone? Sorry for the double post but I posted it in the wrong place :wink:
+
