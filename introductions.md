@@ -843,3 +843,9 @@ hi! I am wondering if anyone has seen this <https://medicalxpress.com/news/2017-
 
  >go for it!
 
+4/19/2017 9:27 PM
+
+ **bryan_j** :
+
+ >Well I will be doing that the next time! Thanks yannick :metal: :ntxblue: 
+
