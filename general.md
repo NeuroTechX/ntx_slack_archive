@@ -2238,3 +2238,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >dvidsilva is there live, no? (regarding graemes question ^)
 
+4/19/2017 7:00 PM
+
+ **graeme** :
+
+ >joeyo fast optical signal?
+
