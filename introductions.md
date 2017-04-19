@@ -810,3 +810,12 @@ Im Bechir from London, UK (originally from France). In the past I worked on a c
 
  >thanks yannick
 
+4/19/2017 1:39 PM
+
+ **wanfuse123** :
+
+ >wanfuse123 [10:04 PM] 
+
+> 
+hi! I am wondering if anyone has seen this <https://medicalxpress.com/news/2017-03-brain-tranquility.html> and wondering if neural stimulation might apply to this meditation center of the brain...thoughts anyone?
+
