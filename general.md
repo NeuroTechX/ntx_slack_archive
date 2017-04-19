@@ -2310,3 +2310,15 @@ Good Stuff - Starting @ -18:38
 
  >are they talking like fnirs tech?
 
+4/19/2017 8:51 PM
+
+ **yannick** :
+
+ >Same idea, you send a light and you record it as it goes out and you do inference on what happened in between.
+
+> 
+fNIRS (given the wavelength) is useful for blood flow.
+
+> 
+FB is aiming at measuring the changes in neuron properties based on sodium/potassium changes, which would be a more direct measure of brain activity and not blood activity. But I dont know much about how the light absorption properties of a neuron change as its electrical potential changes.
+
