@@ -804,3 +804,9 @@ Im Bechir from London, UK (originally from France). In the past I worked on a c
 
  >You can share with <#C0VTC19DW|_toronto> to make it clickable. Makes it easier to join directly :stuck_out_tongue:
 
+4/19/2017 2:00 AM
+
+ **wanfuse123** :
+
+ >thanks yannick
+
