@@ -2166,3 +2166,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Working hard on my honorary PhD instead
 
+4/19/2017 7:06 AM
+
+ **physionikhil** :
+
+ >Everyone of you motivate me to pursue a PhD in neurosciences
+
