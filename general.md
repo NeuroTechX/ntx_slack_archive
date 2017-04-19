@@ -2232,3 +2232,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >curious to see if they can really do single-trial decoding
 
+4/19/2017 6:55 PM
+
+ **yannick** :
+
+ >dvidsilva is there live, no? (regarding graemes question ^)
+
