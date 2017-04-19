@@ -2289,3 +2289,18 @@ Good Stuff - Starting @ -18:38
 > 
 ========================================
 
+4/19/2017 7:36 PM
+
+ **yannick** :
+
+ >joeyo: the not-based-on-hemodynamic response part is at: -12:12
+
+> 
+<https://www.facebook.com/FacebookforDevelopers/videos/10154616829398553/>
+
+> 
+
+
+> 
+&gt; measuring the change in "the neurons as they suck in sodium and spit out potassium"
+
