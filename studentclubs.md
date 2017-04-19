@@ -474,3 +474,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >hi! I am wondering if anyone has seen this <https://medicalxpress.com/news/2017-03-brain-tranquility.html> and wondering if neural stimulation might apply to this meditation center of the brain...thoughts anyone?
 
+4/19/2017 7:33 AM
+
+ **eliricker** :
+
+ >March for Science in San Francisco this Saturday, April 22: want to put Muse headsets on people? Teach people about EEG? We've still got space at our booth -- ping me if you're interested in volunteering as a researcher or a participant!
+
