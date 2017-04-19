@@ -2214,3 +2214,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Did facebook just announce David Eagleman's sensory substitution vest and a P300 speller?
 
+4/19/2017 6:51 PM
+
+ **joeyo** :
+
+ >fNIRS but yes
+
