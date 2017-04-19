@@ -330,3 +330,9 @@ If you're a first time hack attendee, PM me to be added to the guest list.  All 
 
  >We did and Im sure youd love to see the integrated Muse-IO console in Unity, plotting the EEG signal.
 
+4/19/2017 3:08 AM
+
+ **sydneyneurotechx** :
+
+ >graeme  Maybe post the VR/EEG idea in Opportunities?
+
