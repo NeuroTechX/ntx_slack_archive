@@ -2358,3 +2358,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >Is there any papers out there they are basing this on?
 
+4/19/2017 9:56 PM
+
+ **sydneyneurotechx** :
+
+ >I see what you mean now. Yea it sounds like they just took the concept of Neurosensory but shrunk it down
+
