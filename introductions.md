@@ -837,3 +837,9 @@ hi! I am wondering if anyone has seen this <https://medicalxpress.com/news/2017-
 
  >should I repost it in that channel now?
 
+4/19/2017 4:16 PM
+
+ **sydneyneurotechx** :
+
+ >go for it!
+
