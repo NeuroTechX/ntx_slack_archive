@@ -2172,3 +2172,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Everyone of you motivate me to pursue a PhD in neurosciences
 
+4/19/2017 7:57 AM
+
+ **alexandre.barachant** :
+
+ >Yes, eager to see what they want to do. I will also be interested to see who they managed to recruit
+
