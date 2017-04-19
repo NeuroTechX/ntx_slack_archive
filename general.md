@@ -2328,3 +2328,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >And then after that, they are aiming at capturing the semantic to let people who speak different languages be able to communicate, so you can call your mom (which btw may speak the same language as you do)
 
+4/19/2017 9:37 PM
+
+ **graeme** :
+
+ >That's fast optical signal, or optical evoked potentials
+
