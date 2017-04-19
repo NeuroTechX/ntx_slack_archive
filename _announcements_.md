@@ -147,3 +147,9 @@ The OReilly AI Conference is coming to San Francisco September 17-20, 2017 to e
 > 
 <http://www.oreilly.com/pub/cpc/68827>
 
+4/19/2017 7:33 AM
+
+ **eliricker** :
+
+ >March for Science in San Francisco this Saturday, April 22: want to put Muse headsets on people? Teach people about EEG? We've still got space at our booth -- ping me if you're interested in volunteering as a researcher or a participant!
+
