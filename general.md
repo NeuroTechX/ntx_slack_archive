@@ -2226,3 +2226,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >the not-based-on-hemodynamic response part is interesting
 
+4/19/2017 6:52 PM
+
+ **joeyo** :
+
+ >curious to see if they can really do single-trial decoding
+
