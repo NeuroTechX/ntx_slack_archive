@@ -420,3 +420,9 @@ We can meet you in a few days
 
  >Great to hear you'll be back in the bay
 
+4/19/2017 8:21 PM
+
+ **eliricker** :
+
+ >Citizen science EEG event this Saturday, April 22: @March for Science SF, using Muse headsets, we'll be capturing data for an international comparison study on EEG across the world, teaching people about EEG. Interested? Ping me if you're available any time or all day Saturday. Also, we're still looking for supplies: 1-2 monitors, extra iPhone 6 chargers. Thanks! Psyched to work together :)
+
