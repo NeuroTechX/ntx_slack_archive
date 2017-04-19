@@ -342,3 +342,9 @@ If you're a first time hack attendee, PM me to be added to the guest list.  All 
 
  >Unless you want people specifically from TO
 
+4/19/2017 3:28 AM
+
+ **graeme** :
+
+ >Yeah, we're just looking for someone who can come in and provide some basic unity support on experimentation with Muse+Vive. Low level signal integration and neuroscience validation stuff moreso than cool BCI experiences. Neurotech enthusiasts with that kind of experience and interest welcome to apply.
+
