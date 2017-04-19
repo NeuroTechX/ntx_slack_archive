@@ -336,3 +336,9 @@ If you're a first time hack attendee, PM me to be added to the guest list.  All 
 
  >graeme  Maybe post the VR/EEG idea in Opportunities?
 
+4/19/2017 3:08 AM
+
+ **sydneyneurotechx** :
+
+ >Unless you want people specifically from TO
+
