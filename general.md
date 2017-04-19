@@ -2322,3 +2322,9 @@ fNIRS (given the wavelength) is useful for blood flow.
 > 
 FB is aiming at measuring the changes in neuron properties based on sodium/potassium changes, which would be a more direct measure of brain activity and not blood activity. But I dont know much about how the light absorption properties of a neuron change as its electrical potential changes.
 
+4/19/2017 8:54 PM
+
+ **yrenard** :
+
+ >And then after that, they are aiming at capturing the semantic to let people who speak different languages be able to communicate, so you can call your mom (which btw may speak the same language as you do)
+
