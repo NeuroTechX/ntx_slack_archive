@@ -2400,3 +2400,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >and you figure out a way to improve on that, and then also make this quasi-ballistic fast optical response imaging work with high spatial resolution and lots of sensors...
 
+4/19/2017 10:19 PM
+
+ **graeme** :
+
+ >...it's kind of not crazy
+
