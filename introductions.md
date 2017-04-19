@@ -831,3 +831,9 @@ hi! I am wondering if anyone has seen this <https://medicalxpress.com/news/2017-
 
  >oh sure sorry about that
 
+4/19/2017 2:50 PM
+
+ **wanfuse123** :
+
+ >should I repost it in that channel now?
+
