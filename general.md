@@ -2178,3 +2178,9 @@ If IntelliPi hasn't worked out, I'd suggest an alternative approach of reading t
 
  >Yes, eager to see what they want to do. I will also be interested to see who they managed to recruit
 
+4/19/2017 8:03 AM
+
+ **alexandre.barachant** :
+
+ >They still have two identical job opening for this
+
