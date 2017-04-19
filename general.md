@@ -2424,3 +2424,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >not because the measurement may (or may not) make sense that the overall thing does, and given all of the second half of the talk, I bet that they have been terribly misleaded on the problem they are trying to solve (at the best)
 
+4/19/2017 10:54 PM
+
+ **sydneyneurotechx** :
+
+ >Awesome References. Added them to the awesome-bci list
+
