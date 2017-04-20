@@ -2562,3 +2562,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >I'm not convinced human optogenetics is ever a thing that should be done. DREADDs (which are pharmacologically vs optically activated) maybe...
 
+4/20/2017 7:28 PM
+
+ **bryan_j** :
+
+ >ofMRI all the way baby 
+
