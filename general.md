@@ -2550,3 +2550,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >i mean, come on... optogenetics + fast optical fNIRS to control neuroplasticity non-invasively... this has never even been done in mice.
 
+4/20/2017 7:15 PM
+
+ **graeme** :
+
+ >it's statements like those that make it hard for the neuroscience community to take the BCI community seriously
+
