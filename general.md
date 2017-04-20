@@ -2544,3 +2544,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >alexandre.barachant joeyo we should organize a AMA with Mary Lou Jepsen. :slightly_smiling_face:
 
+4/20/2017 7:12 PM
+
+ **graeme** :
+
+ >i mean, come on... optogenetics + fast optical fNIRS to control neuroplasticity non-invasively... this has never even been done in mice.
+
