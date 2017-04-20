@@ -2538,3 +2538,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >Possibly relevant: <https://www.youtube.com/watch?v=WsIWnMazQdc>
 
+4/20/2017 6:35 PM
+
+ **yannick** :
+
+ >alexandre.barachant joeyo we should organize a AMA with Mary Lou Jepsen. :slightly_smiling_face:
+
