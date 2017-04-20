@@ -2442,3 +2442,15 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  ><http://www.sciencedirect.com/science/article/pii/S1364661300017010>
 
+4/20/2017 12:39 AM
+
+ **sydneyneurotechx** :
+
+ >For all those who would be interested in talking at the DEF CON Biohacking village, their call for papers is closing soon. Click below for more details
+
+> 
+
+
+> 
+<https://www.defconbiohackingvillage.org/>
+
