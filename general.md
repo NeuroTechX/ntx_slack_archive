@@ -2496,3 +2496,9 @@ Using quasi-balistic light is just an oversimplistic response to a very tricky p
 > 
 The way i understand thing is that FOS works by measuring change in optical properties of neurons when they are activated. So you have to send a beam of light in the right place, it get diffracted by the population of neurons firing and somehow has to come back to the sensor. there is a lot of loss in the process. IMO limitation are physical and hardware related.
 
+4/20/2017 1:22 PM
+
+ **alexandre.barachant** :
+
+ >Anyway, i hope they succeed, that will be really great.
+
