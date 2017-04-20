@@ -366,3 +366,15 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >Wow, nice explantion! Thank you
 
+4/20/2017 7:39 PM
+
+ **sydneyneurotechx** :
+
+ >Hey <!channel> . dawnkolpin  Has built her first draft of the intro to Neuroscience Lesson for NeuroTechEDU and is looking for some feedback on the structure of the content.  She's also curious to know if she is going in the right direction as well.  Could some of the Neuro experts take a look at it? :slightly_smiling_face:. dawnkolpin  Anything else you would like feedback on?
+
+> 
+
+
+> 
+<https://docs.google.com/document/d/1cr-K6iGUea8T7p64emdTt2_dLkzpfPEKeuRtaoiIvV8/edit?usp=sharing>
+
