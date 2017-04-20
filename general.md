@@ -2514,3 +2514,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >hi oriansha ! If you are new to NeuroTechX, please introduce yourself in the <#C08QEC5H7|introductions>  channel :slightly_smiling_face:
 
+4/20/2017 3:25 PM
+
+ **dano** :
+
+ >what else would you do if the people that hired you had no idea about your field but wanted results at the end of the quarter? :stuck_out_tongue:
+
