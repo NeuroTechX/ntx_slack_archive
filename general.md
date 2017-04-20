@@ -2466,3 +2466,12 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >Looks like they are going for Fast Optical imaging .... good luck to them
 
+4/20/2017 12:55 PM
+
+ **alexandre.barachant** :
+
+ >The part about quasi-ballistic photon is totally missleading. FOS is an almost 2 decade old technology. they have to find something that will look like they are inovating.
+
+> 
+this does not solve any of the problem this technology has (1- we don't know what we measure 2- the signal to noise ratio is worse than any other non-invasive tech, including EEG)
+
