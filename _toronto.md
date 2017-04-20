@@ -414,3 +414,9 @@ See you al there!
 
  >Hey graeme! If you are okay with it, we can share this with the larger NTTO community on Meetup. Let me know either way! Thx for your commitment. 
 
+4/20/2017 11:16 PM
+
+ **graeme** :
+
+ >Maybe just share it at the Thursday night things? 
+
