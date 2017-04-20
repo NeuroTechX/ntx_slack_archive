@@ -408,3 +408,9 @@ See you al there!
 
  >dano: hey man can't make it cause im in boston on biz - push some screener updates tonight tho!
 
+4/20/2017 10:40 PM
+
+ **bryan_j** :
+
+ >Hey graeme! If you are okay with it, we can share this with the larger NTTO community on Meetup. Let me know either way! Thx for your commitment. 
+
