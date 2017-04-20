@@ -2481,3 +2481,18 @@ this does not solve any of the problem this technology has (1- we don't know wha
 
  >When you say the signal to noise ratio is worse, do you think its a mathematical problem (optimization / stochastic problem) or hardware related or physics related (i.e. there is just no perfect wavelength for what were targeting)?
 
+4/20/2017 1:14 PM
+
+ **alexandre.barachant** :
+
+ >The few papers showing that we can record fast brain activity with FOS are based on ERP type of analysis. It require average of hundreds of stimulation to show a response. Thats a good starting point, but for a BCI type of application, you need a clear signal on the single trial level. What i'm saying is that okay, the spatial resolution is better, but you need to improve the tech by a factor 100 to actually get something that will allow operation in real time.
+
+> 
+Using quasi-balistic light is just an oversimplistic response to a very tricky problem. This will just allow to focus a bit better the beam (increasing the spatial resolution) but does not solve the SNR problem.
+
+> 
+
+
+> 
+The way i understand thing is that FOS works by measuring change in optical properties of neurons when they are activated. So you have to send a beam of light in the right place, it get diffracted by the population of neurons firing and somehow has to come back to the sensor. there is a lot of loss in the process. IMO limitation are physical and hardware related.
+
