@@ -891,3 +891,9 @@ Thanks to bechir for pointing this out!
 
  >Hi, I'm not very much into Slack but I'm part of the Tel Aviv (Israel) team of neurotechers :slightly_smiling_face: right now I'm in Athens (Greece) and was looking for neurotech ppl around, so far without much success, know anything?
 
+4/20/2017 2:53 PM
+
+ **yannick** :
+
+ >Perhaps d.adamos knows neurotech people in Athens? (even from Thessaloniki, Greece)
+
