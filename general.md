@@ -2526,3 +2526,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >this is a great discussion alexandre.barachant yannick
 
+4/20/2017 5:26 PM
+
+ **graeme** :
+
+ >I love this slack channel!
+
