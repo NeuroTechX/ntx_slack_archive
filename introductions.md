@@ -849,3 +849,33 @@ hi! I am wondering if anyone has seen this <https://medicalxpress.com/news/2017-
 
  >Well I will be doing that the next time! Thanks yannick :metal: :ntxblue: 
 
+4/20/2017 9:26 AM
+
+ **dom** :
+
+ >What an epic community. I co-direct Deep Science Ventures (<http://www.dsv.io|www.dsv.io>). We take scientists and engineers pre-idea, provide a basic income + facilities to generate exceptionally ambitious companies from scratch. Our batches contain as many disciplines as we can find - from biomedical engineers and synthetic biologists through to chaos theorists and hardcore statisticians*. And obviously neuroscientists. We've got a start date for London in July, DM if you'd like to be paid to invent things (and keep your IP). 
+
+> 
+
+
+> 
+My co-director is a neuro-pharmacologist and AI PhD, he was first author on the paper that this article is about, controlling robots with cultures of rat brain neurons: <https://www.newscientist.com/article/mg19926696-100-rise-of-the-rat-brained-robots/> 
+
+> 
+
+
+> 
+Understandably, we're exceptionally excited and well-placed to build commercial technologies to do with the brain. Get in touch if you're looking for other people who want to focus on something like this!
+
+> 
+
+
+> 
+Thanks to bechir for pointing this out!
+
+> 
+
+
+> 
+*Yes. We believe statisticians can be hardcore.
+
