@@ -2568,3 +2568,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >ofMRI all the way baby 
 
+4/20/2017 7:29 PM
+
+ **bryan_j** :
+
+ ><http://llab.stanford.edu/pdfs/news/ofMRI_on_the_Brain.pdf>
+
