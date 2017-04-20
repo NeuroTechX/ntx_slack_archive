@@ -381,3 +381,9 @@ VarageSale, suite 501
 > 
 On a separate note: <!channel> I need some companies in Toronto and area working on emotional intelligence, emotion-driven BCI, etc. Any thoughts? Let me know by replying to this comment. Thx!
 
+4/20/2017 5:05 PM
+
+ **joshuad** :
+
+ >Suite 901, in fact!
+
