@@ -2460,3 +2460,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 
  >You're all way ahead of me today, but this link features videos <http://mashable.com/2017/04/19/facebook-brain-interface/>
 
+4/20/2017 12:41 PM
+
+ **alexandre.barachant** :
+
+ >Looks like they are going for Fast Optical imaging .... good luck to them
+
