@@ -369,3 +369,15 @@ If you're a first time hack attendee, PM me to be added to the guest list.  All 
 > 
 VarageSale, suite 501
 
+4/20/2017 4:25 PM
+
+ **bryan_j** :
+
+ >Oh yeah! Stoked for tonight.
+
+> 
+
+
+> 
+On a separate note: <!channel> I need some companies in Toronto and area working on emotional intelligence, emotion-driven BCI, etc. Any thoughts? Let me know by replying to this comment. Thx!
+
