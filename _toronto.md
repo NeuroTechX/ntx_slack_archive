@@ -354,3 +354,18 @@ If you're a first time hack attendee, PM me to be added to the guest list.  All 
 
  >Hacknight tonight! 4/20 edition. Looking forward to seeing you all
 
+4/20/2017 4:17 PM
+
+ **dano** :
+
+ >Details:
+
+> 
+7pm 
+
+> 
+111 Peter Street ,
+
+> 
+VarageSale, suite 501
+
