@@ -420,3 +420,9 @@ See you al there!
 
  >Maybe just share it at the Thursday night things? 
 
+4/20/2017 11:17 PM
+
+ **graeme** :
+
+ >Ideally we're looking for someone who likes to get their hands dirty (figuratively)
+
