@@ -2475,3 +2475,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 > 
 this does not solve any of the problem this technology has (1- we don't know what we measure 2- the signal to noise ratio is worse than any other non-invasive tech, including EEG)
 
+4/20/2017 1:01 PM
+
+ **yannick** :
+
+ >When you say the signal to noise ratio is worse, do you think its a mathematical problem (optimization / stochastic problem) or hardware related or physics related (i.e. there is just no perfect wavelength for what were targeting)?
+
