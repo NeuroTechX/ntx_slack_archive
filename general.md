@@ -2532,3 +2532,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >I love this slack channel!
 
+4/20/2017 6:31 PM
+
+ **joeyo** :
+
+ >Possibly relevant: <https://www.youtube.com/watch?v=WsIWnMazQdc>
+
