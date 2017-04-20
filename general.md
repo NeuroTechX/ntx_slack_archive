@@ -2556,3 +2556,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >it's statements like those that make it hard for the neuroscience community to take the BCI community seriously
 
+4/20/2017 7:20 PM
+
+ **dano** :
+
+ >I'm not convinced human optogenetics is ever a thing that should be done. DREADDs (which are pharmacologically vs optically activated) maybe...
+
