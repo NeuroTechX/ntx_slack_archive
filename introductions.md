@@ -885,3 +885,9 @@ Thanks to bechir for pointing this out!
 
  >welcome dom ! Feel free to reach out if you have questions about NeuroTechX
 
+4/20/2017 2:19 PM
+
+ **oriansha** :
+
+ >Hi, I'm not very much into Slack but I'm part of the Tel Aviv (Israel) team of neurotechers :slightly_smiling_face: right now I'm in Athens (Greece) and was looking for neurotech ppl around, so far without much success, know anything?
+
