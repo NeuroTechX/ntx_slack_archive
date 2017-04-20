@@ -348,3 +348,9 @@ If you're a first time hack attendee, PM me to be added to the guest list.  All 
 
  >Yeah, we're just looking for someone who can come in and provide some basic unity support on experimentation with Muse+Vive. Low level signal integration and neuroscience validation stuff moreso than cool BCI experiences. Neurotech enthusiasts with that kind of experience and interest welcome to apply.
 
+4/20/2017 4:14 PM
+
+ **dano** :
+
+ >Hacknight tonight! 4/20 edition. Looking forward to seeing you all
+
