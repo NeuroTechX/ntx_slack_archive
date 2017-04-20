@@ -75,3 +75,15 @@ That way they just open a new market segment, but keep (arguably) their scientif
 
  ><https://www.psfk.com/2017/04/how-neurotechnology-is-helping-the-san-francisco-giants-train-better.html>
 
+4/20/2017 5:40 PM
+
+ **yannick** :
+
+ >Penn Researchers Show Brain Stimulation Restores Memory During Lapses dan.rizzuto folks at UPenn working on DARPAs RAM (Restore Active Memory)
+
+> 
+<https://news.upenn.edu/news/penn-researchers-show-brain-stimulation-restores-memory-during-lapses>
+
+> 
+Interesting stuff!
+
