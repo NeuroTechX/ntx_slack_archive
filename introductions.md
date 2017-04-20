@@ -879,3 +879,9 @@ Thanks to bechir for pointing this out!
 > 
 *Yes. We believe statisticians can be hardcore.
 
+4/20/2017 12:57 PM
+
+ **sydneyneurotechx** :
+
+ >welcome dom ! Feel free to reach out if you have questions about NeuroTechX
+
