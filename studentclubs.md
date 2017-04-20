@@ -480,3 +480,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >March for Science in San Francisco this Saturday, April 22: want to put Muse headsets on people? Teach people about EEG? We've still got space at our booth -- ping me if you're interested in volunteering as a researcher or a participant!
 
+4/20/2017 4:06 PM
+
+ **rnsriram** :
+
+ >yannick Thank you for the wonderful introduction. Hi everyone! I am really excited to begin my adventure into NeuroTech and related technologies and am glad I have the opportunity to collobarate with passionate individuals such as myself. I believe strongly in the humanitarian/societal benefits this technology can bring about and as a result I am highly motivated to push the limits of what is possible in this space.  I am still in the process of formalizing the club and as any questions come up I will surely reach out.
+
