@@ -2520,3 +2520,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >what else would you do if the people that hired you had no idea about your field but wanted results at the end of the quarter? :stuck_out_tongue:
 
+4/20/2017 5:26 PM
+
+ **graeme** :
+
+ >this is a great discussion alexandre.barachant yannick
+
