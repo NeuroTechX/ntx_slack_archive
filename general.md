@@ -2574,3 +2574,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  ><http://llab.stanford.edu/pdfs/news/ofMRI_on_the_Brain.pdf>
 
+4/20/2017 11:45 PM
+
+ **shivanisheopory** :
+
+ ><http://waitbutwhy.com/2017/04/neuralink.html>
+
