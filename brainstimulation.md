@@ -87,3 +87,9 @@ That way they just open a new market segment, but keep (arguably) their scientif
 > 
 Interesting stuff!
 
+4/20/2017 5:42 PM
+
+ **dano** :
+
+ >Now that's cool research
+
