@@ -2454,3 +2454,9 @@ FB is aiming at measuring the changes in neuron properties based on sodium/potas
 > 
 <https://www.defconbiohackingvillage.org/>
 
+4/20/2017 6:17 AM
+
+ **sc** :
+
+ >You're all way ahead of me today, but this link features videos <http://mashable.com/2017/04/19/facebook-brain-interface/>
+
