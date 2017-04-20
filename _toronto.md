@@ -402,3 +402,9 @@ See you al there!
 
  >Thanks joshuad! Cannot wait! 
 
+4/20/2017 9:03 PM
+
+ **cbattista** :
+
+ >dano: hey man can't make it cause im in boston on biz - push some screener updates tonight tho!
+
