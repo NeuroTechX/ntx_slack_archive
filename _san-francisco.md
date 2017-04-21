@@ -432,3 +432,9 @@ We can meet you in a few days
 
  >Will be back at the garage shortly
 
+4/21/2017 7:01 AM
+
+ **watson** :
+
+ >eliricker Ill be at the march. do you guys have a booth at Civic Center?
+
