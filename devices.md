@@ -1161,3 +1161,9 @@ is there a way to compare or to bring it to scale
 
  >Bigger low pass filter?
 
+4/21/2017 1:42 PM
+
+ **alexandre.barachant** :
+
+ >larger input range of the amplifier (for example decrease the Gain of the amplification) or high pass the signal
+
