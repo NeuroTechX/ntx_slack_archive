@@ -1050,3 +1050,24 @@ STM32F427ZI have on its USART 5.625 MBits/s.
 > 
 I used uart-wifi-&gt;wifi-uart-usb with TCP2UART
 
+4/21/2017 1:13 PM
+
+ **eferdinand** :
+
+ ><!channel> Has anyone used dry elecrodes with an amplifier originally built for wet ones? 
+
+> 
+Is there a difference in voltage between both electrode typea in a way that dry elecrodes have low signal that the amplifier is not capable of detecting? 
+
+> 
+Does it make sense?
+
+> 
+Could the impedance be the issue?
+
+> 
+If anyone has more information about the subject i'd appreciate it, you can reply here or DM me.
+
+> 
+
+
