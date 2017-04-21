@@ -234,3 +234,9 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 
  >yannick yes I'm at UQAM now but leaving shortly
 
+4/21/2017 9:52 PM
+
+ **yannick** :
+
+ >Cool :slightly_smiling_face: See you in a bit.
+
