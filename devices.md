@@ -1200,3 +1200,9 @@ What are components here, to be sure they are matched
 
  >electronic components (Resistor / Capacitors) of the filters
 
+4/21/2017 6:01 PM
+
+ **ntremblay_neuroservo** :
+
+ >The components that need to be matched are the components between body (electrodes) and input of chip amplifier for the CMRR.
+
