@@ -2586,3 +2586,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >shivanisheopory that article is so damn good!! I'm halfway through and am for sure gonna read it all again 
 
+4/21/2017 11:48 PM
+
+ **change** :
+
+ >If anyones interested in the field of psychedelic neuroscience - the conference is being streamed live: <http://psychedelicscience.org/live>
+
