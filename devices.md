@@ -1143,3 +1143,9 @@ is there a way to compare or to bring it to scale
 
  >so when you use dry electrodes, impedance difference between the reference electrode and your measurment electrodes starts to matters, and it degrades your common mode rejection ratio (more noise)
 
+4/21/2017 1:37 PM
+
+ **alexandre.barachant** :
+
+ >the second issue is that dry electrode have a bigger offset voltage, which lead to saturation of the amp
+
