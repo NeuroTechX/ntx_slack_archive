@@ -1077,3 +1077,9 @@ If anyone has more information about the subject i'd appreciate it, you can repl
 
  >eferdinand I've been wondering the same thing!
 
+4/21/2017 1:19 PM
+
+ **aj** :
+
+ >Do we need to change the hardware filters based on the impedance of the electrode?
+
