@@ -1110,3 +1110,9 @@ If anyone has more information about the subject i'd appreciate it, you can repl
 > 
 I just faced this problem and im gonna put some efforts researching it. If you have any leads let me know...
 
+4/21/2017 1:33 PM
+
+ **aj** :
+
+ >Are you seeing saturation/railing?
+
