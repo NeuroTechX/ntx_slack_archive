@@ -1167,3 +1167,12 @@ is there a way to compare or to bring it to scale
 
  >larger input range of the amplifier (for example decrease the Gain of the amplification) or high pass the signal
 
+4/21/2017 1:44 PM
+
+ **alexandre.barachant** :
+
+ >decreasing the gain is the easiest way, but depending on your ADC, that can increase the noise level beyond what is acceptable.
+
+> 
+High pass filtering use more board space, and can degrade CMRR if you don't match the components values. Also, it change the phase of the signal
+
