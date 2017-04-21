@@ -1101,3 +1101,12 @@ If anyone has more information about the subject i'd appreciate it, you can repl
 
  >alexandre.barachant said electrodes can have impedance, so long as all electrodes have the same impedance
 
+4/21/2017 1:33 PM
+
+ **eferdinand** :
+
+ >Exactly and apparently it's a problematic now, is there any literature about the topic? 
+
+> 
+I just faced this problem and im gonna put some efforts researching it. If you have any leads let me know...
+
