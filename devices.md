@@ -1149,3 +1149,9 @@ is there a way to compare or to bring it to scale
 
  >the second issue is that dry electrode have a bigger offset voltage, which lead to saturation of the amp
 
+4/21/2017 1:38 PM
+
+ **aj** :
+
+ >How do you deal with the second issue?
+
