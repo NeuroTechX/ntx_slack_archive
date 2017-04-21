@@ -2580,3 +2580,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  ><http://waitbutwhy.com/2017/04/neuralink.html>
 
+4/21/2017 5:31 AM
+
+ **aj** :
+
+ >shivanisheopory that article is so damn good!! I'm halfway through and am for sure gonna read it all again 
+
