@@ -1125,3 +1125,9 @@ I just faced this problem and im gonna put some efforts researching it. If you h
 > 
 is there a way to compare or to bring it to scale
 
+4/21/2017 1:34 PM
+
+ **aj** :
+
+ >The amplifier data sheets do shed light on these issues, 
+
