@@ -1155,3 +1155,9 @@ is there a way to compare or to bring it to scale
 
  >How do you deal with the second issue?
 
+4/21/2017 1:40 PM
+
+ **aj** :
+
+ >Bigger low pass filter?
+
