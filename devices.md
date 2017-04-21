@@ -1083,3 +1083,9 @@ If anyone has more information about the subject i'd appreciate it, you can repl
 
  >Do we need to change the hardware filters based on the impedance of the electrode?
 
+4/21/2017 1:20 PM
+
+ **aj** :
+
+ >Like the OpenBCI only works with dry Ag/AgCl and NOT Dry Gold, but it works with wet Ag/AgCl and wet Gold Cup
+
