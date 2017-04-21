@@ -903,3 +903,9 @@ Thanks to bechir for pointing this out!
 
  >Hi, I'm a market research analyst who is very much interested in neurotechnology from the marketing perspective.  I'm currently conducting research and would love to converse with passionate individuals about the current state of the market.
 
+4/21/2017 3:36 PM
+
+ **sydneyneurotechx** :
+
+ >welcome tparish
+
