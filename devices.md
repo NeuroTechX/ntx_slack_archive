@@ -1137,3 +1137,9 @@ is there a way to compare or to bring it to scale
 
  >about the impedance. it dependens on the input impedance of the amplifier. EEG amplifier made for wet electrode generally have lower input impedance
 
+4/21/2017 1:36 PM
+
+ **alexandre.barachant** :
+
+ >so when you use dry electrodes, impedance difference between the reference electrode and your measurment electrodes starts to matters, and it degrades your common mode rejection ratio (more noise)
+
