@@ -1131,3 +1131,9 @@ is there a way to compare or to bring it to scale
 
  >The amplifier data sheets do shed light on these issues, 
 
+4/21/2017 1:35 PM
+
+ **alexandre.barachant** :
+
+ >about the impedance. it dependens on the input impedance of the amplifier. EEG amplifier made for wet electrode generally have lower input impedance
+
