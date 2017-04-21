@@ -1116,3 +1116,12 @@ I just faced this problem and im gonna put some efforts researching it. If you h
 
  >Are you seeing saturation/railing?
 
+4/21/2017 1:34 PM
+
+ **eferdinand** :
+
+ >what's he scale of acceptable impedance on dry elecrodes, it's enormously different from wet ones until now.
+
+> 
+is there a way to compare or to bring it to scale
+
