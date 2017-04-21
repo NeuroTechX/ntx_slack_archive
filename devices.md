@@ -1089,3 +1089,9 @@ If anyone has more information about the subject i'd appreciate it, you can repl
 
  >Like the OpenBCI only works with dry Ag/AgCl and NOT Dry Gold, but it works with wet Ag/AgCl and wet Gold Cup
 
+4/21/2017 1:21 PM
+
+ **aj** :
+
+ >How do we calculate what filters were need based on the impedance of the electrode
+
