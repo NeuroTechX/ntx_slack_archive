@@ -222,3 +222,9 @@ We need qualified experienced BCI geeks to hack the $**t out of it with OpenVibe
 > 
 We'll keep you posted about updates and if we change it to another day, If you're interested please join the event on meetup <http://meetu.ps/38G6f6>
 
+4/21/2017 9:50 PM
+
+ **yannick** :
+
+ >naoto youre coming tonight?
+
