@@ -228,3 +228,9 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 
  >naoto youre coming tonight?
 
+4/21/2017 9:51 PM
+
+ **naoto** :
+
+ >yannick yes I'm at UQAM now but leaving shortly
+
