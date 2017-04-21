@@ -438,3 +438,9 @@ We can meet you in a few days
 
  >eliricker Ill be at the march. do you guys have a booth at Civic Center?
 
+4/21/2017 7:03 AM
+
+ **watson** :
+
+ >for those that dont know: <https://marchforsciencesf.com/>
+
