@@ -1206,3 +1206,12 @@ What are components here, to be sure they are matched
 
  >The components that need to be matched are the components between body (electrodes) and input of chip amplifier for the CMRR.
 
+4/21/2017 6:13 PM
+
+ **ntremblay_neuroservo** :
+
+ >Here is a simple explanation: when components are used on the line before amplifier, these components affect frequency and phase response. If this channel response differ from from the response of the next channel the CMRR is affected since the same signal (let say 60hz) will not anymore be in sync between the two inputs so it won't be well eliminated by a differential amplifier.
+
+> 
+hope it can help.
+
