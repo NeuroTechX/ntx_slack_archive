@@ -240,3 +240,9 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 
  >Cool :slightly_smiling_face: See you in a bit.
 
+4/21/2017 9:58 PM
+
+ **yannick** :
+
+ >ray_cassani you are joining us tonight?
+
