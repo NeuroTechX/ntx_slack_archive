@@ -1095,3 +1095,9 @@ If anyone has more information about the subject i'd appreciate it, you can repl
 
  >How do we calculate what filters were need based on the impedance of the electrode
 
+4/21/2017 1:32 PM
+
+ **aj** :
+
+ >alexandre.barachant said electrodes can have impedance, so long as all electrodes have the same impedance
+
