@@ -1176,3 +1176,15 @@ is there a way to compare or to bring it to scale
 > 
 High pass filtering use more board space, and can degrade CMRR if you don't match the components values. Also, it change the phase of the signal
 
+4/21/2017 1:50 PM
+
+ **aj** :
+
+ >&gt; high pass filtering... Can degrade CMRR is you don't match the components values
+
+> 
+
+
+> 
+What are components here, to be sure they are matched
+
