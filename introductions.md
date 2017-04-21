@@ -897,3 +897,9 @@ Thanks to bechir for pointing this out!
 
  >Perhaps d.adamos knows neurotech people in Athens? (even from Thessaloniki, Greece)
 
+4/21/2017 2:10 AM
+
+ **tparish** :
+
+ >Hi, I'm a market research analyst who is very much interested in neurotechnology from the marketing perspective.  I'm currently conducting research and would love to converse with passionate individuals about the current state of the market.
+
