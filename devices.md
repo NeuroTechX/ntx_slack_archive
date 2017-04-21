@@ -1188,3 +1188,9 @@ High pass filtering use more board space, and can degrade CMRR if you don't matc
 > 
 What are components here, to be sure they are matched
 
+4/21/2017 2:06 PM
+
+ **eferdinand** :
+
+ >?
+
