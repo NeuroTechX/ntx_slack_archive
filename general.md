@@ -2592,3 +2592,12 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >If anyones interested in the field of psychedelic neuroscience - the conference is being streamed live: <http://psychedelicscience.org/live>
 
+4/22/2017 6:08 PM
+
+ **okbalefthanded** :
+
+ >reaching a  spelling rate of 100 word per minute spelling using this technology seems hard to achieve in 3 years, the fastest speller demonstrated so far using EEG and SSVEP showed a 60 character per minute rate.
+
+> 
+<http://www.pnas.org/content/112/44/E6058.abstract>
+
