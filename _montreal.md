@@ -252,3 +252,9 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 
  >yes :)
 
+4/22/2017 1:46 PM
+
+ **eferdinand** :
+
+ >Hope to see you all next week for Neuroservo hacking, 28th same time same place. 
+
