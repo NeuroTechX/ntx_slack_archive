@@ -246,3 +246,9 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 
  >ray_cassani you are joining us tonight?
 
+4/22/2017 12:34 AM
+
+ **ray_cassani** :
+
+ >yes :)
+
