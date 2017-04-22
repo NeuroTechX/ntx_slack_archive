@@ -1881,3 +1881,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >ok, thanks for the information , its appreciated
 
+4/22/2017 2:54 AM
+
+ **ch.yumin** :
+
+ >Hello everyone! I'm starting a project that I want to control a robotic arm with the Ganglion Board (4 Channels EEG from OpenBCI). I already have the robotic arm, it needs 8 commands for full control (3 joints and 1 actuator) or at least 6 commands (2 joints and 1 actuator). Can anyone give some advices about the best techniques/algorithms to use and where should I place the electrodes? This would be my first project, I don't even know if it's possible to get good results with 4 channels EEG haha
+
