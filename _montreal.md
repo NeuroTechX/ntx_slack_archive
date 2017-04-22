@@ -264,3 +264,9 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 
  >Ill try other run to see if I can get a better signal, but I reproduced Alex P300 with the Muse 2014
 
+4/22/2017 5:51 PM
+
+ **yannick** :
+
+ >Thanks hubertjb for the muse-io --lsl-eeg :wink: it worked.
+
