@@ -270,3 +270,9 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 
  >Thanks hubertjb for the muse-io --lsl-eeg :wink: it worked.
 
+4/22/2017 5:52 PM
+
+ **yannick** :
+
+ >alexandre_m it worked!
+
