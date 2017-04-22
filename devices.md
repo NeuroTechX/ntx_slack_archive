@@ -1215,3 +1215,9 @@ What are components here, to be sure they are matched
 > 
 hope it can help.
 
+4/22/2017 6:57 PM
+
+ **pskorupinski** :
+
+ >Hello everyone! I was planning on ordering an *OpenBCI* Ganglion board to my city in *Europe* but the price of trustworthy shipping seems unreasonable (just because it ships every time from the US). What would you recommend me to do? Are there some similar devices that have distribution all over Europe? Thank you so much!
+
