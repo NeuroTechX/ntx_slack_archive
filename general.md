@@ -2613,3 +2613,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >Hey Vitruvia, as in you want to control a mouse and keyboard with an eeg?
 
+4/23/2017 1:05 AM
+
+ **sydneyneurotechx** :
+
+ >If that is the case there are different options that exist at different pricing points
+
