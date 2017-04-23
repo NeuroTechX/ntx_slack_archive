@@ -486,3 +486,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >yannick Thank you for the wonderful introduction. Hi everyone! I am really excited to begin my adventure into NeuroTech and related technologies and am glad I have the opportunity to collobarate with passionate individuals such as myself. I believe strongly in the humanitarian/societal benefits this technology can bring about and as a result I am highly motivated to push the limits of what is possible in this space.  I am still in the process of formalizing the club and as any questions come up I will surely reach out.
 
+4/23/2017 7:37 PM
+
+ **omrin** :
+
+ >Hi, I'm Omri and I will be starting my Master's in Computational Neuroscience this Fall and really looking forward to bring this club to Queen's University, Kingston. Still in very preliminary stages but should have all summer to get the paperwork together
+
