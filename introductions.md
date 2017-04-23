@@ -909,3 +909,9 @@ Thanks to bechir for pointing this out!
 
  >welcome tparish
 
+4/23/2017 7:36 PM
+
+ **omrin** :
+
+ >Hi, I'm Omri and I will be starting my Master's in Computational Neuroscience this Fall and really looking forward to bring this club to Queen's University, Kingston. Still in very preliminary stages but should have all summer to get the paperwork together
+
