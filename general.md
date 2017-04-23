@@ -2637,3 +2637,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >and yes I meant something similar to controlling a M&amp;K with eeg
 
+4/23/2017 2:59 AM
+
+ **vitruvia** :
+
+ >sydneyneurotechx sorry for the delay in my response :smiley:
+
