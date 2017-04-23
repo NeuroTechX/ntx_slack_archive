@@ -1221,3 +1221,9 @@ hope it can help.
 
  >Hello everyone! I was planning on ordering an *OpenBCI* Ganglion board to my city in *Europe* but the price of trustworthy shipping seems unreasonable (just because it ships every time from the US). What would you recommend me to do? Are there some similar devices that have distribution all over Europe? Thank you so much!
 
+4/23/2017 1:04 AM
+
+ **sydneyneurotechx** :
+
+ >There are European Alternatives if the cost is too much for shipping. What's your price range and what do you want to do with the device?
+
