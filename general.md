@@ -2607,3 +2607,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >Hey guys, is there any way to input into a PC with eeg? As if it were a mouse or keyboar I mean. I read that some group at MIT was working on this but wanted to know if this was actually a thing
 
+4/23/2017 1:05 AM
+
+ **sydneyneurotechx** :
+
+ >Hey Vitruvia, as in you want to control a mouse and keyboard with an eeg?
+
