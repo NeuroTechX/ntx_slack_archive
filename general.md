@@ -2625,3 +2625,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >The answer will also depend on your technical experience
 
+4/23/2017 1:24 AM
+
+ **vitruvia** :
+
+ >I haven't got any actually. I just know some very basic python. I'm just wondering what is out there so I can choose what to study.
+
