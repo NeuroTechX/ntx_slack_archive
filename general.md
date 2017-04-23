@@ -2619,3 +2619,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >If that is the case there are different options that exist at different pricing points
 
+4/23/2017 1:06 AM
+
+ **sydneyneurotechx** :
+
+ >The answer will also depend on your technical experience
+
