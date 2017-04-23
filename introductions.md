@@ -915,3 +915,9 @@ Thanks to bechir for pointing this out!
 
  >Hi, I'm Omri and I will be starting my Master's in Computational Neuroscience this Fall and really looking forward to bring this club to Queen's University, Kingston. Still in very preliminary stages but should have all summer to get the paperwork together
 
+4/23/2017 9:24 PM
+
+ **wanfuse123** :
+
+ >maxim hi my name is Steven I am interested in your meditation application. I have an idea of something in that space and didn't know if you might be the right expert to talk to?
+
