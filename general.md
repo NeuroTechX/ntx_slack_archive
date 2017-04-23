@@ -2631,3 +2631,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >I haven't got any actually. I just know some very basic python. I'm just wondering what is out there so I can choose what to study.
 
+4/23/2017 1:24 AM
+
+ **vitruvia** :
+
+ >and yes I meant something similar to controlling a M&amp;K with eeg
+
