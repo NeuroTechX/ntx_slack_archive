@@ -1893,3 +1893,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >ch.yumin you have to talk with nicomaque.jette i know he had similar project
 
+4/23/2017 1:32 AM
+
+ **ch.yumin** :
+
+ >eferdinand Ok! thank you
+
