@@ -288,3 +288,9 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 
  >Wow that's great yannick
 
+4/23/2017 4:41 PM
+
+ **graeme** :
+
+ >yannick if you have some ten20 or other gel, try putting a bit on the electrodes (including the ears) and you should see a better SNR on the Muse 2014
+
