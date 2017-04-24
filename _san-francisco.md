@@ -444,3 +444,9 @@ We can meet you in a few days
 
  >for those that dont know: <https://marchforsciencesf.com/>
 
+4/24/2017 11:01 PM
+
+ **w** :
+
+ >Hey <!channel>: who's planning to give a demo at this weeks Demo Night/ Hacknight?
+
