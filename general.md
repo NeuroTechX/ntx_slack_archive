@@ -2775,3 +2775,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >watson Yes, specifically things related to monitoring cognitive states.
 
+4/24/2017 10:20 PM
+
+ **watson** :
+
+ >you probably know of Affectiva already, a spinoff from the MIT Media Lab: <http://www.affectiva.com/>
+
