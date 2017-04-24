@@ -921,3 +921,9 @@ Thanks to bechir for pointing this out!
 
  >maxim hi my name is Steven I am interested in your meditation application. I have an idea of something in that space and didn't know if you might be the right expert to talk to?
 
+4/24/2017 2:19 AM
+
+ **sydneyneurotechx** :
+
+ >welcome omrin !
+
