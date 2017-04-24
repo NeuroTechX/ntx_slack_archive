@@ -2787,3 +2787,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >sydneyneurotechx yes it makes sense. I'm a beginner so this is more of a long term goal for the year. Where could I learn about EEG databases and about machine learning method specific to this task?
 
+4/24/2017 10:23 PM
+
+ **vitruvia** :
+
+ >amilenkovic Thanks! That is how I thought it might work, glad to see I wasn't so off the mark. What you said is also in line with what sydneyneurotechx suggested, so I guess learning how to analyze and translate brain activity would be a good start
+
