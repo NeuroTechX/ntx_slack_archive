@@ -2769,3 +2769,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >also I started the channel <#C4NA4CTK3|autonomic-system> for discussing signals from the body/periphery, which could include things like sweat and muscle tension. join in if thats of interest
 
+4/24/2017 10:01 PM
+
+ **stephen** :
+
+ >watson Yes, specifically things related to monitoring cognitive states.
+
