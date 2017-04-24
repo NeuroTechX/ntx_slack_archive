@@ -2709,3 +2709,9 @@ The work of ary-Lou Jepsen seems very interesting and promizing, but to me it's 
 > 
 IMO, for real time speech decoding, you need a high spatial resolution and be able to tap into the gamma activity. The best way to achieve this non invasive is with MEG ... perhaps in 10 years.
 
+4/24/2017 5:47 PM
+
+ **sydneyneurotechx** :
+
+ >So perhaps working with an eeg database first?
+
