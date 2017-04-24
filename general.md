@@ -2745,3 +2745,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >I'd suggest talking to the iMotions people. They have a multi-modal bio input system for that type of analysis
 
+4/24/2017 8:21 PM
+
+ **sydneyneurotechx** :
+
+ >They'd also know people who are
+
