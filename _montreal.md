@@ -294,3 +294,15 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 
  >yannick if you have some ten20 or other gel, try putting a bit on the electrodes (including the ears) and you should see a better SNR on the Muse 2014
 
+4/24/2017 12:31 PM
+
+ **eferdinand** :
+
+ >We re-created this Meetup with NeuroTechMTL <http://meetu.ps/e/CKY5J/pCYJj/d>
+
+> 
+
+
+> 
+Just to keep track and to avoid confusion, future hacknights will be private only and we will send messages accordingly.
+
