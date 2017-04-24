@@ -2661,3 +2661,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >aj may have an option for you with the openbci, but not totally sure
 
+4/24/2017 10:48 AM
+
+ **jmhorschig** :
+
+ >alex, this is correct. We think (i.e. are sure) that the FOS does not work with CW fNIRS devices (the most commonly used devices), so I am fairly sure that FB will not pursue this path or fail miserably.
+
