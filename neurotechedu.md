@@ -402,3 +402,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >haha sydneyneurotechx Ill look at it tonight (if you still need someone) :slightly_smiling_face:
 
+4/24/2017 9:07 PM
+
+ **sydneyneurotechx** :
+
+ >hey hectordomorozco  Absolutely! dawnkolpin  Would love some feedback :slightly_smiling_face:
+
