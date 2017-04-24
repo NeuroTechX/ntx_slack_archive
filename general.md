@@ -2793,3 +2793,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >amilenkovic Thanks! That is how I thought it might work, glad to see I wasn't so off the mark. What you said is also in line with what sydneyneurotechx suggested, so I guess learning how to analyze and translate brain activity would be a good start
 
+4/24/2017 10:23 PM
+
+ **vitruvia** :
+
+ >I still need to learn machine learning, though. Like I said, I'm a big beginner. Hopefully I'll be able to study it by the middle of this year
+
