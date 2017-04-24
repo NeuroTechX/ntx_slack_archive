@@ -2682,3 +2682,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 > 
 If it's not FOS they are pursuing, then What ? speech decoding (at least at 100 WPM) can not be achieved just with the BOLD response ...
 
+4/24/2017 12:45 PM
+
+ **alexandre.barachant** :
+
+ >actually, it's clear from one of their slide that they are not going for the Bold response
+
