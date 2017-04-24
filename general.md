@@ -2733,3 +2733,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >Who knows people working on automatic human behavioral analysis, such as interpretation of body movements, eye tracking, HRV, facial expressions? Anyone working on hardware systems that integrate some of those data sources?
 
+4/24/2017 7:59 PM
+
+ **amilenkovic** :
+
+ >Hi Vitruvia, maybe I can provide some input as well. You can use an EEG as a method of providing  inputs to a device. The way it typically works is that you use an EEG device to find the pattern you are looking for. That becomes your input. So when someone thinks of the color blue, you will move the cursor up. When they think of green, you will move the cursor down. You record what their brain looks when thinking of Green. Then you record what their brain looks like thinking of Blue. Then you write a program that says "When the brain waves look  like what I saw when the subject was thinking green, move the cursor up. When it looks like blue, move the cursor down."  The technology is available today and works reasonably well. The limitation is how many things you can reliably distinguish and  match on.
+
