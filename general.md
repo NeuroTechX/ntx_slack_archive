@@ -2751,3 +2751,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >They'd also know people who are
 
+4/24/2017 8:21 PM
+
+ **sydneyneurotechx** :
+
+ >I also believe that watson has an interest in this
+
