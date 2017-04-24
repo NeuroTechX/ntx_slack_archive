@@ -2757,3 +2757,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >I also believe that watson has an interest in this
 
+4/24/2017 9:52 PM
+
+ **watson** :
+
+ >My interest is in inferring psychological/emotional state and Ive been focused on physiological signatures, but also informed by things like accelerometer, to give context& stephen when you say automatic human behavioral analysis what do you actually have in mind? Do you mean walking vs running vs sitting? Attending vs not attending? Gesturing? Emotion? Whats the question youre interested in?
+
