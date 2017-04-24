@@ -2655,3 +2655,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >and can go along with this software
 
+4/24/2017 2:18 AM
+
+ **sydneyneurotechx** :
+
+ >aj may have an option for you with the openbci, but not totally sure
+
