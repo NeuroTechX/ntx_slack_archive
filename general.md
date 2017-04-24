@@ -2811,3 +2811,27 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >So it just depends on how fancy of a setup :)
 
+4/24/2017 10:30 PM
+
+ **sydneyneurotechx** :
+
+ >First off take a look at the awesome-bci list if you haven't <https://github.com/NeuroTechX/awesome-bci>
+
+> 
+
+
+> 
+In terms of databases, You can look at SCCN's list: <https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html>
+
+> 
+
+
+> 
+You can analyze that data in Matlab or Python. If you want to try Python, I'd suggest using the MNE library.  <https://www.martinos.org/mne/stable/index.html>
+
+> 
+
+
+> 
+The thing you need to understand before moving forward is that working with eeg and learning to code is something which takes some time to do it properly. Give yourself enough time and be patient. You may need to build some foundational knowledge before you get into the advanced stuff.  Depending on your speed, it may take some time (This is part of the reason why many people get frustrated and stop) I'd suggest finding a friend to do this with (or perhaps someone in this slack). In some cases, this can be a semester long project, so be patient and have fun with it :slightly_smiling_face:
+
