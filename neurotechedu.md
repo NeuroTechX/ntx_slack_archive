@@ -408,3 +408,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >hey hectordomorozco  Absolutely! dawnkolpin  Would love some feedback :slightly_smiling_face:
 
+4/24/2017 9:10 PM
+
+ **hectordomorozco** :
+
+ >Sure thing. By tonight I mean like 11h00pm so Ill message you guys once it done :octopicorn:
+
