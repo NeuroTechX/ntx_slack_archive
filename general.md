@@ -2667,3 +2667,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >alex, this is correct. We think (i.e. are sure) that the FOS does not work with CW fNIRS devices (the most commonly used devices), so I am fairly sure that FB will not pursue this path or fail miserably.
 
+4/24/2017 11:35 AM
+
+ **vitruvia** :
+
+ >oh. I don't have that much money right now. And also I'm more interested in learning how software of this type is built then on getting it ready to use
+
