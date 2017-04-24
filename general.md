@@ -2697,3 +2697,15 @@ If it's not FOS they are pursuing, then What ? speech decoding (at least at 100 
 > 
 I think what they might be hoping for is that quasi-balistics photon theory, maybe indeed in combination with what Mary-Lou Jespen is developing, can be combined and constitute a paradigm shift. I am very critical on this though.
 
+4/24/2017 4:13 PM
+
+ **alexandre.barachant** :
+
+ >Thanks for the detailed answer. FOS was bugging me a lot because as you said, only one group is publishing about it. it's been more than a decade and i did not see a clear replication so far. You are confirming my hunch. 
+
+> 
+The work of ary-Lou Jepsen seems very interesting and promizing, but to me it's more about anatomy than function.  Everything based on BOLD response will never provide the temporal resolution to capture enough information to decode speech (i might be wrong ...).
+
+> 
+IMO, for real time speech decoding, you need a high spatial resolution and be able to tap into the gamma activity. The best way to achieve this non invasive is with MEG ... perhaps in 10 years.
+
