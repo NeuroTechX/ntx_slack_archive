@@ -2715,3 +2715,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >So perhaps working with an eeg database first?
 
+4/24/2017 5:49 PM
+
+ **sydneyneurotechx** :
+
+ >I guess an approach you could use to bring you up to speed, is first trying to do some analysis on different brain activities (ie eeg paradigms), learn some of the machine learning methods to classify mental states, and then building a "translation" layer which takes different mentals stales and ties it to a computer input.
+
