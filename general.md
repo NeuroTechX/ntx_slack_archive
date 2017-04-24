@@ -2835,3 +2835,9 @@ You can analyze that data in Matlab or Python. If you want to try Python, I'd su
 > 
 The thing you need to understand before moving forward is that working with eeg and learning to code is something which takes some time to do it properly. Give yourself enough time and be patient. You may need to build some foundational knowledge before you get into the advanced stuff.  Depending on your speed, it may take some time (This is part of the reason why many people get frustrated and stop) I'd suggest finding a friend to do this with (or perhaps someone in this slack). In some cases, this can be a semester long project, so be patient and have fun with it :slightly_smiling_face:
 
+4/24/2017 11:59 PM
+
+ **vitruvia** :
+
+ >Alright. Thank you both
+
