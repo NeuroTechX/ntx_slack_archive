@@ -2643,3 +2643,9 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >sydneyneurotechx sorry for the delay in my response :smiley:
 
+4/24/2017 2:18 AM
+
+ **sydneyneurotechx** :
+
+ >If you are ok in spending a bit of money, you can go with the emotiv epoc option. The epoc will set you back about 800+
+
