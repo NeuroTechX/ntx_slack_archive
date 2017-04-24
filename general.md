@@ -2727,3 +2727,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >Not sure if what I wrote is clear or not. Does it make sense?
 
+4/24/2017 7:58 PM
+
+ **stephen** :
+
+ >Who knows people working on automatic human behavioral analysis, such as interpretation of body movements, eye tracking, HRV, facial expressions? Anyone working on hardware systems that integrate some of those data sources?
+
