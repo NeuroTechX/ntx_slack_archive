@@ -2688,3 +2688,12 @@ If it's not FOS they are pursuing, then What ? speech decoding (at least at 100 
 
  >actually, it's clear from one of their slide that they are not going for the Bold response
 
+4/24/2017 1:38 PM
+
+ **jmhorschig** :
+
+ >If they really want to go for 100words/minutes, they have to go for FOS/EROS, hemodynamic responses would be too sluggish and convoluted- I just think it does not work. We tried to replicate such work (I work for Artinis, a NIRS company), and my boss and his former colleagues from academy tried so as well. None had success (and that includes top NIRS researchers which are still active in the field). It happens to be that just approximately one group is recording FOS and publishing about this. Some more groups are coming up now, but it is really not something that you just do along the way. Also, the current record with BCI is around 120bits/minutes (EEG+SSVEP). That is extremely far off from 100 words/minutes.
+
+> 
+I think what they might be hoping for is that quasi-balistics photon theory, maybe indeed in combination with what Mary-Lou Jespen is developing, can be combined and constitute a paradigm shift. I am very critical on this though.
+
