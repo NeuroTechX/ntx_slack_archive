@@ -2799,3 +2799,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >I still need to learn machine learning, though. Like I said, I'm a big beginner. Hopefully I'll be able to study it by the middle of this year
 
+4/24/2017 10:25 PM
+
+ **amilenkovic** :
+
+ >You can match on patterns without going into ml. Netflix used an accelerometer in an eeg, and most demos use blinks or jaw clenched. Many vendors already have a blink algorithm, you can use that, and have the blink do something in an app
+
