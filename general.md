@@ -2673,3 +2673,12 @@ The way i understand thing is that FOS works by measuring change in optical prop
 
  >oh. I don't have that much money right now. And also I'm more interested in learning how software of this type is built then on getting it ready to use
 
+4/24/2017 12:44 PM
+
+ **alexandre.barachant** :
+
+ >jmhorschig Very interesting. Did you tried to replicates results from the few FOS papers there exist ?
+
+> 
+If it's not FOS they are pursuing, then What ? speech decoding (at least at 100 WPM) can not be achieved just with the BOLD response ...
+
