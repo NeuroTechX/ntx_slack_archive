@@ -396,3 +396,9 @@ sheida I believe the difference is because this is a published journal / paper s
 
  ><!channel>  Still looking for volunteers :slightly_smiling_face:
 
+4/24/2017 8:57 PM
+
+ **hectordomorozco** :
+
+ >haha sydneyneurotechx Ill look at it tonight (if you still need someone) :slightly_smiling_face:
+
