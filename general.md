@@ -2781,3 +2781,9 @@ IMO, for real time speech decoding, you need a high spatial resolution and be ab
 
  >you probably know of Affectiva already, a spinoff from the MIT Media Lab: <http://www.affectiva.com/>
 
+4/24/2017 10:22 PM
+
+ **vitruvia** :
+
+ >sydneyneurotechx yes it makes sense. I'm a beginner so this is more of a long term goal for the year. Where could I learn about EEG databases and about machine learning method specific to this task?
+
