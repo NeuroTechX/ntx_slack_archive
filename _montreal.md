@@ -306,3 +306,9 @@ We'll keep you posted about updates and if we change it to another day, If you'r
 > 
 Just to keep track and to avoid confusion, future hacknights will be private only and we will send messages accordingly.
 
+4/24/2017 12:36 PM
+
+ **yannick** :
+
+ >By _private_, we mean that we want to control the ratio of newcomers vs experienced / regulars. As seen in other chapters and in Montreal, a high ratio of newcomers during HackNights dilutes the value for everyone. We have less time for the newcomers when many of them show up and the regulars cant work properly in this demoing/explaining/talking environment. So in order to remain inclusive, but also make the most out of our HackNights for people who actually want to progress on projects, well keep people aware that HackNights are happening and that they can contact us if they are interested, but wont announce it on Meetup anymore.
+
