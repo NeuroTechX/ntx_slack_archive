@@ -2877,3 +2877,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >jmhorschig thanks for this as well! so a combination of diffuse optical tomography + phase conjugation to be able to undo the effects of the light scattering through the brain? -if I'm understanding correctly on the last part
 
+4/25/2017 8:58 PM
+
+ **th** :
+
+ >Hello
+
