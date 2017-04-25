@@ -1905,3 +1905,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >My account request for the DEAP dataset (<http://www.eecs.qmul.ac.uk/mmv/datasets/deap/index.html>) has been denied because I am an autodidact individual and not an academic researcher. Same for the HCI dataset (<https://mahnob-db.eu/hci-tagging/>) because I dont own an institutional email address. Can anyone suggest open and interesting datasets on which I can try my Machine Learning / Deep Learning skills? Thanks!
 
+4/25/2017 7:29 PM
+
+ **pierre** :
+
+ >mesca: Hello fellow Pierre, have you checked out the datasets listed in the awesome-bci repo? Here: <https://github.com/NeuroTechX/awesome-bci#brain-databases>
+
