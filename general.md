@@ -2910,3 +2910,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >The code's open source so go for it. <https://github.com/NeuroTechX/NeuroBotX>
 
+4/25/2017 9:21 PM
+
+ **bryan_j** :
+
+ >yannick: dano can you think of anyone from our teams/community to assign? 
+
