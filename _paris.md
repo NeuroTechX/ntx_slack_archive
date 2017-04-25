@@ -69,3 +69,9 @@ Tu peux passer au Forum des Sciences Cognitives si tu es dans le coin samedi :wi
 > 
 <http://coglab.fr/fsc2017>
 
+4/25/2017 8:07 PM
+
+ **mesca** :
+
+ >Dommage, je serai très occupé ce week-end, mais jespère te rencontrer IRL bientôt !
+
