@@ -456,3 +456,9 @@ sheida I believe the difference is because this is a published journal / paper s
 > 
 I also think you guys should check out the Medical Neuroscience Course from Duke University. It has a very nice outline and it actually has materials on almost all the things you want to cover (they dont talk at all about EEG-MEG-FMRI&).
 
+4/25/2017 4:21 PM
+
+ **sydneyneurotechx** :
+
+ >dawnkolpin *
+
