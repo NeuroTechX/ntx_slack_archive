@@ -45,3 +45,9 @@
 
  >Anyone work with gsr?
 
+4/25/2017 9:07 PM
+
+ **dano** :
+
+ >Thinking of hooking up this Google VR test project with the Muse Unity SDK and using the relaxation metric to control enemy spawn rate.
+
