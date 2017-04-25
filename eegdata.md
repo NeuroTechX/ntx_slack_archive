@@ -1911,3 +1911,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >mesca: Hello fellow Pierre, have you checked out the datasets listed in the awesome-bci repo? Here: <https://github.com/NeuroTechX/awesome-bci#brain-databases>
 
+4/25/2017 7:37 PM
+
+ **mesca** :
+
+ >pierre Looking into it right now! Thanks :slightly_smiling_face:
+
