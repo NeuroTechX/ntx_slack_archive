@@ -2871,3 +2871,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >anyway, thx for the book and the paper, sounds definitely like another part necessary to solve the riddle on what she wants to pursue (but then seen from the algo/SW side) ;)
 
+4/25/2017 11:32 AM
+
+ **david** :
+
+ >jmhorschig thanks for this as well! so a combination of diffuse optical tomography + phase conjugation to be able to undo the effects of the light scattering through the brain? -if I'm understanding correctly on the last part
+
