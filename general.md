@@ -2865,3 +2865,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >david: actually, she wants to revolutionize the NIRS scene by using hologram techniques appyling a technique called phase conjugation (see <https://www.youtube.com/watch?v=gAy39ErqV34> for a demonstration). Also check out her AMA on quora, e.g. <https://www.quora.com/What-are-the-key-advantages-of-the-holographic-method-used-in-OpenWater-versus-diffuse-optical-tomography>
 
+4/25/2017 7:28 AM
+
+ **jmhorschig** :
+
+ >anyway, thx for the book and the paper, sounds definitely like another part necessary to solve the riddle on what she wants to pursue (but then seen from the algo/SW side) ;)
+
