@@ -945,3 +945,12 @@ Thanks to bechir for pointing this out!
 
  >Paris
 
+4/25/2017 7:58 PM
+
+ **yannick** :
+
+ >Did you connect with NeuroTechX/Coglab people over there? 
+
+> 
+Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
+
