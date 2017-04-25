@@ -2889,3 +2889,12 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Any recommended papers on decoding brain signals?
 
+4/25/2017 9:00 PM
+
+ **yannick** :
+
+ >Hi th did you check the awesome BCI list: 
+
+> 
+<https://github.com/NeuroTechX/awesome-bci>
+
