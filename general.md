@@ -2916,3 +2916,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >yannick: dano can you think of anyone from our teams/community to assign? 
 
+4/25/2017 9:28 PM
+
+ **dano** :
+
+ >We've definitely met somebody with language processing experience. Can't remember where...
+
