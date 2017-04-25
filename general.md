@@ -2904,3 +2904,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Thanks for that will tackle it
 
+4/25/2017 9:04 PM
+
+ **sydneyneurotechx** :
+
+ >The code's open source so go for it. <https://github.com/NeuroTechX/NeuroBotX>
+
