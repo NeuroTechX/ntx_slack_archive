@@ -2883,3 +2883,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Hello
 
+4/25/2017 9:00 PM
+
+ **th** :
+
+ >Any recommended papers on decoding brain signals?
+
