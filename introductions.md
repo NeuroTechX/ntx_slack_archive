@@ -933,3 +933,9 @@ Thanks to bechir for pointing this out!
 
  >Hi there! My name is Pierre and I have a long-time interest in neurosciences, but without any formal training. I have a background in IT security and development, and I am currently transitioning to Machine Learning (hopefully in the neurotech industry).
 
+4/25/2017 7:55 PM
+
+ **yannick** :
+
+ >Hi mesca  where are you from?
+
