@@ -57,3 +57,15 @@
 
  >Bonsoir à tous ! Heureux de découvrir ce chan :slightly_smiling_face:
 
+4/25/2017 8:06 PM
+
+ **rouffi** :
+
+ >Salut mesca, bienvenu et au plaisir de te croiser !
+
+> 
+Tu peux passer au Forum des Sciences Cognitives si tu es dans le coin samedi :wink:
+
+> 
+<http://coglab.fr/fsc2017>
+
