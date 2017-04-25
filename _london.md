@@ -27,3 +27,18 @@ Im Bechir from London, UK (originally from France). In the past I worked on a c
 
  >Hey guys, anyone going to the march of science this Saturday in London?
 
+4/25/2017 6:27 PM
+
+ **dawnkolpin** :
+
+ >Hi all. 
+
+> 
+I'll be back in London for work at the end of May and most of June. Please can you let me know if there any NeuroTechX chapter events, or meet-ups? 
+
+> 
+Thanks,
+
+> 
+[dk]
+
