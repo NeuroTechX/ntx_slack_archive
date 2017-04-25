@@ -2898,3 +2898,9 @@ The thing you need to understand before moving forward is that working with eeg 
 > 
 <https://github.com/NeuroTechX/awesome-bci>
 
+4/25/2017 9:02 PM
+
+ **th** :
+
+ >Thanks for that will tackle it
+
