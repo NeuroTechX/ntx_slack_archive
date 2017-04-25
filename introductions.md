@@ -927,3 +927,9 @@ Thanks to bechir for pointing this out!
 
  >welcome omrin !
 
+4/25/2017 5:06 PM
+
+ **mesca** :
+
+ >Hi there! My name is Pierre and I have a long-time interest in neurosciences, but without any formal training. I have a background in IT security and development, and I am currently transitioning to Machine Learning (hopefully in the neurotech industry).
+
