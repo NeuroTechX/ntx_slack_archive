@@ -2859,3 +2859,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >great find david . Will add it to awesome bci list
 
+4/25/2017 7:25 AM
+
+ **jmhorschig** :
+
+ >david: actually, she wants to revolutionize the NIRS scene by using hologram techniques appyling a technique called phase conjugation (see <https://www.youtube.com/watch?v=gAy39ErqV34> for a demonstration). Also check out her AMA on quora, e.g. <https://www.quora.com/What-are-the-key-advantages-of-the-holographic-method-used-in-OpenWater-versus-diffuse-optical-tomography>
+
