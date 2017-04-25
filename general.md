@@ -2853,3 +2853,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Also, she has referenced this paper when she talks about how the study of diffuse optical tomography was at a standstill for several years until this paper was released. She mentions that this paper helped diffuse optical tomography go from an intractable math problem, to reality - <http://www.math.uni-frankfurt.de/~harrach/publications/uniqueness.pdf>
 
+4/25/2017 2:30 AM
+
+ **sydneyneurotechx** :
+
+ >great find david . Will add it to awesome bci list
+
