@@ -444,3 +444,15 @@ sheida I believe the difference is because this is a published journal / paper s
 
  >:octopicorn:
 
+4/25/2017 4:12 PM
+
+ **hectordomorozco** :
+
+ >sydneyneurotechx So, I just finished going through the draft of intro to Neuroscience. I commented some stuff around. I think that my main concern is that these is not really Intro to Neuroscience, but it almost has the contents of at least 3 or 4 different courses on Neuroscience. I feel that some of this information is not really necessary for a person that wants to go into NeuroTech (For instance, the historical evolution of Neuroscience). 
+
+> 
+
+
+> 
+I also think you guys should check out the Medical Neuroscience Course from Duke University. It has a very nice outline and it actually has materials on almost all the things you want to cover (they dont talk at all about EEG-MEG-FMRI&).
+
