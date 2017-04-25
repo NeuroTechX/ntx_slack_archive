@@ -1917,3 +1917,9 @@ Bashashatis paper is freely available here if anyone is interested: <http://jou
 
  >pierre Looking into it right now! Thanks :slightly_smiling_face:
 
+4/25/2017 7:56 PM
+
+ **yannick** :
+
+ >That awesome awesome-bci list. :ntxblue:  :slightly_smiling_face:
+
