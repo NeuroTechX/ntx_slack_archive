@@ -2841,3 +2841,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Alright. Thank you both
 
+4/25/2017 12:00 AM
+
+ **vitruvia** :
+
+ >sydneyneurotechx  Don't worry, I see this as a long-term project anyways. Just needed a starting point. Thanks again! =]
+
