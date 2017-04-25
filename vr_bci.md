@@ -93,3 +93,9 @@
 
  >readme would be nice, hehe
 
+4/25/2017 9:41 PM
+
+ **yannick** :
+
+ >Haha! Id need to attend an open source workshop to learn best practices... ho wait...
+
