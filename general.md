@@ -2922,3 +2922,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >We've definitely met somebody with language processing experience. Can't remember where...
 
+4/26/2017 8:00 AM
+
+ **jmhorschig** :
+
+ >yes, exactly, I think that is their ultimate goal. Apparently they also applied for patents, but we'll just see them when they are approved.
+
