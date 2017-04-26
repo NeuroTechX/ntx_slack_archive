@@ -972,3 +972,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >Bonjour à toi Rouffi :slightly_smiling_face:
 
+4/26/2017 8:13 AM
+
+ **ozzie** :
+
+ >yannick  is there channel for China or beijing? if no, how to build one channel
+
