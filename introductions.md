@@ -978,3 +978,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >yannick  is there channel for China or beijing? if no, how to build one channel
 
+4/26/2017 12:15 PM
+
+ **yannick** :
+
+ >Hey ozzie, no there is no channel for China yet, you can create one with the left menu, at the top, the (+) sign, next to CHANNELS (). Keep the same format as other channels with the underscore: _china
+
