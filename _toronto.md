@@ -444,3 +444,9 @@ See you al there!
 
  >graeme: sounds perfect - will share it with our closed-door group only. Thx! 
 
+4/26/2017 4:16 PM
+
+ **bryan_j** :
+
+ >Anyone in TO working on - or aware of someone working on -BCI and emotional intelligence or detection of emotions? 
+
