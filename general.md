@@ -2928,3 +2928,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >yes, exactly, I think that is their ultimate goal. Apparently they also applied for patents, but we'll just see them when they are approved.
 
+4/26/2017 8:07 AM
+
+ **jmhorschig** :
+
+ >It's very hard with MEG (colleagues of mine did that, see <http://www.mpi.nl/departments/neurobiology-of-language/projects/mous-mother-of-all-unification-studies>). Not sure if gamma is sufficient. I think what FB wants is to use NIRS and hope for a combination of "electrophysiological" signals using FOS and hemodynamic responses, thereby getting the best of both worlds. What might work is some combination of an error-signal and auto-write based on previous conversations and the current conversation.  So, something similar to this: <http://www.theverge.com/2016/1/21/10805398/friends-neural-network-scripts> and then detecting if the predicted/suggested phrasing is what the user intends to say. When writing about this, yes, I think this is what they plan to do. It's the only thing that is probably possible and fits with the knowledge and experience FB already has. And it might work up to a certain extent. Users will probably be like "nah, I didn't want to write exactly that, but something along these lines, so ok. Send!". But that'll be more the deep NN doing the work being individualized by having analyzed previous conversations. What do you think?
+
