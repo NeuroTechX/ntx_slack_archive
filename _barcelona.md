@@ -12,3 +12,9 @@
 
  >Hello everyone, I live in El Born, Barcelona. It would be great to network chrisz!
 
+4/26/2017 2:28 PM
+
+ **firassafieddine** :
+
+ >hello pskorupinski
+
