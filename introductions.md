@@ -990,3 +990,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >Hello everyone o/ I am exploring this emerging field of neurotech, I am based in Silicon Valley, I see there is a _san_francisco channel, but is anyone down in the valley?
 
+4/27/2017 10:23 PM
+
+ **yrenard** :
+
+ >I am in San Carlos, close to Redwood City
+
