@@ -3024,3 +3024,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >It is here 
 
+4/27/2017 6:31 PM
+
+ **pierre** :
+
+ ><https://github.com/alexandrebarachant/muse-lsl>
+
