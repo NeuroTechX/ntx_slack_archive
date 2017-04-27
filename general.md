@@ -3030,3 +3030,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  ><https://github.com/alexandrebarachant/muse-lsl>
 
+4/27/2017 9:29 PM
+
+ **chrisabbott** :
+
+ >pierre Ah this is perfect. Thanks!
+
