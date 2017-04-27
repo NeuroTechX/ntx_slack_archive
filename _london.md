@@ -60,3 +60,9 @@ Thanks,
 
  >We may have hackday in a couple of weeks
 
+4/27/2017 4:16 PM
+
+ **javi_neuralcubes** :
+
+ >otherwise we can verywell meet for a beer
+
