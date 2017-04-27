@@ -156,3 +156,9 @@ Mitesh
 
  >I would be interested to meet up for a drink, long time didn't see you guys! 
 
+4/27/2017 5:23 PM
+
+ **ahmed_selim** :
+
+ >You should give the talk javi_neuralcubes 
+
