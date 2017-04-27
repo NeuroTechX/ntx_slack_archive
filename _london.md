@@ -54,3 +54,9 @@ Thanks,
 
  >Hi there dawnkolpin !
 
+4/27/2017 4:16 PM
+
+ **javi_neuralcubes** :
+
+ >We may have hackday in a couple of weeks
+
