@@ -84,3 +84,57 @@ Thanks,
 
  >from meetup
 
+4/27/2017 4:17 PM
+
+ **javi_neuralcubes** :
+
+ >Hi NeuroTechLDN,
+
+> 
+
+
+> 
+Hope you are well. Please could you help me with a request? I am the London Ambassador for SingularityU Chapter of Singularity University.
+
+> 
+
+
+> 
+Our mission is to apply exponential technologies that can solve humanities grand challenges. You can read about the work we do at
+
+> 
+
+
+> 
+<https://su.org>
+
+> 
+<https://www.facebook.com/mitesh.soni.1969/posts/10154743996732741>
+
+> 
+
+
+> 
+As part of our event schedule we are holding a small dinner evening to share ideas and learn about Brain Machine Interfaces and we are trying to locate a couple of Subject Matter Experts that can add some interesting perspective on the matter. Would you be so kind to help us find any interested people that could help us? We'd also love for any of your community to join the Singularity Movement! 
+
+> 
+
+
+> 
+<https://ti.to/sulondonchapter/singularity-dinner-beyond-our-boundaries-the-human-brain-interface-wednesday-3rd-may-18-30-20-30>
+
+> 
+
+
+> 
+Realise it is short notice but would be grateful for your support.
+
+> 
+
+
+> 
+thanks 
+
+> 
+Mitesh
+
