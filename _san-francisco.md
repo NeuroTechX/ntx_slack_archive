@@ -492,3 +492,9 @@ We can meet you in a few days
 
  >Hey guys! Next hacknight is on May, 3rd, right?
 
+4/27/2017 3:19 PM
+
+ **mikhailnervex** :
+
+ >I'd like to attend again. I attended once - about a year ago, but then got busy with my back then new job. Now I've got time to spare for interesting side projects again :-)
+
