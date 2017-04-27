@@ -468,3 +468,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >sam_gregz  <https://drive.google.com/drive/folders/0B-G2rraXdWRlLWNYVEtJS1FTXzQ?usp=sharing>
 
+4/27/2017 7:47 PM
+
+ **sydneyneurotechx** :
+
+ >hey hectordomorozco . Dawn was wondering if you were available to chat for some more feedback next week. She's currently working on the next Draft and would like your thoughts on it. Is that something you are comfortable with?
+
