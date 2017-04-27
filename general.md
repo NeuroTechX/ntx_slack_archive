@@ -2988,3 +2988,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >yannick: hahaha my attention was toward other tasks, unfortunately. I had a night of less sleep, less Slack :white_frowning_face: 
 
+4/27/2017 3:53 PM
+
+ **w** :
+
+ >amilenkovic 
+
