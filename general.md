@@ -3000,3 +3000,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >ah cool, thanks :slightly_smiling_face:
 
+4/27/2017 4:07 PM
+
+ **graeme** :
+
+ >w I think I'm also in CeReB
+
