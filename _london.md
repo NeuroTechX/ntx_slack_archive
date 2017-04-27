@@ -162,3 +162,9 @@ Mitesh
 
  >You should give the talk javi_neuralcubes 
 
+4/27/2017 6:37 PM
+
+ **davidevaleriani** :
+
+ >Not me sorry, I've already plans for May 3
+
