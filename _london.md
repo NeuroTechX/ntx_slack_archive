@@ -168,3 +168,9 @@ Mitesh
 
  >Not me sorry, I've already plans for May 3
 
+4/27/2017 9:59 PM
+
+ **javi_neuralcubes** :
+
+ >ahmed_selim definitely! Are you coming to this thing?
+
