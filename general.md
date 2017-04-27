@@ -2982,3 +2982,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Thanks bryan_j :D 
 
+4/27/2017 2:58 PM
+
+ **bryan_j** :
+
+ >yannick: hahaha my attention was toward other tasks, unfortunately. I had a night of less sleep, less Slack :white_frowning_face: 
+
