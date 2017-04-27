@@ -2976,3 +2976,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Less Sleep, More Slack.
 
+4/27/2017 2:23 PM
+
+ **hectordomorozco** :
+
+ >Thanks bryan_j :D 
+
