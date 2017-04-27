@@ -3018,3 +3018,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >chrisabbott I don't know the answer to your exact question, but alexandre.barachant wrote a python script to interface with muse via GATT
 
+4/27/2017 6:31 PM
+
+ **pierre** :
+
+ >It is here 
+
