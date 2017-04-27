@@ -2940,3 +2940,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >:ntxblue: :sparkling_heart: :ntxblue:
 
+4/27/2017 5:53 AM
+
+ **w** :
+
+ >Is anyone from CeReB on this slack?
+
