@@ -144,3 +144,9 @@ Mitesh
 
  ><!channel> anyone insterested? ^
 
+4/27/2017 4:18 PM
+
+ **javi_neuralcubes** :
+
+ >you could even give a talk
+
