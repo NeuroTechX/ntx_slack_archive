@@ -486,3 +486,9 @@ We can meet you in a few days
 
  >how is LSL integration going in cloudbrain ?
 
+4/27/2017 3:17 PM
+
+ **mikhailnervex** :
+
+ >Hey guys! Next hacknight is on May, 3rd, right?
+
