@@ -66,3 +66,9 @@ Thanks,
 
  >otherwise we can verywell meet for a beer
 
+4/27/2017 4:17 PM
+
+ **javi_neuralcubes** :
+
+ >the hackday is related to our project <#C1G552DD4|smartphone-bci>
+
