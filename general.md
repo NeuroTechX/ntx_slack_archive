@@ -2946,3 +2946,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Is anyone from CeReB on this slack?
 
+4/27/2017 1:09 PM
+
+ **yannick** :
+
+ >Yes gena_cereb ^
+
