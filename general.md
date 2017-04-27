@@ -2964,3 +2964,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Amazing! Good group photo :) hectordomorozco NTTO is here to support and collaborate! 
 
+4/27/2017 1:17 PM
+
+ **yannick** :
+
+ >I let you the whole night to reply& You didnt& What were you doing? :stuck_out_tongue:
+
