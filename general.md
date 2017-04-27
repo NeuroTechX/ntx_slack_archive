@@ -3006,3 +3006,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >w I think I'm also in CeReB
 
+4/27/2017 4:50 PM
+
+ **chrisabbott** :
+
+ >Hey guys. I'm currently writing a few python scripts to interface with Muse (2016 model) using GATT on Linux. I have the raw attribute output from the device, but I've been unable to find any information online about _which_ data stream each UUID/attribute corresponds to (IE; battery life attribute vs sensor attribute). Does anybody know where I can find a list of the device attributes and UUIDs for Muse?
+
