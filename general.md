@@ -2994,3 +2994,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >amilenkovic 
 
+4/27/2017 3:58 PM
+
+ **amilenkovic** :
+
+ >ah cool, thanks :slightly_smiling_face:
+
