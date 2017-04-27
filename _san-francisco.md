@@ -468,3 +468,9 @@ We can meet you in a few days
 
  ><https://www.youtube.com/watch?v=LuDN2bCIyus>
 
+4/27/2017 4:45 AM
+
+ **w** :
+
+ ><https://github.com/sccn/labstreaminglayer/wiki/TimeSynchronization.wiki>
+
