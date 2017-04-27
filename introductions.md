@@ -984,3 +984,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >Hey ozzie, no there is no channel for China yet, you can create one with the left menu, at the top, the (+) sign, next to CHANNELS (). Keep the same format as other channels with the underscore: _china
 
+4/27/2017 10:14 PM
+
+ **fabrizio** :
+
+ >Hello everyone o/ I am exploring this emerging field of neurotech, I am based in Silicon Valley, I see there is a _san_francisco channel, but is anyone down in the valley?
+
