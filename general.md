@@ -2952,3 +2952,9 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >Yes gena_cereb ^
 
+4/27/2017 1:15 PM
+
+ **bryan_j** :
+
+ >yannick: you beat me to it! :slightly_smiling_face: 
+
