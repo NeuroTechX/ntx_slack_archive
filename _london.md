@@ -174,3 +174,9 @@ Mitesh
 
  >ahmed_selim definitely! Are you coming to this thing?
 
+4/27/2017 10:09 PM
+
+ **ahmed_selim** :
+
+ >javi_neuralcubes i have to be in Cambridge from Wednesday to Friday morning! Literally just next week :(
+
