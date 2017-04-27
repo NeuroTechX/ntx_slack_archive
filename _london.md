@@ -78,3 +78,9 @@ Thanks,
 
  >on other news: I got this email
 
+4/27/2017 4:17 PM
+
+ **javi_neuralcubes** :
+
+ >from meetup
+
