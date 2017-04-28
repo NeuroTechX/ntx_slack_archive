@@ -198,3 +198,9 @@ Mitesh
 
  >francescacoo only if bring some fresh guiness :stuck_out_tongue:
 
+4/28/2017 12:17 PM
+
+ **francescacoo** :
+
+ >lol, fair enough.. I wonder if the flight assistants will let me check in with a backpack full of Guinness!
+
