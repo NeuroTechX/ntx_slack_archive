@@ -180,3 +180,9 @@ Mitesh
 
  >javi_neuralcubes i have to be in Cambridge from Wednesday to Friday morning! Literally just next week :(
 
+4/28/2017 1:26 AM
+
+ **dawnkolpin** :
+
+ >Hey javi_neuralcubes :wave::skin-tone-2: and <!channel>. Thanks for reaching out with the information, and I look forward to meeting up. I'll be in touch again soon. 
+
