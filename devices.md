@@ -1275,3 +1275,9 @@ hope it can help.
 
  >aj on your side do you sometimes use setup that only use 'P' pins?
 
+4/28/2017 4:35 PM
+
+ **aj** :
+
+ >never
+
