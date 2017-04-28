@@ -789,3 +789,15 @@ Anyone read up on THz radiation as a Brain Imaging method?
 
  >sydneyneurotechx great, thanks!
 
+4/28/2017 12:56 AM
+
+ **yannick** :
+
+ >Paper just published in Current Biology (Cell) using the Emotiv EPOC on 12 children at school.
+
+> 
+<http://www.cell.com/current-biology/abstract/S0960-9822(17)30411-6>
+
+> 
+Havent read it yet, but definitely caught my attention&
+
