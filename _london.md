@@ -186,3 +186,9 @@ Mitesh
 
  >Hey javi_neuralcubes :wave::skin-tone-2: and <!channel>. Thanks for reaching out with the information, and I look forward to meeting up. I'll be in touch again soon. 
 
+4/28/2017 9:22 AM
+
+ **francescacoo** :
+
+ >hi everybody, as you are the closest chapter I'd like to join you for some meetup sometimes :slightly_smiling_face: ... usually there are cheap flights from Dublin!
+
