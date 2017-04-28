@@ -1239,3 +1239,9 @@ hope it can help.
 
  >maybe I'm wrong but I would assume switching all the channels and ref electrodes from 'N' pins to 'P' pins would only change the sign of the readings
 
+4/28/2017 10:44 AM
+
+ **nicomaque.jette** :
+
+ >also how many OpenBCI we have with NeuroForce and is there 1 that is 'unused' that we could do without for maybe a month?
+
