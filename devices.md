@@ -1227,3 +1227,9 @@ hope it can help.
 
  >There are European Alternatives if the cost is too much for shipping. What's your price range and what do you want to do with the device?
 
+4/28/2017 9:05 AM
+
+ **nicomaque.jette** :
+
+ >guys maybe my question seems a basic one but I noticed the last version of OpenBCI Windows Application sends current only to the 'P' pins when we activates Lead-Off Detection, while we had a choice of 'N' or 'P' pin in the previous version. Why would it be 'P' pins only and why would someone make a setup using all electrodes on 'P' pins instead of 'N' pins (I always use only 'N')? many thanks!
+
