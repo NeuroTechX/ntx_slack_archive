@@ -813,3 +813,9 @@ Havent read it yet, but definitely caught my attention&
 
  ><https://www.inverse.com/article/30766-brain-machine-interface>
 
+4/28/2017 11:15 PM
+
+ **dawnkolpin** :
+
+ >:eyes:
+
