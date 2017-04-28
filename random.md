@@ -807,3 +807,9 @@ Havent read it yet, but definitely caught my attention&
 
  >wicked
 
+4/28/2017 4:56 AM
+
+ **sc** :
+
+ ><https://www.inverse.com/article/30766-brain-machine-interface>
+
