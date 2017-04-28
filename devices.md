@@ -1245,3 +1245,9 @@ hope it can help.
 
  >also how many OpenBCI we have with NeuroForce and is there 1 that is 'unused' that we could do without for maybe a month?
 
+4/28/2017 10:44 AM
+
+ **nicomaque.jette** :
+
+ >(forget last message, wrong channel lol)
+
