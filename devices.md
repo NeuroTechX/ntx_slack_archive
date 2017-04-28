@@ -1269,3 +1269,9 @@ hope it can help.
 
  >aj indeed I think it'd be a good idea
 
+4/28/2017 4:07 PM
+
+ **nicomaque.jette** :
+
+ >aj on your side do you sometimes use setup that only use 'P' pins?
+
