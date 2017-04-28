@@ -996,3 +996,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >I am in San Carlos, close to Redwood City
 
+4/28/2017 12:39 AM
+
+ **sydneyneurotechx** :
+
+ >jnaulty  Would know who's in the valley
+
