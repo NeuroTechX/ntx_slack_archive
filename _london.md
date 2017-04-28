@@ -192,3 +192,9 @@ Mitesh
 
  >hi everybody, as you are the closest chapter I'd like to join you for some meetup sometimes :slightly_smiling_face: ... usually there are cheap flights from Dublin!
 
+4/28/2017 9:25 AM
+
+ **javi_neuralcubes** :
+
+ >francescacoo only if bring some fresh guiness :stuck_out_tongue:
+
