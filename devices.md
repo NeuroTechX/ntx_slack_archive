@@ -1263,3 +1263,9 @@ hope it can help.
 
  >do you want to open an issue on github?
 
+4/28/2017 4:06 PM
+
+ **nicomaque.jette** :
+
+ >aj indeed I think it'd be a good idea
+
