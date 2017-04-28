@@ -312,3 +312,12 @@ Just to keep track and to avoid confusion, future hacknights will be private onl
 
  >By _private_, we mean that we want to control the ratio of newcomers vs experienced / regulars. As seen in other chapters and in Montreal, a high ratio of newcomers during HackNights dilutes the value for everyone. We have less time for the newcomers when many of them show up and the regulars cant work properly in this demoing/explaining/talking environment. So in order to remain inclusive, but also make the most out of our HackNights for people who actually want to progress on projects, well keep people aware that HackNights are happening and that they can contact us if they are interested, but wont announce it on Meetup anymore.
 
+4/28/2017 5:11 PM
+
+ **eferdinand** :
+
+ >We are excited to see the new Neuroservo EEG Hat tonight, We are traveling from the south shore and 'might' be few minutes late, so if you get to D3 and you don't see us there just wait in the Ideation space.
+
+> 
+Thank you!
+
