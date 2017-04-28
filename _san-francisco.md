@@ -510,3 +510,9 @@ We can meet you in a few days
 
  >mikhailnervex: Yes, May 3rd
 
+4/28/2017 2:28 AM
+
+ **w** :
+
+ >Were also doing demos on the last Wednesday of every month
+
