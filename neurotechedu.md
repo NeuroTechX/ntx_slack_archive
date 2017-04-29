@@ -480,3 +480,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >sam_gregz  may join the call as well
 
+4/29/2017 4:24 PM
+
+ **hectordomorozco** :
+
+ >I could do Friday or so. Im currently traveling to Mexico and will be a couple of days off due to some health issues (nothing to major but Ill be at the hospital).
+
