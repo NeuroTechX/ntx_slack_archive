@@ -1323,3 +1323,9 @@ hope it can help.
 
  >I know neither of them are System ground for the electronics
 
+4/30/2017 6:47 PM
+
+ **nicomaque.jette** :
+
+ >thanks aj
+
