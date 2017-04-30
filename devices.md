@@ -1293,3 +1293,9 @@ hope it can help.
 
  >another quick question guys, I understand the role of OpenBCI's SRB as a ground though the impact of using BIAS is still unclear, why do we actually also need BIAS and not use only SRB?
 
+4/30/2017 11:13 AM
+
+ **nicomaque.jette** :
+
+ >"If you use the N inputs for your electrodes, you have the option to connect some or all of the P inputs together and use SRB2 as reference for those channels you select."
+
