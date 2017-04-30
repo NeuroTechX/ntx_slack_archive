@@ -498,3 +498,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >hectordomorozco how about the following week then? 8th or 9th?
 
+4/30/2017 3:23 PM
+
+ **ray_cassani** :
+
+ >Great job in the Preprocessing document (<https://docs.google.com/document/d/1B3vd4D0TNI4-_LJm8CjfHrv416lH9Lj7Qayq2dVUA_s/edit>) ,  it was a pleasant Sunday-morning read. Added some comments
+
