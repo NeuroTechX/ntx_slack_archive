@@ -1299,3 +1299,9 @@ hope it can help.
 
  >"If you use the N inputs for your electrodes, you have the option to connect some or all of the P inputs together and use SRB2 as reference for those channels you select."
 
+4/30/2017 11:17 AM
+
+ **nicomaque.jette** :
+
+ >I've seen we can disable it but I don't fully grasp the extend of effects in doing so, many thanks!
+
