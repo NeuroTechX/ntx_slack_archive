@@ -1305,3 +1305,9 @@ hope it can help.
 
  >I've seen we can disable it but I don't fully grasp the extend of effects in doing so, many thanks!
 
+4/30/2017 4:01 PM
+
+ **aj** :
+
+ >N inputs are referenced against the SRB1 pin by default, that's for EEG. 
+
