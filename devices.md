@@ -1311,3 +1311,9 @@ hope it can help.
 
  >N inputs are referenced against the SRB1 pin by default, that's for EEG. 
 
+4/30/2017 4:02 PM
+
+ **aj** :
+
+ >Pretty sure the bias is used as driven right ground for removing the capacitance in the skin that is always around
+
