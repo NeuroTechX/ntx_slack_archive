@@ -492,3 +492,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >sydneyneurotechx, Also, I will probably look at the preproc draft tonight/tomorrow :smile:
 
+4/30/2017 2:59 AM
+
+ **dawnkolpin** :
+
+ >hectordomorozco how about the following week then? 8th or 9th?
+
