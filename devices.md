@@ -1287,3 +1287,9 @@ hope it can help.
 
  >yeah same for me
 
+4/30/2017 11:13 AM
+
+ **nicomaque.jette** :
+
+ >another quick question guys, I understand the role of OpenBCI's SRB as a ground though the impact of using BIAS is still unclear, why do we actually also need BIAS and not use only SRB?
+
