@@ -1317,3 +1317,9 @@ hope it can help.
 
  >Pretty sure the bias is used as driven right ground for removing the capacitance in the skin that is always around
 
+4/30/2017 4:03 PM
+
+ **aj** :
+
+ >I know neither of them are System ground for the electronics
+
