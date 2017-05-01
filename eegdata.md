@@ -2016,3 +2016,9 @@ More details on the project can be found here:
 
  >Oh definitely. Any interest in running the same stuff on open clinical EEG?
 
+5/1/2017 8:25 PM
+
+ **sydneyneurotechx** :
+
+ >When you say open clinical EEG, what are you referring to? Open Databases?
+
