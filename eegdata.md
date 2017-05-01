@@ -2022,3 +2022,9 @@ More details on the project can be found here:
 
  >When you say open clinical EEG, what are you referring to? Open Databases?
 
+5/1/2017 8:58 PM
+
+ **aj** :
+
+ >just send some prs my way
+
