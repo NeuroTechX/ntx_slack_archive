@@ -2034,3 +2034,9 @@ More details on the project can be found here:
 
  >whenever y'all are ready on your end
 
+5/1/2017 10:17 PM
+
+ **a.tech** :
+
+ >What an awesome project! This is definitely going to help grow the field. Preprocessing algos is such a huge bottle for new ppl! 
+
