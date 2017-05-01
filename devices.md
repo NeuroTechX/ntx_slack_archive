@@ -1371,3 +1371,9 @@ hope it can help.
 
  >For my project MindPainter I use muse sdk along with nodejs <http://socket.io|socket.io> and es6 js connected to mongodb. For the visualization is canvas webgl.
 
+5/1/2017 5:32 PM
+
+ **w** :
+
+ >Screenshot?
+
