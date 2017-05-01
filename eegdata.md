@@ -1998,3 +1998,9 @@ More details on the project can be found here:
 
  >Yeah great/needed project
 
+5/1/2017 8:11 PM
+
+ **sydneyneurotechx** :
+
+ >It's partially dictated by alexandre.barachant's schedule (Mine as well). Alexandre what do you think? What's the earliest you can do?
+
