@@ -2010,3 +2010,9 @@ More details on the project can be found here:
 
  >mhough Sign up if you are interested :slightly_smiling_face:
 
+5/1/2017 8:22 PM
+
+ **mhough** :
+
+ >Oh definitely. Any interest in running the same stuff on open clinical EEG?
+
