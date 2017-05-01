@@ -1980,3 +1980,9 @@ More details on the project can be found here:
 
  >is this a product that you will be talking about/demostrating on at defcon?
 
+5/1/2017 7:55 PM
+
+ **sydneyneurotechx** :
+
+ >Haha, if there is enough time, but likely not c00p3r  (We plan to start in June, probably won't be enough time)
+
