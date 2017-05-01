@@ -1365,3 +1365,9 @@ hope it can help.
 
  >Indeed, he did a nice project with the Muse and JS. sidksv wanna talk about what you did and the language behind it.
 
+5/1/2017 5:16 PM
+
+ **sidksv** :
+
+ >For my project MindPainter I use muse sdk along with nodejs <http://socket.io|socket.io> and es6 js connected to mongodb. For the visualization is canvas webgl.
+
