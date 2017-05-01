@@ -3036,3 +3036,54 @@ The thing you need to understand before moving forward is that working with eeg 
 
  >pierre Ah this is perfect. Thanks!
 
+5/1/2017 7:51 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  I would to announce NeuroTechX's  new initiative, the "Mother of all BCI Benchmark" project. 
+
+> 
+
+
+> 
+The Goal of this project is to build a comprehensive benchmark of popular BCI algorithms applied on an extensive list of freely available EEG dataset. The code will be made available on github, serving as a reference point for the future algorithmic developments. Algorithms can be ranked and promoted on a website, providing a clear picture of the different solutions available in the field.
+
+> 
+
+
+> 
+Reproducible Research in BCI has a long way to go. While many BCI datasets are made freely available, researchers do not publish code, and reproducing results required to benchmark new algorithms turns out to be more tricky than it should be. Performances can be significantly impacted by parameters of the preprocessing steps, toolboxes used and implementation tricks that are almost never reported in the literature. As a results, there is no comprehensive benchmark of BCI algorithm, and newcomers are spending a tremendous amount of time browsing literature to find out what algorithm works best and on which dataset.
+
+> 
+
+
+> 
+
+
+> 
+alexandre.barachant will lead the initiative and I will provide logistic support to push it forward. This will be mostly a coding project (It will be open source, so anyone can contribute), however people with a design background are invited as well.
+
+> 
+
+
+> 
+If you are interested in participating, please fill out the doodle below. We will arrange one or two calls based on everyones availability. 
+
+> 
+
+
+> 
+<https://doodle.com/poll/4ngxy9h8qpcmkhpb>
+
+> 
+
+
+> 
+More details on the project can be found here:
+
+> 
+
+
+> 
+<https://docs.google.com/document/d/18nU07Qci_VDbzZCLveDQqPgqRODt7HCNBfKeNPVwMQY/edit#>
+
