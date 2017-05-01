@@ -2004,3 +2004,9 @@ More details on the project can be found here:
 
  >It's partially dictated by alexandre.barachant's schedule (Mine as well). Alexandre what do you think? What's the earliest you can do?
 
+5/1/2017 8:16 PM
+
+ **sydneyneurotechx** :
+
+ >mhough Sign up if you are interested :slightly_smiling_face:
+
