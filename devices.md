@@ -1341,3 +1341,9 @@ hope it can help.
 
  >Nope, but that's a great idea!
 
+5/1/2017 1:15 AM
+
+ **dano** :
+
+ >Wouldn't take more than a week or two to wrap Muse SDK in JS, I reckon
+
