@@ -603,3 +603,9 @@ A lot of machine learning this time, a naive bayes classifier in Java and some f
 > 
 If you're interested in attending, please send me a PM so we can put you on the guestlist.
 
+5/1/2017 10:20 PM
+
+ **bryan_j** :
+
+ >dano: going to be a good one! 
+
