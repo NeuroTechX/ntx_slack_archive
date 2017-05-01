@@ -1335,3 +1335,9 @@ hope it can help.
 
  >Is anyone working on a node.js module for the Muse? Like openbci-ganglion but for the Muse?
 
+5/1/2017 1:14 AM
+
+ **dano** :
+
+ >Nope, but that's a great idea!
+
