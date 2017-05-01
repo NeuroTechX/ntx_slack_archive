@@ -450,3 +450,66 @@ See you al there!
 
  >Anyone in TO working on - or aware of someone working on -BCI and emotional intelligence or detection of emotions? 
 
+5/1/2017 5:31 PM
+
+ **dano** :
+
+ >'''
+
+> 
+          _______  _______  _        _       _________ _______          _________
+
+> 
+|\     /|(  ___  )(  ____ \| \    /\( (    /|\__   __/(  ____ \|\     /|\__   __/
+
+> 
+| )   ( || (   ) || (    \/|  \  / /|  \  ( |   ) (   | (    \/| )   ( |   ) (   
+
+> 
+| (___) || (___) || |      |  (_/ / |   \ | |   | |   | |      | (___) |   | |   
+
+> 
+|  ___  ||  ___  || |      |   _ (  | (\ \) |   | |   | | ____ |  ___  |   | |   
+
+> 
+| (   ) || (   ) || |      |  ( \ \ | | \   |   | |   | | \_  )| (   ) |   | |   
+
+> 
+| )   ( || )   ( || (____/\|  /  \ \| )  \  |___) (___| (___) || )   ( |   | |   
+
+> 
+|/     \||/     \|(_______/|_/    \/|/    )_)\_______/(_______)|/     \|   )_(   
+
+> 
+                                                                                 
+
+> 
+
+
+> 
+'''
+
+> 
+Another NeuroTechTO Hacknight!
+
+> 
+Thursday, May 4th, 6-10pm
+
+> 
+Mozilla Toronto
+
+> 
+366 Adelaide St W Suite 500, Toronto, ON M5V 1R9
+
+> 
+
+
+> 
+A lot of machine learning this time, a naive bayes classifier in Java and some fiddlin with CNNs in Tensorflow. Also, maybe some iOS and Xamarin app development. Have your own project idea? Brainstorm and work on it with cool people.
+
+> 
+
+
+> 
+If you're interested in attending, please send me a PM so we can put you on the guestlist.
+
