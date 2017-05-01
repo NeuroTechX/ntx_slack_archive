@@ -1359,3 +1359,9 @@ hope it can help.
 
  >found him : sidksv
 
+5/1/2017 5:06 PM
+
+ **yannick** :
+
+ >Indeed, he did a nice project with the Muse and JS. sidksv wanna talk about what you did and the language behind it.
+
