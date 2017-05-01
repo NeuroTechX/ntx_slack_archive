@@ -1986,3 +1986,9 @@ More details on the project can be found here:
 
  >Haha, if there is enough time, but likely not c00p3r  (We plan to start in June, probably won't be enough time)
 
+5/1/2017 8:01 PM
+
+ **aj** :
+
+ >can we start working on this sooner? i already started thinking about this like three weeks ago
+
