@@ -258,3 +258,12 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >Neuralink is now hiring : <https://neuralink.com/>
 
+5/1/2017 11:27 PM
+
+ **dano** :
+
+ >Cool opportunity at CAMH in Toronto applying tDCS and treating dementia
+
+> 
+<http://www.recruitingsite.com/csbsites/camh/JobDescription.asp?SuperCategoryCode=15233&amp;JobNumber=802776&amp;lang=en>
+
