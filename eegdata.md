@@ -2106,3 +2106,12 @@ More details on the project can be found here:
 
  >Here is the full wiki: <http://memory.psych.upenn.edu/RAM>
 
+5/2/2017 5:24 PM
+
+ **yannick** :
+
+ >You have a link at the bottom of the main page to Download the dataset. 
+
+> 
+(You request access and they will share the Box - kinda Dropbox folder - with you)
+
