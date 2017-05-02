@@ -2040,3 +2040,9 @@ More details on the project can be found here:
 
  >What an awesome project! This is definitely going to help grow the field. Preprocessing algos is such a huge bottle for new ppl! 
 
+5/2/2017 1:23 AM
+
+ **mhough** :
+
+ >Yeah sydneyneurotechx  it's continuous EEG done for whatever hospitals can bill for? I haven't looked at it closely for events etc. I'll get the link. Only heard about it from a stats guy a couple of months ago. All low channel count so not so interesting for much spatially. 
+
