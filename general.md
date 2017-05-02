@@ -3105,3 +3105,9 @@ More details on the project can be found here:
 
  ><http://www.cs.ucr.edu/~eamonn/time_series_data/>
 
+5/2/2017 1:11 AM
+
+ **pat** :
+
+ >Just to check I understand: this would be similar to creating standard datasets like mnist/cifar, and collecting in one place to make it easy to run against and benchmark the results?
+
