@@ -3117,3 +3117,9 @@ More details on the project can be found here:
 
  >pat yes, kind of. we don't have a cifar/minst dataset, but there is many small dataset available. This project is about wrapping them around the same format so we can have a more robust benchmark and get a better picture of what's works and in which context
 
+5/2/2017 9:31 AM
+
+ **rohit** :
+
+ ><http://sapienlabs.co/building-global-collaborations/> Anyone here involved in this project? Would like to have a quick chat?
+
