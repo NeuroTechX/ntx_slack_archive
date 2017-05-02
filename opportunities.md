@@ -297,3 +297,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >The reason he puts that is to have more candidates apply, it looks such a huge challenge that he does not want candidates to just not-apply because they do not address every single field they will have to deal with
 
+5/2/2017 5:26 PM
+
+ **alexandre.barachant** :
+
+ ><https://xkcd.com/1831/>
+
