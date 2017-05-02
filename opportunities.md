@@ -309,3 +309,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >Ahah good one alexandre.barachant
 
+5/2/2017 5:28 PM
+
+ **yrenard** :
+
+ >I think they'll do better than Facebook though
+
