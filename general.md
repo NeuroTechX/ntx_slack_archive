@@ -3111,3 +3111,9 @@ More details on the project can be found here:
 
  >Just to check I understand: this would be similar to creating standard datasets like mnist/cifar, and collecting in one place to make it easy to run against and benchmark the results?
 
+5/2/2017 9:06 AM
+
+ **alexandre.barachant** :
+
+ >pat yes, kind of. we don't have a cifar/minst dataset, but there is many small dataset available. This project is about wrapping them around the same format so we can have a more robust benchmark and get a better picture of what's works and in which context
+
