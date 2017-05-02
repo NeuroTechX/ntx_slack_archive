@@ -2082,3 +2082,9 @@ More details on the project can be found here:
 
  >mhough We will use any dataset where we can apply supervised machine learning. We will focus on BCI at first, because the problems are better defined  and the dataset are smaller (in size), but it won't be incompatible with some clinical EEG problem (sleep, seizure, etc, as long as the data have annotation)
 
+5/2/2017 12:05 PM
+
+ **yannick** :
+
+ >alexandre.barachant, dan.rizzuto and his team opened their invasive recordings from DARPA RAM related studies on memory. Lots of high quality labeled data on which they do machine learning to classify if the memory will be encoded or not. That could also be an interesting dataset / paradigm. (just thinking out loud)
+
