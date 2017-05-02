@@ -3132,3 +3132,9 @@ More details on the project can be found here:
 > 
 We had a good chat 2-3 months ago, here is a small piece about NTX on SapienLabs blog: <http://sapienlabs.co/neurotechx/>
 
+5/2/2017 5:31 PM
+
+ **rohit** :
+
+ >Thanks yannick. I am aware of the NTX article, just came across their new article and wanted to explore a bit.
+
