@@ -516,3 +516,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >sydneyneurotechx Ill go through the preproc document sometime this evening/tomorrow morning. Will let you know when Im done :smile:
 
+5/2/2017 6:32 PM
+
+ **sydneyneurotechx** :
+
+ >hectordomorozco  let giuliosuprig  yana_pretzels  and pat  know :slightly_smiling_face:. They are the ones building the content
+
