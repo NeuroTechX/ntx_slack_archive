@@ -2046,3 +2046,9 @@ More details on the project can be found here:
 
  >Yeah sydneyneurotechx  it's continuous EEG done for whatever hospitals can bill for? I haven't looked at it closely for events etc. I'll get the link. Only heard about it from a stats guy a couple of months ago. All low channel count so not so interesting for much spatially. 
 
+5/2/2017 1:25 AM
+
+ **mhough** :
+
+ >And yes it's an open database. Should have led with that:)
+
