@@ -2064,3 +2064,9 @@ More details on the project can be found here:
 
  >very nice. ill try to join this meeting
 
+5/2/2017 6:15 AM
+
+ **mhough** :
+
+ >Understood sydneyneurotechx. Sorry if this is a repeat (can I not search the archives?) but I think he was talking about the Temple University EEG dataset
+
