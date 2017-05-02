@@ -285,3 +285,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >mhough: hahahaha, I had the same reaction. Were taking on the biggest challenge of all time: The Brain. Come work with us, you dont even need to know anything about the Brain! Well figure it out as we go! (I hope you can feel the irony here, love the mission and Im a huge fan of Musk, but I loved the no neuroscience experience required quite a lot)
 
+5/2/2017 5:25 PM
+
+ **alexandre.barachant** :
+
+ >That make sense as they are approaching BCI from a pure engineering perspective.
+
