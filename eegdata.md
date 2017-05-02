@@ -2088,3 +2088,9 @@ More details on the project can be found here:
 
  >alexandre.barachant, dan.rizzuto and his team opened their invasive recordings from DARPA RAM related studies on memory. Lots of high quality labeled data on which they do machine learning to classify if the memory will be encoded or not. That could also be an interesting dataset / paradigm. (just thinking out loud)
 
+5/2/2017 12:06 PM
+
+ **alexandre.barachant** :
+
+ >yannick do you have a link ?
+
