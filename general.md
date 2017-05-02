@@ -3093,3 +3093,9 @@ More details on the project can be found here:
 
  >sydneyneurotechx: Very cool project ! :+1:
 
+5/2/2017 12:10 AM
+
+ **marion** :
+
+ >sydneyneurotechx awesome. I'll be on the call. We have created a benchmark at numenta for online anomaly detection, to allow people to compare different algos on a variety of datasets :<https://github.com/numenta/NAB>. Maybe interesting. There are many other benchmarks in ML. Another one that I found interesting is the UCR timeseries dataset (to benchmark classification algos on temporal data) 
+
