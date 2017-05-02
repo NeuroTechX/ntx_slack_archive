@@ -315,3 +315,15 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 
  >I think they'll do better than Facebook though
 
+5/2/2017 5:35 PM
+
+ **alexandre.barachant** :
+
+ >Facebook has a 2 year target for the project, so my guess is that they will either succeed to get something working a little bit (not 100WPM, but they might end up making some progess) or they will pull the plus soon.
+
+> 
+
+
+> 
+Elon, on the other hand, as a longer target of something like a 9 year for a first implanted device. IMO, it's too short, they will get slowed down like hell by regulatory issues. but he might manage to keep it afloat long enough so that we can something going out of it
+
