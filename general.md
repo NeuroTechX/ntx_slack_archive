@@ -3123,3 +3123,12 @@ More details on the project can be found here:
 
  ><http://sapienlabs.co/building-global-collaborations/> Anyone here involved in this project? Would like to have a quick chat?
 
+5/2/2017 12:09 PM
+
+ **yannick** :
+
+ >Hey rohit: tara is the founder of the initiative.
+
+> 
+We had a good chat 2-3 months ago, here is a small piece about NTX on SapienLabs blog: <http://sapienlabs.co/neurotechx/>
+
