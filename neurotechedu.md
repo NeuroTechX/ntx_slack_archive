@@ -510,3 +510,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >dawnkolpin I can do 8 at whatever time you can :smile:
 
+5/2/2017 6:18 PM
+
+ **hectordomorozco** :
+
+ >sydneyneurotechx Ill go through the preproc document sometime this evening/tomorrow morning. Will let you know when Im done :smile:
+
