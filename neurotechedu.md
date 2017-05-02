@@ -528,3 +528,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >My bad, giuliosuprig yana_pretzels and pat I'll go through the preproc document sometime today/tomorrow morning :unicorn_face::grin:
 
+5/2/2017 6:34 PM
+
+ **giuliosuprig** :
+
+ >Thanks!
+
