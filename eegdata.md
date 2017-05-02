@@ -2076,3 +2076,9 @@ More details on the project can be found here:
 
  ><https://www.isip.piconepress.com/publications/presentations_misc/2017/temple_innovation/auto_eeg/04_poster_v00.pdf>
 
+5/2/2017 9:10 AM
+
+ **alexandre.barachant** :
+
+ >mhough We will use any dataset where we can apply supervised machine learning. We will focus on BCI at first, because the problems are better defined  and the dataset are smaller (in size), but it won't be incompatible with some clinical EEG problem (sleep, seizure, etc, as long as the data have annotation)
+
