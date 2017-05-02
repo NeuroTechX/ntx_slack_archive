@@ -504,3 +504,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Great job in the Preprocessing document (<https://docs.google.com/document/d/1B3vd4D0TNI4-_LJm8CjfHrv416lH9Lj7Qayq2dVUA_s/edit>) ,  it was a pleasant Sunday-morning read. Added some comments
 
+5/2/2017 6:17 PM
+
+ **hectordomorozco** :
+
+ >dawnkolpin I can do 8 at whatever time you can :smile:
+
