@@ -2070,3 +2070,9 @@ More details on the project can be found here:
 
  >Understood sydneyneurotechx. Sorry if this is a repeat (can I not search the archives?) but I think he was talking about the Temple University EEG dataset
 
+5/2/2017 6:15 AM
+
+ **mhough** :
+
+ ><https://www.isip.piconepress.com/publications/presentations_misc/2017/temple_innovation/auto_eeg/04_poster_v00.pdf>
+
