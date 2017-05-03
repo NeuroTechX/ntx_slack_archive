@@ -270,3 +270,9 @@ Mitesh
 
  >congrats davidevaleriani !
 
+5/3/2017 8:09 PM
+
+ **francescacoo** :
+
+ >Hey guys, not in London but as we are neighbours I thought to share if you didn't know about it.. hack the brain in dub in June (of course for once they organise something I ll be away on holidays :( ) <https://dublin.sciencegallery.com/page/hackbraindublin>
+
