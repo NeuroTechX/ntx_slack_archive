@@ -609,3 +609,9 @@ If you're interested in attending, please send me a PM so we can put you on the 
 
  >dano: going to be a good one! 
 
+5/3/2017 5:31 PM
+
+ **eferdinand** :
+
+ >Hello Nathan urbanvisuals , bryan_j can help you organize a visit to one of our TO Hacknights.
+
