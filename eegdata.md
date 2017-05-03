@@ -2178,3 +2178,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >there will be some interesting questions about how we rank the different algorithm.
 
+5/3/2017 9:03 PM
+
+ **mhough** :
+
+ >Ok. I can start a list. I am doing the same for ERPs studies anyway. Is there a wiki or something I should use?
+
