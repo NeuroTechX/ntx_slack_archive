@@ -627,3 +627,9 @@ If you're interested in attending, please send me a PM so we can put you on the 
 
  >urbanvisuals: feel free to contact me at <mailto:bryan@neurotechx.com|bryan@neurotechx.com>! Looking forward to it! 
 
+5/3/2017 7:36 PM
+
+ **bryan_j** :
+
+ >urbanvisuals thanks for joining! 
+
