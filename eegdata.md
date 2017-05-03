@@ -2145,3 +2145,9 @@ More details on the project can be found here:
 
  >what's the best way to ask questions about moabb? currently the announcement was in a few channels, would it make sense to create a new one?
 
+5/3/2017 8:38 PM
+
+ **alexandre.barachant** :
+
+ >pat Good idea. We will create a channel before the end of the week. sydneyneurotechx and I are still working on the details.
+
