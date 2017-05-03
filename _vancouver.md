@@ -48,3 +48,9 @@ It will be a stella event!
 
  >We will be professionally recording these... So ideally we'll have some awesome materials coming out regularly 
 
+5/3/2017 3:15 PM
+
+ **yannick** :
+
+ >Awesome. :heart: :ntxblue:
+
