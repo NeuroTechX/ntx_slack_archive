@@ -2127,3 +2127,9 @@ More details on the project can be found here:
 
  >And/Or to work with the people behind the wall to make a door in the wall :slightly_smiling_face:
 
+5/3/2017 3:27 PM
+
+ **alexandre.barachant** :
+
+ >yep sure, if the dataset is really interesting, we can try to convince people to make it available in direct download.
+
