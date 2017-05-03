@@ -546,3 +546,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >hectordomorozco thank you so much for the detailed feedback! We'll be going over your comments over the next few days :)
 
+5/3/2017 2:23 PM
+
+ **dawnkolpin** :
+
+ >@hectordomorozco thank you! :blush: I'll send a mtg scheduler to your inbox. 
+
