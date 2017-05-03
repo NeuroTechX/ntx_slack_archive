@@ -540,3 +540,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Done! Great job guys (giuliosuprig yana_pretzels pat). If you have questions regarding my (numerous) comments, please let me know
 
+5/3/2017 12:06 AM
+
+ **yana_pretzels** :
+
+ >hectordomorozco thank you so much for the detailed feedback! We'll be going over your comments over the next few days :)
+
