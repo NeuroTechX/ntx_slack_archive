@@ -42,3 +42,9 @@ It will be a stella event!
 
  >Next speaker will feature a world class physicist (who works directly with Penrose of the OR-ORCH theory ). He is going to talk about how Quantum phenomena and the theories of consciousness intersect!
 
+5/3/2017 4:15 AM
+
+ **a.tech** :
+
+ >We will be professionally recording these... So ideally we'll have some awesome materials coming out regularly 
+
