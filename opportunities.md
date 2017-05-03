@@ -327,3 +327,9 @@ _(PS: I'm not affiliate with the company, I'm just sharing the opportunity)_
 > 
 Elon, on the other hand, as a longer target of something like a 9 year for a first implanted device. IMO, it's too short, they will get slowed down like hell by regulatory issues. but he might manage to keep it afloat long enough so that we can something going out of it
 
+5/3/2017 5:54 AM
+
+ **mhough** :
+
+ >alexandre.barachant no I get that too. Its just so Musk right
+
