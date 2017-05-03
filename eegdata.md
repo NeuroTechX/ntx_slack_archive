@@ -2139,3 +2139,9 @@ More details on the project can be found here:
 
  >What are you looking for in the license? 
 
+5/3/2017 5:52 PM
+
+ **pat** :
+
+ >what's the best way to ask questions about moabb? currently the announcement was in a few channels, would it make sense to create a new one?
+
