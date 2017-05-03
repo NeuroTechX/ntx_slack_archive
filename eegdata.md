@@ -2163,3 +2163,12 @@ More details on the project can be found here:
 
  >Yeah no worries. I know exactly what you mean. I followed up a few people's complaints about data access and they could get the data but they were perhaps too literal with the download instructions. It would be good to talk about it a little later but like you said just ignore those for now
 
+5/3/2017 8:53 PM
+
+ **alexandre.barachant** :
+
+ >yep sure. i think the first step is to list all dataset available, what they contains and how they can be accessed. Then we will see how we can do it.
+
+> 
+Also, i thinks it's better to have a lot of smaller dataset, rather than a few big one. it is important to have diversity in the benchmark, so results are more robust
+
