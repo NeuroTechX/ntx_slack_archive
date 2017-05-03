@@ -2196,3 +2196,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >alexandre.barachant I know this is an ERP study but do people ignore the old Begleiter data on the UCI machine learning repository because they don't have the raw data? I'll ask the Poldrack lab. Years ago I tried to contact the person who took over after he retired (died?) to try and get the continuous EEG but its was a different time back then and honestly they might not even have it backed up somewhere:)
 
+5/3/2017 11:49 PM
+
+ **octonomy** :
+
+ >mhough alexandre.barachant there is an awesome list one sec
+
