@@ -2184,3 +2184,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >Ok. I can start a list. I am doing the same for ERPs studies anyway. Is there a wiki or something I should use?
 
+5/3/2017 9:09 PM
+
+ **mhough** :
+
+ >Once all the free stuff is organized I wonder if it will be easier to ask labs if they could give subsets of their data that could give you more of those small batches you want. I'm sure you've thought about it already. 
+
