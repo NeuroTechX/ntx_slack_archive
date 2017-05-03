@@ -3138,3 +3138,21 @@ We had a good chat 2-3 months ago, here is a small piece about NTX on SapienLabs
 
  >Thanks yannick. I am aware of the NTX article, just came across their new article and wanted to explore a bit.
 
+5/3/2017 7:34 PM
+
+ **yannick** :
+
+ >Not related, but there seems to be something going on with Google Docs, beware.
+
+> 
+I received couple of invite to share G-Doc from different people in the last 30 mins, which fortunately I didnt open, then I Googled it, and Im definitely not alone&
+
+> 
+
+
+> 
+<https://www.reddit.com/r/sysadmin/comments/692cno/sudden_google_docs_spam/>
+
+> 
+<https://motherboard.vice.com/en_us/article/massive-gmail-google-doc-phishing-email>
+
