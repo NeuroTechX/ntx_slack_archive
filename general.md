@@ -3156,3 +3156,9 @@ I received couple of invite to share G-Doc from different people in the last 30 
 > 
 <https://motherboard.vice.com/en_us/article/massive-gmail-google-doc-phishing-email>
 
+5/3/2017 7:35 PM
+
+ **bryan_j** :
+
+ >Thanks for sharing yannick
+
