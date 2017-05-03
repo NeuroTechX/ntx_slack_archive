@@ -2133,3 +2133,9 @@ More details on the project can be found here:
 
  >yep sure, if the dataset is really interesting, we can try to convince people to make it available in direct download.
 
+5/3/2017 4:58 PM
+
+ **mhough** :
+
+ >What are you looking for in the license? 
+
