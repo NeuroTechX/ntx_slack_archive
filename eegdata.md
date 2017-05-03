@@ -2172,3 +2172,9 @@ More details on the project can be found here:
 > 
 Also, i thinks it's better to have a lot of smaller dataset, rather than a few big one. it is important to have diversity in the benchmark, so results are more robust
 
+5/3/2017 8:55 PM
+
+ **alexandre.barachant** :
+
+ >there will be some interesting questions about how we rank the different algorithm.
+
