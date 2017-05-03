@@ -2157,3 +2157,9 @@ More details on the project can be found here:
 
  >mhough I want to avoid datasets that are 'freely available' with restrictions. The whole point of this is to make it easy to use and accessible to everyone, whether you are part of a research lab, a company or an individual.
 
+5/3/2017 8:48 PM
+
+ **mhough** :
+
+ >Yeah no worries. I know exactly what you mean. I followed up a few people's complaints about data access and they could get the data but they were perhaps too literal with the download instructions. It would be good to talk about it a little later but like you said just ignore those for now
+
