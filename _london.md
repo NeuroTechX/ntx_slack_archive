@@ -228,3 +228,9 @@ Mitesh
 
  >thanks :relaxed: sydneyneurotechx
 
+5/3/2017 3:10 PM
+
+ **javi_neuralcubes** :
+
+ ><!channel> I'm just writing to let you all know that our admin davidevaleriani have just passed his viva with flying colours! from now on we can address him as _il doctore_ :mortar_board: !
+
