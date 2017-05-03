@@ -2115,3 +2115,9 @@ More details on the project can be found here:
 > 
 (You request access and they will share the Box - kinda Dropbox folder - with you)
 
+5/3/2017 12:37 PM
+
+ **alexandre.barachant** :
+
+ >yannick Thanks. There will be some work to do to list all these datasets :slightly_smiling_face: We need to be carefull with the licence and will avoid using datasets that are behind a wall like this.
+
