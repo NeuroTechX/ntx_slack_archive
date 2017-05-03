@@ -2151,3 +2151,9 @@ More details on the project can be found here:
 
  >pat Good idea. We will create a channel before the end of the week. sydneyneurotechx and I are still working on the details.
 
+5/3/2017 8:43 PM
+
+ **alexandre.barachant** :
+
+ >mhough I want to avoid datasets that are 'freely available' with restrictions. The whole point of this is to make it easy to use and accessible to everyone, whether you are part of a research lab, a company or an individual.
+
