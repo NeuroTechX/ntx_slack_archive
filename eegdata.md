@@ -2121,3 +2121,9 @@ More details on the project can be found here:
 
  >yannick Thanks. There will be some work to do to list all these datasets :slightly_smiling_face: We need to be carefull with the licence and will avoid using datasets that are behind a wall like this.
 
+5/3/2017 3:15 PM
+
+ **yannick** :
+
+ >And/Or to work with the people behind the wall to make a door in the wall :slightly_smiling_face:
+
