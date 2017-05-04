@@ -2226,3 +2226,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >yup <!channel>  for those who want to join, please check out <#C588BQVH9|moabb>
 
+5/4/2017 3:03 AM
+
+ **aj** :
+
+ >octonomy i could donate motor imagery data from thinker
+
