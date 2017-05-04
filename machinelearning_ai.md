@@ -45,3 +45,9 @@
 
  >In few months from now the answer will be NeuroTechEDU (no pressure sydneyneurotechx) :wink:
 
+5/4/2017 10:19 PM
+
+ **watson** :
+
+ >Of potential interest. Python probabilistic inference library handling modeling, inference and validation: <http://edwardlib.org/>
+
