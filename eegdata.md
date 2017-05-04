@@ -2244,3 +2244,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >please god not edf
 
+5/4/2017 3:04 AM
+
+ **octonomy** :
+
+ >come on down to <#C588BQVH9|moabb> dont be a slacker
+
