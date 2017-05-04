@@ -633,3 +633,21 @@ If you're interested in attending, please send me a PM so we can put you on the 
 
  >urbanvisuals thanks for joining! 
 
+5/4/2017 7:15 PM
+
+ **bryan_j** :
+
+ >Hack night tonight! We will hack through the rain and flooding! 
+
+> 
+
+
+> 
+Email <mailto:to@neurotechx.com|to@neurotechx.com> if you have any questions. 
+
+> 
+
+
+> 
+See you soon! 
+
