@@ -51,3 +51,9 @@
 
  >Of potential interest. Python probabilistic inference library handling modeling, inference and validation: <http://edwardlib.org/>
 
+5/4/2017 10:20 PM
+
+ **watson** :
+
+ >As seen advertised on this post by Dustin Tran: <http://dustintran.com/blog/on-model-mismatch-and-bayesian-analysis>
+
