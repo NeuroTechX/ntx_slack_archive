@@ -2220,3 +2220,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >sydneyneurotechx created the <#C588BQVH9|moabb> channel. It's on
 
+5/4/2017 1:11 AM
+
+ **sydneyneurotechx** :
+
+ >yup <!channel>  for those who want to join, please check out <#C588BQVH9|moabb>
+
