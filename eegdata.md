@@ -2208,3 +2208,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >One key dataset is the BCI competition IV. It's referenced by so many papers. It sits behind a free registration where you must give email to get access. This was from 2008, i wonder if the original people would be willing to release access. I think by regulations probably this would require consent of original subjects, wherever they are. Just because of paperwork that is signed for experiments.
 
+5/4/2017 12:55 AM
+
+ **octonomy** :
+
+ >I'd be happy to work with SF neurotech x chapter to collect our own royalty-free dataset of MI data using OpenBCI 8-channel and 16-channel, to add some lower resolution data to the mix. If it's useable for this project. I can use a standard MI protocol and document it.
+
