@@ -2202,3 +2202,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >mhough alexandre.barachant there is an awesome list one sec
 
+5/4/2017 12:51 AM
+
+ **octonomy** :
+
+ >One key dataset is the BCI competition IV. It's referenced by so many papers. It sits behind a free registration where you must give email to get access. This was from 2008, i wonder if the original people would be willing to release access. I think by regulations probably this would require consent of original subjects, wherever they are. Just because of paperwork that is signed for experiments.
+
