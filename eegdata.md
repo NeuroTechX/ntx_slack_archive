@@ -2238,3 +2238,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >we should just make a formal way to add it
 
+5/4/2017 3:03 AM
+
+ **aj** :
+
+ >please god not edf
+
