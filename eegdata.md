@@ -2214,3 +2214,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >I'd be happy to work with SF neurotech x chapter to collect our own royalty-free dataset of MI data using OpenBCI 8-channel and 16-channel, to add some lower resolution data to the mix. If it's useable for this project. I can use a standard MI protocol and document it.
 
+5/4/2017 12:56 AM
+
+ **octonomy** :
+
+ >sydneyneurotechx created the <#C588BQVH9|moabb> channel. It's on
+
