@@ -651,3 +651,9 @@ Email <mailto:to@neurotechx.com|to@neurotechx.com> if you have any questions.
 > 
 See you soon! 
 
+5/4/2017 11:14 PM
+
+ **bryan_j** :
+
+ ><!channel> hack night off to a great start! The white board is out already!
+
