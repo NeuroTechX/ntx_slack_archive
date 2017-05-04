@@ -2250,3 +2250,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >come on down to <#C588BQVH9|moabb> dont be a slacker
 
+5/4/2017 3:05 AM
+
+ **octonomy** :
+
+ >oh what? you dont like BDF? ha ha ha
+
