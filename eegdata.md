@@ -2352,3 +2352,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >IMO comparing classifier is only relevant when you want to know which classifier is better for a given feature set. but that's just a part of the story.
 
+5/5/2017 4:02 PM
+
+ **alexandre.barachant** :
+
+ >if you have a good classifier for a given feature set, that is not given that this classifier will be optimal for another feature set
+
