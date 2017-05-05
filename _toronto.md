@@ -657,3 +657,9 @@ See you soon!
 
  ><!channel> hack night off to a great start! The white board is out already!
 
+5/5/2017 1:39 AM
+
+ **bryan_j** :
+
+ >Awesome hack night tonight! Thanks to everyone who came out. Great conversations and excellent progress. Looking forward to the next! Thanks Mozilla! 
+
