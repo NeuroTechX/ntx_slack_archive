@@ -2310,3 +2310,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >basically, you can benchmark TS+SVM versus TS+LDA versus MDM
 
+5/5/2017 3:54 PM
+
+ **octonomy** :
+
+ >i see. so since the pipeline takes the same inputs (covariance matrices).
+
