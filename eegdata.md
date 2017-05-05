@@ -2316,3 +2316,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >i see. so since the pipeline takes the same inputs (covariance matrices).
 
+5/5/2017 3:55 PM
+
+ **octonomy** :
+
+ >in this way, could you also add then also the pipeline of CSP+LDA, since it also takes the same inputs (covariance matrices)?
+
