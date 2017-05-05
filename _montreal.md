@@ -321,3 +321,9 @@ Just to keep track and to avoid confusion, future hacknights will be private onl
 > 
 Thank you!
 
+5/5/2017 3:40 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  Hacknights tonight are being moved to another location as D3 will be busy
+
