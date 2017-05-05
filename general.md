@@ -3162,3 +3162,9 @@ I received couple of invite to share G-Doc from different people in the last 30 
 
  >Thanks for sharing yannick
 
+5/5/2017 1:21 PM
+
+ **etakla** :
+
+ >For anyone who clicked the fake link: <http://www.cbc.ca/news/technology/google-docs-gmail-phishing-attack-1.4099238?cmp=rss>
+
