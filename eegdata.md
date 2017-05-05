@@ -2370,3 +2370,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >all of these algorithms will be benchmarked in the <#C588BQVH9|moabb>
 
+5/5/2017 4:09 PM
+
+ **octonomy** :
+
+ >in my interpretation, i prefer to think of this idea of the entire pipeline as the classifier. thank you for the advice
+
