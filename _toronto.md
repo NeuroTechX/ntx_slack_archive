@@ -663,3 +663,9 @@ See you soon!
 
  >Awesome hack night tonight! Thanks to everyone who came out. Great conversations and excellent progress. Looking forward to the next! Thanks Mozilla! 
 
+5/5/2017 2:50 AM
+
+ **yannick** :
+
+ >Mozilla is Cool :slightly_smiling_face: Was Abi there?
+
