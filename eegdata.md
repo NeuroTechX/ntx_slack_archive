@@ -2268,3 +2268,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >they both work on same input (covariance matrices), so it's fine as long as you estimated them with the same method
 
+5/5/2017 3:46 PM
+
+ **octonomy** :
+
+ >ive been working from the ideas for comparing multiple classifiers across multiple datasets by Bashashati. In that they segregate test based on Band Power (BP) features vs Morlet wavelet features.  They say: The reason we compared the performance of different classifiers when a single feature extraction methodology was used was that the nature of feature spaces was different for each setting and the results could thus be misleading. For example, when we use the BP features, the feature space is of low dimensions compared to the settings where the Morlet feature is used. Therefore, classification methodologies could only be compared when they are applied on the same feature space.
+
