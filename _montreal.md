@@ -351,3 +351,12 @@ Thank you!
 
  >call melanie  when you arrive  438 888 1954
 
+5/5/2017 3:45 PM
+
+ **eferdinand** :
+
+ ><!channel>
+
+> 
+/poll "who's coming tonight?" "Me" "Not Me"
+
