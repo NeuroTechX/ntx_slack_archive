@@ -2346,3 +2346,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >like, for example, to what extent is a grid search considered a Feature extraction.  if it results in restricting the bandpass filter a certain way, it is changing the information which will be considered by the classifier. and yet, it is a part of the classifier as well, since it uses the classifier to decide which preprocess params are best.
 
+5/5/2017 4:01 PM
+
+ **alexandre.barachant** :
+
+ >IMO comparing classifier is only relevant when you want to know which classifier is better for a given feature set. but that's just a part of the story.
+
