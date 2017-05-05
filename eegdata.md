@@ -2292,3 +2292,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >yes, my goal is to compare different classifiers.  im not sure if MDM and TS must be segregated, or if they can be in the same signficance test (Im using Friedman with posthoc Holm)
 
+5/5/2017 3:52 PM
+
+ **alexandre.barachant** :
+
+ >i'm not sure the question can be framed that way
+
