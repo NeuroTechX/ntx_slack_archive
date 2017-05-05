@@ -2364,3 +2364,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >and yes, you can add CSP+LDA
 
+5/5/2017 4:05 PM
+
+ **alexandre.barachant** :
+
+ >all of these algorithms will be benchmarked in the <#C588BQVH9|moabb>
+
