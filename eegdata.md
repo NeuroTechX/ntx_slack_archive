@@ -2334,3 +2334,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >got it. thank you for this clarification.
 
+5/5/2017 3:59 PM
+
+ **octonomy** :
+
+ >i get confused sometimes about where exactly is the distinction between feature extraction vs classification.
+
