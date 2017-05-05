@@ -2280,3 +2280,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >this is true if you want to compare classifiers, i.e for example is it better to use LDA or SVM
 
+5/5/2017 3:50 PM
+
+ **octonomy** :
+
+ >would you describe MDM and TS as projection into a comparable feature space? if the same estimation is used, as you say? im uncertain if the additional projection back to a euclidean plane by TS qualifies as a fundamentally different space than MDM. to the point where it doesnt make sense to compare the same classifier (LDA or LR) against MDM vs TS
+
