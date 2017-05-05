@@ -2262,3 +2262,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >alexandre.barachant may i ask you a question?  among the riemannian methods, would you say that MDM and TS represent fundamentally different feature spaces?  im asking because im trying to decide if classifiers using either method are appropriate to compare in the same statistical significance test.
 
+5/5/2017 3:44 PM
+
+ **alexandre.barachant** :
+
+ >they both work on same input (covariance matrices), so it's fine as long as you estimated them with the same method
+
