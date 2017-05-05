@@ -276,3 +276,9 @@ Mitesh
 
  >Hey guys, not in London but as we are neighbours I thought to share if you didn't know about it.. hack the brain in dub in June (of course for once they organise something I ll be away on holidays :( ) <https://dublin.sciencegallery.com/page/hackbraindublin>
 
+5/5/2017 3:42 PM
+
+ **javi_neuralcubes** :
+
+ ><!channel> our next <#C1G552DD4|smartphone-bci> hackathon is in place <https://www.meetup.com/NeuroTechLDN/events/239755110/> !
+
