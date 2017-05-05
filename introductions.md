@@ -1008,3 +1008,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >Hola! My name is Mar and I'm currently in Montreal working with EEG and diagnosis of Alzheimer's Disease. I studied Biomedical Engineering and I will start a Master's program in Computational Neuroscience next year :grimacing: very excited to be a part of this community! :wave:
 
+5/5/2017 8:18 PM
+
+ **sydneyneurotechx** :
+
+ >welcome mar_estarellas ! Make sure to join the <#C0VFP9ST0|_montreal> channel
+
