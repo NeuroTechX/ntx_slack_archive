@@ -2286,3 +2286,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >would you describe MDM and TS as projection into a comparable feature space? if the same estimation is used, as you say? im uncertain if the additional projection back to a euclidean plane by TS qualifies as a fundamentally different space than MDM. to the point where it doesnt make sense to compare the same classifier (LDA or LR) against MDM vs TS
 
+5/5/2017 3:51 PM
+
+ **octonomy** :
+
+ >yes, my goal is to compare different classifiers.  im not sure if MDM and TS must be segregated, or if they can be in the same signficance test (Im using Friedman with posthoc Holm)
+
