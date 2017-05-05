@@ -2298,3 +2298,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >i'm not sure the question can be framed that way
 
+5/5/2017 3:53 PM
+
+ **alexandre.barachant** :
+
+ >basically, you can only compare thing that are comparable, i.e. that took the same inputs. so here you are not comparing LDA or SVM, but the pipeline TS + classifier versus MDM
+
