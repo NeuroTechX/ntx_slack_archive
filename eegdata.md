@@ -2304,3 +2304,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >basically, you can only compare thing that are comparable, i.e. that took the same inputs. so here you are not comparing LDA or SVM, but the pipeline TS + classifier versus MDM
 
+5/5/2017 3:54 PM
+
+ **alexandre.barachant** :
+
+ >basically, you can benchmark TS+SVM versus TS+LDA versus MDM
+
