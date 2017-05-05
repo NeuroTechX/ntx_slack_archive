@@ -2322,3 +2322,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >in this way, could you also add then also the pipeline of CSP+LDA, since it also takes the same inputs (covariance matrices)?
 
+5/5/2017 3:55 PM
+
+ **alexandre.barachant** :
+
+ >yes. the same way they could have compared BP and wavelets (they both take raw data as input), the difference is in the intepretation. it's the whole pipeline that is better, not just the classifier
+
