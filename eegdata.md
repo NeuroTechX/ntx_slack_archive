@@ -2274,3 +2274,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >ive been working from the ideas for comparing multiple classifiers across multiple datasets by Bashashati. In that they segregate test based on Band Power (BP) features vs Morlet wavelet features.  They say: The reason we compared the performance of different classifiers when a single feature extraction methodology was used was that the nature of feature spaces was different for each setting and the results could thus be misleading. For example, when we use the BP features, the feature space is of low dimensions compared to the settings where the Morlet feature is used. Therefore, classification methodologies could only be compared when they are applied on the same feature space.
 
+5/5/2017 3:50 PM
+
+ **alexandre.barachant** :
+
+ >this is true if you want to compare classifiers, i.e for example is it better to use LDA or SVM
+
