@@ -2358,3 +2358,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >if you have a good classifier for a given feature set, that is not given that this classifier will be optimal for another feature set
 
+5/5/2017 4:05 PM
+
+ **alexandre.barachant** :
+
+ >and yes, you can add CSP+LDA
+
