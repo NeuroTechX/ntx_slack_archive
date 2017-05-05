@@ -2256,3 +2256,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >oh what? you dont like BDF? ha ha ha
 
+5/5/2017 3:44 PM
+
+ **octonomy** :
+
+ >alexandre.barachant may i ask you a question?  among the riemannian methods, would you say that MDM and TS represent fundamentally different feature spaces?  im asking because im trying to decide if classifiers using either method are appropriate to compare in the same statistical significance test.
+
