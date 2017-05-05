@@ -669,3 +669,9 @@ See you soon!
 
  >Mozilla is Cool :slightly_smiling_face: Was Abi there?
 
+5/5/2017 3:07 AM
+
+ **martys** :
+
+ >Yeh. What an awesome space. She was there and  really helpful getting setup! We bonded over outreach event planning. 
+
