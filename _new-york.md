@@ -42,3 +42,9 @@
 
  >rdesai is moving in September
 
+5/5/2017 10:24 AM
+
+ **frederictaieb** :
+
+ >Hey aj, i am right now visiting for 1 month and half, my girlfiend is living here. I am new on NTX and I will be very happy to connect with community here. After 6 years of different fields exploration, i want to mix art (music, light, sculpture) and and techno (rpi, eeg) to make immersive installations. 
+
