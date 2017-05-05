@@ -2340,3 +2340,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >i get confused sometimes about where exactly is the distinction between feature extraction vs classification.
 
+5/5/2017 4:00 PM
+
+ **octonomy** :
+
+ >like, for example, to what extent is a grid search considered a Feature extraction.  if it results in restricting the bandpass filter a certain way, it is changing the information which will be considered by the classifier. and yet, it is a part of the classifier as well, since it uses the classifier to decide which preprocess params are best.
+
