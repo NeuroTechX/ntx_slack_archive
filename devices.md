@@ -1443,3 +1443,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >Well what version are you trying to flash?
 
+5/6/2017 9:49 AM
+
+ **aj** :
+
+ >If it's V1 then that method should work although there was a bug that could lead to failures while uploading
+
