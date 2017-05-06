@@ -2385,3 +2385,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 > 
 
 
+5/6/2017 4:48 PM
+
+ **yannick** :
+
+ >jfrayshe did you check the awesome-bci list? There are some datasets listed there.
+
