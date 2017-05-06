@@ -1503,3 +1503,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >still with v1 so far
 
+5/6/2017 1:58 PM
+
+ **aj** :
+
+ >cool yea there is a variable called `pollTime` (pretty sure that's what it's called there) that needs to be raised on most machines to prevent the over the air programming from failing. Helps to keep the arduino ide window open, or call the build upload from a terminal window if possible and leave that front and center.
+
