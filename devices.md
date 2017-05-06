@@ -1431,3 +1431,9 @@ hope it can help.
 > 
 Is there any crucial step that I'm missing? Or any way to force the OpenBCI to set itself with the latest uploaded firmware? Many thanks!
 
+5/6/2017 9:47 AM
+
+ **aj** :
+
+ >That's the wrong firmware
+
