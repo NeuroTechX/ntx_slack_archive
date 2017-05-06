@@ -1491,3 +1491,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >Are you using v2.0.1?
 
+5/6/2017 1:45 PM
+
+ **nicomaque.jette** :
+
+ >aj that LED makes me recall my first "hello world" with Arduino lol
+
