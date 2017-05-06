@@ -1449,3 +1449,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >If it's V1 then that method should work although there was a bug that could lead to failures while uploading
 
+5/6/2017 9:49 AM
+
+ **aj** :
+
+ ><https://github.com/OpenBCI/OpenBCI_32bit_Library/blob/master/examples/DefaultBoard/DefaultBoard.ino>
+
