@@ -2391,3 +2391,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >jfrayshe did you check the awesome-bci list? There are some datasets listed there.
 
+5/6/2017 8:11 PM
+
+ **octonomy** :
+
+ >yannick the awesome list is pretty small on datasets actually
+
