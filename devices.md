@@ -1383,3 +1383,51 @@ hope it can help.
 
  >w I had made a video. Please check on this link <https://youtu.be/Yd_1TMwuSOA>
 
+5/6/2017 6:22 AM
+
+ **nicomaque.jette** :
+
+ >guys (and aj) , I've been trying to flash the OpenBCI's firmware a very good amount of times now and sometimes it works and other times it just stays with the previous version instead of the new even though the upload worked 100% on the Arduino GUI. Here's the procedure I use:
+
+> 
+
+
+> 
+1) OpenBCI Dongle set to GPIO6.
+
+> 
+2) Power OFF the OpenBCI Board.
+
+> 
+3) Press down both RST and PROG buttons at the same time.
+
+> 
+4) Power ON the OpenBCI Board.
+
+> 
+5) Release the RST button while still holding down the PROG button.
+
+> 
+6) Release the PROG button.
+
+> 
+7) Compile and upload OpenBCI_32bit in Arduino IDE
+
+> 
+8) Power off OpenBCI
+
+> 
+9) OpenBCI Dongle set back to Reset.
+
+> 
+
+
+> 
+(I noticed the firmware don't get updated if the OpenBCI Dongle stays on GPIO6 after an upload)
+
+> 
+
+
+> 
+Is there any crucial step that I'm missing? Or any way to force the OpenBCI to set itself with the latest uploaded firmware? Many thanks!
+
