@@ -1437,3 +1437,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >That's the wrong firmware
 
+5/6/2017 9:49 AM
+
+ **aj** :
+
+ >Well what version are you trying to flash?
+
