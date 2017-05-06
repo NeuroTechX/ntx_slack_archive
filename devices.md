@@ -1461,3 +1461,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >Is the v2 firmware, and soon to be v3 firmware that supports wifi
 
+5/6/2017 9:51 AM
+
+ **aj** :
+
+ >You'll want to upload the radios if you are upgrading from v1 to v2, please follow the upgrade guide if that's the case <https://github.com/OpenBCI/OpenBCI_32bit_Library/blob/master/UPGRADE_GUIDE.md>
+
