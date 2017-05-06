@@ -1467,3 +1467,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >You'll want to upload the radios if you are upgrading from v1 to v2, please follow the upgrade guide if that's the case <https://github.com/OpenBCI/OpenBCI_32bit_Library/blob/master/UPGRADE_GUIDE.md>
 
+5/6/2017 9:52 AM
+
+ **aj** :
+
+ >Hit me in the DM and id be more then happy to hop on a chat and get you back to hacking! 
+
