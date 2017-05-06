@@ -564,3 +564,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >I'm writing(and learning at the same time) the feature extraction step. :sweat_smile:
 
+5/6/2017 9:33 PM
+
+ **sydneyneurotechx** :
+
+ >alexandre.barachant  or hectordomorozco  or hubertjb  may have a good answer
+
