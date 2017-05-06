@@ -2376,3 +2376,12 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >in my interpretation, i prefer to think of this idea of the entire pipeline as the classifier. thank you for the advice
 
+5/6/2017 12:42 AM
+
+ **jfrayshe** :
+
+ >Long time reader first time poster, was wondering if anyone could point me to some datasets that would be useful for analyzing neural oscillations?
+
+> 
+
+
