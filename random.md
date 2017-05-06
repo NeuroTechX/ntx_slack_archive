@@ -819,3 +819,9 @@ Havent read it yet, but definitely caught my attention&
 
  >:eyes:
 
+5/6/2017 4:44 AM
+
+ **sc** :
+
+ >A "stretch" <https://www.technologyreview.com/s/604293/using-brainwaves-to-guess-passwords/>
+
