@@ -1473,3 +1473,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >Hit me in the DM and id be more then happy to hop on a chat and get you back to hacking! 
 
+5/6/2017 10:26 AM
+
+ **nicomaque.jette** :
+
+ >thanks aj ! I've found a way to validate the upload (turning the LED to HIGH/LOW each time in the Arduino sketch) and doing so somehow it worked each time and my script in CPP files all worked as supposed
+
