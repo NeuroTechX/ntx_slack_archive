@@ -1485,3 +1485,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >Yea ive been using that little light for debugging too hahaha
 
+5/6/2017 11:55 AM
+
+ **aj** :
+
+ >Are you using v2.0.1?
+
