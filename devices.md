@@ -1455,3 +1455,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  ><https://github.com/OpenBCI/OpenBCI_32bit_Library/blob/master/examples/DefaultBoard/DefaultBoard.ino>
 
+5/6/2017 9:50 AM
+
+ **aj** :
+
+ >Is the v2 firmware, and soon to be v3 firmware that supports wifi
+
