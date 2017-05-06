@@ -558,3 +558,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Hello everyone. I have some doubt about the ICA, wish someone can help me. ICA seems pretty a good technique to apply in the preprocessing step to remove artifacts like EoG and EMG. But how the ICA is applied to the feature extraction step?
 
+5/6/2017 4:26 PM
+
+ **ch.yumin** :
+
+ >I'm writing(and learning at the same time) the feature extraction step. :sweat_smile:
+
