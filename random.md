@@ -825,3 +825,9 @@ Havent read it yet, but definitely caught my attention&
 
  >A "stretch" <https://www.technologyreview.com/s/604293/using-brainwaves-to-guess-passwords/>
 
+5/7/2017 3:55 PM
+
+ **yannick** :
+
+ >Podcast series on Neural Lace. I havent listened yet, so I cant comment on the quality, but I thought Id share: <https://www.youtube.com/watch?v=RRN91RwiYiw&amp;index=1&amp;list=PLkuAPx_OL_kE35pOKBfEd2TIWWX_tfuvM>
+
