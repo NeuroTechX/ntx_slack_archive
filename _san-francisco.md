@@ -540,3 +540,9 @@ We can meet you in a few days
 
  >Walking back now :-) 
 
+5/7/2017 3:39 AM
+
+ **micslab** :
+
+ >there was some talk about an event end of may, someone coming to SF to give a presentation, did anything happen with that?
+
