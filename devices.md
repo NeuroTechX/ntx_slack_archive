@@ -1515,3 +1515,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >thanks for the info!
 
+5/7/2017 11:21 PM
+
+ **aj** :
+
+ >Anyone done analytics on Intel Edison yet?
+
