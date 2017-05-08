@@ -576,3 +576,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Yet another EEG dataset for motor imagery <http://gigadb.org/dataset/100295>
 
+5/8/2017 3:24 PM
+
+ **davidevaleriani** :
+
+ >And a long article about machine learning online courses <https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0>
+
