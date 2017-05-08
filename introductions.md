@@ -1029,3 +1029,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 > 
 <https://github.com/NeuroTechX/awesome-bci>
 
+5/8/2017 9:38 PM
+
+ **mbiernacki** :
+
+ >Thanks Yannick!
+
