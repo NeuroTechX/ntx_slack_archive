@@ -600,3 +600,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >(Yes, it is behind a pay wall which is FUCKING STUPID OMG)
 
+5/8/2017 5:13 PM
+
+ **hectordomorozco** :
+
+ >Never mind, found it
+
