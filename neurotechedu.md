@@ -582,3 +582,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >And a long article about machine learning online courses <https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0>
 
+5/8/2017 5:12 PM
+
+ **hectordomorozco** :
+
+ >ch.yumin Hey dudie! Ill try to answer your question: I have personally never used ICAs components as features. What Ive seen, though, is people using ICA to decompose ERP components into more basic components. There are some people doing this in Brock University, in Canada. Here is one of the papers: <http://www.sciencedirect.com/science/article/pii/S1053811915003110>
+
