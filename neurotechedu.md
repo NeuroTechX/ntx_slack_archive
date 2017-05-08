@@ -588,3 +588,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >ch.yumin Hey dudie! Ill try to answer your question: I have personally never used ICAs components as features. What Ive seen, though, is people using ICA to decompose ERP components into more basic components. There are some people doing this in Brock University, in Canada. Here is one of the papers: <http://www.sciencedirect.com/science/article/pii/S1053811915003110>
 
+5/8/2017 5:12 PM
+
+ **hectordomorozco** :
+
+ >I couldnt find the pdf version :disappointed:
+
