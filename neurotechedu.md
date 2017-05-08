@@ -606,3 +606,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Never mind, found it
 
+5/8/2017 10:48 PM
+
+ **ch.yumin** :
+
+ >hectordomorozco Yeah... pay wall sucks! Thanks for the .pdf
+
