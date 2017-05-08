@@ -618,3 +618,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >ch.yumin remember that there is <https://sci-hub.cc/>
 
+5/8/2017 10:59 PM
+
+ **ch.yumin** :
+
+ >ray_cassani yes! this is awesome
+
