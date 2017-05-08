@@ -2403,3 +2403,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >octonomy  Add more if you find :slightly_smiling_face:
 
+5/8/2017 5:24 AM
+
+ **octonomy** :
+
+ >fair enough!
+
