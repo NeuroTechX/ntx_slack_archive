@@ -612,3 +612,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >hectordomorozco Yeah... pay wall sucks! Thanks for the .pdf
 
+5/8/2017 10:58 PM
+
+ **ray_cassani** :
+
+ >ch.yumin remember that there is <https://sci-hub.cc/>
+
