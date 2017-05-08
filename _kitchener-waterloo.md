@@ -30,3 +30,9 @@ Neurofeedback (NFB) or EEG biofeedback is a mental training method which makes t
 
  >We look forward to seeing you all on the 25th, starting 5:30 pm.
 
+5/8/2017 4:38 PM
+
+ **francois** :
+
+ >Refer to our Meet-up for more information - Thank you :slightly_smiling_face:
+
