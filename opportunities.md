@@ -333,3 +333,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >alexandre.barachant no I get that too. Its just so Musk right
 
+5/8/2017 9:05 PM
+
+ **bciguy** :
+
+ >anyone know what NeuraLink does?
+
