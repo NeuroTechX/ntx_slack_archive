@@ -1014,3 +1014,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >welcome mar_estarellas ! Make sure to join the <#C0VFP9ST0|_montreal> channel
 
+5/8/2017 9:21 PM
+
+ **mbiernacki** :
+
+ >Hey guys and gals1 I'm Mark, a medical student in Saskatoon, with an engineering background.   Anyone interested in helping me get up to speed on this community? A reading list perhaps?
+
