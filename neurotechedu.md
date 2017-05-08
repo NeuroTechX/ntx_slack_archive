@@ -570,3 +570,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >alexandre.barachant  or hectordomorozco  or hubertjb  may have a good answer
 
+5/8/2017 2:46 PM
+
+ **davidevaleriani** :
+
+ >Yet another EEG dataset for motor imagery <http://gigadb.org/dataset/100295>
+
