@@ -594,3 +594,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >I couldnt find the pdf version :disappointed:
 
+5/8/2017 5:12 PM
+
+ **hectordomorozco** :
+
+ >(Yes, it is behind a pay wall which is FUCKING STUPID OMG)
+
