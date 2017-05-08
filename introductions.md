@@ -1041,3 +1041,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >Welcome mbiernacki !
 
+5/8/2017 10:14 PM
+
+ **mbiernacki** :
+
+ >Hi Sydney.    Thanks for the welcome.   I'll be sure to get smart on this stuff in the next few weeks.   I'm hoping this will be  community to share some ideas and innovation.
+
