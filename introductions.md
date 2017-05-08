@@ -1020,3 +1020,12 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >Hey guys and gals1 I'm Mark, a medical student in Saskatoon, with an engineering background.   Anyone interested in helping me get up to speed on this community? A reading list perhaps?
 
+5/8/2017 9:34 PM
+
+ **yannick** :
+
+ >Hey mbiernacki welcome! Weve got an Awesome BCI List, that might be a good place to start with. Then depending on your interest, look at the different channels and dont by shy to ask questions and/or engage in conversations.
+
+> 
+<https://github.com/NeuroTechX/awesome-bci>
+
