@@ -624,3 +624,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >ray_cassani yes! this is awesome
 
+5/9/2017 12:32 AM
+
+ **sheida** :
+
+ >There's also un-paywall, for those who aren't aware! <https://www.nature.com/news/unpaywall-finds-free-versions-of-paywalled-papers-1.21765>
+
