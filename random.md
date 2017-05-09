@@ -837,3 +837,9 @@ Havent read it yet, but definitely caught my attention&
 
  >Listen to: The SF Giants Are Zapping Their Brains With Electricity. Will It Help? - <http://one.npr.org/i/527457317:527457319>
 
+5/9/2017 5:50 PM
+
+ **yrenard** :
+
+ >oh my god, "it tickles the skin a little bit, but this is how you know it is working"
+
