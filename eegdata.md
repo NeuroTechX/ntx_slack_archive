@@ -2409,3 +2409,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >fair enough!
 
+5/10/2017 9:05 PM
+
+ **jfrayshe** :
+
+ >I have looked at it but struggled to pull the individual datasets using python, any suggestions?
+
