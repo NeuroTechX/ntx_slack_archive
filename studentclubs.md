@@ -498,3 +498,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >Hey giuliosuprig the Student Club Competition PDF should now be accessible for everyone, you can try again and let me know :slightly_smiling_face:
 
+5/10/2017 10:50 PM
+
+ **giuliosuprig** :
+
+ >thanks!
+
