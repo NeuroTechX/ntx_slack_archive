@@ -2433,3 +2433,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >Events are literally events. In an experiment, it almost always refers to some stimulus presented to the subject.
 
+5/10/2017 10:24 PM
+
+ **jfrayshe** :
+
+ >Cheers l will look into thay
+
