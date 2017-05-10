@@ -2415,3 +2415,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >I have looked at it but struggled to pull the individual datasets using python, any suggestions?
 
+5/10/2017 10:15 PM
+
+ **jfrayshe** :
+
+ >Noob questions: what do events refer to in the case of eegdata?
+
