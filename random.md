@@ -843,3 +843,24 @@ Havent read it yet, but definitely caught my attention&
 
  >oh my god, "it tickles the skin a little bit, but this is how you know it is working"
 
+5/10/2017 10:54 PM
+
+ **yannick** :
+
+ >*Swag Question*: Wed like to re-open a NeuroTechX swag store from which people can buy NTX t-shirts, hoodies, mugs, etc.
+
+> 
+Wed start with basic NeuroTechX branding, but would then like to expand with neurotech-related designs.
+
+> 
+*Do you know good online stores for custom swag merchandise?* (we dont want to deal with supply &amp; shipping given the international nature of NTX)
+
+> 
+
+
+> 
+Quality matters! I want to buy five NTX t-shirt and not have to worry about what Im gonna wear ever again :smile: 
+
+> 
+Zuckerberg and Jobs style.
+
