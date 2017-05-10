@@ -2427,3 +2427,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >jfrayshe try MNE library. Install it. There are tutorials on their site that explain (I think) how to download a sample dataset.  I have not used their prerecorded data sets so I'm not speaking from experience.
 
+5/10/2017 10:22 PM
+
+ **octonomy** :
+
+ >Events are literally events. In an experiment, it almost always refers to some stimulus presented to the subject.
+
