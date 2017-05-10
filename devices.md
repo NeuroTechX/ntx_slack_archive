@@ -1527,3 +1527,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >essentially a tiny breakout board for ADS1299
 
+5/10/2017 11:26 PM
+
+ **a.tech** :
+
+ >How cute 
+
