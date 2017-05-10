@@ -2445,3 +2445,9 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >So for example, if you're working with motor imagery, and classifying left hand vs right hand, you have two "classes" of event, left and right. Conventionally, these classes are represented by integer codes, like left=2, right=3. An event in this case means you show either class 2 or 3 to the subject
 
+5/10/2017 10:25 PM
+
+ **octonomy** :
+
+ >Technically event could be used for anything. But most common use is to tag or label data for supervised learning. 
+
