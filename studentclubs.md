@@ -492,3 +492,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >Hi, I'm Omri and I will be starting my Master's in Computational Neuroscience this Fall and really looking forward to bring this club to Queen's University, Kingston. Still in very preliminary stages but should have all summer to get the paperwork together
 
+5/10/2017 10:43 PM
+
+ **yannick** :
+
+ >Hey giuliosuprig the Student Club Competition PDF should now be accessible for everyone, you can try again and let me know :slightly_smiling_face:
+
