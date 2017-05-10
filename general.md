@@ -3195,3 +3195,12 @@ Initial examples:
 
  >stephen did you fail the Poll command? We cant answer& Unless you want to manually count them :stuck_out_tongue:
 
+5/10/2017 10:45 PM
+
+ **yannick** :
+
+ >The Nexus Trilogy +1 (Ramez Naam)
+
+> 
+Neuromancer +1 (William Gibson)
+
