@@ -3168,3 +3168,24 @@ I received couple of invite to share G-Doc from different people in the last 30 
 
  >For anyone who clicked the fake link: <http://www.cbc.ca/news/technology/google-docs-gmail-phishing-attack-1.4099238?cmp=rss>
 
+5/10/2017 10:25 PM
+
+ **stephen** :
+
+ >Poll: What are your favorite works of science fiction that demonstrate brain tech or human intelligence enhancement?
+
+> 
+
+
+> 
+Initial examples:
+
+> 
+- The Nexus Trilogy, by Ramez Naam
+
+> 
+- The Aurora Rhapsody - G.S. Jennsen (a combo of space exploration, HI, and AI. - Tom)
+
+> 
+- Flowers for Algernon - Daniel Keyes (an old classic)
+
