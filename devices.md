@@ -1521,3 +1521,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >Anyone done analytics on Intel Edison yet?
 
+5/10/2017 8:50 PM
+
+ **aj** :
+
+ >essentially a tiny breakout board for ADS1299
+
