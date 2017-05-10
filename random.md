@@ -864,3 +864,9 @@ Quality matters! I want to buy five NTX t-shirt and not have to worry about what
 > 
 Zuckerberg and Jobs style.
 
+5/10/2017 11:34 PM
+
+ **ray_cassani** :
+
+ >yannick, petition: embroidered patches !
+
