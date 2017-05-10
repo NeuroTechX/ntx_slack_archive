@@ -3189,3 +3189,9 @@ Initial examples:
 > 
 - Flowers for Algernon - Daniel Keyes (an old classic)
 
+5/10/2017 10:44 PM
+
+ **yannick** :
+
+ >stephen did you fail the Poll command? We cant answer& Unless you want to manually count them :stuck_out_tongue:
+
