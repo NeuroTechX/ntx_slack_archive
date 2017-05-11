@@ -888,3 +888,9 @@ Zuckerberg and Jobs style.
 
  >hectordomorozco: I second this! With the names of all of the chapters mapped out on the back :) 
 
+5/11/2017 6:31 PM
+
+ **yannick** :
+
+ >no, it is still accessible, we just dont like the quality
+
