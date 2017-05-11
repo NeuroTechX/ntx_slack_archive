@@ -1539,3 +1539,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >nice! 'P' inputs would be on the other side?
 
+5/11/2017 2:32 AM
+
+ **aj** :
+
+ >I never use P so I figured I'd save some space 
+
