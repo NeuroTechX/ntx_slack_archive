@@ -1533,3 +1533,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >How cute 
 
+5/11/2017 12:53 AM
+
+ **nicomaque.jette** :
+
+ >nice! 'P' inputs would be on the other side?
+
