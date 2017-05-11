@@ -339,3 +339,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >anyone know what NeuraLink does?
 
+5/11/2017 3:02 PM
+
+ **eferdinand** :
+
+ ><https://documents.epfl.ch/users/c/ch/chavarri/www/smc2017/smc2017_hackathon.html>
+
