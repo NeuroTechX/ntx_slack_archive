@@ -1551,3 +1551,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >indeed :stuck_out_tongue:
 
+5/11/2017 3:14 AM
+
+ **nicomaque.jette** :
+
+ >I understood that impedance test used voltage difference of a channel between 'P' and 'N' while having Lead-Off current on 'P', I'm not sure how I'd go about with this tiny board
+
