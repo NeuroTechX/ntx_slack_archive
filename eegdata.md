@@ -2451,3 +2451,15 @@ Also, i thinks it's better to have a lot of smaller dataset, rather than a few b
 
  >Technically event could be used for anything. But most common use is to tag or label data for supervised learning. 
 
+5/11/2017 6:38 PM
+
+ **yannick** :
+
+ >Hey jfrey I see you did commit on: <https://github.com/conphyture/LSL2Unity>
+
+> 
+but in the ToDos its also mention to look at: <https://github.com/xfleckx/LSL4Unity>
+
+> 
+Im looking for LSL in Unity, any idea what to use?
+
