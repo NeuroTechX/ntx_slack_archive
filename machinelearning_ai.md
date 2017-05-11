@@ -57,3 +57,9 @@
 
  >As seen advertised on this post by Dustin Tran: <http://dustintran.com/blog/on-model-mismatch-and-bayesian-analysis>
 
+5/11/2017 7:20 PM
+
+ **dano** :
+
+ >Anyone know a good way to use sklearn on multidimensional data?
+
