@@ -75,3 +75,9 @@
 
  >For example, I can train with a matrix X that is `epochs x FFT_freqbins` and get pretty good results, but I'd like to do `epochs x FFT_freqbins x nb_electrodes`
 
+5/11/2017 7:27 PM
+
+ **dano** :
+
+ >shouid I just make X 2 dimensions but flatten any extra dimensional data into a large number of features? `X = epochs x (FFT_freqbins_electrode 1 + FFT_freqbins_electrode 2 + ...)`?
+
