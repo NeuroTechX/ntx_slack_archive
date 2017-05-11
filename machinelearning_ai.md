@@ -87,3 +87,9 @@
 
  >yep that's how you'll do it unless you have some smarter way to use the structure
 
+5/11/2017 9:15 PM
+
+ **maxim** :
+
+ >certainly fine for the first attempt
+
