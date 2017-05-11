@@ -117,3 +117,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >unless using libraries like Theano or Tensorflow, which have their own inbuilt tensor type
 
+5/11/2017 10:34 PM
+
+ **dano** :
+
+ >Hmm, I must be confused about the difference between Tensors and multidimensional arrays then. I thought tensors were all 3D+ matrices in code
+
