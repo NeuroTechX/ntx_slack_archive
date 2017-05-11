@@ -894,3 +894,12 @@ Zuckerberg and Jobs style.
 
  >no, it is still accessible, we just dont like the quality
 
+5/11/2017 6:32 PM
+
+ **yannick** :
+
+ >This was the initial swag we had tried
+
+> 
+<https://shop.spreadshirt.com/neurotechx/>
+
