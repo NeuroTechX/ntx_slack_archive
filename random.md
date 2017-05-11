@@ -870,3 +870,9 @@ Zuckerberg and Jobs style.
 
  >yannick, petition: embroidered patches !
 
+5/11/2017 5:32 PM
+
+ **hectordomorozco** :
+
+ >I would so swag up with some hoodies :heart_eyes:
+
