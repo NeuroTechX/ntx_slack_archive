@@ -903,3 +903,9 @@ Zuckerberg and Jobs style.
 > 
 <https://shop.spreadshirt.com/neurotechx/>
 
+5/11/2017 6:33 PM
+
+ **yannick** :
+
+ >How could we make it better? If you have any idea, please let me know :slightly_smiling_face:
+
