@@ -111,3 +111,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >I would guess numpy - a tensor is pretty much an ndarray
 
+5/11/2017 10:30 PM
+
+ **pat** :
+
+ >unless using libraries like Theano or Tensorflow, which have their own inbuilt tensor type
+
