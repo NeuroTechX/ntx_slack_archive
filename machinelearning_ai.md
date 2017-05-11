@@ -81,3 +81,9 @@
 
  >shouid I just make X 2 dimensions but flatten any extra dimensional data into a large number of features? `X = epochs x (FFT_freqbins_electrode 1 + FFT_freqbins_electrode 2 + ...)`?
 
+5/11/2017 9:15 PM
+
+ **maxim** :
+
+ >yep that's how you'll do it unless you have some smarter way to use the structure
+
