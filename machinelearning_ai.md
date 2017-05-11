@@ -63,3 +63,9 @@
 
  >Anyone know a good way to use sklearn on multidimensional data?
 
+5/11/2017 7:23 PM
+
+ **dano** :
+
+ >I'd like to be able to give models data from multiple EEG electrodes, but want to make sure I'm doing that in the best way possible
+
