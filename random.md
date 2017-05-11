@@ -876,3 +876,9 @@ Zuckerberg and Jobs style.
 
  >I would so swag up with some hoodies :heart_eyes:
 
+5/11/2017 6:30 PM
+
+ **bryan_j** :
+
+ >yannick: did we deactivate the old store? 
+
