@@ -93,3 +93,15 @@
 
  >certainly fine for the first attempt
 
+5/11/2017 10:21 PM
+
+ **dano** :
+
+ >Thanks, related question. Do you have a favorite way to work with multi-dimensional data? Coming from the Pandas school, I've immediately started using Panels, but they're actually getting deprecated in the next update!
+
+> 
+
+
+> 
+Aren't all the cool kids working with Tensors these days? How are they doing that in Python?
+
