@@ -882,3 +882,9 @@ Zuckerberg and Jobs style.
 
  >yannick: did we deactivate the old store? 
 
+5/11/2017 6:30 PM
+
+ **bryan_j** :
+
+ >hectordomorozco: I second this! With the names of all of the chapters mapped out on the back :) 
+
