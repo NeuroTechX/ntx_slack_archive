@@ -123,3 +123,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >Hmm, I must be confused about the difference between Tensors and multidimensional arrays then. I thought tensors were all 3D+ matrices in code
 
+5/11/2017 10:38 PM
+
+ **maxim** :
+
+ >yeah and multidimensional array is exactly a 3D+ matrix
+
