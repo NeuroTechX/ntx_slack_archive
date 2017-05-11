@@ -105,3 +105,9 @@
 > 
 Aren't all the cool kids working with Tensors these days? How are they doing that in Python?
 
+5/11/2017 10:29 PM
+
+ **pat** :
+
+ >I would guess numpy - a tensor is pretty much an ndarray
+
