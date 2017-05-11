@@ -1545,3 +1545,9 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >I never use P so I figured I'd save some space 
 
+5/11/2017 3:08 AM
+
+ **nicomaque.jette** :
+
+ >indeed :stuck_out_tongue:
+
