@@ -69,3 +69,9 @@
 
  >I'd like to be able to give models data from multiple EEG electrodes, but want to make sure I'm doing that in the best way possible
 
+5/11/2017 7:25 PM
+
+ **dano** :
+
+ >For example, I can train with a matrix X that is `epochs x FFT_freqbins` and get pretty good results, but I'd like to do `epochs x FFT_freqbins x nb_electrodes`
+
