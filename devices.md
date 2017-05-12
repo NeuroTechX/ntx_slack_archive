@@ -1581,3 +1581,9 @@ Thanks.
 
  >stephen? What's the PPU you're looking for
 
+5/12/2017 6:23 PM
+
+ **sydneyneurotechx** :
+
+ >I'm connected with Dangerous Things. They do RFID Implants for Humans
+
