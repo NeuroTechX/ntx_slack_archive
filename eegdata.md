@@ -2493,3 +2493,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >Another thing to consider is, the presence of non relevant electrodes (also called "channels") is that they actually might be relevant if they can help reduce weight of channels you think are relevant.  For example, if a "good" channel right over motor cortex shares information with a "bad" channel over forehead, the extent to which the good channel's signal is "similar" (in covariance) might actually help to eliminate that part of the "good" channel's signal to "correct" it. Just a high level speculation here to share 
 
+5/12/2017 11:57 PM
+
+ **octonomy** :
+
+ >In my own work I've experimented with removing channels one by one, using a "leave one out" approach, and haven't seen it to be too much difference on outcome.  I suggest you try running experiments with and without the "bad" electrodes and see for yourself what pattern emerges.
+
