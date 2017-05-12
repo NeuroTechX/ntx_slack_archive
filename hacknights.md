@@ -81,3 +81,9 @@ You might need to get in touch with this club for that .
 
  ><#C0VFP9ST0|_montreal> meet you there tonight <#C073X2ZQW|hacknights> @D3.
 
+5/12/2017 3:38 PM
+
+ **yannick** :
+
+ >Yup, see you there :slightly_smiling_face:
+
