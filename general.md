@@ -3261,3 +3261,9 @@ Neuromancer +1 (William Gibson)
 
  >Peruse this page for 21 search results for neur and 81 for brain, some dating back to the 1930s! <http://www.technovelgy.com/ct/Science_List_Detail.asp?BT=Medical>
 
+5/12/2017 5:13 PM
+
+ **stephen** :
+
+ >Awesome suggestions, thank you watson! Would love to keep building up a library of these neurotech stories!
+
