@@ -3267,3 +3267,9 @@ Neuromancer +1 (William Gibson)
 
  >Awesome suggestions, thank you watson! Would love to keep building up a library of these neurotech stories!
 
+5/12/2017 6:02 PM
+
+ **watson** :
+
+ >Oh wow, forget the 1930s& This one is from 1705! This Machine that I am speaking of, contains a multitude of strange Springs and Screws, and a Man that puts himself into it, is very insensibly carried into vast Speculations, Reflexions, and regular Debates with himself: They have a very hard Name for it in those Parts; but if I were to give it an English Name, it should be calld, The Cogitator, or the Chair of Reflection. <http://www.technovelgy.com/ct/content.asp?Bnum=2697>
+
