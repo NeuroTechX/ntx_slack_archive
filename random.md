@@ -909,3 +909,9 @@ Zuckerberg and Jobs style.
 
  >How could we make it better? If you have any idea, please let me know :slightly_smiling_face:
 
+5/12/2017 1:16 PM
+
+ **hectordomorozco** :
+
+ >Hmmm I dont know, I have very poor swag taste. But I would love some stuff with like cool brain designs or such. I dont know if that helps :3
+
