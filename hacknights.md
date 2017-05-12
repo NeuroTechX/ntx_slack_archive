@@ -75,3 +75,9 @@ You might need to get in touch with this club for that .
 
  >March for Science in San Francisco this Saturday, April 22: want to put Muse headsets on people? Teach people about EEG? We've still got space at our booth -- ping me if you're interested in volunteering as a researcher or a participant!
 
+5/12/2017 3:19 PM
+
+ **sidksv** :
+
+ ><#C0VFP9ST0|_montreal> meet you there tonight <#C073X2ZQW|hacknights> @D3.
+
