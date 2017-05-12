@@ -360,3 +360,9 @@ Thank you!
 > 
 /poll "who's coming tonight?" "Me" "Not Me"
 
+5/12/2017 3:06 AM
+
+ **fred-simard** :
+
+ >With a bit of luck, I should be recording some SSVEP this week.
+
