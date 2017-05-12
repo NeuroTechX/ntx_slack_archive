@@ -1557,3 +1557,15 @@ Is there any crucial step that I'm missing? Or any way to force the OpenBCI to s
 
  >I understood that impedance test used voltage difference of a channel between 'P' and 'N' while having Lead-Off current on 'P', I'm not sure how I'd go about with this tiny board
 
+5/12/2017 12:41 AM
+
+ **stephen** :
+
+ >Does anyone know people who could make a scalable, cheap wireless RFID tag system? 
+
+> 
+Interested in putting sensors on livestock. 
+
+> 
+Thanks.
+
