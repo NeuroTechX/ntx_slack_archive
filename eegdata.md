@@ -2475,3 +2475,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >Is it common practice to automatically preprocess eeg data to filter out electrode signals that occupy a space that should have no impact on what I'm measuring? For example if I was analyzing neural oscillations (alpha and beta) during motor control should I automatically preprocess out signals from electrodes that aren't close to that region of the brain?
 
+5/12/2017 6:40 AM
+
+ **jfrey** :
+
+ >yannick: I started my version because I could not get LSL4Unity work, at least on linux. I have been using LSL2Unity on Linux and Windows, but not extensively. I would say that my library is simpler to grasp, but I think you would be better of using LSL4Unity, it seems they have more features, It's definitely more thoroughly tested and... it's maintained. Once you'll have played with it, I'd like to hear your feedback :wink:
+
