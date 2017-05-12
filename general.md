@@ -3210,3 +3210,9 @@ Neuromancer +1 (William Gibson)
 
  >Flowers for Algernon
 
+5/12/2017 12:50 AM
+
+ **jfrayshe** :
+
+ >Ghost in the Machine is more cognitive philosophy but I've always enjoyed it as a philosophical input to the subject.
+
