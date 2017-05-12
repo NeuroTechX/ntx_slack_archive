@@ -390,3 +390,9 @@ Thank you!
 
  >Will be there in a bit
 
+5/12/2017 10:41 PM
+
+ **yannick** :
+
+ ><https://neurotechx.slack.com/messages/C0VFP9ST0/>
+
