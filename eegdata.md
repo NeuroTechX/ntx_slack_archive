@@ -2481,3 +2481,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >yannick: I started my version because I could not get LSL4Unity work, at least on linux. I have been using LSL2Unity on Linux and Windows, but not extensively. I would say that my library is simpler to grasp, but I think you would be better of using LSL4Unity, it seems they have more features, It's definitely more thoroughly tested and... it's maintained. Once you'll have played with it, I'd like to hear your feedback :wink:
 
+5/12/2017 11:47 PM
+
+ **octonomy** :
+
+ >I think it's your call jfrayshe . I think it depends on your technique. Methods like CSP will apply weights to each electrode, so if those electrodes you want to exclude are truly useless they would end being given little weight anyway
+
