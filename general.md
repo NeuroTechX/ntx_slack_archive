@@ -3216,3 +3216,9 @@ Neuromancer +1 (William Gibson)
 
  >Ghost in the Machine is more cognitive philosophy but I've always enjoyed it as a philosophical input to the subject.
 
+5/12/2017 6:34 AM
+
+ **pierre** :
+
+ >The movie "Strange Days" was pretty cool
+
