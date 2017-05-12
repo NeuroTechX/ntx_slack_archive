@@ -3255,3 +3255,9 @@ Neuromancer +1 (William Gibson)
 
  >If you want to reach even further back in time there is PDKs short story The Unreconstructed M from the 1950s, where theres a door that can be unlocked by brain activity: <http://www.technovelgy.com/ct/content.asp?Bnum=2486>
 
+5/12/2017 5:08 PM
+
+ **watson** :
+
+ >Peruse this page for 21 search results for neur and 81 for brain, some dating back to the 1930s! <http://www.technovelgy.com/ct/Science_List_Detail.asp?BT=Medical>
+
