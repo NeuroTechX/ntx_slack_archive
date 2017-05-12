@@ -3222,3 +3222,9 @@ Neuromancer +1 (William Gibson)
 
  >The movie "Strange Days" was pretty cool
 
+5/12/2017 12:42 PM
+
+ **cbattista** :
+
+ >iain m. banks' 'culture' novels with the neural lace is pretty neat
+
