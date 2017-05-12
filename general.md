@@ -3234,3 +3234,12 @@ Neuromancer +1 (William Gibson)
 
  ><https://en.wikipedia.org/wiki/The_Culture>
 
+5/12/2017 1:43 PM
+
+ **yannick** :
+
+ >davidevaleriani: But what exactly is Neuralink? If you have time to read a brilliant 36,400-word explainer by genius Tim Urban, then you can do so here. If you dont, Davide Valeriani has done an excellent summary right here on The Conversation. However, to borrow a few of Urbans words, NeuraLink is a wizard hat for your brain. 
+
+> 
+<https://theconversation.com/neuralink-wants-to-wire-your-brain-to-the-internet-what-could-possibly-go-wrong-76180>
+
