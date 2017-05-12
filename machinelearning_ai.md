@@ -129,3 +129,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >yeah and multidimensional array is exactly a 3D+ matrix
 
+5/12/2017 3:03 PM
+
+ **watson** :
+
+ >dano, coming from Pandas you might just consider using `xarray`, which is the chosen replacement for Panel. Its basically a wrapper on a numpy ndarray: <http://xarray.pydata.org/en/stable/why-xarray.html>
+
