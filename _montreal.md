@@ -366,3 +366,9 @@ Thank you!
 
  >With a bit of luck, I should be recording some SSVEP this week.
 
+5/12/2017 3:07 AM
+
+ **fred-simard** :
+
+ >For the records, this will be done with my own hardware - built around the ADS1299 - and running my python API on Raspberry Pi. 
+
