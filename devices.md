@@ -1569,3 +1569,9 @@ Interested in putting sensors on livestock.
 > 
 Thanks.
 
+5/12/2017 6:23 PM
+
+ **sydneyneurotechx** :
+
+ >at what cost?
+
