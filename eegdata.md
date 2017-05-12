@@ -2463,3 +2463,9 @@ but in the ToDos its also mention to look at: <https://github.com/xfleckx/LSL4
 > 
 Im looking for LSL in Unity, any idea what to use?
 
+5/12/2017 12:46 AM
+
+ **jfrayshe** :
+
+ >Thanks octonomy that clarifies things and is quite applicable to the data I'm working on.
+
