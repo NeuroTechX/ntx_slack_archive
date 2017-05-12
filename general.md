@@ -3243,3 +3243,9 @@ Neuromancer +1 (William Gibson)
 > 
 <https://theconversation.com/neuralink-wants-to-wire-your-brain-to-the-internet-what-could-possibly-go-wrong-76180>
 
+5/12/2017 5:03 PM
+
+ **watson** :
+
+ >stephen: reaching back in time, therere a few examples of memory implant stories. Gibsons Johnny Mnemonic, with (pretty bad) film adaptation of the same name. and even further back, this story by Philip K Dick, which later became Total Recall: <https://en.wikipedia.org/wiki/We_Can_Remember_It_for_You_Wholesale>
+
