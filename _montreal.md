@@ -372,3 +372,9 @@ Thank you!
 
  >For the records, this will be done with my own hardware - built around the ADS1299 - and running my python API on Raspberry Pi. 
 
+5/12/2017 3:08 AM
+
+ **fred-simard** :
+
+ >Nothing fancy, just a matter of getting it all to work together
+
