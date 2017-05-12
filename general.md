@@ -3228,3 +3228,9 @@ Neuromancer +1 (William Gibson)
 
  >iain m. banks' 'culture' novels with the neural lace is pretty neat
 
+5/12/2017 12:44 PM
+
+ **cbattista** :
+
+ ><https://en.wikipedia.org/wiki/The_Culture>
+
