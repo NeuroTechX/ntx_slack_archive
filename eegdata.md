@@ -2469,3 +2469,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >Thanks octonomy that clarifies things and is quite applicable to the data I'm working on.
 
+5/12/2017 12:48 AM
+
+ **jfrayshe** :
+
+ >Is it common practice to automatically preprocess eeg data to filter out electrode signals that occupy a space that should have no impact on what I'm measuring? For example if I was analyzing neural oscillations (alpha and beta) during motor control should I automatically preprocess out signals from electrodes that aren't close to that region of the brain?
+
