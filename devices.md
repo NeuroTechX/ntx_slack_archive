@@ -1593,3 +1593,9 @@ Thanks.
 
  >Anyone whos played with Analog/Digital inputs with the OpenBCI Ganglion board?
 
+5/13/2017 3:22 PM
+
+ **aj** :
+
+ >Hi everyone! I want to integrate fNIRS/EROS or functional ultrasound (fUS) sensors into my headset on monday. The headset is a bose noise canceling headphones. what company do I buy fNIRS, EROS, fUS sensors from? I specifically want to integrate them through SPI or I2C interfaces. My speciality is system design, electronic design (pcbs), firmware, drivers, wireless comms, applied open source neural decoding algorithms (note i don't make the algs, just find and apply). Thank you sooo much y'all :slightly_smiling_face:
+
