@@ -1587,3 +1587,9 @@ Thanks.
 
  >I'm connected with Dangerous Things. They do RFID Implants for Humans
 
+5/13/2017 2:20 AM
+
+ **yannick** :
+
+ >Anyone whos played with Analog/Digital inputs with the OpenBCI Ganglion board?
+
