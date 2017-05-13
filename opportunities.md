@@ -351,3 +351,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >eferdinand thank you for the information.
 
+5/13/2017 9:49 PM
+
+ **wronk** :
+
+ >They want to make invasive implants to eventually improve human intelligence. I think they're going to start in rats/monkeys and initially try to build devices that will help rehabilitate clinical populations.
+
