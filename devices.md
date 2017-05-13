@@ -1605,3 +1605,9 @@ Thanks.
 
  >there is no wrong answer, not testing intellect or anything, just want to see if anyone has any insight
 
+5/13/2017 11:27 PM
+
+ **mhough** :
+
+ >I'll know more when I meet with the Fus people in Virginia. The tyler lab at va Tech lists some make/model in their papers on fus but I haven't used that. The openfnirs bom is complete I believe.but I don't know if you want a companies support/features. Too many modalities use EROS as an acronym. You talking optical or EIT or something else? Thanks. Sounds great. Do you have a multi physics model? How many sensors do you want to try and fit?
+
