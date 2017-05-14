@@ -147,3 +147,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >tensor is any matrix with 3 dimensions or more
 
+5/14/2017 6:08 AM
+
+ **pat** :
+
+ >Is it? I believe tensor can be any dimension &gt;= 0, just that 0/1/2 are usually called scalar/vector/matrix
+
