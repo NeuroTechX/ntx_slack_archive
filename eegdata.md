@@ -2523,3 +2523,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >there are at least 2 ways to go with this - FFT and DWT
 
+5/14/2017 2:00 AM
+
+ **octonomy** :
+
+ >FFT = fast fourier transform, and DWT = discrete wavelet transform.
+
