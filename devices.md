@@ -1635,3 +1635,9 @@ Thanks.
 
  >what is FEM?
 
+5/14/2017 11:18 PM
+
+ **aj** :
+
+ >would be sweet if we could use MEG but the whole super cooling thing inside a faraday cage
+
