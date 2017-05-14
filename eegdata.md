@@ -2583,3 +2583,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >yep
 
+5/14/2017 3:02 AM
+
+ **octonomy** :
+
+ >they have quite a few. what general type of work are you doing? are you trying to classify motor imagery?
+
