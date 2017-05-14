@@ -2499,3 +2499,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >In my own work I've experimented with removing channels one by one, using a "leave one out" approach, and haven't seen it to be too much difference on outcome.  I suggest you try running experiments with and without the "bad" electrodes and see for yourself what pattern emerges.
 
+5/14/2017 1:49 AM
+
+ **jfrayshe** :
+
+ >octonomy cheers, thank you for your input it is helpful. I think for my work I might apply CSP since the data I am working with is not my own and I don't have much time to experiment with it.
+
