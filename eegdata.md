@@ -2577,3 +2577,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >Thanks octonomy for the response. I suppose I'm looking for a specific example using mne, do they have a tutorial worth looking at?
 
+5/14/2017 3:01 AM
+
+ **octonomy** :
+
+ >yep
+
