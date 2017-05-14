@@ -1611,3 +1611,9 @@ Thanks.
 
  >I'll know more when I meet with the Fus people in Virginia. The tyler lab at va Tech lists some make/model in their papers on fus but I haven't used that. The openfnirs bom is complete I believe.but I don't know if you want a companies support/features. Too many modalities use EROS as an acronym. You talking optical or EIT or something else? Thanks. Sounds great. Do you have a multi physics model? How many sensors do you want to try and fit?
 
+5/14/2017 10:46 AM
+
+ **aj** :
+
+ >I saw the bom for openfnir was pretty complete. I reached out to the fUS people too, gonna try and call them tomorrow. I was talking optical EROS, but yea still hair is a problem with that modality
+
