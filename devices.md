@@ -1617,3 +1617,9 @@ Thanks.
 
  >I saw the bom for openfnir was pretty complete. I reached out to the fUS people too, gonna try and call them tomorrow. I was talking optical EROS, but yea still hair is a problem with that modality
 
+5/14/2017 10:02 PM
+
+ **mhough** :
+
+ >Sure. I don't know what people want to hear on the hair thing. Sick people don't care about their hair and if you want to "see through walls" then use MEG. Do you mean Gratton's EROS? Are they still doing that? It never made it into a paper but I think. An aside. We got a good confirmation of Gratton's space fortress -subcortical volume result from Arul and Omar's data at GazzLab. EROS if I remember correctly is based on the same physiological mechanism as Bayford and Holders-EIT in that water changes are what's driving your imaging contrast.
+
