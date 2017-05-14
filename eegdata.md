@@ -2511,3 +2511,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >Anyone care to weigh on the function within mne they use to convert time based eeg data to frequency?
 
+5/14/2017 2:00 AM
+
+ **octonomy** :
+
+ >yes its a good standard.  the work being done with riemannian geometry is as good and better it is looking like more and more, you might consider it.  check out pyRiemann library. you can use it like a scikit  learn classifier
+
