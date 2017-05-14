@@ -2535,3 +2535,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >FFT removes the time information.  so you chose some kind of binning strategy (i.e. what size epoch windows you want to look at) and then fourier transform yields a histogram of power at different frequency bands.
 
+5/14/2017 2:02 AM
+
+ **octonomy** :
+
+ >DWT is similar, but it retains the time information
+
