@@ -372,3 +372,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >It's not neurotech but if anyone is interested in running the nuclear reactor at Reed College they are hiring an operations manager.
 
+5/14/2017 8:00 AM
+
+ **mhough** :
+
+ ><http://jobs.reed.edu/positions/reactor-operations-manager.html>
+
