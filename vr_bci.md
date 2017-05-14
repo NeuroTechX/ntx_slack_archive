@@ -99,3 +99,12 @@
 
  >Haha! Id need to attend an open source workshop to learn best practices... ho wait...
 
+5/14/2017 8:01 PM
+
+ **dano** :
+
+ >Just gonna leave this here...
+
+> 
+<https://blog.betawave.io/a-software-engineers-guide-to-unity-and-ar-vr-development-part-1-c20ce973bf8e>
+
