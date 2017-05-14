@@ -2529,3 +2529,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >FFT = fast fourier transform, and DWT = discrete wavelet transform.
 
+5/14/2017 2:01 AM
+
+ **octonomy** :
+
+ >FFT removes the time information.  so you chose some kind of binning strategy (i.e. what size epoch windows you want to look at) and then fourier transform yields a histogram of power at different frequency bands.
+
