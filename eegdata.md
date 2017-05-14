@@ -2559,3 +2559,15 @@ Im looking for LSL in Unity, any idea what to use?
 
  >are you working with labeled data?
 
+5/14/2017 2:07 AM
+
+ **octonomy** :
+
+ >i have done some work with getting nonstandard EEG files into MNE form.  basically if you can get your data into numpy arrays, you can then load them up in to MNE objects.  basically you want to create a RawArray object, and then if you have class labels (i.e. events), you can use the RawArray to create an Events object.  once you have an events object, you can quickly and easily select epochs as needed.  
+
+> 
+
+
+> 
+the parts you have to work out are just how to load up the objects properly, you have to tell the RawArray which channels are EEG and which are STIM (i.e. not electrodes, but channels providing data about events, or stimulation).
+
