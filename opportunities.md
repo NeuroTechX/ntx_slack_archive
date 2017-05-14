@@ -366,3 +366,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 > 
 <http://waitbutwhy.com/2017/04/neuralink.html>
 
+5/14/2017 8:00 AM
+
+ **mhough** :
+
+ >It's not neurotech but if anyone is interested in running the nuclear reactor at Reed College they are hiring an operations manager.
+
