@@ -2571,3 +2571,9 @@ Im looking for LSL in Unity, any idea what to use?
 > 
 the parts you have to work out are just how to load up the objects properly, you have to tell the RawArray which channels are EEG and which are STIM (i.e. not electrodes, but channels providing data about events, or stimulation).
 
+5/14/2017 2:22 AM
+
+ **jfrayshe** :
+
+ >Thanks octonomy for the response. I suppose I'm looking for a specific example using mne, do they have a tutorial worth looking at?
+
