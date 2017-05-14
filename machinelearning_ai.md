@@ -141,3 +141,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >to my understanding, a tensor is just another way of saying 4 dimensional array
 
+5/14/2017 4:33 AM
+
+ **yrenard** :
+
+ >tensor is any matrix with 3 dimensions or more
+
