@@ -2541,3 +2541,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >DWT is similar, but it retains the time information
 
+5/14/2017 2:03 AM
+
+ **octonomy** :
+
+ >if you care about that.  but DWT is more complex because it is producing a lot more features to deal with. it gives you band power over time, and can also be used to show the phase information as well.  DWT is typically shown as the rainbow colored map, where red or blue is high or low voltage, on a plot where y axis is frequency bands, and x axis is time.  so its really a 3d graph
+
