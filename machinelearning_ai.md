@@ -135,3 +135,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >dano, coming from Pandas you might just consider using `xarray`, which is the chosen replacement for Panel. Its basically a wrapper on a numpy ndarray: <http://xarray.pydata.org/en/stable/why-xarray.html>
 
+5/14/2017 3:03 AM
+
+ **octonomy** :
+
+ >to my understanding, a tensor is just another way of saying 4 dimensional array
+
