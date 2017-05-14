@@ -2505,3 +2505,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >octonomy cheers, thank you for your input it is helpful. I think for my work I might apply CSP since the data I am working with is not my own and I don't have much time to experiment with it.
 
+5/14/2017 1:50 AM
+
+ **jfrayshe** :
+
+ >Anyone care to weigh on the function within mne they use to convert time based eeg data to frequency?
+
