@@ -153,3 +153,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >Is it? I believe tensor can be any dimension &gt;= 0, just that 0/1/2 are usually called scalar/vector/matrix
 
+5/14/2017 4:19 PM
+
+ **yrenard** :
+
+ >yes you are right pat, just that 3 and above have no specific name :slightly_smiling_face:
+
