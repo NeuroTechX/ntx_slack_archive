@@ -2553,3 +2553,9 @@ Im looking for LSL in Unity, any idea what to use?
 
  >FFT usually shows power on the y axis, and frequency band on the x axis. shown as a bar chart histogram, or line graph
 
+5/14/2017 2:05 AM
+
+ **octonomy** :
+
+ >are you working with labeled data?
+
