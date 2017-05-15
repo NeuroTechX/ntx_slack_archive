@@ -2649,3 +2649,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >I'm really attempting to use a eeg data to demonstrate neural oscillations as a feature extraction 
 
+5/15/2017 7:48 PM
+
+ **jfrayshe** :
+
+ >I'm only focusing on alpha and beta since they are predominant during motor control.
+
