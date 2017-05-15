@@ -36,3 +36,9 @@
 
  >great - nice to meet you :slightly_smiling_face:
 
+5/15/2017 8:33 PM
+
+ **wronk** :
+
+ >Hi all! I'm going to be moving to Boston in a few months and am trying to break into the neuroeng/neurotech job market. Do any of you have a handle on that space in Boston? I'm specifically looking for resources or contacts for companies working on BCIs and/or neural implants. If it helps, my background is in biomedical/electrical engineering, neuroscience, and machine learning. I'm happy to reward helpful advice with a pint :slightly_smiling_face:
+
