@@ -1080,3 +1080,12 @@ So, I really happy to be here!
 
  >Hey wronk, NeuroTechX is currently looking into how we could help to facilitate that kind of match making, helping both the field and talented people looking to work/study in neurotech.
 
+5/15/2017 10:55 PM
+
+ **yannick** :
+
+ >You might want to look at: <http://neurotechx.com/recruitment.html>
+
+> 
+(not officially announced :stuck_out_tongue: very beta-ish, for early adopters)
+
