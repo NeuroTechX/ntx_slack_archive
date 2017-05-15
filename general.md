@@ -3291,3 +3291,15 @@ Neuromancer +1 (William Gibson)
 > 
 I am studying for a master in software engineering and no academic background in neuroscience. While I will use online resource  a to learn (and neurotechedu!) I would love to do some course/summer school.. this is the only one I found so far in Europe (with not too high requirements). Thanks!
 
+5/15/2017 11:16 PM
+
+ **wronk** :
+
+ >francescacoo, it seems like neuroscience is one of several different topics, so it depends on your goals. Here are a couple more free and neuro focused resources that I'd definitely recommend (from personal experience).
+
+> 
+<https://www.coursera.org/learn/computational-neuroscience>
+
+> 
+<http://courses.washington.edu/braindyn/>  (This annual workshop will repeat in 2018)
+
