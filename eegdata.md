@@ -2607,3 +2607,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >octonomy essentially I am attempting to visualize neural oscillations in the alpha and beta range that occur during actual vs imagined motion from the eegbci dataset available in mne.datasets
 
+5/15/2017 6:03 PM
+
+ **octonomy** :
+
+ >So you want to apply alpha and/or beta filter on epochs of event labeled data?
+
