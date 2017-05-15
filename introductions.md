@@ -1053,3 +1053,12 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >Hi everyone, I'm Mark, and I'm hoping to get more involved with the community and look for neurotech jobs. I've done a fair amount of work on BCIs, and my background is in biomedical engineering, neuroscience, and machine learning. Do you all know of any good contacts or job resources? I'll keep my eye on <#C0FNHPCF4|opportunities>, but any extra advice would be super helpful :slightly_smiling_face: Currently, I'm looking for something in Boston (potentially at Kernel). Thanks!
 
+5/15/2017 8:45 PM
+
+ **allangcosta** :
+
+ >Hey Guy, I'm Allan Costa! I'm Brazilian and a student of the computer science course. I got started with the BCI technologies and I intend to make my term paper in this area of the tech!! 
+
+> 
+So, I really happy to be here!
+
