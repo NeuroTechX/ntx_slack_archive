@@ -1659,3 +1659,9 @@ Thanks.
 
  >Finite element modeling/models. It's a means of computing realistic physics solutions when you have complex structure like the head as opposed to 3 or 4 concentric spheres 
 
+5/15/2017 2:14 AM
+
+ **aj** :
+
+ >i like magnets as a solution to the hair problem
+
