@@ -1074,3 +1074,9 @@ So, I really happy to be here!
 
  >Welcome wronk . Yes <#C0FNHPCF4|opportunities>  is the place to look for now
 
+5/15/2017 10:54 PM
+
+ **yannick** :
+
+ >Hey wronk, NeuroTechX is currently looking into how we could help to facilitate that kind of match making, helping both the field and talented people looking to work/study in neurotech.
+
