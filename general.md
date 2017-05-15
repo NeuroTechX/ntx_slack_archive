@@ -3282,3 +3282,12 @@ Neuromancer +1 (William Gibson)
 > 
 <http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang>
 
+5/15/2017 10:35 PM
+
+ **francescacoo** :
+
+ >What do you think of this? <http://summerschool.ssa.org.ua/program/computational-neuroscience>
+
+> 
+I am studying for a master in software engineering and no academic background in neuroscience. While I will use online resource  a to learn (and neurotechedu!) I would love to do some course/summer school.. this is the only one I found so far in Europe (with not too high requirements). Thanks!
+
