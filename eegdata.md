@@ -2643,3 +2643,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >Hmmm about a week at this point. I've laid a foundation but I wasn't approaching it from an ERP perspective 
 
+5/15/2017 7:47 PM
+
+ **jfrayshe** :
+
+ >I'm really attempting to use a eeg data to demonstrate neural oscillations as a feature extraction 
+
