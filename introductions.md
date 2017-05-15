@@ -1062,3 +1062,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 > 
 So, I really happy to be here!
 
+5/15/2017 9:28 PM
+
+ **sydneyneurotechx** :
+
+ >welcome allangcosta !
+
