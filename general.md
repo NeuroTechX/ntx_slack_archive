@@ -3273,3 +3273,12 @@ Neuromancer +1 (William Gibson)
 
  >Oh wow, forget the 1930s& This one is from 1705! This Machine that I am speaking of, contains a multitude of strange Springs and Screws, and a Man that puts himself into it, is very insensibly carried into vast Speculations, Reflexions, and regular Debates with himself: They have a very hard Name for it in those Parts; but if I were to give it an English Name, it should be calld, The Cogitator, or the Chair of Reflection. <http://www.technovelgy.com/ct/content.asp?Bnum=2697>
 
+5/15/2017 2:32 PM
+
+ **dano** :
+
+ >The Truth of Fact, the Truth of Feeling by Ted Chiang
+
+> 
+<http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang>
+
