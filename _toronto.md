@@ -675,3 +675,60 @@ See you soon!
 
  >Yeh. What an awesome space. She was there and  really helpful getting setup! We bonded over outreach event planning. 
 
+5/15/2017 9:09 PM
+
+ **dano** :
+
+ >```
+
+> 
+ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+
+> 
+||H |||a |||c |||k |||n |||i |||g |||h |||t ||
+
+> 
+||__|||__|||__|||__|||__|||__|||__|||__|||__||
+
+> 
+|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
+
+> 
+
+
+> 
+```
+
+> 
+
+
+> 
+*NeuroTechTO Hacknight: Classifier testing edition*
+
+> 
+
+
+> 
+Wednesday, May 17, 7-11pm
+
+> 
+VarageSale
+
+> 
+111 Peter St, Suite 901
+
+> 
+
+
+> 
+Just got back from vacation and really looking forward to this week's hacknight:
+
+> 
+- EEG 101 has a Gaussian Naive Bayes classifier! This week we'll implement in React Native and test it
+
+> 
+- Neurodoro has a functional cognitive test! Now we can collect data and run TPOT to look for regression algorithms that can correlate EEG data with cognitive performance
+
+> 
+- As always, any other ideas and projects are welcome
+
