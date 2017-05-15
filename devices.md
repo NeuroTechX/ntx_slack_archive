@@ -1641,3 +1641,9 @@ Thanks.
 
  >would be sweet if we could use MEG but the whole super cooling thing inside a faraday cage
 
+5/15/2017 12:26 AM
+
+ **aj** :
+
+ >sooo <http://www.sciencedirect.com/science/article/pii/S1053811917300411>
+
