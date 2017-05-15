@@ -2637,3 +2637,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >How much time do you have to do this?
 
+5/15/2017 7:25 PM
+
+ **jfrayshe** :
+
+ >Hmmm about a week at this point. I've laid a foundation but I wasn't approaching it from an ERP perspective 
+
