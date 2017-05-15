@@ -2619,3 +2619,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >Thereby making graphs of epochs labeled  "actual" side-by-side with epochs labeled "imagined".
 
+5/15/2017 6:06 PM
+
+ **octonomy** :
+
+ >To be honest, it sounds more like you're in the realm of ERP type study
+
