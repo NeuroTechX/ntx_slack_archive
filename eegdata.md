@@ -2601,3 +2601,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >sc: Really accessible. Will keep this in mind for teaching
 
+5/15/2017 3:40 PM
+
+ **jfrayshe** :
+
+ >octonomy essentially I am attempting to visualize neural oscillations in the alpha and beta range that occur during actual vs imagined motion from the eegbci dataset available in mne.datasets
+
