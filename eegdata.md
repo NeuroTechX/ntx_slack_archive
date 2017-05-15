@@ -2589,3 +2589,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >they have quite a few. what general type of work are you doing? are you trying to classify motor imagery?
 
+5/15/2017 12:09 PM
+
+ **sc** :
+
+ >Lovely explanation of the Fourier Transform <http://gizmodo.com/digital-music-couldnt-exist-without-the-fourier-transfo-1699155287>
+
