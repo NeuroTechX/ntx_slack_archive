@@ -2613,3 +2613,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >So you want to apply alpha and/or beta filter on epochs of event labeled data?
 
+5/15/2017 6:05 PM
+
+ **octonomy** :
+
+ >Thereby making graphs of epochs labeled  "actual" side-by-side with epochs labeled "imagined".
+
