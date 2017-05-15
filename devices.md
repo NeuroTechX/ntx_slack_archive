@@ -1653,3 +1653,9 @@ Thanks.
 
  >Yeah that's real and right on Matthew for the last author credit on that! I didn't know he was interested in that part too. And yeah your not going to have a wearable version of that anytime soon. 
 
+5/15/2017 1:25 AM
+
+ **mhough** :
+
+ >Finite element modeling/models. It's a means of computing realistic physics solutions when you have complex structure like the head as opposed to 3 or 4 concentric spheres 
+
