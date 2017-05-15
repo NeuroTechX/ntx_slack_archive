@@ -1047,3 +1047,9 @@ Like rouffi, murielle and others youll find in the <#C0VTD0ETW|_paris> channel
 
  >Hi Sydney.    Thanks for the welcome.   I'll be sure to get smart on this stuff in the next few weeks.   I'm hoping this will be  community to share some ideas and innovation.
 
+5/15/2017 6:52 PM
+
+ **wronk** :
+
+ >Hi everyone, I'm Mark, and I'm hoping to get more involved with the community and look for neurotech jobs. I've done a fair amount of work on BCIs, and my background is in biomedical engineering, neuroscience, and machine learning. Do you all know of any good contacts or job resources? I'll keep my eye on <#C0FNHPCF4|opportunities>, but any extra advice would be super helpful :slightly_smiling_face: Currently, I'm looking for something in Boston (potentially at Kernel). Thanks!
+
