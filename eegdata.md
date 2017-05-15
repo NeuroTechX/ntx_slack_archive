@@ -2631,3 +2631,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >In which you might take say, 100 "active" epochs and average them. And then 100 "passive" epochs and average them. Producing two side by side average visualizations. Which could be either the average actual signal filtered in the range you want, or histogram presenting statistics
 
+5/15/2017 6:08 PM
+
+ **octonomy** :
+
+ >How much time do you have to do this?
+
