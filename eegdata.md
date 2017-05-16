@@ -2697,3 +2697,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >In ERP, you show two graphs. In one, the average waveform of the 100 active, and the average waveform of the 100 imagined. That's one way to go
 
+5/16/2017 3:30 AM
+
+ **octonomy** :
+
+ >The other way to go is, sounds like what you're trying, FFT to produce histogram, or bar chart, showing power at different frequency bands.
+
