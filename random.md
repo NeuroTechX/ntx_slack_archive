@@ -915,3 +915,9 @@ Zuckerberg and Jobs style.
 
  >Hmmm I dont know, I have very poor swag taste. But I would love some stuff with like cool brain designs or such. I dont know if that helps :3
 
+5/16/2017 1:51 PM
+
+ **bryan_j** :
+
+ >yannick: fair enough. I will think about a new store! 
+
