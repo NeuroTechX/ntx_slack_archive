@@ -3339,3 +3339,9 @@ I am studying for a master in software engineering and no academic background in
 
  >^^ cc graeme might be able to intro you to the right folks :slightly_smiling_face:
 
+5/16/2017 2:13 PM
+
+ **yannick** :
+
+ >or hubertjb :slightly_smiling_face:
+
