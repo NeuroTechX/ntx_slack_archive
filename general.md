@@ -3309,3 +3309,9 @@ I am studying for a master in software engineering and no academic background in
 
  >Highly recommend that Computational Neuorscience course. I took it a few years ago. It provides a really interesting introduction and use case for differential equations
 
+5/16/2017 6:36 AM
+
+ **francescacoo** :
+
+ >wronk: thanks for the links! By the different topics you mean the others in computer science? It is possible to select one stream to follow and I would do the computational neuroscience one.. thank you! :)
+
