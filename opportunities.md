@@ -384,3 +384,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >If you already know what Cherenkov radiation is you might be interested in applying
 
+5/16/2017 3:34 AM
+
+ **octonomy** :
+
+ >Jeez Louise! I grew up in Portland and all this time I had NO idea Reed had a nuclear reactor.
+
