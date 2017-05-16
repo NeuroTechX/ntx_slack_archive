@@ -3321,3 +3321,9 @@ I am studying for a master in software engineering and no academic background in
 
  >Could anybody point me in the direction of the UX team Interaxon? I would love to get in contact with them to figure out what UX questions theyre trying to tackle. Im a masters student at Indiana University studying UX Design/UX Research, and I have a couple muse headsets that are looking for some action :slightly_smiling_face: thanks!
 
+5/16/2017 1:51 PM
+
+ **bryan_j** :
+
+ >Hahaha we should remember where... 
+
