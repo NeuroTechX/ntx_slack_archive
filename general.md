@@ -3315,3 +3315,9 @@ I am studying for a master in software engineering and no academic background in
 
  >wronk: thanks for the links! By the different topics you mean the others in computer science? It is possible to select one stream to follow and I would do the computational neuroscience one.. thank you! :)
 
+5/16/2017 12:59 PM
+
+ **braden** :
+
+ >Could anybody point me in the direction of the UX team Interaxon? I would love to get in contact with them to figure out what UX questions theyre trying to tackle. Im a masters student at Indiana University studying UX Design/UX Research, and I have a couple muse headsets that are looking for some action :slightly_smiling_face: thanks!
+
