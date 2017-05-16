@@ -732,3 +732,9 @@ Just got back from vacation and really looking forward to this week's hacknight:
 > 
 - As always, any other ideas and projects are welcome
 
+5/16/2017 1:38 PM
+
+ **bryan_j** :
+
+ >Hey <!channel>! NeuroTechTO has an event next week, you may have heard, and we have some space left for exhibitors! If you have a cool EEG-based project on the go, email <mailto:to@neurotechx.com|to@neurotechx.com> if you would like to showcase. Thanks! 
+
