@@ -2715,3 +2715,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >technically, jpeg compression is the cosine transform, but close enough
 
+5/16/2017 11:24 PM
+
+ **jfrayshe** :
+
+ >The latter is what I envisioned, an average of values between 2 different experimental runs 
+
