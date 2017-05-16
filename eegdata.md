@@ -2721,3 +2721,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >The latter is what I envisioned, an average of values between 2 different experimental runs 
 
+5/16/2017 11:25 PM
+
+ **octonomy** :
+
+ >Good ok. So if you take that approach of average, if you choose to show waveforms it's the ERP approach
+
