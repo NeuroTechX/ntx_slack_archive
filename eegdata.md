@@ -2673,3 +2673,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >You said you want to visualize active vs imagined.
 
+5/16/2017 3:27 AM
+
+ **octonomy** :
+
+ >Now my question was about whether you're doing single trial or averaged across many trials
+
