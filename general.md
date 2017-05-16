@@ -3303,3 +3303,9 @@ I am studying for a master in software engineering and no academic background in
 > 
 <http://courses.washington.edu/braindyn/>  (This annual workshop will repeat in 2018)
 
+5/16/2017 3:41 AM
+
+ **dano** :
+
+ >Highly recommend that Computational Neuorscience course. I took it a few years ago. It provides a really interesting introduction and use case for differential equations
+
