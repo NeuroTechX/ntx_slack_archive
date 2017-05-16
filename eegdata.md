@@ -2691,3 +2691,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >Are you looking to plot 200 individual graphs? Of all epochs filtered to alpha/beta?
 
+5/16/2017 3:29 AM
+
+ **octonomy** :
+
+ >In ERP, you show two graphs. In one, the average waveform of the 100 active, and the average waveform of the 100 imagined. That's one way to go
+
