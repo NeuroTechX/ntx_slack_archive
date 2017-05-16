@@ -2709,3 +2709,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >But in this case, you have the same question: are you going to plot 200 bar chart histograms? Or are you going to present averages of 100 and 100 into just 2 graphs.
 
+5/16/2017 7:53 PM
+
+ **fred-simard** :
+
+ >technically, jpeg compression is the cosine transform, but close enough
+
