@@ -2667,3 +2667,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >My question is about your visualization.
 
+5/16/2017 3:26 AM
+
+ **octonomy** :
+
+ >You said you want to visualize active vs imagined.
+
