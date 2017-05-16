@@ -2679,3 +2679,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >Now my question was about whether you're doing single trial or averaged across many trials
 
+5/16/2017 3:27 AM
+
+ **octonomy** :
+
+ >Like, let's say you have a dataset with 200 labeled trials, each say 4sec long, and 100 are active, 100 are imagined.
+
