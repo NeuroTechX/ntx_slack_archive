@@ -2703,3 +2703,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >The other way to go is, sounds like what you're trying, FFT to produce histogram, or bar chart, showing power at different frequency bands.
 
+5/16/2017 3:31 AM
+
+ **octonomy** :
+
+ >But in this case, you have the same question: are you going to plot 200 bar chart histograms? Or are you going to present averages of 100 and 100 into just 2 graphs.
+
