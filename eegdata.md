@@ -2655,3 +2655,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >I'm only focusing on alpha and beta since they are predominant during motor control.
 
+5/16/2017 3:26 AM
+
+ **octonomy** :
+
+ >I understand. I work with motor imagery, and alpha and beta too. The alpha and beta we usually just filter in one pass, from 7-30. There's a bandpass  filter in MNE. 
+
