@@ -2685,3 +2685,9 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >Like, let's say you have a dataset with 200 labeled trials, each say 4sec long, and 100 are active, 100 are imagined.
 
+5/16/2017 3:28 AM
+
+ **octonomy** :
+
+ >Are you looking to plot 200 individual graphs? Of all epochs filtered to alpha/beta?
+
