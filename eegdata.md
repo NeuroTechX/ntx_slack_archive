@@ -2727,3 +2727,15 @@ the parts you have to work out are just how to load up the objects properly, you
 
  >Good ok. So if you take that approach of average, if you choose to show waveforms it's the ERP approach
 
+5/17/2017 10:43 PM
+
+ **octonomy** :
+
+ >Wondering if anyone has a rough estimate of what's the state of the art performance accuracy for motor imagery BCI these days? What's the best achieved with online use? Anyone have any idea?
+
+> 
+
+
+> 
+For two class my guess is somewhere around 80%
+
