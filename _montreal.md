@@ -402,3 +402,9 @@ Thank you!
 
  >Hi all! Im from the student club SynapsETS and from the CÉGPA, the Automated Manufacturing Engineering Student Comitee. We're looking for opportunities to organize Shop visit/Lab visit in different branch. So I was wondering if some of you would be interested to show your work to GPA student next semesters, since we got a health technology specialization? <!channel> 
 
+5/17/2017 2:06 AM
+
+ **copizo** :
+
+ >Forgot to mention, from ETS!
+
