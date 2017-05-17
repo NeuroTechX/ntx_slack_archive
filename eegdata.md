@@ -2745,3 +2745,9 @@ For two class my guess is somewhere around 80%
 
  >It depends how many channel you have available and where they are located, but assuming you have good amount of electrodes and good locations, and that your subjects are also well trained, I would more shoot for 90 % accuracy for a two class BCI ; check out alexandre.barachant 's <https://hal.archives-ouvertes.fr/hal-00693321/file/esannBCI.pdf>
 
+5/17/2017 11:34 PM
+
+ **octonomy** :
+
+ >Thanks yrenard . I was asking for any number of channels, whatever is the highest mark so far. Thanks for the paper this helps. I know the Riemann methods seem to be the leading accuracy right now
+
