@@ -414,3 +414,9 @@ Thank you!
 
  >super!
 
+5/17/2017 8:36 PM
+
+ **naoto** :
+
+ >how long is the sampling rate and time?
+
