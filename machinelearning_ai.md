@@ -159,3 +159,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >yes you are right pat, just that 3 and above have no specific name :slightly_smiling_face:
 
+5/17/2017 8:34 PM
+
+ **dano** :
+
+ >At 10:30am tomorrow PST, 1:30 est, there will be a talk at Google I/O on Tensorflow for Non-Experts at this link: <https://www.youtube.com/watch?v=safQDjgDVAQ>
+
