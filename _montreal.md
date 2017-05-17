@@ -426,3 +426,9 @@ Thank you!
 
  >250 Hz, recorded for 20 seconds and averaged over 10 trials. I already developed an algorithm to detect ASSR online, As soon as my setup is fully functionnal, i'll flip this in an online decoding demo
 
+5/17/2017 11:01 PM
+
+ **fred-simard** :
+
+ >and this the channel in Pz, as suggested by yannick i will be trying Oz next time
+
