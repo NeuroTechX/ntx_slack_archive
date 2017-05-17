@@ -2739,3 +2739,9 @@ the parts you have to work out are just how to load up the objects properly, you
 > 
 For two class my guess is somewhere around 80%
 
+5/17/2017 11:03 PM
+
+ **yrenard** :
+
+ >It depends how many channel you have available and where they are located, but assuming you have good amount of electrodes and good locations, and that your subjects are also well trained, I would more shoot for 90 % accuracy for a two class BCI ; check out alexandre.barachant 's <https://hal.archives-ouvertes.fr/hal-00693321/file/esannBCI.pdf>
+
