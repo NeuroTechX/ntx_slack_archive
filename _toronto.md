@@ -738,3 +738,21 @@ Just got back from vacation and really looking forward to this week's hacknight:
 
  >Hey <!channel>! NeuroTechTO has an event next week, you may have heard, and we have some space left for exhibitors! If you have a cool EEG-based project on the go, email <mailto:to@neurotechx.com|to@neurotechx.com> if you would like to showcase. Thanks! 
 
+5/17/2017 10:28 PM
+
+ **bryan_j** :
+
+ ><!channel> 
+
+> 
+
+
+> 
+NTTO hack night tonight! 
+
+> 
+
+
+> 
+Follow the signage to find the gold, Varagesale, at the end of the NTX rainbow! :ntxblue: :brain: 
+
