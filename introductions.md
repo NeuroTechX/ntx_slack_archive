@@ -1095,3 +1095,9 @@ So, I really happy to be here!
 
  >yannick, thanks! I'll check that out
 
+5/17/2017 4:26 PM
+
+ **tonyb** :
+
+ >Hey folks!  I'm Tony Balbin, a consciousness hacking enthusiast who runs the site <http://warrior.do|warrior.do>. Great to connect with fellow explorers.
+
