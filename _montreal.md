@@ -420,3 +420,9 @@ Thank you!
 
  >how long is the sampling rate and time?
 
+5/17/2017 10:56 PM
+
+ **fred-simard** :
+
+ >250 Hz, recorded for 20 seconds and averaged over 10 trials. I already developed an algorithm to detect ASSR online, As soon as my setup is fully functionnal, i'll flip this in an online decoding demo
+
