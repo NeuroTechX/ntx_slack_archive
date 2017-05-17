@@ -66,3 +66,9 @@ It will be a stella event!
 
  > elgin Hello :) Welcome! Hope to see you at one of our events soon!
 
+5/17/2017 2:08 AM
+
+ **elgin** :
+
+ >I had a great time at the event this month. I'm looking forward to the next one
+
