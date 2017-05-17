@@ -1101,3 +1101,9 @@ So, I really happy to be here!
 
  >Hey folks!  I'm Tony Balbin, a consciousness hacking enthusiast who runs the site <http://warrior.do|warrior.do>. Great to connect with fellow explorers.
 
+5/17/2017 5:35 PM
+
+ **sydneyneurotechx** :
+
+ >tonyb  Welcome!
+
