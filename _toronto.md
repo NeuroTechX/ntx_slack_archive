@@ -756,3 +756,9 @@ NTTO hack night tonight!
 > 
 Follow the signage to find the gold, Varagesale, at the end of the NTX rainbow! :ntxblue: :brain: 
 
+5/17/2017 10:30 PM
+
+ **bryan_j** :
+
+ >7pm tonight! Get stoked! 
+
