@@ -1149,3 +1149,12 @@ So, I really happy to be here!
 
  >Hi all I'm Nick!  I just finished my first year of university studying neuroscience, I had a great time in my program and genuinely love the field of neuroscience already.  I have always had a deep interest in engineering, computer programming, and the intersection between biology, technology, and society. Luckily these interests led me to find NeuroTechX! I'm interested in starting some kind of chapter or club at my university that will allow for neuroscience and engineering/computer science to meet and flourish and I believe that this is a great way to start that process.
 
+5/18/2017 4:51 PM
+
+ **yannick** :
+
+ >Hey nickpanetta, welcome on board. Did you check NeuroTechX Student Clubs Initiative?
+
+> 
+Lets continue this conversation in <#C08S3426L|studentclubs> :slightly_smiling_face:
+
