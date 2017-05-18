@@ -510,3 +510,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >hey nickpanetta you might want to check out: <https://neurotechx.github.io/studentclubs/>
 
+5/18/2017 4:53 PM
+
+ **yannick** :
+
+ >What university are you at?
+
