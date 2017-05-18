@@ -414,3 +414,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >Ah I see... My impression is that kernel is mainly based in LA, and neurable is in San Diego
 
+5/18/2017 8:20 PM
+
+ **yannick** :
+
+ >Neurable is in San Diego? I thought they were based out of U. of Michigan. pharo or adamm_neurable ?
+
