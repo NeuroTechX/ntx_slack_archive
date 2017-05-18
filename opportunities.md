@@ -420,3 +420,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >Neurable is in San Diego? I thought they were based out of U. of Michigan. pharo or adamm_neurable ?
 
+5/18/2017 8:30 PM
+
+ **pierre** :
+
+ >Oh my bad I think you're right 
+
