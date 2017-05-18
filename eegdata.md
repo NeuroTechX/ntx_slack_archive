@@ -2751,3 +2751,9 @@ For two class my guess is somewhere around 80%
 
  >Thanks yrenard . I was asking for any number of channels, whatever is the highest mark so far. Thanks for the paper this helps. I know the Riemann methods seem to be the leading accuracy right now
 
+5/18/2017 8:37 AM
+
+ **alexandre.barachant** :
+
+ >octonomy yrenard I have a current version of the <#C588BQVH9|moabb> for 2 classes motor imagery (9 different dataset, 227 subjects). You get this kind of performances
+
