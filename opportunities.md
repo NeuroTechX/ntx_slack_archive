@@ -402,3 +402,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >wronk maybe ask in <#C0VT5N8S2|_boston> ?
 
+5/18/2017 7:59 PM
+
+ **wronk** :
+
+ >pierre I did, but it's fairly quiet in there :stuck_out_tongue:
+
