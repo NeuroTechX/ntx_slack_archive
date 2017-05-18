@@ -2793,3 +2793,9 @@ For two class my guess is somewhere around 80%
 
  >it depends on the dataset, because MDM does not performs well for high channel count (generally)
 
+5/18/2017 8:53 AM
+
+ **qbarthelemy** :
+
+ >ok, thx!
+
