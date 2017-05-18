@@ -2781,3 +2781,9 @@ For two class my guess is somewhere around 80%
 
  >yes, it is around CSP
 
+5/18/2017 8:51 AM
+
+ **alexandre.barachant** :
+
+ >with MDM :
+
