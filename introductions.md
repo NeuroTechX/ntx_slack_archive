@@ -1107,3 +1107,9 @@ So, I really happy to be here!
 
  >tonyb  Welcome!
 
+5/18/2017 12:27 AM
+
+ **tfunck** :
+
+ >Hey all, I'm a PhD Candidate at McGill University working in multi-modal imaging (mainly PET and MRI). Hoping to learn more about BCI!
+
