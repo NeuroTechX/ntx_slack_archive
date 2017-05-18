@@ -2757,3 +2757,9 @@ For two class my guess is somewhere around 80%
 
  >octonomy yrenard I have a current version of the <#C588BQVH9|moabb> for 2 classes motor imagery (9 different dataset, 227 subjects). You get this kind of performances
 
+5/18/2017 8:38 AM
+
+ **alexandre.barachant** :
+
+ >basically, with Riemannian geometry, 80% of the subjects get and AUC &gt; 0.6, and 20% of them can achieve &gt; 0.9. The median is around 0.75 AUC
+
