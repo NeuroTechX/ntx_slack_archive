@@ -408,3 +408,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >pierre I did, but it's fairly quiet in there :stuck_out_tongue:
 
+5/18/2017 8:03 PM
+
+ **pierre** :
+
+ >Ah I see... My impression is that kernel is mainly based in LA, and neurable is in San Diego
+
