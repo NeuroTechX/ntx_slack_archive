@@ -1158,3 +1158,9 @@ So, I really happy to be here!
 > 
 Lets continue this conversation in <#C08S3426L|studentclubs> :slightly_smiling_face:
 
+5/18/2017 4:53 PM
+
+ **nickpanetta** :
+
+ >Wow can't believe I didn't see the <#C08S3426L|studentclubs> channel, I'll head over there! :slightly_smiling_face:
+
