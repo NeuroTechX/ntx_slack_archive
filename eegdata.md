@@ -2775,3 +2775,9 @@ For two class my guess is somewhere around 80%
 
  >Alexandre, have you got the results with classical MDM?
 
+5/18/2017 8:50 AM
+
+ **alexandre.barachant** :
+
+ >yes, it is around CSP
+
