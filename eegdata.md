@@ -2769,3 +2769,9 @@ For two class my guess is somewhere around 80%
 
  >a breakdown for each dataset
 
+5/18/2017 8:44 AM
+
+ **qbarthelemy** :
+
+ >Alexandre, have you got the results with classical MDM?
+
