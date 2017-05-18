@@ -2763,3 +2763,9 @@ For two class my guess is somewhere around 80%
 
  >basically, with Riemannian geometry, 80% of the subjects get and AUC &gt; 0.6, and 20% of them can achieve &gt; 0.9. The median is around 0.75 AUC
 
+5/18/2017 8:39 AM
+
+ **alexandre.barachant** :
+
+ >a breakdown for each dataset
+
