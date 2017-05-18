@@ -1131,3 +1131,9 @@ So, I really happy to be here!
 
  >Join the <#C0VFP9ST0|_montreal> channel and stay tuned for our next event in Montreal :slightly_smiling_face:
 
+5/18/2017 7:35 AM
+
+ **heyxav** :
+
+ >Hey Im Xavier. I have unique first-hand experience with the brain. I cofounded a tech startup in Silicon Valley few years ago. We raised more than a million dollars, and eventually our startup got interrupted by my acute severe traumatic brain injury following a car accident. I had to experiment on to that to fix myself, and Im looking for my next professional move at the crossing between the brain, health and tech. Btw Im fullstack engineer and I am in Belgium for now :slightly_smiling_face:
+
