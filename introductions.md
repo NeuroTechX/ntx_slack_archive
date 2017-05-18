@@ -1125,3 +1125,9 @@ So, I really happy to be here!
 
  >yannick Hi Yannick, not quite as his work is related to source reconstruction for EEG/MEG  + fMRI. I took his course a few years ago though, great stuff. I still see him around the MNI from time to time, but I think he did indeed move to Concordia.
 
+5/18/2017 12:54 AM
+
+ **yannick** :
+
+ >Join the <#C0VFP9ST0|_montreal> channel and stay tuned for our next event in Montreal :slightly_smiling_face:
+
