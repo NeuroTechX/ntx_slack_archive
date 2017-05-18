@@ -426,3 +426,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >Oh my bad I think you're right 
 
+5/18/2017 8:36 PM
+
+ **pierre** :
+
+ >stephen might know about any opportunities around kernel as well
+
