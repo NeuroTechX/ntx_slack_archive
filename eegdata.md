@@ -2811,3 +2811,9 @@ For two class my guess is somewhere around 80%
 
  >good work alexandre.barachant
 
+5/18/2017 11:24 PM
+
+ **octonomy** :
+
+ >Thank you this is excellent I will study this more to understand these! Awesome.
+
