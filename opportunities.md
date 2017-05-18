@@ -390,3 +390,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >Jeez Louise! I grew up in Portland and all this time I had NO idea Reed had a nuclear reactor.
 
+5/18/2017 6:07 AM
+
+ **wronk** :
+
+ >Hi all, do any of you have a handle on the BCI/neural engineering space in Boston (concerning, for example, Kernel or Neurable)? I'm trying to find someone with some insight past what's on the internet. Thanks!
+
