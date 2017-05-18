@@ -1119,3 +1119,9 @@ So, I really happy to be here!
 
  >Christophe Grova used to run a Multi-Modal Fusion at the Neuro, is it related? (I think now hes at Concordia)
 
+5/18/2017 12:46 AM
+
+ **tfunck** :
+
+ >yannick Hi Yannick, not quite as his work is related to source reconstruction for EEG/MEG  + fMRI. I took his course a few years ago though, great stuff. I still see him around the MNI from time to time, but I think he did indeed move to Concordia.
+
