@@ -2799,3 +2799,9 @@ For two class my guess is somewhere around 80%
 
  >ok, thx!
 
+5/18/2017 12:55 PM
+
+ **aj** :
+
+ >this is cool
+
