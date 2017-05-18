@@ -1113,3 +1113,9 @@ So, I really happy to be here!
 
  >Hey all, I'm a PhD Candidate at McGill University working in multi-modal imaging (mainly PET and MRI). Hoping to learn more about BCI!
 
+5/18/2017 12:30 AM
+
+ **yannick** :
+
+ >Christophe Grova used to run a Multi-Modal Fusion at the Neuro, is it related? (I think now hes at Concordia)
+
