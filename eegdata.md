@@ -2817,3 +2817,9 @@ For two class my guess is somewhere around 80%
 
  >Thank you this is excellent I will study this more to understand these! Awesome.
 
+5/18/2017 11:26 PM
+
+ **octonomy** :
+
+ >P.s. I successfully defended my thesis today and will be awarded my masters degree in computer science! Looking forward a summer of BCI coding now that I'm free
+
