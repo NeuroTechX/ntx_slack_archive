@@ -516,3 +516,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >What university are you at?
 
+5/18/2017 4:55 PM
+
+ **nickpanetta** :
+
+ >Thanks so much yannick I'll check it out!
+
