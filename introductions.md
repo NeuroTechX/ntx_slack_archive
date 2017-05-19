@@ -1182,3 +1182,9 @@ Lets continue this conversation in <#C08S3426L|studentclubs> :slightly_smiling_
 
  >Thanks to ericlaycock for bringing me back to the group. We work together on a team at UBC at the intersection of BCI, AR/VR and ML. I'm also Faculty in Residence the Emerging Media Lab and chair of the VRAR Group at UBC.
 
+5/19/2017 10:25 PM
+
+ **bryan_j** :
+
+ >Welcome, Canadian brethren!! Make sure to join the <#C0VTMQ5CH|_vancouver> channel! 
+
