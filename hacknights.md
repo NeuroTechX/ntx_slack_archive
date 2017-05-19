@@ -87,3 +87,9 @@ You might need to get in touch with this club for that .
 
  >Yup, see you there :slightly_smiling_face:
 
+5/19/2017 7:58 PM
+
+ **naoto** :
+
+ >is <#C0VFP9ST0|_montreal> hacknight happening tonight?
+
