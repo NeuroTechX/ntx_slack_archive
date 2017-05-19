@@ -1170,3 +1170,9 @@ Lets continue this conversation in <#C08S3426L|studentclubs> :slightly_smiling_
 
  >welcome nickpanetta !
 
+5/19/2017 9:49 PM
+
+ **pbonac** :
+
+ >Hi everyone! My name is Peter, I have an engineering physics degree, mechanical option and an interest in brain computer interfaces.  I'm located in Vancouver, Canada.
+
