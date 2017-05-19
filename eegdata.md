@@ -2823,3 +2823,9 @@ For two class my guess is somewhere around 80%
 
  >P.s. I successfully defended my thesis today and will be awarded my masters degree in computer science! Looking forward a summer of BCI coding now that I'm free
 
+5/19/2017 12:31 AM
+
+ **jfrayshe** :
+
+ >Congrats!
+
