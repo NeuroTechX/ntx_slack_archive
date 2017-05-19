@@ -1677,3 +1677,9 @@ Thanks.
 
  >Same deal with cyton but variable sample rates up to 16000hz for 8 chan or 8000hz for 16 chan
 
+5/19/2017 9:27 PM
+
+ **aj** :
+
+ >It's a little http sever running on your head 
+
