@@ -1188,3 +1188,12 @@ Lets continue this conversation in <#C08S3426L|studentclubs> :slightly_smiling_
 
  >Welcome, Canadian brethren!! Make sure to join the <#C0VTMQ5CH|_vancouver> channel! 
 
+5/19/2017 11:59 PM
+
+ **yannick** :
+
+ >Hey dr.ray are you involved with the NeuroTech Student Club at UBC: MINT (part of BEST)?
+
+> 
+If not, you should connect with giuliosuprig :slightly_smiling_face:
+
