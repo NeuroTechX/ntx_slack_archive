@@ -1683,3 +1683,9 @@ Thanks.
 
  >It's a little http sever running on your head 
 
+5/19/2017 9:28 PM
+
+ **aj** :
+
+ >Head over to the learning section of <http://OpenBCI.com|OpenBCI.com> to see all the new wifi overviews and tutorials
+
