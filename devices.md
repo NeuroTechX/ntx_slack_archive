@@ -1665,3 +1665,9 @@ Thanks.
 
  >i like magnets as a solution to the hair problem
 
+5/19/2017 9:26 PM
+
+ **aj** :
+
+ >New ganglion firmware adds wifi shield plug and play features that give uncompressed streaming data of 200/400/800/1600/3200/6400/12800/25600Hz - beta test ongoing.. stay tuned!
+
