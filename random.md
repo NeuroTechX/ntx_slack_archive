@@ -963,3 +963,9 @@ Zuckerberg and Jobs style.
 
  >Is there a list somewhere of the good things that have come out of NeuroTechX?
 
+5/19/2017 1:53 PM
+
+ **yannick** :
+
+ >Slack is in Vancouver, so a.tech and NeuroTechVAN should contact them to do an event in their office. They throw a nice event with nice speakers, demos, a great vibe and then theyll love what we do and feel our pain with limited Slack.
+
