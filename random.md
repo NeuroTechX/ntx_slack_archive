@@ -951,3 +951,9 @@ Zuckerberg and Jobs style.
 
  >We need some one from slack to join neurotech x
 
+5/19/2017 1:50 PM
+
+ **aj** :
+
+ >And give us free slack premium
+
