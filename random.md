@@ -945,3 +945,9 @@ Zuckerberg and Jobs style.
 
  >Indeed, very good share :slightly_smiling_face:
 
+5/19/2017 1:50 PM
+
+ **aj** :
+
+ >We need some one from slack to join neurotech x
+
