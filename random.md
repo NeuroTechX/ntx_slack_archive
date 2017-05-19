@@ -933,3 +933,9 @@ Zuckerberg and Jobs style.
 
  >Cool ARM move: <https://www.technologyreview.com/s/607893/arm-wants-to-put-its-chips-inside-your-brain/>
 
+5/19/2017 11:37 AM
+
+ **aj** :
+
+ >Very cool! Good share!
+
