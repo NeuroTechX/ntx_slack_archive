@@ -957,3 +957,9 @@ Zuckerberg and Jobs style.
 
  >And give us free slack premium
 
+5/19/2017 1:51 PM
+
+ **aj** :
+
+ >Is there a list somewhere of the good things that have come out of NeuroTechX?
+
