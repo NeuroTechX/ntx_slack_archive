@@ -1671,3 +1671,9 @@ Thanks.
 
  >New ganglion firmware adds wifi shield plug and play features that give uncompressed streaming data of 200/400/800/1600/3200/6400/12800/25600Hz - beta test ongoing.. stay tuned!
 
+5/19/2017 9:27 PM
+
+ **aj** :
+
+ >Same deal with cyton but variable sample rates up to 16000hz for 8 chan or 8000hz for 16 chan
+
