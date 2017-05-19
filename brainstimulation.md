@@ -99,3 +99,12 @@ Interesting stuff!
 
  ><https://www.scientificamerican.com/article/can-zapping-the-vagus-nerve-jump-start-immunity/>
 
+5/19/2017 3:18 PM
+
+ **yannick** :
+
+ >Is this a new website on brain stim? (focusing on tDCS) 
+
+> 
+<https://pragmatictdcs.com/>
+
