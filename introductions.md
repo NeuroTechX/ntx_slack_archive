@@ -1176,3 +1176,9 @@ Lets continue this conversation in <#C08S3426L|studentclubs> :slightly_smiling_
 
  >Hi everyone! My name is Peter, I have an engineering physics degree, mechanical option and an interest in brain computer interfaces.  I'm located in Vancouver, Canada.
 
+5/19/2017 10:23 PM
+
+ **dr.ray** :
+
+ >Thanks to ericlaycock for bringing me back to the group. We work together on a team at UBC at the intersection of BCI, AR/VR and ML. I'm also Faculty in Residence the Emerging Media Lab and chair of the VRAR Group at UBC.
+
