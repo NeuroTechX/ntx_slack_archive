@@ -93,3 +93,9 @@ You might need to get in touch with this club for that .
 
  >is <#C0VFP9ST0|_montreal> hacknight happening tonight?
 
+5/19/2017 8:01 PM
+
+ **yannick** :
+
+ >It wont be a big one since many of the regulars wont join tonight. But yes its happening.
+
