@@ -3363,3 +3363,9 @@ I am studying for a master in software engineering and no academic background in
 
  >Hey tonyb, pbonac, marcel.farres, brilhana &amp; samuelbg13, please introduce yourselves in <#C08QEC5H7|introductions> so we can know a little bit more about you :slightly_smiling_face: And also look for your City channel in the list (e.g. <#C0VTC19DW|_toronto>) to meet other people from your local area.
 
+5/19/2017 6:55 PM
+
+ **bryan_j** :
+
+ >What what! Come join is in <#C0VTC19DW|_toronto>! 
+
