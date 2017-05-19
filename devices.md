@@ -1689,3 +1689,12 @@ Thanks.
 
  >Head over to the learning section of <http://OpenBCI.com|OpenBCI.com> to see all the new wifi overviews and tutorials
 
+5/19/2017 9:29 PM
+
+ **yannick** :
+
+ >Then ARM will acquire your shield and it will be a little http server running in our head :slightly_smiling_face:
+
+> 
+What can possibly go wrong?
+
