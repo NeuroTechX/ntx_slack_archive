@@ -3351,3 +3351,9 @@ I am studying for a master in software engineering and no academic background in
 
  >I appreciate the leads! :nerd_face:
 
+5/19/2017 5:46 PM
+
+ **dano** :
+
+ >Welcome to you all new people! :raised_hands: 
+
