@@ -1164,3 +1164,9 @@ Lets continue this conversation in <#C08S3426L|studentclubs> :slightly_smiling_
 
  >Wow can't believe I didn't see the <#C08S3426L|studentclubs> channel, I'll head over there! :slightly_smiling_face:
 
+5/19/2017 8:33 PM
+
+ **sydneyneurotechx** :
+
+ >welcome nickpanetta !
+
