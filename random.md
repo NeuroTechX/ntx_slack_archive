@@ -927,3 +927,9 @@ Zuckerberg and Jobs style.
 
  ><https://www.media.mit.edu/projects/woman-of-STEAM-grabs-back/overview/>
 
+5/19/2017 8:29 AM
+
+ **heyxav** :
+
+ >Cool ARM move: <https://www.technologyreview.com/s/607893/arm-wants-to-put-its-chips-inside-your-brain/>
+
