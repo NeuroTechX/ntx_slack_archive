@@ -3369,3 +3369,9 @@ I am studying for a master in software engineering and no academic background in
 
  >What what! Come join is in <#C0VTC19DW|_toronto>! 
 
+5/19/2017 7:03 PM
+
+ **yannick** :
+
+ >Nan, join us in <#C0VFP9ST0|_montreal> :slightly_smiling_face:
+
