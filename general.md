@@ -3405,3 +3405,9 @@ I wish you all a great weekend :slightly_smiling_face:
 
  >dano could help you out with this! 
 
+5/20/2017 3:28 PM
+
+ **niouby** :
+
+ >oh thanks, and where can I found him? (sorry but it's my first time on slack and I don't really understand how it works)
+
