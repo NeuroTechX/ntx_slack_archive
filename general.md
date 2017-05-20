@@ -3411,3 +3411,9 @@ I wish you all a great weekend :slightly_smiling_face:
 
  >oh thanks, and where can I found him? (sorry but it's my first time on slack and I don't really understand how it works)
 
+5/20/2017 3:29 PM
+
+ **bryan_j** :
+
+ >No worries whatsoever! He should be able to respond directly to this thread! :) you may also send him a direct message by clicking his profile above and selecting the message/chat icon. 
+
