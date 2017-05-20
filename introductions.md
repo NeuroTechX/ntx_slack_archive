@@ -1197,3 +1197,9 @@ Lets continue this conversation in <#C08S3426L|studentclubs> :slightly_smiling_
 > 
 If not, you should connect with giuliosuprig :slightly_smiling_face:
 
+5/20/2017 12:30 AM
+
+ **dr.ray** :
+
+ >yannick: I'm not involved yet. Sounds good re connecting with giuliosuprig
+
