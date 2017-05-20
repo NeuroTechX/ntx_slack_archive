@@ -3435,3 +3435,9 @@ I wish you all a great weekend :slightly_smiling_face:
 
  ><#C08T2SENQ|devices> is better channel actually
 
+5/20/2017 5:29 PM
+
+ **octonomy** :
+
+ >Hi Morgane and welcome. We also have an <#C08QEC5H7|introductions> channel for saying hello
+
