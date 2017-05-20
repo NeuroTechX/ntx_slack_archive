@@ -3387,3 +3387,9 @@ I am studying for a master in software engineering and no academic background in
 > 
 I wish you all a great weekend :slightly_smiling_face:
 
+5/20/2017 3:20 PM
+
+ **niouby** :
+
+ >hi everybody, my name is morgane and I am a french student. For a project with my school, I have got a MUSE and I tried the EEG101 application and it's very interesting!
+
