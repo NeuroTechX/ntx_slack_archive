@@ -462,3 +462,15 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  ><https://angel.co/neurable>
 
+5/20/2017 11:21 PM
+
+ **sayan_faraz** :
+
+ >For those of you who haven't seen this yet, Facebook's starting a bunch of BCI stuff (speech thoughts to actual text, and sensory substitution) and it comes along with some job openings :smile:
+
+> 
+
+
+> 
+<https://www.facebook.com/careers/jobs/a0I1200000JXqeWEAT/>
+
