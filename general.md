@@ -3399,3 +3399,9 @@ I wish you all a great weekend :slightly_smiling_face:
 
  >I have questions about the code of the application, am I on the right channel?
 
+5/20/2017 3:25 PM
+
+ **bryan_j** :
+
+ >dano could help you out with this! 
+
