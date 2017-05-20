@@ -999,3 +999,9 @@ Let me see what I can do :)
 
  >dr.ray welcome to NTX Ray, nice to see you on here. Missed you and Alanna at our last event.
 
+5/20/2017 4:33 AM
+
+ **dr.ray** :
+
+ >thanks a.tech. some folks on our team may have been there at the event and it would've been good to catch Patrick's talk
+
