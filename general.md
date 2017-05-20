@@ -3375,3 +3375,15 @@ I am studying for a master in software engineering and no academic background in
 
  >Nan, join us in <#C0VFP9ST0|_montreal> :slightly_smiling_face:
 
+5/20/2017 2:01 AM
+
+ **yannick** :
+
+ ><!channel>: For all the new comers (welcome!), youve probably received a message from our bot with some useful information. Id like to re-iterate on subscribing to the Newsletter to stay updated on NeuroTechX activity (and the field of NeuroTechnology in general). As you might know we have multiple initiatives in motion - some of them just getting off the ground - so the next newsletter will be full of good stuff! You dont want to miss it. :ntxblack: 
+
+> 
+<http://eepurl.com/bEQDKX>
+
+> 
+I wish you all a great weekend :slightly_smiling_face:
+
