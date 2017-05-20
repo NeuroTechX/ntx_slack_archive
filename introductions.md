@@ -1203,3 +1203,9 @@ If not, you should connect with giuliosuprig :slightly_smiling_face:
 
  >yannick: I'm not involved yet. Sounds good re connecting with giuliosuprig
 
+5/20/2017 2:07 AM
+
+ **ericlaycock** :
+
+ >Hahaha I actually sent you two both an email a week and a half ago suggesting we all meet up! Yana and I (and Patrick) are both on MINT: Best
+
