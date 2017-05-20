@@ -3423,3 +3423,9 @@ I wish you all a great weekend :slightly_smiling_face:
 
  >thanks! I sent him a message but I think he is offline, I'll wait until he come back
 
+5/20/2017 3:44 PM
+
+ **bryan_j** :
+
+ >Great! He is quite active on Slack so I can imagine that he will respond within the day. 
+
