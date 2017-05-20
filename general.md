@@ -3429,3 +3429,9 @@ I wish you all a great weekend :slightly_smiling_face:
 
  >Great! He is quite active on Slack so I can imagine that he will respond within the day. 
 
+5/20/2017 5:29 PM
+
+ **octonomy** :
+
+ ><#C08T2SENQ|devices> is better channel actually
+
