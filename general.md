@@ -3393,3 +3393,9 @@ I wish you all a great weekend :slightly_smiling_face:
 
  >hi everybody, my name is morgane and I am a french student. For a project with my school, I have got a MUSE and I tried the EEG101 application and it's very interesting!
 
+5/20/2017 3:21 PM
+
+ **niouby** :
+
+ >I have questions about the code of the application, am I on the right channel?
+
