@@ -993,3 +993,9 @@ Let me see what I can do :)
 
  >yannick visionary right there
 
+5/20/2017 12:56 AM
+
+ **a.tech** :
+
+ >dr.ray welcome to NTX Ray, nice to see you on here. Missed you and Alanna at our last event.
+
