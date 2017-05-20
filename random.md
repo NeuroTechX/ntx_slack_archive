@@ -1005,3 +1005,9 @@ Let me see what I can do :)
 
  >thanks a.tech. some folks on our team may have been there at the event and it would've been good to catch Patrick's talk
 
+5/20/2017 5:31 PM
+
+ **sc** :
+
+ ><http://newatlas.com/mind-reading-machines-musk-future/48642/>
+
