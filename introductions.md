@@ -1209,3 +1209,9 @@ If not, you should connect with giuliosuprig :slightly_smiling_face:
 
  >Hahaha I actually sent you two both an email a week and a half ago suggesting we all meet up! Yana and I (and Patrick) are both on MINT: Best
 
+5/20/2017 2:07 AM
+
+ **ericlaycock** :
+
+ >*BEST
+
