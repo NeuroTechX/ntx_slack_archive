@@ -438,3 +438,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >wronk, for what it's worth, iMotions looks like a pretty cool neurotech company in the Boston area. They do EEG, eye tracking, facial expression analysis, etc. I spoke to them about an event and they seemed really interested in the NeuroTechX cause <https://imotions.com/>
 
+5/20/2017 5:18 AM
+
+ **wronk** :
+
+ >Thanks for all the leads!
+
