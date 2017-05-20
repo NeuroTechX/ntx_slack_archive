@@ -969,3 +969,21 @@ Zuckerberg and Jobs style.
 
  >Slack is in Vancouver, so a.tech and NeuroTechVAN should contact them to do an event in their office. They throw a nice event with nice speakers, demos, a great vibe and then theyll love what we do and feel our pain with limited Slack.
 
+5/20/2017 12:55 AM
+
+ **a.tech** :
+
+ >yannick aj
+
+> 
+
+
+> 
+Oh wow, good point. 
+
+> 
+
+
+> 
+Let me see what I can do :) 
+
