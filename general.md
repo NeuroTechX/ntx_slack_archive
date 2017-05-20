@@ -3417,3 +3417,9 @@ I wish you all a great weekend :slightly_smiling_face:
 
  >No worries whatsoever! He should be able to respond directly to this thread! :) you may also send him a direct message by clicking his profile above and selecting the message/chat icon. 
 
+5/20/2017 3:38 PM
+
+ **niouby** :
+
+ >thanks! I sent him a message but I think he is offline, I'll wait until he come back
+
