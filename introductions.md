@@ -1215,3 +1215,9 @@ If not, you should connect with giuliosuprig :slightly_smiling_face:
 
  >*BEST
 
+5/20/2017 4:30 AM
+
+ **dr.ray** :
+
+ >yes. i knew that you both were involved in MINT but i'm not personally involved in it at this point
+
