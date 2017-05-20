@@ -2841,3 +2841,9 @@ For two class my guess is somewhere around 80%
 
  >okbalefthanded brain computer interface development software. I worked on open source Python package and also a low cost headset for it which uses OpenBCI. Additionally, I used my equipment and software to do a statistical significance test of many classifiers against many datasets. Open source software to be released later this summer, with the goal of making EEG data collection and ML analysis simple for researchers
 
+5/20/2017 5:34 PM
+
+ **yannick** :
+
+ >octonomy so I guess youll be involved in the Mother of All BCI Benchmark :stuck_out_tongue: (<#C588BQVH9|moabb> )
+
