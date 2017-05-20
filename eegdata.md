@@ -2835,3 +2835,9 @@ For two class my guess is somewhere around 80%
 
  >octonomy congrats! what was it about ?
 
+5/20/2017 5:28 PM
+
+ **octonomy** :
+
+ >okbalefthanded brain computer interface development software. I worked on open source Python package and also a low cost headset for it which uses OpenBCI. Additionally, I used my equipment and software to do a statistical significance test of many classifiers against many datasets. Open source software to be released later this summer, with the goal of making EEG data collection and ML analysis simple for researchers
+
