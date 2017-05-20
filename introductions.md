@@ -1221,3 +1221,9 @@ If not, you should connect with giuliosuprig :slightly_smiling_face:
 
  >yes. i knew that you both were involved in MINT but i'm not personally involved in it at this point
 
+5/20/2017 5:26 PM
+
+ **giuliosuprig** :
+
+ >Lovely to meet you regardless!
+
