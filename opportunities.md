@@ -474,3 +474,9 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 > 
 <https://www.facebook.com/careers/jobs/a0I1200000JXqeWEAT/>
 
+5/21/2017 9:28 AM
+
+ **okbalefthanded** :
+
+ >sayan_faraz: The job opennings are limited to PhD holders, I wonder it they offer internships for graduate students pursuing a Master degree
+
