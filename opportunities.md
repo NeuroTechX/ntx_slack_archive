@@ -498,3 +498,9 @@ since they're a pretty new thing i'd assume probably not :cry: though you never 
 
  >If anyone wants more info, I talked to Mark Chevillet (the team leader) about this job. They want a pretty broad skill set including deep learning  and software development (in addition to BCI mastery). I didn't ask about internships, but the fact that the team is super small/focused makes it seem like the answer is probably not atm for interns. The team is going to be up for renewal/change every 2 years though, so it's worth keeping up with their postings
 
+5/21/2017 7:36 PM
+
+ **wronk** :
+
+ >harris: Thanks for confirming that. Do you know anything more about where they're going as a company (besides what on the website) or what the team dynamic is? I'll reach out to them directly soon, but just trying to get as much info as I can.
+
