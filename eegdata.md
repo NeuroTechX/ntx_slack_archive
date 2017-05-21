@@ -2847,3 +2847,9 @@ For two class my guess is somewhere around 80%
 
  >octonomy so I guess youll be involved in the Mother of All BCI Benchmark :stuck_out_tongue: (<#C588BQVH9|moabb> )
 
+5/21/2017 5:12 PM
+
+ **octonomy** :
+
+ >Yep I'm going to try and make myself useful
+
