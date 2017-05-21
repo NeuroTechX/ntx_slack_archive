@@ -216,3 +216,36 @@ More details on the project can be found here:
 
  >Just in case you missed it: ray_cassani, javi_neuralcubes, marvinandujar, chriscrawford, mhohmann, dojeda, vjayaram, nikiluk ^
 
+5/21/2017 1:01 PM
+
+ **yannick** :
+
+ >===============================================
+
+> 
+Hey everyone (<!channel>),
+
+> 
+As you might know, NeuroTechX is currently trying to see how it could help people find opportunities in the field of NeuroTechnology and to help find good candidates for those looking for talent. 
+
+> 
+(from industry to academia, from small teams to larger corporations)
+
+> 
+As NeuroTechX grows, more and more people are asking us for opportunities often thinking that there are not many opportunities in neurotechnology. At the same time, we have research labs and companies of all sizes reaching out looking for talent. NeuroTechX is therefore in a good position to help this match-making.
+
+> 
+If you are currently in the field or would like to find opportunities in the field or intend to work in the field later, then you want to check this out:
+
+> 
+<http://bit.ly/ntx-recruitment-slack|bit.ly/ntx-recruitment-slack>
+
+> 
+If you dont care about neurotechnology and are not looking for contributing to the field, then indeed you can skip it. 
+
+> 
+(and also second guess what you are doing here :p)
+
+> 
+===============================================
+
