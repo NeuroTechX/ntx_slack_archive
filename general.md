@@ -3441,3 +3441,9 @@ I wish you all a great weekend :slightly_smiling_face:
 
  >Hi Morgane and welcome. We also have an <#C08QEC5H7|introductions> channel for saying hello
 
+5/21/2017 7:26 AM
+
+ **niouby** :
+
+ >Hi octonomy, thanks for the information :slightly_smiling_face:
+
