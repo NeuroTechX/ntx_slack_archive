@@ -1233,3 +1233,12 @@ If not, you should connect with giuliosuprig :slightly_smiling_face:
 
  >Hello, my name is Morgane and I'm a french student. I'm doing a school project with Muse
 
+5/21/2017 4:17 PM
+
+ **rouffi** :
+
+ >niouby: I Morgane, welcome in NeuroTechX Community !
+
+> 
+Feel free to say hello in <#C0VTD0ETW|_paris> :slightly_smiling_face:
+
