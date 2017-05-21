@@ -480,3 +480,15 @@ Elon, on the other hand, as a longer target of something like a 9 year for a fir
 
  >sayan_faraz: The job opennings are limited to PhD holders, I wonder it they offer internships for graduate students pursuing a Master degree
 
+5/21/2017 3:40 PM
+
+ **sayan_faraz** :
+
+ >not sure; though there could be a (small) possibility that you could get an internship there through connections
+
+> 
+
+
+> 
+since they're a pretty new thing i'd assume probably not :cry: though you never know!
+
