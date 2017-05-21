@@ -1728,3 +1728,9 @@ What can possibly go wrong?
 
  >Hi niouby just to let you know most people here might not have that much experience with web related concepts like react native or even react at all. More common here is use of scientific programming libraries. Most here use Python and/or matlab. So in regard to your question about muse, what about the code do you need to connect to react native? Is it safe to assume you're looking for a way to get a stream of json data to flow from muse sdk to your react native app?
 
+5/21/2017 5:41 PM
+
+ **niouby** :
+
+ >Hi octonomy, thanks for your reply. My problem is the following: I want to use the EEG 101 app for my project. I need to modify it so I started to do something simple: modify the text shown when you open the app. However, if I recompile and run the app after changing the JavaScript file where the text is written, my modification are ignored.
+
