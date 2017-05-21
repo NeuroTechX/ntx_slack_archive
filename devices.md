@@ -1716,3 +1716,9 @@ What can possibly go wrong?
 
  >But hey, that's why I open source this stuff!
 
+5/21/2017 7:33 AM
+
+ **niouby** :
+
+ >Hi everybody, my name is Morgane and I am a french student. For a project with my school, I have got a MUSE and I tried the EEG101 application and it's very interesting! I have some questions about how the code works with react native
+
