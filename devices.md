@@ -1734,3 +1734,9 @@ What can possibly go wrong?
 
  >Hi octonomy, thanks for your reply. My problem is the following: I want to use the EEG 101 app for my project. I need to modify it so I started to do something simple: modify the text shown when you open the app. However, if I recompile and run the app after changing the JavaScript file where the text is written, my modification are ignored.
 
+5/21/2017 5:49 PM
+
+ **octonomy** :
+
+ >for this, i cant help, i have not worked with Muse much, and have not used the EEG 101 app. Perhaps someone else can help. If oyure making mods and it doesnt show up, there could be a few different things going on, maybe youre in the wrong file, maybe the compilation needs to be set to development in order for your changes to be picked up (like in python), or maybe something else. hope someone on here who has worked with the Muse might be able to help.  Otherwise, is there any place on the muse site where they walk you through making changes to the app?
+
