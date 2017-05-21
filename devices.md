@@ -1740,3 +1740,9 @@ What can possibly go wrong?
 
  >for this, i cant help, i have not worked with Muse much, and have not used the EEG 101 app. Perhaps someone else can help. If oyure making mods and it doesnt show up, there could be a few different things going on, maybe youre in the wrong file, maybe the compilation needs to be set to development in order for your changes to be picked up (like in python), or maybe something else. hope someone on here who has worked with the Muse might be able to help.  Otherwise, is there any place on the muse site where they walk you through making changes to the app?
 
+5/21/2017 5:55 PM
+
+ **niouby** :
+
+ >Someone advised me to talk to Dano (I'm looking for his answer). I haven't found yet. I'm going to try some IRC channels. Thank again :slightly_smiling_face:!
+
