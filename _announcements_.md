@@ -267,3 +267,15 @@ If you dont care about neurotechnology and are not looking for contributing to 
 
  >Thanks for putting this together!
 
+5/22/2017 9:58 AM
+
+ **dojeda** :
+
+ >yannick: Arg! 
+
+> 
+Thanks, I totally missed it; I forgot to mark it on my calendar :cold_sweat:
+
+> 
+The doc does look good. Did you set up a date for a future meeting ?
+
