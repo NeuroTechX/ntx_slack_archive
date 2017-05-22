@@ -3483,3 +3483,9 @@ Is graduate school a logical step down the road?
 > 
 Thank you to all who take the time to consider this.
 
+5/22/2017 11:55 PM
+
+ **neurotechreports** :
+
+ >Hi all, I'm new to this network but wanted to let everyone know about some progressive meetings on the neural engineering side. Cleveland Neural Engineering Workshop will take place June 23-25, 2017. It is not a conference but round table collaboration to build the future path for neural engineering with all the stakeholders. Here is a link to the Neural Engineering Roadmap, draft from the 2015 meeting: <http://www.clevelandnew.org/images/resized/Informational-PDF's/Neural-Engineering-Roadmap.pdf>
+
