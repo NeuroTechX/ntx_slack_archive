@@ -504,3 +504,9 @@ since they're a pretty new thing i'd assume probably not :cry: though you never 
 
  >harris: Thanks for confirming that. Do you know anything more about where they're going as a company (besides what on the website) or what the team dynamic is? I'll reach out to them directly soon, but just trying to get as much info as I can.
 
+5/22/2017 2:03 AM
+
+ **harris** :
+
+ >I do not recall any info about them which isn't already public.
+
