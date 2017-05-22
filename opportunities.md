@@ -516,3 +516,9 @@ since they're a pretty new thing i'd assume probably not :cry: though you never 
 
  >wronk interesting. I actually applied to this job a few month ago, but they never contacted me :disappointed:
 
+5/22/2017 5:45 PM
+
+ **wronk** :
+
+ >DM'ing you
+
