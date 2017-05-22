@@ -3447,3 +3447,39 @@ I wish you all a great weekend :slightly_smiling_face:
 
  >Hi octonomy, thanks for the information :slightly_smiling_face:
 
+5/22/2017 9:26 PM
+
+ **frawley_andrew** :
+
+ >Hi everyone,
+
+> 
+
+
+> 
+I am looking to up my game on the technical side of neuroscience with the intent of working on early stage neurotech hardware. I have a business background but have been a deep enthusiast of neuroscience/neurotech for years. I understand concepts etc. but that is nil for building anything new.
+
+> 
+
+
+> 
+I have three quick questions.
+
+> 
+
+
+> 
+What foundational subjects should I be investigating first? (bio, chem etc.)
+
+> 
+What resources do you recommend learning those subjects?
+
+> 
+Is graduate school a logical step down the road?
+
+> 
+
+
+> 
+Thank you to all who take the time to consider this.
+
