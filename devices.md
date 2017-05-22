@@ -1746,3 +1746,9 @@ What can possibly go wrong?
 
  >Someone advised me to talk to Dano (I'm looking for his answer). I haven't found yet. I'm going to try some IRC channels. Thank again :slightly_smiling_face:!
 
+5/22/2017 5:39 AM
+
+ **pierre** :
+
+ >niouby the relevant channel is <#C0K883P71|interactive-tutorial> , if you're still looking, I noticed you haven't posted there 
+
