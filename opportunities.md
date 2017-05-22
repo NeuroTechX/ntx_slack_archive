@@ -510,3 +510,9 @@ since they're a pretty new thing i'd assume probably not :cry: though you never 
 
  >I do not recall any info about them which isn't already public.
 
+5/22/2017 1:35 PM
+
+ **alexandre.barachant** :
+
+ >wronk interesting. I actually applied to this job a few month ago, but they never contacted me :disappointed:
+
