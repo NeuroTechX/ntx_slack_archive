@@ -1770,3 +1770,9 @@ What can possibly go wrong?
 
  >yannick seems like the focus EEG Dev Kit has fNIRS capabilities, as they sell fNIRS sensors along with the kit: <https://world.foc.us/eeg>
 
+5/23/2017 10:58 AM
+
+ **yannick** :
+
+ >Yeah you are right! I had forgotten about it. Has anyone seen any post / project / paper using the <http://foc.us|foc.us> fNIRS ?
+
