@@ -1032,3 +1032,9 @@ Mike X Cohen is also the author of Analyzis Neural Time Series Data (featured in
 
  >Neuralink explained with food :open_mouth: (appeared on my fb newsfeed) <https://www.facebook.com/superdeluxevideo/videos/468470330164189/>
 
+5/23/2017 4:08 PM
+
+ **yrenard** :
+
+ >haha, that was hillarious francescacoo
+
