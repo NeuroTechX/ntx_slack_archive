@@ -108,3 +108,12 @@ Interesting stuff!
 > 
 <https://pragmatictdcs.com/>
 
+5/23/2017 8:24 AM
+
+ **jmhorschig** :
+
+ >looks very pragmatic, the only content is their twitter feed... ;)
+
+> 
+seems to be fairly new though
+
