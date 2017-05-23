@@ -93,3 +93,9 @@ Tu peux passer au Forum des Sciences Cognitives si tu es dans le coin samedi :wi
 
  >Mmm ca serait bien d'annoncer ces hack nights
 
+5/23/2017 1:57 PM
+
+ **yannick** :
+
+ >Cest pour les gens cool seulement. Es-tu cool dojeda ? :stuck_out_tongue:
+
