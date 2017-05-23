@@ -804,3 +804,9 @@ In just a little while, Hacking Health will return to Toronto in it's largest in
 > 
 Thanks, and see you tonight! 
 
+5/23/2017 5:56 PM
+
+ **graeme** :
+
+ >dano <!channel> I'll loan Muses to your team and any team that wants them for Hacking Mental Health
+
