@@ -822,3 +822,12 @@ Thanks, and see you tonight!
 
  >Good luck <!channel> !
 
+5/23/2017 10:50 PM
+
+ **cbattista** :
+
+ >I'd be interested in Hacking Health ...
+
+> 
+Any project ideas?
+
