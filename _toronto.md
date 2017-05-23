@@ -780,3 +780,9 @@ In just a little while, Hacking Health will return to Toronto in it's largest in
 > 
 <https://www.eventbrite.ca/e/hacking-mental-health-in-the-workplace-ehealth-to-conference-2017-tickets-32995057104?utm-medium>
 
+5/23/2017 1:12 PM
+
+ **dano** :
+
+ >Now, I reckon we should throw a team together as this fits squarely into our purview as a community. I'll go ahead and register a team. Let me know if you would like to be involved.
+
