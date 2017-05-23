@@ -75,3 +75,9 @@ Tu peux passer au Forum des Sciences Cognitives si tu es dans le coin samedi :wi
 
  >Dommage, je serai très occupé ce week-end, mais jespère te rencontrer IRL bientôt !
 
+5/23/2017 12:47 PM
+
+ **qbarthelemy** :
+
+ >OpenBCI + OpenViBE ?
+
