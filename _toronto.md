@@ -792,3 +792,15 @@ In just a little while, Hacking Health will return to Toronto in it's largest in
 
  >Registration is $25 and prizes are $75,000 grants btw
 
+5/23/2017 2:35 PM
+
+ **bryan_j** :
+
+ >Our event with WeAreWearables is tonight at the MaRS building - we hope that you can make it! It will be one for the ages. Check out the details and register at: <http://www.meetup.com/NeuroTechTO|www.meetup.com/NeuroTechTO>. 
+
+> 
+
+
+> 
+Thanks, and see you tonight! 
+
