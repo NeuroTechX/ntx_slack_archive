@@ -1782,3 +1782,9 @@ What can possibly go wrong?
 
  >That sounds awesome. Would love to get one to play with
 
+5/23/2017 1:52 PM
+
+ **jmhorschig** :
+
+ >yannick: no, it's quite new and we're astonished by the low price - we do not have any more info. If anyone has experience or data, I'd be happy to be invited to chat.
+
