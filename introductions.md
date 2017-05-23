@@ -1257,3 +1257,9 @@ I'm right now trying to assess if the OpenBci dry EEG cap is good enough for con
 > 
 Does anyone have good experience with cyton-board + Ultracortex "Mark IV" EEG Headset?
 
+5/23/2017 3:47 PM
+
+ **vito** :
+
+ >Hello everyone! I am Vito, I have got a phd in mathematics and I currently work as data scientist in Paris. Moving to London next July. I am really interested in neurotech / health related data science roles for my professional future so I am here to get to know better the field and the community, and hopefully get involved in some hands-on projects. Really glad I found this channel :slightly_smiling_face:
+
