@@ -1776,3 +1776,9 @@ What can possibly go wrong?
 
  >Yeah you are right! I had forgotten about it. Has anyone seen any post / project / paper using the <http://foc.us|foc.us> fNIRS ?
 
+5/23/2017 12:50 PM
+
+ **dano** :
+
+ >That sounds awesome. Would love to get one to play with
+
