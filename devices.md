@@ -1764,3 +1764,9 @@ What can possibly go wrong?
 
  ><http://foc.us|foc.us> doesnt do fNIRS. Do they? They do tDCS (tCS) and recently added EEG, but fNIRS thatd be new information for me.
 
+5/23/2017 10:55 AM
+
+ **benjamindeleener** :
+
+ >yannick seems like the focus EEG Dev Kit has fNIRS capabilities, as they sell fNIRS sensors along with the kit: <https://world.foc.us/eeg>
+
