@@ -123,3 +123,33 @@ De manière générale, on travail sur une meilleur communication (et automatisatio
 > 
 Tous nos événements sont signalé ici : <https://coglab.hackpad.com/CogLab-Agenda-lY8BzN71wMy>
 
+5/23/2017 4:54 PM
+
+ **rouffi** :
+
+ >Hier soir, cétait des tests dinstallation dOpen BCI sur MacOS et Raspberry Pi
+
+> 
+On as eu des soucis de connexion et de bluetooth
+
+> 
+
+
+> 
+Cadre : un nouveau projet appelé OpenBC[IA] par un Maker
+
+> 
+
+
+> 
+Objectif : connecter le Kit Projet AIY (Google Home DIY) à un EEG
+
+> 
+On dispose dun OpenBCI, mais on aimerais bien essayer avec un Muse
+
+> 
+
+
+> 
+Documentation : <https://coglab.hackpad.com/Projet-OpenBCIA-LNdWg4xq0P8>
+
