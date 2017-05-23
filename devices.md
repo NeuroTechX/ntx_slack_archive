@@ -1758,3 +1758,9 @@ What can possibly go wrong?
 
  >aj, the only 'customer priced' fnirs device available is from <http://foc.us|foc.us> - the openbci documentation looks legit. Otherwise, there is nothing out there (apart from individual academic groups working on fNIRS). A word of advice: skip the EROS tale...
 
+5/23/2017 10:53 AM
+
+ **yannick** :
+
+ ><http://foc.us|foc.us> doesnt do fNIRS. Do they? They do tDCS (tCS) and recently added EEG, but fNIRS thatd be new information for me.
+
