@@ -81,3 +81,9 @@ Tu peux passer au Forum des Sciences Cognitives si tu es dans le coin samedi :wi
 
  >OpenBCI + OpenViBE ?
 
+5/23/2017 12:47 PM
+
+ **qbarthelemy** :
+
+ >vous avez fait des tests en particuliers?
+
