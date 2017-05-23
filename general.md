@@ -3501,3 +3501,15 @@ Thank you to all who take the time to consider this.
 
  >frawley_andrew: I'd suggest making sure youpick up some computational courses while in school: physics, calc, computer science, signal processing. That kind of stuff pops up really frequently in Neurotech.
 
+5/23/2017 5:05 PM
+
+ **frawley_andrew** :
+
+ >Hey Dano, thanks for the feedback. I am currently out of school and working in SF.
+
+> 
+
+
+> 
+What do you think should be my first priority in learning?
+
