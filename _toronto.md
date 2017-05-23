@@ -816,3 +816,9 @@ Thanks, and see you tonight!
 
  >also: looking forward to the WeAreWearables/NeuroTechTO meetup tonight!
 
+5/23/2017 9:58 PM
+
+ **sydneyneurotechx** :
+
+ >Good luck <!channel> !
+
