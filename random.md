@@ -1026,3 +1026,9 @@ Let me see what I can do :)
 > 
 Mike X Cohen is also the author of Analyzis Neural Time Series Data (featured in the Awesome BCI List)
 
+5/23/2017 3:05 PM
+
+ **francescacoo** :
+
+ >Neuralink explained with food :open_mouth: (appeared on my fb newsfeed) <https://www.facebook.com/superdeluxevideo/videos/468470330164189/>
+
