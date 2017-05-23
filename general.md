@@ -3495,3 +3495,9 @@ Thank you to all who take the time to consider this.
 
  >Do we have anyone from Neuroon here? I decided to play the Neuro-Police this morning and I appreciate the reaction. Thumbs up.
 
+5/23/2017 12:55 PM
+
+ **dano** :
+
+ >frawley_andrew: I'd suggest making sure youpick up some computational courses while in school: physics, calc, computer science, signal processing. That kind of stuff pops up really frequently in Neurotech.
+
