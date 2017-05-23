@@ -1242,3 +1242,18 @@ If not, you should connect with giuliosuprig :slightly_smiling_face:
 > 
 Feel free to say hello in <#C0VTD0ETW|_paris> :slightly_smiling_face:
 
+5/23/2017 2:54 PM
+
+ **yacine.mahdid** :
+
+ >Good morning all, 
+
+> 
+My name is Yacine and I'm student in the IPN at McGill.
+
+> 
+I'm right now trying to assess if the OpenBci dry EEG cap is good enough for consciousness research.
+
+> 
+Does anyone have good experience with cyton-board + Ultracortex "Mark IV" EEG Headset?
+
