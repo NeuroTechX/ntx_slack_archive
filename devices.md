@@ -1788,3 +1788,9 @@ What can possibly go wrong?
 
  >yannick: no, it's quite new and we're astonished by the low price - we do not have any more info. If anyone has experience or data, I'd be happy to be invited to chat.
 
+5/23/2017 2:01 PM
+
+ **jmhorschig** :
+
+ >aj: finite element model - it's a physical model that can be used to describe properties of different tissues, e.g. optical scattering and absorption. You can think of it as a 3D model of vertices, where each vertex has additional properties that can later be used by some algorithm to e.g. compute photon migration.
+
