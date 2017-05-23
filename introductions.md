@@ -1263,3 +1263,9 @@ Does anyone have good experience with cyton-board + Ultracortex "Mark IV" EEG He
 
  >Hello everyone! I am Vito, I have got a phd in mathematics and I currently work as data scientist in Paris. Moving to London next July. I am really interested in neurotech / health related data science roles for my professional future so I am here to get to know better the field and the community, and hopefully get involved in some hands-on projects. Really glad I found this channel :slightly_smiling_face:
 
+5/23/2017 4:01 PM
+
+ **davidevaleriani** :
+
+ >Hey vito, welcome! Make sure you join the <#C0UR1GH3M|_london> channel to participate in the activities of the London chapter of NTX.
+
