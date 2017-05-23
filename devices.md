@@ -1752,3 +1752,9 @@ What can possibly go wrong?
 
  >niouby the relevant channel is <#C0K883P71|interactive-tutorial> , if you're still looking, I noticed you haven't posted there 
 
+5/23/2017 8:28 AM
+
+ **jmhorschig** :
+
+ >aj, the only 'customer priced' fnirs device available is from <http://foc.us|foc.us> - the openbci documentation looks legit. Otherwise, there is nothing out there (apart from individual academic groups working on fNIRS). A word of advice: skip the EROS tale...
+
