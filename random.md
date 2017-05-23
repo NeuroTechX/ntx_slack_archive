@@ -1011,3 +1011,18 @@ Let me see what I can do :)
 
  ><http://newatlas.com/mind-reading-machines-musk-future/48642/>
 
+5/23/2017 11:23 AM
+
+ **yannick** :
+
+ >Some of you might be interested in Cohens new book: 
+
+> 
+MATLAB for Brain and Cognitive Scientists (MIT Press)
+
+> 
+<https://www.amazon.com/MATLAB-Brain-Cognitive-Scientists-Press/dp/0262035820/>
+
+> 
+Mike X Cohen is also the author of Analyzis Neural Time Series Data (featured in the Awesome BCI List)
+
