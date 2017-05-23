@@ -810,3 +810,9 @@ Thanks, and see you tonight!
 
  >dano <!channel> I'll loan Muses to your team and any team that wants them for Hacking Mental Health
 
+5/23/2017 5:56 PM
+
+ **graeme** :
+
+ >also: looking forward to the WeAreWearables/NeuroTechTO meetup tonight!
+
