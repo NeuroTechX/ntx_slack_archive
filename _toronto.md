@@ -786,3 +786,9 @@ In just a little while, Hacking Health will return to Toronto in it's largest in
 
  >Now, I reckon we should throw a team together as this fits squarely into our purview as a community. I'll go ahead and register a team. Let me know if you would like to be involved.
 
+5/23/2017 1:14 PM
+
+ **dano** :
+
+ >Registration is $25 and prizes are $75,000 grants btw
+
