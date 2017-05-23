@@ -105,3 +105,21 @@ Tu peux passer au Forum des Sciences Cognitives si tu es dans le coin samedi :wi
 
  >Tres frais :stuck_out_tongue:
 
+5/23/2017 4:51 PM
+
+ **rouffi** :
+
+ >dojeda Très bonne suggestion !
+
+> 
+
+
+> 
+Nous avons notre propre Slack, mais je peux dupliquer les annonces ici oui
+
+> 
+De manière générale, on travail sur une meilleur communication (et automatisation de la communication)
+
+> 
+Tous nos événements sont signalé ici : <https://coglab.hackpad.com/CogLab-Agenda-lY8BzN71wMy>
+
