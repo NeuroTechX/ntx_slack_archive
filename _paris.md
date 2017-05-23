@@ -87,3 +87,9 @@ Tu peux passer au Forum des Sciences Cognitives si tu es dans le coin samedi :wi
 
  >vous avez fait des tests en particuliers?
 
+5/23/2017 1:01 PM
+
+ **dojeda** :
+
+ >Mmm ca serait bien d'annoncer ces hack nights
+
