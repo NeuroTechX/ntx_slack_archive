@@ -1269,3 +1269,9 @@ Does anyone have good experience with cyton-board + Ultracortex "Mark IV" EEG He
 
  >Hey vito, welcome! Make sure you join the <#C0UR1GH3M|_london> channel to participate in the activities of the London chapter of NTX.
 
+5/23/2017 4:06 PM
+
+ **vito** :
+
+ >Yes, thanks Davide. Looking forward to it
+
