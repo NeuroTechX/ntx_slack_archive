@@ -3513,3 +3513,9 @@ Thank you to all who take the time to consider this.
 > 
 What do you think should be my first priority in learning?
 
+5/24/2017 5:49 PM
+
+ **bciguy** :
+
+ >yannick: Yes we are already offering this to our testers. Also, unless im mistaken, isnt this the same company that claimed you could get by on 2 hours of sleep &
+
