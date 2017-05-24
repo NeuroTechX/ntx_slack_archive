@@ -879,3 +879,33 @@ Any project ideas?
 
  >sayan_faraz: thx Sayan! Was great to see you :)
 
+5/24/2017 2:15 PM
+
+ **dano** :
+
+ >Hey guys,
+
+> 
+
+
+> 
+Mozilla's Open Sprint is coming up on Thursday and Friday June 1-2nd and Mozilla HQ in Toronto is going to open their offices both days to host people who want a co-working space.
+
+> 
+
+
+> 
+The Open Sprint is a global 2-day coding sprint for many different open science projects. We happen to have two projects on the list! EEG 101 and NeuroTechEDU.
+
+> 
+
+
+> 
+If you're in Toronto and interested in coming to Mozilla to hack together, register here. I'll be there both days working on EEG 101.
+
+> 
+
+
+> 
+<https://ti.to/Mozilla/global-sprint-toronto>
+
