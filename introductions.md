@@ -1281,3 +1281,9 @@ Does anyone have good experience with cyton-board + Ultracortex "Mark IV" EEG He
 
  >Welcome dr.ray  pbonac  Bienvenue niouby et vito
 
+5/24/2017 6:47 AM
+
+ **niouby** :
+
+ >thanks sydneyneurotechx  :slightly_smiling_face:
+
