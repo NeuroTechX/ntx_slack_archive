@@ -72,3 +72,12 @@ It will be a stella event!
 
  >I had a great time at the event this month. I'm looking forward to the next one
 
+5/24/2017 2:21 PM
+
+ **yannick** :
+
+ >Some of you might be interested in this Hacking Health upcoming event:
+
+> 
+<https://www.eventbrite.ca/e/age-well-hacking-health-national-ideathon-vancouver-tickets-30076465518>
+
