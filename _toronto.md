@@ -909,3 +909,9 @@ If you're in Toronto and interested in coming to Mozilla to hack together, regis
 > 
 <https://ti.to/Mozilla/global-sprint-toronto>
 
+5/24/2017 3:43 PM
+
+ **francois** :
+
+ >Awesome event last night guys !!!.... well done TO :wink:
+
