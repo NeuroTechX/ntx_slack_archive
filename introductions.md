@@ -1293,3 +1293,9 @@ Does anyone have good experience with cyton-board + Ultracortex "Mark IV" EEG He
 
  >thanks rouffi :smile:
 
+5/24/2017 7:16 AM
+
+ **d.adamos** :
+
+ >oriansha: Hi, I have just read your message (Thanks yannick and sorry for taking me so long to reply). In Thessaloniki, we have a growing neuroinformatics community. Please check our groups page at <http://neuroinformatics.gr>. You are most welcome to further contact me.
+
