@@ -1287,3 +1287,9 @@ Does anyone have good experience with cyton-board + Ultracortex "Mark IV" EEG He
 
  >thanks sydneyneurotechx  :slightly_smiling_face:
 
+5/24/2017 6:48 AM
+
+ **niouby** :
+
+ >thanks rouffi :smile:
+
