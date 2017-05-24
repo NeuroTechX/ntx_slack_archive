@@ -849,3 +849,9 @@ Any project ideas?
 
  >Thats gonna be a nice souvenir :slightly_smiling_face:
 
+5/24/2017 3:09 AM
+
+ **dano** :
+
+ >We were talking at tonight's event about doing something with emotion, maybe facial recognition (if there's something open source we could use). Also, thinking about using some clinical big EEG dataset and training a classifier for some mental state like fatigue or insomnia
+
