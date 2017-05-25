@@ -3519,3 +3519,21 @@ What do you think should be my first priority in learning?
 
  >yannick: Yes we are already offering this to our testers. Also, unless im mistaken, isnt this the same company that claimed you could get by on 2 hours of sleep &
 
+5/25/2017 11:55 PM
+
+ **yannick** :
+
+ >New Hearable (or earwearable as on their twitter) about to hit the market in few days:
+
+> 
+Wearable for Stress Relief &amp; Brain Training
+
+> 
+<https://comingsoon-tech.com/brainno-brainwave-heart-rate-wearable#>
+
+> 
+<https://www.youtube.com/watch?v=7XgluoopDVI>
+
+> 
+Thoughts?
+
