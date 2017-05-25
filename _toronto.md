@@ -915,3 +915,9 @@ If you're in Toronto and interested in coming to Mozilla to hack together, regis
 
  >Awesome event last night guys !!!.... well done TO :wink:
 
+5/25/2017 1:50 PM
+
+ **bryan_j** :
+
+ >francois: thanks Francois!!! It was great to see you, as always. 
+
