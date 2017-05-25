@@ -1044,3 +1044,15 @@ Mike X Cohen is also the author of Analyzis Neural Time Series Data (featured in
 
  >Indeed, thanks for sharing. Awesome video haha.
 
+5/25/2017 2:35 AM
+
+ **yannick** :
+
+ >PhD Position (funded) in Ethics of Human Enhancement in an International Context at U. Twente.
+
+> 
+<https://www.utwente.nl/en/organization/careers/vacancies/!/vacature/1042649>
+
+> 
+Sounds awesome!
+
