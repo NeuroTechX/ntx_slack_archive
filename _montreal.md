@@ -432,3 +432,9 @@ Thank you!
 
  >and this the channel in Pz, as suggested by yannick i will be trying Oz next time
 
+5/25/2017 8:51 PM
+
+ **yannick** :
+
+ >Wont be able to make it to HackNight tomorrow. Ill sure be there for the next one!
+
