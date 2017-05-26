@@ -291,3 +291,9 @@ Mitesh
 > 
 francescacoo you going?
 
+5/26/2017 12:19 PM
+
+ **francescacoo** :
+
+ >Yes i am going! I have no idea how it is to be honest but it's not expensive and I thought it could be interesting? Maybe London people know more details!
+
