@@ -1062,3 +1062,9 @@ Sounds awesome!
 
  >yannick: why not post this in <#C0FNHPCF4|opportunities>?
 
+5/26/2017 11:23 AM
+
+ **yannick** :
+
+ >Good point! Dont know why I didnt do that. I was too excited to share it I guess.
+
