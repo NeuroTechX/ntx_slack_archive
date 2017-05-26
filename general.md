@@ -3543,3 +3543,9 @@ Thoughts?
 
  >Nice! Hopefully they deliver on this. The Aware is another ear EEG device and unfortunately the kickstater project stopped after they raises their money  <http://spectrum.ieee.org/the-human-os/biomedical/devices/wireless-earbuds-will-record-your-eeg-send-brainwave-data-to-your-phone>
 
+5/26/2017 12:19 AM
+
+ **marion** :
+
+ >I'd love to see the same form factor but with the battery not on the ear like the bose noise canceling earphones 
+
