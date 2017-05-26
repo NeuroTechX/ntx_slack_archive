@@ -504,3 +504,9 @@ Thank you!
 
  >super!
 
+5/26/2017 6:18 PM
+
+ **eferdinand** :
+
+ >OpenBCI connector?
+
