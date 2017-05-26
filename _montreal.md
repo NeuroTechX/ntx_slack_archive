@@ -462,3 +462,9 @@ Thank you!
 
  >eferdinand I returned them to yannick. in that case at least I want to have access during hacknight :slightly_smiling_face:
 
+5/26/2017 1:40 PM
+
+ **eferdinand** :
+
+ >Yes you can have access during hacknight, @yannick are the devices at D3?
+
