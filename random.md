@@ -1056,3 +1056,9 @@ Mike X Cohen is also the author of Analyzis Neural Time Series Data (featured in
 > 
 Sounds awesome!
 
+5/26/2017 10:18 AM
+
+ **jmhorschig** :
+
+ >yannick: why not post this in <#C0FNHPCF4|opportunities>?
+
