@@ -3573,3 +3573,9 @@ Thoughts?
 
  >eohan is the kickstater still happening? People online seem to say it's over. The design of the Aware is great and I'd love to buy one. 
 
+5/26/2017 1:34 AM
+
+ **marion** :
+
+ >Anyone else know if we can purchase the Aware somewhere? 
+
