@@ -456,3 +456,9 @@ Thank you!
 
  >We are limited on devices for now, unless here are few here and there I don't kniw about, naoto where did you return the devices? 
 
+5/26/2017 1:40 PM
+
+ **naoto** :
+
+ >eferdinand I returned them to yannick. in that case at least I want to have access during hacknight :slightly_smiling_face:
+
