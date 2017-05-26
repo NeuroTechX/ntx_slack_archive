@@ -444,3 +444,9 @@ Thank you!
 
  >yannick hey, last time I returned 2 muses but can I borrow one of them again? or do you know if anyone coming tonight has an extra muse?
 
+5/26/2017 1:34 PM
+
+ **yannick** :
+
+ >Hey naoto check with eferdinand we have some activities in June, check with him for devices.
+
