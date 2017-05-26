@@ -522,3 +522,12 @@ since they're a pretty new thing i'd assume probably not :cry: though you never 
 
  >DM'ing you
 
+5/26/2017 11:26 AM
+
+ **yannick** :
+
+ >PhD Position (funded) in Ethics of Human Enhancement in an International Context at U. Twente.
+
+> 
+<https://www.utwente.nl/en/organization/careers/vacancies/!/vacature/1042649>
+
