@@ -438,3 +438,9 @@ Thank you!
 
  >Wont be able to make it to HackNight tomorrow. Ill sure be there for the next one!
 
+5/26/2017 1:32 PM
+
+ **naoto** :
+
+ >yannick hey, last time I returned 2 muses but can I borrow one of them again? or do you know if anyone coming tonight has an extra muse?
+
