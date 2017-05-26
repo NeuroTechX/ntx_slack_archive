@@ -450,3 +450,9 @@ Thank you!
 
  >Hey naoto check with eferdinand we have some activities in June, check with him for devices.
 
+5/26/2017 1:38 PM
+
+ **eferdinand** :
+
+ >We are limited on devices for now, unless here are few here and there I don't kniw about, naoto where did you return the devices? 
+
