@@ -282,3 +282,12 @@ Mitesh
 
  ><!channel> our next <#C1G552DD4|smartphone-bci> hackathon is in place <https://www.meetup.com/NeuroTechLDN/events/239755110/> !
 
+5/26/2017 11:33 AM
+
+ **yannick** :
+
+ >francescacoo shared that course on Twitter <http://www.cpcourse.org/>, might be of interest for some of you.
+
+> 
+francescacoo you going?
+
