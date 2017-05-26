@@ -3555,3 +3555,9 @@ Thoughts?
 
  ><http://www.thebestcheapheadphones.com/wp-content/uploads/2016/04/quiet-comfort-bose-earphones-for-travel.jpg>
 
+5/26/2017 12:28 AM
+
+ **yannick** :
+
+ >We have people from Aware in here.
+
