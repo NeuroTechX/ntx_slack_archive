@@ -486,3 +486,9 @@ Thank you!
 
  >Hw many do you want?
 
+5/26/2017 6:18 PM
+
+ **naoto** :
+
+ >i just need 1
+
