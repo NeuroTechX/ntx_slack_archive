@@ -1068,3 +1068,12 @@ Sounds awesome!
 
  >Good point! Dont know why I didnt do that. I was too excited to share it I guess.
 
+5/26/2017 6:14 PM
+
+ **rohit** :
+
+ >An engineer's guide to brain 
+
+> 
+<http://spectrum.ieee.org/biomedical/imaging/from-macro-to-micro-a-visual-guide-to-the-brain>
+
