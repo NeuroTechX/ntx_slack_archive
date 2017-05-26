@@ -3579,3 +3579,9 @@ Thoughts?
 
  >Anyone else know if we can purchase the Aware somewhere? 
 
+5/26/2017 2:51 PM
+
+ **rohit** :
+
+ ><https://documents.epfl.ch/users/c/ch/chavarri/www/smc2017/smc2017_hackathon.html>
+
