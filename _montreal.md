@@ -510,3 +510,9 @@ Thank you!
 
  >OpenBCI connector?
 
+5/26/2017 6:19 PM
+
+ **naoto** :
+
+ >I'm not sure what I'm doing but I'm adding a generic header pins to NeuroSky Mindwave
+
