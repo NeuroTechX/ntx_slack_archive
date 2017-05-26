@@ -3537,3 +3537,9 @@ What do you think should be my first priority in learning?
 > 
 Thoughts?
 
+5/26/2017 12:18 AM
+
+ **marion** :
+
+ >Nice! Hopefully they deliver on this. The Aware is another ear EEG device and unfortunately the kickstater project stopped after they raises their money  <http://spectrum.ieee.org/the-human-os/biomedical/devices/wireless-earbuds-will-record-your-eeg-send-brainwave-data-to-your-phone>
+
