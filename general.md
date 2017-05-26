@@ -3549,3 +3549,9 @@ Thoughts?
 
  >I'd love to see the same form factor but with the battery not on the ear like the bose noise canceling earphones 
 
+5/26/2017 12:20 AM
+
+ **marion** :
+
+ ><http://www.thebestcheapheadphones.com/wp-content/uploads/2016/04/quiet-comfort-bose-earphones-for-travel.jpg>
+
