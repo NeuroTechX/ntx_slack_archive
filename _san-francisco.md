@@ -546,3 +546,9 @@ We can meet you in a few days
 
  >there was some talk about an event end of may, someone coming to SF to give a presentation, did anything happen with that?
 
+5/26/2017 11:31 PM
+
+ **w** :
+
+ >:octopicorn:
+
