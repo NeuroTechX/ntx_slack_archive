@@ -3567,3 +3567,9 @@ Thoughts?
 
  >eohan ^
 
+5/26/2017 12:38 AM
+
+ **marion** :
+
+ >eohan is the kickstater still happening? People online seem to say it's over. The design of the Aware is great and I'd love to buy one. 
+
