@@ -480,3 +480,9 @@ Thank you!
 
  >Cool. eferdinand yannick by any chance do you have gold cup electrodes at D3?
 
+5/26/2017 6:18 PM
+
+ **eferdinand** :
+
+ >Hw many do you want?
+
