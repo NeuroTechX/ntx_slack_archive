@@ -468,3 +468,9 @@ Thank you!
 
  >Yes you can have access during hacknight, @yannick are the devices at D3?
 
+5/26/2017 1:56 PM
+
+ **yannick** :
+
+ >Yup.
+
