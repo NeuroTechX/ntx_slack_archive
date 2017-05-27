@@ -279,3 +279,33 @@ Thanks, I totally missed it; I forgot to mark it on my calendar :cold_sweat:
 > 
 The doc does look good. Did you set up a date for a future meeting ?
 
+5/27/2017 11:52 PM
+
+ **a.tech** :
+
+ >May I please request your help in getting yannick nominated for a world class TED talk? This one requires a team effort to make happen :ntx: 
+
+> 
+
+
+> 
+I believe that if he had the chance to present our community to TEDs audience, the quality of NTX will solidly increase as passionate people are inspired to join NeuroTechX. 
+
+> 
+
+
+> 
+For your convenience, here is a template to expedite the nomination process(<https://docs.google.com/document/d/1IEPAgBXBI6noQDb3t1ruiqFn-7rwxvTRuZ4DY_IqDdg/edit?usp=sharing>)
+
+> 
+
+
+> 
+Thanks a whole lot for your help and for taking the time guys and gals! <!channel>
+
+> 
+ 
+
+> 
+<https://speaker-nominations.ted.com/>
+
