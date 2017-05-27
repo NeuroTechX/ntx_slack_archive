@@ -528,3 +528,9 @@ Thank you!
 
  >naoto One thing you might want to start doing is to record your data and work on your analysis offline. I know you ultimately want an online system, but that will definitely speed up the development of your analysis since you won't depend on a live connection and you'll be free to compare multiple approach on the same data. Only after it works offline, you adapt it for an online application.
 
+5/27/2017 3:16 AM
+
+ **naoto** :
+
+ >fred-simard: totally makes sense. this is something I always had a problem - since I stopped using mules, I don't have easy way to record/playback eeg signals
+
