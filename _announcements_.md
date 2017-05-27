@@ -309,3 +309,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 > 
 <https://speaker-nominations.ted.com/>
 
+5/27/2017 11:55 PM
+
+ **aj** :
+
+ >Will do!
+
