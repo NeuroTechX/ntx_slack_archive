@@ -540,3 +540,9 @@ Thank you!
 
  >naoto python has a csv file object that makes it easy to save/load data. If you can do a FFT, you can write your data to a text file
 
+5/27/2017 3:18 AM
+
+ **fred-simard** :
+
+ >I don't have right now, but i could share my ssvep analysis, which reads a CSV file
+
