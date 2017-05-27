@@ -522,3 +522,9 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  >Thanks so much yannick I'll check it out!
 
+5/27/2017 5:39 PM
+
+ **benjamindeleener** :
+
+ ><!channel> Call to all neurohackers of Montreal that possess a Muse headband: PolyCortex is participating to the Festival Eurêka as an science outreach to young children. The festival will be hold from June 9 to June 11 and will welcome more than 30000 people at the Vieux-Port. PolyCortex is participating and is going to propose a concentration boat racing game but they would need more Muse headband to be sure to hold all the weekend. If you have a Muse headband and would like to lend some, please contact me as soon as possible. It would be very appreciated!
+
