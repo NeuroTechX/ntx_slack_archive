@@ -570,3 +570,9 @@ Thank you!
 
  >fred-simard that would be awesome! We are also coming to the hacknight next week. Thank you very much!
 
+5/27/2017 5:58 PM
+
+ **fred-simard** :
+
+ >see you then ;)
+
