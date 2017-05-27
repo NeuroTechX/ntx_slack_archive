@@ -558,3 +558,9 @@ Thank you!
 
  >benjamindeleener I can lend you 3 and could lend you the famous Mindbox if you'd like
 
+5/27/2017 5:56 PM
+
+ **fred-simard** :
+
+ >I should be at the hacknight next week,et me know if you want to pick them up
+
