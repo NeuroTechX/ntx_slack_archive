@@ -516,3 +516,9 @@ Thank you!
 
  >I'm not sure what I'm doing but I'm adding a generic header pins to NeuroSky Mindwave
 
+5/27/2017 2:37 AM
+
+ **naoto** :
+
+ >fred-simard the hacked neurosky seems working. I see pink noise like spectrum. I haven't got ASSR or SSVEP working. Maybe due to the python library's fft (it does binning to output spectrum with 1 hz step) so I will check with raw fft data
+
