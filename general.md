@@ -3591,3 +3591,12 @@ Thoughts?
 
  >I'd also add that there are great MOOCs available. Such as Neuro Anatomy from Duke, computational neuroscience from Washington State University, Stanford has an especially popular machine learning class - all for free on Coursera. 
 
+5/27/2017 9:02 PM
+
+ **francescacoo** :
+
+ >hey guys, just saw this, but not sure where to post it :stuck_out_tongue: it's in Russia IEEE Brain Data Bank Challenge 2017 
+
+> 
+Brain Signal  Visualization &amp; Analytics  <https://spcn.co/brain-initiative/?lang=en>
+
