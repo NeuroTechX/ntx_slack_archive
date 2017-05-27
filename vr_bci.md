@@ -108,3 +108,9 @@
 > 
 <https://blog.betawave.io/a-software-engineers-guide-to-unity-and-ar-vr-development-part-1-c20ce973bf8e>
 
+5/27/2017 2:38 AM
+
+ **erinjerri** :
+
+ >has anyone taken MRI data (DICOM NIFTI) into voxel data and put it in unity/unreal before?
+
