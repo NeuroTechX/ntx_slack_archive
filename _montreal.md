@@ -534,3 +534,9 @@ Thank you!
 
  >fred-simard: totally makes sense. this is something I always had a problem - since I stopped using mules, I don't have easy way to record/playback eeg signals
 
+5/27/2017 3:17 AM
+
+ **fred-simard** :
+
+ >naoto python has a csv file object that makes it easy to save/load data. If you can do a FFT, you can write your data to a text file
+
