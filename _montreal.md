@@ -564,3 +564,9 @@ Thank you!
 
  >I should be at the hacknight next week,et me know if you want to pick them up
 
+5/27/2017 5:58 PM
+
+ **benjamindeleener** :
+
+ >fred-simard that would be awesome! We are also coming to the hacknight next week. Thank you very much!
+
