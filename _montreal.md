@@ -522,3 +522,9 @@ Thank you!
 
  >fred-simard the hacked neurosky seems working. I see pink noise like spectrum. I haven't got ASSR or SSVEP working. Maybe due to the python library's fft (it does binning to output spectrum with 1 hz step) so I will check with raw fft data
 
+5/27/2017 3:13 AM
+
+ **fred-simard** :
+
+ >naoto One thing you might want to start doing is to record your data and work on your analysis offline. I know you ultimately want an online system, but that will definitely speed up the development of your analysis since you won't depend on a live connection and you'll be free to compare multiple approach on the same data. Only after it works offline, you adapt it for an online application.
+
