@@ -3585,3 +3585,9 @@ Thoughts?
 
  ><https://documents.epfl.ch/users/c/ch/chavarri/www/smc2017/smc2017_hackathon.html>
 
+5/27/2017 9:09 AM
+
+ **harelasaf** :
+
+ >I'd also add that there are great MOOCs available. Such as Neuro Anatomy from Duke, computational neuroscience from Washington State University, Stanford has an especially popular machine learning class - all for free on Coursera. 
+
