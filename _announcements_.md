@@ -321,3 +321,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >a.tech: Wow. Thank you very much for putting all this together. I really appreciate the gesture.
 
+5/28/2017 12:30 AM
+
+ **a.tech** :
+
+ >Thank you and the rest of the team for bringing us all together! 
+
