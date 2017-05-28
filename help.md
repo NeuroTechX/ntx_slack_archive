@@ -20,6 +20,6 @@ https://github.com/NeuroTechX/ntx_slack_archive
 
 If you are part of NeuroTechX, I suppose you are a neurotech enthusiast, so don't miss the next big thing: http://eepurl.com/bEQDKX
 Also, we are currently trying to see how we can help people get the opportunity they want.
-Tell us a bit more about you so we can help you finding the best opportunity for you: bit.ly/ntx-recruitment-slack
+Tell us a bit more about you so we can help you finding the best opportunity for you: http://bit.ly/ntx-recruitment-slack
 
 Thanks to BeepBoopHQ for sponsoring NeuroTechX with free bot support. To learn more about BeepBoopHQ, please visit their website: *https://beepboophq.com/*
