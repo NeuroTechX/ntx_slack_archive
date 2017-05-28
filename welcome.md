@@ -27,7 +27,7 @@ Finally take a look at the different chapters that exist in NeuroTechX. You may 
 
 To find a *list of cities* where we are located in, please visit http://neurotechx.com/ and see if there is a chapter near you!
 
-*Bonus*
+*-- Bonus --*
 
 If you'd like us to help you find *great opportunities* in NeuroTech, we'll help you:
 http://bit.ly/ntx-recruitment-slack
@@ -35,4 +35,5 @@ http://bit.ly/ntx-recruitment-slack
 If you want to miss the *next big thing*, don't click this link:
 http://eepurl.com/bEQDKX
 
+--
 Thanks to BeepBoopHQ for sponsoring NeuroTechX with free bot support. To learn more about BeepBoopHQ, please visit their website: *https://beepboophq.com/*
