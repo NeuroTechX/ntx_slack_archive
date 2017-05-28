@@ -297,3 +297,9 @@ francescacoo you going?
 
  >Yes i am going! I have no idea how it is to be honest but it's not expensive and I thought it could be interesting? Maybe London people know more details!
 
+5/28/2017 5:51 PM
+
+ **javi_neuralcubes** :
+
+ >francescacoo yannick  this is pretty cool, thanks for sharing
+
