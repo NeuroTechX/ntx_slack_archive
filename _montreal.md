@@ -576,3 +576,9 @@ Thank you!
 
  >see you then ;)
 
+5/28/2017 6:23 PM
+
+ **naoto** :
+
+ >one thing that benefits me is if you could share raw EEG data files with successful ASSR/SSVEP so that I can play with the data without actual device
+
