@@ -531,3 +531,21 @@ since they're a pretty new thing i'd assume probably not :cry: though you never 
 > 
 <https://www.utwente.nl/en/organization/careers/vacancies/!/vacature/1042649>
 
+5/29/2017 2:59 PM
+
+ **eferdinand** :
+
+ >For people based in Montreal! We are currently looking for a Sales &amp; Marketing Hunter to help create new partnerships and lines of business for St-RINO Technologies Inc.
+
+> 
+If you are good in Building sales pipeline, Networking with small to large businesses, and would like to Increase a rising technology brand image 
+
+> 
+by developing Marketing and Sales strategies then send me a DM or an e-mail to <mailto:eferdinand@saintrino.org|eferdinand@saintrino.org>
+
+> 
+
+
+> 
+<http://placement.emploiquebec.gouv.qc.ca/mbe/ut/suivroffrs/apercoffr.asp?nooffr=5701988&amp;page=emplr&amp;CL=french>
+
