@@ -921,3 +921,21 @@ If you're in Toronto and interested in coming to Mozilla to hack together, regis
 
  >francois: thanks Francois!!! It was great to see you, as always. 
 
+5/29/2017 10:01 PM
+
+ **dano** :
+
+ ><!channel> Hey all, just another heads-up about the Mozilla event this week. Instead of a traditional hacknight, we'll be attending and help organize the opening of the Mozilla offices to participants in the Mozilla Global Sprint: <https://mozilla.github.io/global-sprint/projects/>
+
+> 
+
+
+> 
+If you're interested in dropping by to contribute to EEG 101 or any of the other Global Sprint projects <https://mozilla.github.io/global-sprint/projects/>, register here: <https://ti.to/Mozilla/global-sprint-toronto/with/tlcivmz5efg>
+
+> 
+
+
+> 
+There's still some space available and all sorts of skills are needed, from Java, Python, and JavaScript to literature reviews, UI design, and Machine Learning
+
