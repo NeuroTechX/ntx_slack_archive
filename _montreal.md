@@ -582,3 +582,18 @@ Thank you!
 
  >one thing that benefits me is if you could share raw EEG data files with successful ASSR/SSVEP so that I can play with the data without actual device
 
+5/29/2017 2:59 PM
+
+ **eferdinand** :
+
+ >We are currently looking for a Sales &amp; Marketing Hunter to help create new partnerships and lines of business for St-RINO Technologies Inc.
+
+> 
+If you are good in Building sales pipeline, Networking with small to large businesses, and would like to Increase a rising technology brand image 
+
+> 
+by developing Marketing and Sales strategies then send me a DM or an e-mail to <mailto:eferdinand@saintrino.org|eferdinand@saintrino.org>
+
+> 
+<http://placement.emploiquebec.gouv.qc.ca/mbe/ut/suivroffrs/apercoffr.asp?nooffr=5701988&amp;page=emplr&amp;CL=french>
+
