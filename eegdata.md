@@ -3132,3 +3132,9 @@ For two class my guess is somewhere around 80%
 
  >semantics& the knowledge is in the neurons :wink:
 
+5/30/2017 4:02 PM
+
+ **salazarparis** :
+
+ >ok, I will reach you tomorrow for sure
+
