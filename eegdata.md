@@ -2937,3 +2937,9 @@ For two class my guess is somewhere around 80%
 
  >what kind of network are you using?
 
+5/30/2017 3:47 PM
+
+ **salazarparis** :
+
+ >we work with Emotiv and Neurosky
+
