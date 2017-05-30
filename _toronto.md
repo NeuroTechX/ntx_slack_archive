@@ -951,3 +951,9 @@ There's still some space available and all sorts of skills are needed, from Java
 
  >(A little late, I know :p)
 
+5/30/2017 7:59 PM
+
+ **sunnyp** :
+
+ >Hey everyone I hope youre all doing well. Some of you may have met me at a Neurotech event last year. Looking forward to future meetups!
+
