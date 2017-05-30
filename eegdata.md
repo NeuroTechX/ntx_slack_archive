@@ -3102,3 +3102,9 @@ For two class my guess is somewhere around 80%
 
  >the network learn the parameter, not the architecture.
 
+5/30/2017 3:59 PM
+
+ **bciguy** :
+
+ >salazarparis I would be happy to speak with your team
+
