@@ -642,3 +642,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Part of the PR push for NeuroTechEDU. As mentioned in a few calls I'm working on EDU this week to get the content more polished
 
+5/30/2017 4:08 PM
+
+ **sydneyneurotechx** :
+
+ >Let me know if anyone needs any help :slightly_smiling_face:
+
