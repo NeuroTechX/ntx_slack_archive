@@ -969,3 +969,9 @@ There's still some space available and all sorts of skills are needed, from Java
 
  >Hey sunnyp you should introduce yourself in <#C08QEC5H7|introductions> so everyone can know a little more about you :slightly_smiling_face:
 
+5/30/2017 9:33 PM
+
+ **dano** :
+
+ >Thanks, sunny. I remember you!
+
