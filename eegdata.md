@@ -2859,3 +2859,9 @@ For two class my guess is somewhere around 80%
 
  >let me know if you are interested! here is the project website: <https://github.com/ContextLab/hypertools>
 
+5/30/2017 2:56 PM
+
+ **andyh616** :
+
+ >we are participating in the mozilla code sprint this thurs and fri: <https://mozilla.github.io/global-sprint/> it would be awesome if anybody was interested in helping to implement the real-time plotting feature
+
