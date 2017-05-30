@@ -3252,3 +3252,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >thanks!
 
+5/30/2017 7:29 PM
+
+ **dano** :
+
+ >the interpolation parameter isn't in the matplotlib docs for specgram, I'll write a note to the devs
+
