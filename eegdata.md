@@ -3300,3 +3300,9 @@ Additional kwargs are passed on to imshow which makes the specgram image
 
  >ahh, I see, imshow's like the general purpose plotting funciton
 
+5/30/2017 7:32 PM
+
+ **alexandre.barachant** :
+
+ >(from the doc)
+
