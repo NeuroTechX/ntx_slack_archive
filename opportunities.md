@@ -549,3 +549,12 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 > 
 <http://placement.emploiquebec.gouv.qc.ca/mbe/ut/suivroffrs/apercoffr.asp?nooffr=5701988&amp;page=emplr&amp;CL=french>
 
+5/30/2017 2:00 PM
+
+ **yannick** :
+
+ >Awesome opportunity at UPenn for a full-time Unity Dev. working on a Game for Memory and Brain Stimulation! (how cool is that?)
+
+> 
+<https://jobs.hr.upenn.edu/postings/28741>
+
