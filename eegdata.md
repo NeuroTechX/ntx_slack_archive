@@ -3324,3 +3324,9 @@ Additional kwargs are passed on to imshow which makes the specgram image
 
  >yannick when you say structured do you mean that latent variables have relatively lower variance?
 
+5/30/2017 8:37 PM
+
+ **bciguy** :
+
+ >Yes EEG is noisy, everyone here knows that. I dont expect DL to work out of the box for EEG/BCI, and weve already talked about a few of the reasons why. However I suspect that it is going to be a very powerful tool in the next decade of EEG/BCI research, since it has made such a significant impact in *virtually all other domains of machine learning*, but not yet in EEG/BCIs.
+
