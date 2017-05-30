@@ -2985,3 +2985,9 @@ For two class my guess is somewhere around 80%
 
  >Because everybody were using their own datasets, or people were leveraging the all the datasets available online as a general training, and then retraining for the task at hand? (kinda transfer learning from general EEG to specific EEG)
 
+5/30/2017 3:50 PM
+
+ **bciguy** :
+
+ >alexandre.barachant: very interesting, I would love to see that presentation.. Do you know why it didnt work? Due to overfitting?
+
