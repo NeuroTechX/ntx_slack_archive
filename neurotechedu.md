@@ -660,3 +660,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >hey Sydney/everybody, I am pushing the content on jekyll.. I used the template and it's going quite well.. only I don't understand how it works with the new lines. When I copy-paste content which has a return line sometimes it's going to a new line, sometimes not, other times it creates two new lines.. Maybe I am doing something wrong?
 
+5/30/2017 11:02 PM
+
+ **sydneyneurotechx** :
+
+ >markdown is a bit finicky at times
+
