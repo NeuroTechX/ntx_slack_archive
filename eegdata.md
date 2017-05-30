@@ -2919,3 +2919,9 @@ For two class my guess is somewhere around 80%
 
  >salazarparis: you are applying deep learning directly to raw EEG?
 
+5/30/2017 3:46 PM
+
+ **hassan** :
+
+ >salazarparis  and does it work?
+
