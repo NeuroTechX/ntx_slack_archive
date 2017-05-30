@@ -3246,3 +3246,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >dano not sure it will wokrs , but try the parameter `interpolation='bilinear'`
 
+5/30/2017 5:25 PM
+
+ **dano** :
+
+ >thanks!
+
