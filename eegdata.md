@@ -2865,3 +2865,9 @@ For two class my guess is somewhere around 80%
 
  >we are participating in the mozilla code sprint this thurs and fri: <https://mozilla.github.io/global-sprint/> it would be awesome if anybody was interested in helping to implement the real-time plotting feature
 
+5/30/2017 3:06 PM
+
+ **yannick** :
+
+ >Nice work andyh616! It sounds like something naoto &amp; sidksv would be interested in ^
+
