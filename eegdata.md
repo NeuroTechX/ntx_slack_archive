@@ -3306,3 +3306,9 @@ Additional kwargs are passed on to imshow which makes the specgram image
 
  >(from the doc)
 
+5/30/2017 7:32 PM
+
+ **alexandre.barachant** :
+
+ >yep, when I don't find the right param for this kind of thing, i often look at the **kargs param from the doc to know which base function it is using
+
