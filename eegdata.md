@@ -3162,3 +3162,9 @@ For two class my guess is somewhere around 80%
 
  >alexandre.barachant: Do you have a link to their publications about that (if any)?
 
+5/30/2017 4:03 PM
+
+ **bciguy** :
+
+ >yannick: why do you say this? Standard image recognition samples are within the same range as EEG 1s single trial / single channel (dim reduced) samples.
+
