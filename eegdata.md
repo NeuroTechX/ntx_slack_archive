@@ -2967,3 +2967,9 @@ For two class my guess is somewhere around 80%
 
  >not yet open to all
 
+5/30/2017 3:49 PM
+
+ **alexandre.barachant** :
+
+ >there was a special session at the 2016 BCI meeting. Long story short, no one made it works better than hand crafted feature + LDA
+
