@@ -3126,3 +3126,9 @@ For two class my guess is somewhere around 80%
 
  >I see what you are saying, I forgot to note the utility of BSS as a preprocessing step (PCA/ICA / Hilbert etc)
 
+5/30/2017 4:02 PM
+
+ **bciguy** :
+
+ >semantics& the knowledge is in the neurons :wink:
+
