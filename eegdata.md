@@ -3003,3 +3003,9 @@ For two class my guess is somewhere around 80%
 
  >hassan, yep, those guy where the only one to present kind of good results at the conference
 
+5/30/2017 3:53 PM
+
+ **salazarparis** :
+
+ >would you like to check an opportunity @synapbox ?
+
