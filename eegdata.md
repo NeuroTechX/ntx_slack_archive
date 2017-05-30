@@ -3204,3 +3204,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >Standard samples for image recognition problem can be within the same data size range. Not sure exactly what you mean here?
 
+5/30/2017 4:39 PM
+
+ **bciguy** :
+
+ >Im saying that one sample (image) in the computer vision problem can be similar in size to a single trial single channel EEG sample
+
