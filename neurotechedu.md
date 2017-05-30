@@ -666,3 +666,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >markdown is a bit finicky at times
 
+5/30/2017 11:03 PM
+
+ **sydneyneurotechx** :
+
+ >Somestimes you need to delete the space between two words to remove the new line
+
