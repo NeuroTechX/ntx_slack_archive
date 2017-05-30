@@ -939,3 +939,9 @@ If you're interested in dropping by to contribute to EEG 101 or any of the other
 > 
 There's still some space available and all sorts of skills are needed, from Java, Python, and JavaScript to literature reviews, UI design, and Machine Learning
 
+5/30/2017 4:01 AM
+
+ **sydneyneurotechx** :
+
+ >Great event guys!!
+
