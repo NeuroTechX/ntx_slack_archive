@@ -1299,3 +1299,63 @@ Does anyone have good experience with cyton-board + Ultracortex "Mark IV" EEG He
 
  >oriansha: Hi, I have just read your message (Thanks yannick and sorry for taking me so long to reply). In Thessaloniki, we have a growing neuroinformatics community. Please check our groups page at <http://neuroinformatics.gr>. You are most welcome to further contact me.
 
+5/30/2017 10:42 AM
+
+ **lubo** :
+
+ >Hello, everyone! 
+
+> 
+
+
+> 
+My name is Lubo and Im a Bulgarian by origin.
+
+> 
+
+
+> 
+Currently, I work in a small, private company that provides organizational diagnostics services.
+
+> 
+
+
+> 
+My background is in the field of marketing and innovation management. In addition, I have also specialized in the Human Capital Management field because working/communicating/interacting with people is something that Im very interested in on a professional level. 
+
+> 
+
+
+> 
+My love of the emerging technology is what brought me here. To be more precise, Im currently interested in and trying to stay up-to-day with the latest trends in the field of EEG/BCI. The following two is what particularly spark my curiosity the most:
+
+> 
+
+
+> 
+1)  Consumer-oriented headset devices;
+
+> 
+
+
+> 
+2) EEG/BCI applications in the healthcare industry as medical devices and/or in clinical trials for the purposes of investigating certain symptoms occurrence and early diagnosis for conditions related to dementia-related diseases, depression, epilepsy, etc.
+
+> 
+
+
+> 
+I believe that by joining the community, I will not only learn a lot from you but also will enlarge my professional network and increase the love of the neurotechnology!
+
+> 
+
+
+> 
+Thank you and keep in touch!
+
+> 
+
+
+> 
+L.
+
