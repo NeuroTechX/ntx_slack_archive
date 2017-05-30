@@ -1371,3 +1371,9 @@ L.
 
  >Thank you, sydneyneurotechx ! :wink:
 
+5/30/2017 8:11 PM
+
+ **sunnyp** :
+
+ >Hello everyone! My name is Sunny and Im excited to join this community. I graduated with a degree in Aerospace  Engineering through which I have some signal processing and programming experience in Matlab/Simulink. Ive been interested in machine learning and neuroscience for quite some time and would enjoy exploring the two within this community.
+
