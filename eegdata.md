@@ -2895,3 +2895,9 @@ For two class my guess is somewhere around 80%
 
  >hey man! hows it hangin?
 
+5/30/2017 3:45 PM
+
+ **bciguy** :
+
+ >Hey <!channel> has anyone here applied DEEP LEARNING to RAW EEG? As far as Im aware most groups are still doing feature extraction by hand, so I thought this would be the best group to ask.
+
