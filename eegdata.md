@@ -3210,3 +3210,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >Im saying that one sample (image) in the computer vision problem can be similar in size to a single trial single channel EEG sample
 
+5/30/2017 4:40 PM
+
+ **bciguy** :
+
+ >Im calling you out on You obviously cant do deep learning with your own data within a lab experiment
+
