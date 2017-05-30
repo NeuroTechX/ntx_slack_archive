@@ -2871,3 +2871,9 @@ For two class my guess is somewhere around 80%
 
  >Nice work andyh616! It sounds like something naoto &amp; sidksv would be interested in ^
 
+5/30/2017 3:06 PM
+
+ **andyh616** :
+
+ >thanks!
+
