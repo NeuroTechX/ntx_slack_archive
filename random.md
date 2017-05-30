@@ -1113,3 +1113,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >For FMRIB I used Zazzle For swag i think in like 2008. I want something I can wash forever
 
+5/30/2017 11:55 PM
+
+ **sydneyneurotechx** :
+
+ >Neurofeedback has become a political topic. <http://www.businessinsider.com/adhd-treatments-without-medication-neurofeedback-science-2017-3>
+
