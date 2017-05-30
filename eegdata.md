@@ -3066,3 +3066,9 @@ For two class my guess is somewhere around 80%
 
  >alexandre.barachant: yep, but the network does it on its own with data
 
+5/30/2017 3:58 PM
+
+ **salazarparis** :
+
+ >I see you are in this
+
