@@ -3009,3 +3009,9 @@ For two class my guess is somewhere around 80%
 
  >would you like to check an opportunity @synapbox ?
 
+5/30/2017 3:53 PM
+
+ **yannick** :
+
+ >You obviously cant do deep learning with your own data within a lab experiment. Youll train on noise and overfit big time. You need a massive amount that will kinda learn what general EEG is, then learn the specificity of the task at hand.
+
