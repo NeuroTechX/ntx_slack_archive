@@ -3198,3 +3198,9 @@ The network by itself is not trying to figure out what kind of layer it should u
 > 
 Technically, its really impressive and I can see how (e.g.) not having to choose the filter settings is nice. On the other hand, I worry that they provide new and exciting ways to shoot oneself in the foot (what if the 60 Hz noise varies between conditions or subjects?) and it seems like you would have to completely retrain the model even after trivial changes (e.g., sampling rate)
 
+5/30/2017 4:37 PM
+
+ **yannick** :
+
+ >Standard samples for image recognition problem can be within the same data size range. Not sure exactly what you mean here?
+
