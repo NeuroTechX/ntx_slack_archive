@@ -3330,3 +3330,9 @@ Additional kwargs are passed on to imshow which makes the specgram image
 
  >Yes EEG is noisy, everyone here knows that. I dont expect DL to work out of the box for EEG/BCI, and weve already talked about a few of the reasons why. However I suspect that it is going to be a very powerful tool in the next decade of EEG/BCI research, since it has made such a significant impact in *virtually all other domains of machine learning*, but not yet in EEG/BCIs.
 
+5/30/2017 8:48 PM
+
+ **bciguy** :
+
+ >I dont expect DL to work out of the box for all EEG/BCI applications, and weve already talked about a few of the challenges for attempting to do so in this channel. However there must be an EEG correlate to Eigenimages or the like appearing in computer vision, and its difficult to even imagine what deep learning might be able to tell us about our datasets without just doing it (my excuse is lack of time!) I just wanted to have this discussion since I dont see it going on anywhere else.
+
