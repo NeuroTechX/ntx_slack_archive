@@ -2979,3 +2979,9 @@ For two class my guess is somewhere around 80%
 
  >(that's not completely true, but that was the feeling)
 
+5/30/2017 3:50 PM
+
+ **yannick** :
+
+ >Because everybody were using their own datasets, or people were leveraging the all the datasets available online as a general training, and then retraining for the task at hand? (kinda transfer learning from general EEG to specific EEG)
+
