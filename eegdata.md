@@ -2883,3 +2883,9 @@ For two class my guess is somewhere around 80%
 
  >naoto sidksv DM me if you might be interested :slightly_smiling_face:
 
+5/30/2017 3:24 PM
+
+ **aj** :
+
+ >andyh616 hey!
+
