@@ -3168,3 +3168,15 @@ For two class my guess is somewhere around 80%
 
  >yannick: why do you say this? Standard image recognition samples are within the same range as EEG 1s single trial / single channel (dim reduced) samples.
 
+5/30/2017 4:04 PM
+
+ **alexandre.barachant** :
+
+ >for example, 1D conv layer are like temporal filter. by adding this layer you tell the network 'learn me the optimal temporal filter'.
+
+> 
+
+
+> 
+The network by itself is not trying to figure out what kind of layer it should use (yet)
+
