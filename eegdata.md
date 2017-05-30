@@ -2901,3 +2901,9 @@ For two class my guess is somewhere around 80%
 
  >Hey <!channel> has anyone here applied DEEP LEARNING to RAW EEG? As far as Im aware most groups are still doing feature extraction by hand, so I thought this would be the best group to ask.
 
+5/30/2017 3:46 PM
+
+ **salazarparis** :
+
+ >We do it <http://www.synapbox.com|www.synapbox.com> EEG and Facial recognition/Eye-tracking
+
