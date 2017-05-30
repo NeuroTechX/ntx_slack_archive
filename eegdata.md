@@ -3222,3 +3222,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >Yes, and if you try to classify X and Os you need little samples because the data is highly structured with fairly low variance. The more complex the image and the more variance (e.g. races of dogs) the more data you will need. But a real-life image remains a highly structured piece of data.
 
+5/30/2017 4:51 PM
+
+ **yannick** :
+
+ >EEG and time series such as stock market are not  necessarily as structured. Which makes Deep Learning harder.
+
