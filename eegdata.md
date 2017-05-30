@@ -3258,3 +3258,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >the interpolation parameter isn't in the matplotlib docs for specgram, I'll write a note to the devs
 
+5/30/2017 7:30 PM
+
+ **alexandre.barachant** :
+
+ >it's in **kargs
+
