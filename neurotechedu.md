@@ -630,3 +630,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >There's also un-paywall, for those who aren't aware! <https://www.nature.com/news/unpaywall-finds-free-versions-of-paywalled-papers-1.21765>
 
+5/30/2017 4:07 PM
+
+ **sydneyneurotechx** :
+
+ ><https://medium.com/@MozOpenLeaders/neurotechedu-1019b1c97c20>
+
