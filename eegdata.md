@@ -3282,3 +3282,15 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >yea, it's there for imshow
 
+5/30/2017 7:31 PM
+
+ **alexandre.barachant** :
+
+ >**kwargs :
+
+> 
+
+
+> 
+Additional kwargs are passed on to imshow which makes the specgram image
+
