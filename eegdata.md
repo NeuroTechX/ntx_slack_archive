@@ -3114,3 +3114,9 @@ For two class my guess is somewhere around 80%
 
  >email me at <mailto:daniel@iwinks.org|daniel@iwinks.org>
 
+5/30/2017 3:59 PM
+
+ **alexandre.barachant** :
+
+ >yes, but when feature are buried in noise, the auto-encoder has a lot of trouble to converge to a good solution
+
