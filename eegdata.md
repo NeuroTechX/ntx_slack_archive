@@ -3294,3 +3294,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 > 
 Additional kwargs are passed on to imshow which makes the specgram image
 
+5/30/2017 7:31 PM
+
+ **dano** :
+
+ >ahh, I see, imshow's like the general purpose plotting funciton
+
