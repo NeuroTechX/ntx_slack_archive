@@ -2925,3 +2925,9 @@ For two class my guess is somewhere around 80%
 
  >salazarparis  and does it work?
 
+5/30/2017 3:47 PM
+
+ **salazarparis** :
+
+ >Yes actually we are using Emotiv and Neurosky (Attention only)
+
