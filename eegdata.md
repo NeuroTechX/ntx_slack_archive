@@ -3048,3 +3048,9 @@ For two class my guess is somewhere around 80%
 
  >the paper i pointed out here, they took a interesting approach, which is to build an architecture that reproduce current feature extraction pipeline. That's a way to let the network learn parameters that makes sense and can be interpreted
 
+5/30/2017 3:57 PM
+
+ **alexandre.barachant** :
+
+ >it's basically like injecting a little bit of domain knowledge to help convergence
+
