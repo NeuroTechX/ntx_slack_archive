@@ -3318,3 +3318,9 @@ Additional kwargs are passed on to imshow which makes the specgram image
 
  >that's a bit annoying, but it usually works
 
+5/30/2017 8:36 PM
+
+ **bciguy** :
+
+ >yannick when you say structured do you mean that latent variables have relatively lower variance?
+
