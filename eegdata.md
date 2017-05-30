@@ -3336,3 +3336,15 @@ Additional kwargs are passed on to imshow which makes the specgram image
 
  >I dont expect DL to work out of the box for all EEG/BCI applications, and weve already talked about a few of the challenges for attempting to do so in this channel. However there must be an EEG correlate to Eigenimages or the like appearing in computer vision, and its difficult to even imagine what deep learning might be able to tell us about our datasets without just doing it (my excuse is lack of time!) I just wanted to have this discussion since I dont see it going on anywhere else.
 
+5/30/2017 9:02 PM
+
+ **yannick** :
+
+ >Im using the X and O example because its a popular one in Deep Learning, simpler than MNIST. (just finished Yoshua Bengio Deep Learnings Class at University Montreal so I might be a little too much into it haha.)
+
+> 
+There is no doubt that Deep Learning will have a significant impact in the coming years, but like any other fields deep learning impacted, data is key. We need efforts that can leverage large(r) amount of data. The performance we see today in deep learning is also possible because of the amount of images of a cat or text or speech available online. All the large corpus of organized data now available online made a huge difference in the field, now moving so fast. MNIST, MSCOCO, LSUN, Flickr, Cornell Movie Dialogue, Stanford Twitter Sentiment, etc.
+
+> 
+What will help Deep Learning for EEG/BCI, is a similar grouping of data and benchmark to test algorithms to iterate quickly on approaches. Deep Learning right now is a lot of Try, Try, Try, Try& No one can tell what hyper parameter to use and such. So its all about iterating quickly. Which the EEG/BCI field need to get better at.
+
