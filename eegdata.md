@@ -3354,3 +3354,12 @@ What will help Deep Learning for EEG/BCI, is a similar grouping of data and benc
 
  >The field is moving so fast that the class itself (Deep Learning) is about What happened in the last 2-3 years. And the final project description says To our knowledge, this is a novel task and has never been done before, so a successful project would in fact be a valuable research contribution.  However we also designed the project so that a very simple solution will still be able to achieve reasonable results.  (quite intimidating, hahahaha)
 
+5/30/2017 9:07 PM
+
+ **yannick** :
+
+ ><https://ift6266h17.wordpress.com/project-description/>
+
+> 
+(the final project for the class)
+
