@@ -3228,3 +3228,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >EEG and time series such as stock market are not  necessarily as structured. Which makes Deep Learning harder.
 
+5/30/2017 5:20 PM
+
+ **dano** :
+
+ >using matplotlib 2.0.2
+
