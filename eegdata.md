@@ -3054,3 +3054,9 @@ For two class my guess is somewhere around 80%
 
  >it's basically like injecting a little bit of domain knowledge to help convergence
 
+5/30/2017 3:57 PM
+
+ **bciguy** :
+
+ >alexandre.barachant: I get your reasoning here, but isnt the whole theory behind DL that the autoencoders create features in the hidden layers, and wouldnt that deal with the noise issue? Again, all theoretical and a very interesting discussion :smile:
+
