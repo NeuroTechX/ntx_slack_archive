@@ -2991,3 +2991,9 @@ For two class my guess is somewhere around 80%
 
  >alexandre.barachant: very interesting, I would love to see that presentation.. Do you know why it didnt work? Due to overfitting?
 
+5/30/2017 3:51 PM
+
+ **hassan** :
+
+ >I saw once that US army (or a related agency) released  about 100 GB of raw EEG data. Cannot find the link. However, do we really consider this as an enough data to model a complex signal like EEG via deep learning?
+
