@@ -957,3 +957,9 @@ There's still some space available and all sorts of skills are needed, from Java
 
  >Hey everyone I hope youre all doing well. Some of you may have met me at a Neurotech event last year. Looking forward to future meetups!
 
+5/30/2017 8:00 PM
+
+ **sunnyp** :
+
+ >By the way, great job with the wearable tech event!
+
