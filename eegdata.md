@@ -3150,3 +3150,9 @@ For two class my guess is somewhere around 80%
 
  >by architecture, i mean the amount and type of layer you pile up
 
+5/30/2017 4:03 PM
+
+ **ray_cassani** :
+
+ >can't be possible the preprocessing is also a layer in the DL model? so the it learned rather than imposed?
+
