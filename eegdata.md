@@ -2931,3 +2931,9 @@ For two class my guess is somewhere around 80%
 
  >Yes actually we are using Emotiv and Neurosky (Attention only)
 
+5/30/2017 3:47 PM
+
+ **bciguy** :
+
+ >what kind of network are you using?
+
