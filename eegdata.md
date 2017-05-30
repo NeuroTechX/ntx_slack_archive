@@ -2955,3 +2955,9 @@ For two class my guess is somewhere around 80%
 
  >but we prefered to play with raw data from facial recognition and eyetracking
 
+5/30/2017 3:49 PM
+
+ **salazarparis** :
+
+ >we can talk it somewhere else, we are trying to manage our know-how internally with specific people
+
