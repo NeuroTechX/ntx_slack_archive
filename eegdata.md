@@ -2961,3 +2961,9 @@ For two class my guess is somewhere around 80%
 
  >we can talk it somewhere else, we are trying to manage our know-how internally with specific people
 
+5/30/2017 3:49 PM
+
+ **salazarparis** :
+
+ >not yet open to all
+
