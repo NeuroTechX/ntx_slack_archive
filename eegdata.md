@@ -3240,3 +3240,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >using matplotlib 2.0.2
 
+5/30/2017 5:23 PM
+
+ **alexandre.barachant** :
+
+ >dano not sure it will wokrs , but try the parameter `interpolation='bilinear'`
+
