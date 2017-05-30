@@ -3060,3 +3060,9 @@ For two class my guess is somewhere around 80%
 
  >alexandre.barachant: I get your reasoning here, but isnt the whole theory behind DL that the autoencoders create features in the hidden layers, and wouldnt that deal with the noise issue? Again, all theoretical and a very interesting discussion :smile:
 
+5/30/2017 3:58 PM
+
+ **bciguy** :
+
+ >alexandre.barachant: yep, but the network does it on its own with data
+
