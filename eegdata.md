@@ -3156,3 +3156,9 @@ For two class my guess is somewhere around 80%
 
  >can't be possible the preprocessing is also a layer in the DL model? so the it learned rather than imposed?
 
+5/30/2017 4:03 PM
+
+ **hassan** :
+
+ >alexandre.barachant: Do you have a link to their publications about that (if any)?
+
