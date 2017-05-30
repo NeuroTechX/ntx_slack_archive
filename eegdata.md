@@ -3276,3 +3276,9 @@ Technically, its really impressive and I can see how (e.g.) not having to choos
 
  >it's in the parameters for imshow or something like this
 
+5/30/2017 7:31 PM
+
+ **dano** :
+
+ >yea, it's there for imshow
+
