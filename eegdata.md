@@ -3348,3 +3348,9 @@ There is no doubt that Deep Learning will have a significant impact in the comin
 > 
 What will help Deep Learning for EEG/BCI, is a similar grouping of data and benchmark to test algorithms to iterate quickly on approaches. Deep Learning right now is a lot of Try, Try, Try, Try& No one can tell what hyper parameter to use and such. So its all about iterating quickly. Which the EEG/BCI field need to get better at.
 
+5/30/2017 9:06 PM
+
+ **yannick** :
+
+ >The field is moving so fast that the class itself (Deep Learning) is about What happened in the last 2-3 years. And the final project description says To our knowledge, this is a novel task and has never been done before, so a successful project would in fact be a valuable research contribution.  However we also designed the project so that a very simple solution will still be able to achieve reasonable results.  (quite intimidating, hahahaha)
+
