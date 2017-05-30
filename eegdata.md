@@ -3144,3 +3144,9 @@ For two class my guess is somewhere around 80%
 
  >have a great day
 
+5/30/2017 4:02 PM
+
+ **alexandre.barachant** :
+
+ >by architecture, i mean the amount and type of layer you pile up
+
