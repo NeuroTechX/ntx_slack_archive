@@ -2907,3 +2907,9 @@ For two class my guess is somewhere around 80%
 
  >We do it <http://www.synapbox.com|www.synapbox.com> EEG and Facial recognition/Eye-tracking
 
+5/30/2017 3:46 PM
+
+ **alexandre.barachant** :
+
+ >bciguy  <https://arxiv.org/pdf/1703.05051.pdf>
+
