@@ -2997,3 +2997,9 @@ For two class my guess is somewhere around 80%
 
  >I saw once that US army (or a related agency) released  about 100 GB of raw EEG data. Cannot find the link. However, do we really consider this as an enough data to model a complex signal like EEG via deep learning?
 
+5/30/2017 3:52 PM
+
+ **alexandre.barachant** :
+
+ >hassan, yep, those guy where the only one to present kind of good results at the conference
+
