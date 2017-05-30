@@ -2913,3 +2913,9 @@ For two class my guess is somewhere around 80%
 
  >bciguy  <https://arxiv.org/pdf/1703.05051.pdf>
 
+5/30/2017 3:46 PM
+
+ **bciguy** :
+
+ >salazarparis: you are applying deep learning directly to raw EEG?
+
