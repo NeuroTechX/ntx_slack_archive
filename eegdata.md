@@ -3015,3 +3015,18 @@ For two class my guess is somewhere around 80%
 
  >You obviously cant do deep learning with your own data within a lab experiment. Youll train on noise and overfit big time. You need a massive amount that will kinda learn what general EEG is, then learn the specificity of the task at hand.
 
+5/30/2017 3:54 PM
+
+ **alexandre.barachant** :
+
+ >IMO, reason why it is not that efficient right now is :
+
+> 
+- Dataset are too small.
+
+> 
+- Most problem are binary classification problem, where current feature extraction are quasi-optimal.
+
+> 
+- DL don't like noisy data. DL like complex and structured data with a good SNR (like image, text, etc)
+
