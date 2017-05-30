@@ -2973,3 +2973,9 @@ For two class my guess is somewhere around 80%
 
  >there was a special session at the 2016 BCI meeting. Long story short, no one made it works better than hand crafted feature + LDA
 
+5/30/2017 3:50 PM
+
+ **alexandre.barachant** :
+
+ >(that's not completely true, but that was the feeling)
+
