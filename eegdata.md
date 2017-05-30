@@ -2949,3 +2949,9 @@ For two class my guess is somewhere around 80%
 
  >how do you overcome overfitting?
 
+5/30/2017 3:48 PM
+
+ **salazarparis** :
+
+ >but we prefered to play with raw data from facial recognition and eyetracking
+
