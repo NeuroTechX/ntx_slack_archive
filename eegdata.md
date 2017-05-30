@@ -3120,3 +3120,9 @@ For two class my guess is somewhere around 80%
 
  >yes, but when feature are buried in noise, the auto-encoder has a lot of trouble to converge to a good solution
 
+5/30/2017 4:00 PM
+
+ **bciguy** :
+
+ >I see what you are saying, I forgot to note the utility of BSS as a preprocessing step (PCA/ICA / Hilbert etc)
+
