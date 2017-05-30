@@ -3030,3 +3030,9 @@ For two class my guess is somewhere around 80%
 > 
 - DL don't like noisy data. DL like complex and structured data with a good SNR (like image, text, etc)
 
+5/30/2017 3:55 PM
+
+ **bciguy** :
+
+ >salazarparis not sure I understand your answer - is this^ a solicitation for a job or future customer?
+
