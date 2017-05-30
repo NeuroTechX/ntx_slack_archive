@@ -648,3 +648,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Let me know if anyone needs any help :slightly_smiling_face:
 
+5/30/2017 8:43 PM
+
+ **francescacoo** :
+
+ >sydneyneurotechx: wohooo that's great!! Looking forward to see the project live and start learning from the other modules!!
+
