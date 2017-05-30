@@ -963,3 +963,9 @@ There's still some space available and all sorts of skills are needed, from Java
 
  >By the way, great job with the wearable tech event!
 
+5/30/2017 8:05 PM
+
+ **yannick** :
+
+ >Hey sunnyp you should introduce yourself in <#C08QEC5H7|introductions> so everyone can know a little more about you :slightly_smiling_face:
+
