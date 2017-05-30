@@ -3180,3 +3180,9 @@ For two class my guess is somewhere around 80%
 > 
 The network by itself is not trying to figure out what kind of layer it should use (yet)
 
+5/30/2017 4:05 PM
+
+ **alexandre.barachant** :
+
+ >yes, that was basically what they did in the paper i shared here
+
