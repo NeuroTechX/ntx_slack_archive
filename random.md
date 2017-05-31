@@ -1131,3 +1131,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Not true, there is litterature showing that it works very well when properly executed, the problem in that field used to be that practitioners did not have the background to properly apply the technology to the medical condition, resulting in stupid studies every now and then. There will be studies coming soon showing that it does work efficiently when done properly.
 
+5/31/2017 6:45 PM
+
+ **yannick** :
+
+ >Hahaha awesome!
+
