@@ -1815,3 +1815,9 @@ This article suggests
 > 
 it's expensive, because machines are expensive, because it's complicated to make these, and especially make usage safe.
 
+5/31/2017 11:25 AM
+
+ **jmhorschig** :
+
+ >and of course because people like to make money
+
