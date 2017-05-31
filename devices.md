@@ -1833,3 +1833,9 @@ it's expensive, because machines are expensive, because it's complicated to make
 
  >and also medical market is a bit weird in terms price self-regulation
 
+5/31/2017 11:33 AM
+
+ **stephen** :
+
+ >Thanks jmhorschig and alexandre.barachant!
+
