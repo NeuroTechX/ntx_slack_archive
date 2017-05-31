@@ -1383,3 +1383,9 @@ L.
 
  >what's crackin everyone! my name is andrew, i'm from the los angeles area. i work / had worked in tech as an android developer. i recently purchased myself a ganglion board from openBCI and am starting to develop some apps with it for fun. hit me up if anyone wants to collaborate, etc. machine learning too is kewl :sunglasses: cheers!
 
+5/31/2017 8:21 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome sunnyp  and andrewjsauer !
+
