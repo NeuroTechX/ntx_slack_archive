@@ -1845,3 +1845,9 @@ it's expensive, because machines are expensive, because it's complicated to make
 
  >especially in the US, where there is not that much regulation or incentive to put a fair price on the intervention or drug. Company basically try to extract as much as they can from the insurance.
 
+5/31/2017 11:38 AM
+
+ **alexandre.barachant** :
+
+ >what i'm saying is that even if the price of the machine was 100$, the daily session might still be 200 to 300$
+
