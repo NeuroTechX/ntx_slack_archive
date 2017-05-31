@@ -1794,3 +1794,15 @@ What can possibly go wrong?
 
  >aj: finite element model - it's a physical model that can be used to describe properties of different tissues, e.g. optical scattering and absorption. You can think of it as a 3D model of vertices, where each vertex has additional properties that can later be used by some algorithm to e.g. compute photon migration.
 
+5/31/2017 9:15 AM
+
+ **stephen** :
+
+ >Does anyone know why TMS machines are so expensive? 
+
+> 
+
+
+> 
+This article suggests
+
