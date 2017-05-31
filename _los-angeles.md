@@ -12,3 +12,9 @@
 
  >any meetup in irvine
 
+5/31/2017 8:20 PM
+
+ **andrewjsauer** :
+
+ ><!here|@here> any meetup in the near future?
+
