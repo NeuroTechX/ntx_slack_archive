@@ -552,3 +552,9 @@ We can meet you in a few days
 
  >:octopicorn:
 
+5/31/2017 7:45 PM
+
+ **marion** :
+
+ >micslab yes I will give a presentation at Google next week on Keras and Tensorflow. It's on Wednesday 06/07
+
