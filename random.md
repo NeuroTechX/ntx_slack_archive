@@ -1119,3 +1119,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Neurofeedback has become a political topic. <http://www.businessinsider.com/adhd-treatments-without-medication-neurofeedback-science-2017-3>
 
+5/31/2017 12:11 AM
+
+ **sheida** :
+
+ >So much work shows it's probably a placebo
+
