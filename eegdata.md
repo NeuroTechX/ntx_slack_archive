@@ -3369,3 +3369,9 @@ What will help Deep Learning for EEG/BCI, is a similar grouping of data and benc
 
  >andyh616: I'm not available this week so I can't help you but it seems quite relevant to what I'm doing. I use t-SNE on training/calibration data and mapping real-time data by finding the smallest Euclidean distance <http://naotohieda.com/muse/>
 
+5/31/2017 2:25 PM
+
+ **andyh616** :
+
+ >thats awesome! the package we are developing currently plots multivariate data using PCA, but we are extending it to support, t-SNE, MDS, and a whole bunch more.  Hopefully, we'll support streaming data soon.  I'd love to chat about your project sometime :slightly_smiling_face:
+
