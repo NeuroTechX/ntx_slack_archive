@@ -1806,3 +1806,12 @@ What can possibly go wrong?
 > 
 This article suggests
 
+5/31/2017 11:25 AM
+
+ **jmhorschig** :
+
+ >stephen <http://open-rtms.sourceforge.net/about.html> 
+
+> 
+it's expensive, because machines are expensive, because it's complicated to make these, and especially make usage safe.
+
