@@ -1821,3 +1821,9 @@ it's expensive, because machines are expensive, because it's complicated to make
 
  >and of course because people like to make money
 
+5/31/2017 11:26 AM
+
+ **alexandre.barachant** :
+
+ >also, it is expensive because the market is small, so you can't save cost by sacling manufacturing
+
