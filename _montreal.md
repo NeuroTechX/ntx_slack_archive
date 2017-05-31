@@ -597,3 +597,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 > 
 <http://placement.emploiquebec.gouv.qc.ca/mbe/ut/suivroffrs/apercoffr.asp?nooffr=5701988&amp;page=emplr&amp;CL=french>
 
+5/31/2017 10:59 PM
+
+ **fred-simard** :
+
+ >naoto: definitely....
+
