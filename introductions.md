@@ -1377,3 +1377,9 @@ L.
 
  >Hello everyone! My name is Sunny and Im excited to join this community. I graduated with a degree in Aerospace  Engineering through which I have some signal processing and programming experience in Matlab/Simulink. Ive been interested in machine learning and neuroscience for quite some time and would enjoy exploring the two within this community.
 
+5/31/2017 8:19 PM
+
+ **andrewjsauer** :
+
+ >what's crackin everyone! my name is andrew, i'm from the los angeles area. i work / had worked in tech as an android developer. i recently purchased myself a ganglion board from openBCI and am starting to develop some apps with it for fun. hit me up if anyone wants to collaborate, etc. machine learning too is kewl :sunglasses: cheers!
+
