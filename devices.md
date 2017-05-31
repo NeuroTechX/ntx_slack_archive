@@ -1827,3 +1827,9 @@ it's expensive, because machines are expensive, because it's complicated to make
 
  >also, it is expensive because the market is small, so you can't save cost by sacling manufacturing
 
+5/31/2017 11:28 AM
+
+ **alexandre.barachant** :
+
+ >and also medical market is a bit weird in terms price self-regulation
+
