@@ -1125,3 +1125,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >So much work shows it's probably a placebo
 
+5/31/2017 2:17 AM
+
+ **yrenard** :
+
+ >Not true, there is litterature showing that it works very well when properly executed, the problem in that field used to be that practitioners did not have the background to properly apply the technology to the medical condition, resulting in stupid studies every now and then. There will be studies coming soon showing that it does work efficiently when done properly.
+
