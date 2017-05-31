@@ -3606,3 +3606,9 @@ Brain Signal  Visualization &amp; Analytics  <https://spcn.co/brain-initiative/
 
  ><https://youtu.be/hXUNO_8Oo0s?t=8m29s>
 
+5/31/2017 8:46 AM
+
+ **stephen** :
+
+ >Bryans talk at the Milken conference
+
