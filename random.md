@@ -1173,3 +1173,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >I've been looking into the ADHD Neurofeedback space and many conclusions stat that it's not the most effective method versus a pharmaceutical approach
 
+5/31/2017 8:31 PM
+
+ **sydneyneurotechx** :
+
+ >Some recommendations have been given to merge Neurofeedback with a drug, but that's it.
+
