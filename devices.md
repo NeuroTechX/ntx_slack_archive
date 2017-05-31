@@ -1851,3 +1851,9 @@ it's expensive, because machines are expensive, because it's complicated to make
 
  >what i'm saying is that even if the price of the machine was 100$, the daily session might still be 200 to 300$
 
+5/31/2017 7:50 PM
+
+ **sydneyneurotechx** :
+
+ >Another example of another technology that is expensive versus the cost of the BOM would be ultrasound. alexandre.barachant mentioned the reason, but it's interesting that there are a lot of technologies out there that can hypothetically be disrupted.  <https://maori.geek.nz/why-are-ultrasound-machines-so-expensive-623ce91d8402>
+
