@@ -3375,3 +3375,9 @@ What will help Deep Learning for EEG/BCI, is a similar grouping of data and benc
 
  >thats awesome! the package we are developing currently plots multivariate data using PCA, but we are extending it to support, t-SNE, MDS, and a whole bunch more.  Hopefully, we'll support streaming data soon.  I'd love to chat about your project sometime :slightly_smiling_face:
 
+5/31/2017 8:25 PM
+
+ **bciguy** :
+
+ >yannick luckily my company is about to release a device that will create a massive database of single channel forehead (FP1-FP2) EEG  during sleep (or any other activity) from thousands of users around the world. What would you like to see  us do with this database that could be impactful for NeuroTechX and the field in general?
+
