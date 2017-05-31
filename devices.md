@@ -1839,3 +1839,9 @@ it's expensive, because machines are expensive, because it's complicated to make
 
  >Thanks jmhorschig and alexandre.barachant!
 
+5/31/2017 11:36 AM
+
+ **alexandre.barachant** :
+
+ >especially in the US, where there is not that much regulation or incentive to put a fair price on the intervention or drug. Company basically try to extract as much as they can from the insurance.
+
