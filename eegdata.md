@@ -3393,3 +3393,9 @@ What will help Deep Learning for EEG/BCI, is a similar grouping of data and benc
 
  >andyh616: dano
 
+6/1/2017 4:39 PM
+
+ **vjayaram** :
+
+ >What sort of dimensionality reduction?
+
