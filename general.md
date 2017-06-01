@@ -3624,3 +3624,9 @@ Lab visits at HBP partner labs are a possibility for applicants to develop new t
 > 
 Further information and a list of contacts can be found on our website: <https://education.humanbrainproject.eu/web/lab-visits>"
 
+6/1/2017 10:54 PM
+
+ **wronk** :
+
+ >francescacoo, cool! Perhaps post it in the <#C0FNHPCF4|opportunities> channel?
+
