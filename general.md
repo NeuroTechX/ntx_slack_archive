@@ -3612,3 +3612,15 @@ Brain Signal  Visualization &amp; Analytics  <https://spcn.co/brain-initiative/
 
  >Bryans talk at the Milken conference
 
+6/1/2017 10:19 AM
+
+ **francescacoo** :
+
+ >Hi Again not sure where to post this.. but it seems interesting (lab visits in Europe): "Eager to gain some practical experience?
+
+> 
+Lab visits at HBP partner labs are a possibility for applicants to develop new technical or conceptual expertise for implementation in your research as well as your home institute's research program.
+
+> 
+Further information and a list of contacts can be found on our website: <https://education.humanbrainproject.eu/web/lab-visits>"
+
