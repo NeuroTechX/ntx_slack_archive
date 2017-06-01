@@ -3399,3 +3399,12 @@ What will help Deep Learning for EEG/BCI, is a similar grouping of data and benc
 
  >What sort of dimensionality reduction?
 
+6/1/2017 4:57 PM
+
+ **dano** :
+
+ >Awesome! I might not be able to help much since I'm also working on a mozilla sprint project: <https://github.com/NeuroTechX/eeg-101>
+
+> 
+However, I'd love to take a look at the library. Showing some cool data visualization might be fun for this upcoming outreach event we're holding
+
