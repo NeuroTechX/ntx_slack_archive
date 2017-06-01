@@ -3381,3 +3381,9 @@ What will help Deep Learning for EEG/BCI, is a similar grouping of data and benc
 
  >yannick luckily my company is about to release a device that will create a massive database of single channel forehead (FP1-FP2) EEG  during sleep (or any other activity) from thousands of users around the world. What would you like to see  us do with this database that could be impactful for NeuroTechX and the field in general?
 
+6/1/2017 1:35 PM
+
+ **andyh616** :
+
+ >if anyone is interested, we're hacking on eeg data visualization using hypertools: <http://hypertools.readthedocs.io/en/latest/> today and tommorow in the mozilla sprint. the goal is to get streaming eeg data from openbci in a realtime plot as a line in 3D using dimensionality reduction. if you are interested in getting involved, let me know!
+
