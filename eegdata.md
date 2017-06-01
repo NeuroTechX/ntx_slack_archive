@@ -3387,3 +3387,9 @@ What will help Deep Learning for EEG/BCI, is a similar grouping of data and benc
 
  >if anyone is interested, we're hacking on eeg data visualization using hypertools: <http://hypertools.readthedocs.io/en/latest/> today and tommorow in the mozilla sprint. the goal is to get streaming eeg data from openbci in a realtime plot as a line in 3D using dimensionality reduction. if you are interested in getting involved, let me know!
 
+6/1/2017 2:12 PM
+
+ **bryan_j** :
+
+ >andyh616: dano
+
