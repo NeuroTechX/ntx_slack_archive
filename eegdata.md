@@ -3414,3 +3414,9 @@ However, I'd love to take a look at the library. Showing some cool data visualiz
 
  >vjayaram - currently, PCA. but we're going to support ICA, t-SNE, MDS, Isomap and a few more
 
+6/1/2017 8:51 PM
+
+ **andyh616** :
+
+ >dano no worries! eeg-101 looks great! i've almost got a streaming version working, but it will be a little while til its generally usable i think
+
