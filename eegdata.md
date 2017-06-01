@@ -3408,3 +3408,9 @@ What will help Deep Learning for EEG/BCI, is a similar grouping of data and benc
 > 
 However, I'd love to take a look at the library. Showing some cool data visualization might be fun for this upcoming outreach event we're holding
 
+6/1/2017 8:50 PM
+
+ **andyh616** :
+
+ >vjayaram - currently, PCA. but we're going to support ICA, t-SNE, MDS, Isomap and a few more
+
