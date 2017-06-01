@@ -1857,3 +1857,42 @@ it's expensive, because machines are expensive, because it's complicated to make
 
  >Another example of another technology that is expensive versus the cost of the BOM would be ultrasound. alexandre.barachant mentioned the reason, but it's interesting that there are a lot of technologies out there that can hypothetically be disrupted.  <https://maori.geek.nz/why-are-ultrasound-machines-so-expensive-623ce91d8402>
 
+6/1/2017 1:28 PM
+
+ **ntremblay_neuroservo** :
+
+ >Hello NeuroTechX community,
+
+> 
+ 
+
+> 
+As a NeuroTechX member myself, I would like to offer to the NeuroTechX community a dedicated member discount applicable to NeuroServo Product.
+
+> 
+ 
+
+> 
+NeuroServo has developed a baseball cap with proprietary EEG device integrated. This device output raw data at 2048Hz when connected with the NeuroServo Development Kit. With this development kit, you can easily build your own tools for study groups, neuromarketing, classroom activities, games, cognitive studies and more! NeuroServo driver is already integrated in the latest version of OpenVibe software and C#/C++ sample code for communication is available upon request.
+
+> 
+ 
+
+> 
+By using the PROMO code NTXJUNE2017, NeuroTechX members will obtain exclusively the development module for free when they buy the NeuroServo device (offer valid for June 2017 only).
+
+> 
+ 
+
+> 
+<https://www.neuroservo.com/en/product/dev>
+
+> 
+ 
+
+> 
+Cheers!
+
+> 
+Nicolas.
+
