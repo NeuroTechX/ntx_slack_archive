@@ -1179,3 +1179,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Some recommendations have been given to merge Neurofeedback with a drug, but that's it.
 
+6/1/2017 1:51 PM
+
+ **sc** :
+
+ ><https://motherboard.vice.com/en_us/article/controlling-computers-mind-easier-slowly-minddesktop>
+
