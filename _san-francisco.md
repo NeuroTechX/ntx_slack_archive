@@ -558,3 +558,9 @@ We can meet you in a few days
 
  >micslab yes I will give a presentation at Google next week on Keras and Tensorflow. It's on Wednesday 06/07
 
+6/1/2017 7:15 PM
+
+ **sweetrabh** :
+
+ ><!here|@here> anyone know professors at UCSF or familiar with their neurotech program? I
+
