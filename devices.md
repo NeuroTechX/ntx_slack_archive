@@ -1920,3 +1920,9 @@ Nicolas.
 
  >If you have a Muse 2016 and want to work with live Muse data on your computer with Python, I'd suggest checking out alexandre.barachant's custom streaming code: <https://github.com/alexandrebarachant/muse-lsl>
 
+6/2/2017 6:16 PM
+
+ **dano** :
+
+ >If you're interested in making an app and want to work with Android, I'd point you to one of our flagship NeuroTechX apps, EEG 101. It will allow you to record data from your headband to .csv files for prototyping analysis, and is open source so you could modify the app to suit your own purposes. We handle the tricky parts of connecting to the device and visualizing the data for you <https://github.com/alexandrebarachant/muse-lsl>
+
