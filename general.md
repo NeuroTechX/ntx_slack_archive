@@ -3636,3 +3636,9 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >Yes please post in the <#C0FNHPCF4|opportunities>  channel francescacoo  :slightly_smiling_face:
 
+6/2/2017 10:17 AM
+
+ **tonyb** :
+
+ >Hello all!  I'm currently creating a VR meditation app, and looking to conduct research on users with the Muse headband. Anyone have experience with this? Looking for recommendations with research tools, protocols, etc. Cheers.
+
