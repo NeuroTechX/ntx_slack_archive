@@ -570,3 +570,9 @@ We can meet you in a few days
 
  >I am.
 
+6/2/2017 3:07 AM
+
+ **andreacoravos** :
+
+ >When's the next hack night? I have a friend in town who leaves on June 6 who has been building some new EEG/closed loop tACS and would love to get everyone together if people are around 
+
