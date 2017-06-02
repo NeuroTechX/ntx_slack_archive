@@ -363,3 +363,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Thank you sir, I'll post what has me distracted tonight. Really interesting meeting with the pronto developers today too. Their hierarchical multikernal SVM is pretty friggin sweet I must say.
 
+6/2/2017 1:18 AM
+
+ **a.tech** :
+
+ >Oh wow
+
