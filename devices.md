@@ -1926,3 +1926,9 @@ Nicolas.
 
  >If you're interested in making an app and want to work with Android, I'd point you to one of our flagship NeuroTechX apps, EEG 101. It will allow you to record data from your headband to .csv files for prototyping analysis, and is open source so you could modify the app to suit your own purposes. We handle the tricky parts of connecting to the device and visualizing the data for you <https://github.com/alexandrebarachant/muse-lsl>
 
+6/2/2017 6:22 PM
+
+ **dano** :
+
+ >VR is a bit of an unblazed trail, but lots of us here are interested in it. Muse has an SDK for Unity, the most popular VR engine, but there aren't many *good*open source examples of it in action. If it's something you're really interested in, you could definitely find a lot of support here for developing your own Unity app.
+
