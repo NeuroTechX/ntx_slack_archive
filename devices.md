@@ -1902,3 +1902,9 @@ Nicolas.
 
  >Hey folks! I'm Tony Balbin of <http://warrior.do|warrior.do>. I'm in the process of creating a VR meditation app, and have a Muse headband to do research on users of the app. Does anyone have recommendations for a non-programmer to record and visualize EEG data? Any pointers would be greatly appreciated!  :slightly_smiling_face:
 
+6/2/2017 6:10 PM
+
+ **dano** :
+
+ >You've come to the right place!
+
