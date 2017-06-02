@@ -3642,3 +3642,9 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >Hello all!  I'm currently creating a VR meditation app, and looking to conduct research on users with the Muse headband. Anyone have experience with this? Looking for recommendations with research tools, protocols, etc. Cheers.
 
+6/2/2017 11:04 AM
+
+ **yannick** :
+
+ >You can ask more specific questions in <#C08T2SENQ|devices>, lots of people in here do have experience with the Muse headband :slightly_smiling_face:
+
