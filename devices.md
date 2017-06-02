@@ -1914,3 +1914,9 @@ Nicolas.
 
  >There's a few different ways to record and work with Muse data. One is the official Muse research tools, but those won't work well unless you have an old model Muse (no power symbol on power button) <http://developer.choosemuse.com/research-tools>
 
+6/2/2017 6:13 PM
+
+ **dano** :
+
+ >If you have a Muse 2016 and want to work with live Muse data on your computer with Python, I'd suggest checking out alexandre.barachant's custom streaming code: <https://github.com/alexandrebarachant/muse-lsl>
+
