@@ -558,3 +558,15 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 > 
 <https://jobs.hr.upenn.edu/postings/28741>
 
+6/2/2017 12:27 PM
+
+ **francescacoo** :
+
+ >it seems interesting (lab visits in Europe): "Eager to gain some practical experience?
+
+> 
+Lab visits at HBP partner labs are a possibility for applicants to develop new technical or conceptual expertise for implementation in your research as well as your home institute's research program.
+
+> 
+Further information and a list of contacts can be found on our website: <https://education.humanbrainproject.eu/web/lab-visits>"
+
