@@ -3630,3 +3630,9 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >francescacoo, cool! Perhaps post it in the <#C0FNHPCF4|opportunities> channel?
 
+6/2/2017 12:57 AM
+
+ **sydneyneurotechx** :
+
+ >Yes please post in the <#C0FNHPCF4|opportunities>  channel francescacoo  :slightly_smiling_face:
+
