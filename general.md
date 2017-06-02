@@ -3648,3 +3648,9 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >You can ask more specific questions in <#C08T2SENQ|devices>, lots of people in here do have experience with the Muse headband :slightly_smiling_face:
 
+6/2/2017 11:41 AM
+
+ **tonyb** :
+
+ >Thanks yannick
+
