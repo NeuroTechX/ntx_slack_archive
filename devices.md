@@ -1908,3 +1908,9 @@ Nicolas.
 
  >You've come to the right place!
 
+6/2/2017 6:12 PM
+
+ **dano** :
+
+ >There's a few different ways to record and work with Muse data. One is the official Muse research tools, but those won't work well unless you have an old model Muse (no power symbol on power button) <http://developer.choosemuse.com/research-tools>
+
