@@ -327,3 +327,9 @@ francescacoo you going?
 
  >Hey javi_neuralcubes I am in Oxford for the weekend - finally a break after almost a month solid work
 
+6/3/2017 7:05 PM
+
+ **mhough** :
+
+ >Ill be in London on Monday and was going to at least check out some hackerspace, co-working spaces
+
