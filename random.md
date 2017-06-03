@@ -1191,3 +1191,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >is anyone going to Hack the Brain Dublin?
 
+6/3/2017 3:27 AM
+
+ **nmp256** :
+
+ >sc thanks for sharing that article, pretty cool
+
