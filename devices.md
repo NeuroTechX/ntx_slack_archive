@@ -1932,3 +1932,9 @@ Nicolas.
 
  >VR is a bit of an unblazed trail, but lots of us here are interested in it. Muse has an SDK for Unity, the most popular VR engine, but there aren't many *good*open source examples of it in action. If it's something you're really interested in, you could definitely find a lot of support here for developing your own Unity app.
 
+6/3/2017 1:28 AM
+
+ **tonyb** :
+
+ >Wow dano thanks so much for the information! Really helpful, I'll check it all out.  bhargava2566302 will definitely let you know.
+
