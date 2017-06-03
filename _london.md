@@ -333,3 +333,9 @@ francescacoo you going?
 
  >Ill be in London on Monday and was going to at least check out some hackerspace, co-working spaces
 
+6/3/2017 7:05 PM
+
+ **mhough** :
+
+ >Any recommendations would be awesome
+
