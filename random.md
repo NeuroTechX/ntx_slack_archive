@@ -1185,3 +1185,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  ><https://motherboard.vice.com/en_us/article/controlling-computers-mind-easier-slowly-minddesktop>
 
+6/3/2017 2:26 AM
+
+ **naoto** :
+
+ >is anyone going to Hack the Brain Dublin?
+
