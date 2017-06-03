@@ -576,3 +576,9 @@ We can meet you in a few days
 
  >When's the next hack night? I have a friend in town who leaves on June 6 who has been building some new EEG/closed loop tACS and would love to get everyone together if people are around 
 
+6/3/2017 1:53 AM
+
+ **marion** :
+
+ >Hi andreacoravos hack nights are every wednesdays at 7:30pm, in the Castro, San Francisco.  Ill PM you the exact address.
+
