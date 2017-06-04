@@ -357,3 +357,9 @@ francescacoo you going?
 
  >mhough hi!
 
+6/4/2017 10:53 AM
+
+ **javi_neuralcubes** :
+
+ >For hackerspaces check London hackspace (community run) and fan lab
+
