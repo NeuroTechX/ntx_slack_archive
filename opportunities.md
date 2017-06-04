@@ -582,3 +582,9 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >mhough: yep the website seems to be down.. I found it on their facebook page: <https://www.facebook.com/hbpeducation/?ref=br_rs> they posted on the 31st of may
 
+6/4/2017 9:15 PM
+
+ **mhough** :
+
+ >Look I've been kind of busy and on the road for a long time now. These guys should post their own ads honestly but here are two open jobs I know about in SF.
+
