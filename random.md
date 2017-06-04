@@ -1215,3 +1215,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >I'm actually flying to Dublin from Montreal :) I will be briefly presenting at the opening on Friday
 
+6/4/2017 11:11 PM
+
+ **chrisabbott** :
+
+ >Hey guys. I'm currently working through a few bioinformatics courses and am looking for some influential papers in the field. If any of you have experience in this, would you mind PMing me a few suggestions? Thanks!
+
