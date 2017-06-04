@@ -1209,3 +1209,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >naoto: I plan to go to the even on Friday, but unfortunately I will be out of the country from SAturday :disappointed: are you based in Dublin yourself?
 
+6/4/2017 12:35 PM
+
+ **naoto** :
+
+ >I'm actually flying to Dublin from Montreal :) I will be briefly presenting at the opening on Friday
+
