@@ -363,3 +363,9 @@ francescacoo you going?
 
  >For hackerspaces check London hackspace (community run) and fan lab
 
+6/4/2017 10:54 AM
+
+ **javi_neuralcubes** :
+
+ >I don't know many co-working spaces, one that's interesting is the London cube
+
