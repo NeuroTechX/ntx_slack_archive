@@ -1938,3 +1938,9 @@ Nicolas.
 
  >Wow dano thanks so much for the information! Really helpful, I'll check it all out.  bhargava2566302 will definitely let you know.
 
+6/4/2017 11:14 PM
+
+ **chrisabbott** :
+
+ >tonyb You could save yourself some time by purchasing this and using it with muse-lsl: <http://www.silabs.com/products/wireless/bluetooth/bluetooth-low-energy-modules/ble121lr-bluetooth-smart-long-range-module1>
+
