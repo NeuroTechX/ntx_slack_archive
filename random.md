@@ -1203,3 +1203,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >has anyone here tried this?
 
+6/4/2017 8:36 AM
+
+ **francescacoo** :
+
+ >naoto: I plan to go to the even on Friday, but unfortunately I will be out of the country from SAturday :disappointed: are you based in Dublin yourself?
+
