@@ -576,3 +576,9 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >francescacoo I would like to visit and gain some practical experience with HBP and what it can do to improve/complement our research. The weblink seems broken though. Can you give me any info on when I would be able to visit? Thanks, -M
 
+6/4/2017 8:18 AM
+
+ **francescacoo** :
+
+ >mhough: yep the website seems to be down.. I found it on their facebook page: <https://www.facebook.com/hbpeducation/?ref=br_rs> they posted on the 31st of may
+
