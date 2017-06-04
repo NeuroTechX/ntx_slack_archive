@@ -1407,3 +1407,9 @@ L.
 
  >thanks for having me here!
 
+6/4/2017 9:47 PM
+
+ **yanlingchen** :
+
+ >Hey! I'm YanLing and I'm a 16 year old from Toronto interested in learning more about Neurotech! I'm excited to join the community :slightly_smiling_face:
+
