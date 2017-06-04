@@ -588,3 +588,9 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >Look I've been kind of busy and on the road for a long time now. These guys should post their own ads honestly but here are two open jobs I know about in SF.
 
+6/4/2017 9:19 PM
+
+ **mhough** :
+
+ >First, EEG analysis full time with Greg Simpson at Go-think. It's neurofeedback and a large number of subjects but I havent gotten a public release commitment. I feel like I should say Greg's a friend so check him out with other people but get in touch if you want my two cents. If someone does take it I hope you get in touch because I think he values my opinion on analysis and I know what I would do with it
+
