@@ -345,3 +345,9 @@ francescacoo you going?
 
  >Hey <!channel> . hope everyone is safe &lt;3
 
+6/4/2017 10:52 AM
+
+ **javi_neuralcubes** :
+
+ >Yep sydneyneurotechx thanks
+
