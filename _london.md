@@ -369,3 +369,9 @@ francescacoo you going?
 
  >I don't know many co-working spaces, one that's interesting is the London cube
 
+6/4/2017 10:56 AM
+
+ **javi_neuralcubes** :
+
+ >It's run by a neuroscientist, they have hosted us and they are always organising interesting events
+
