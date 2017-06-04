@@ -1389,3 +1389,9 @@ L.
 
  >Welcome sunnyp  and andrewjsauer !
 
+6/4/2017 4:49 PM
+
+ **sid_fulminds** :
+
+ >hi neurotech people! I'm Sid from Montreal, working on a startup developing a brain wellness device to promote mindfulness practices :slightly_smiling_face:
+
