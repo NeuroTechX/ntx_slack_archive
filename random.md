@@ -1221,3 +1221,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Hey guys. I'm currently working through a few bioinformatics courses and am looking for some influential papers in the field. If any of you have experience in this, would you mind PMing me a few suggestions? Thanks!
 
+6/4/2017 11:37 PM
+
+ **sid_fulminds** :
+
+ >chrisabbott: hey Chris
+
