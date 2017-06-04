@@ -987,3 +987,9 @@ There's still some space available and all sorts of skills are needed, from Java
 > 
 Welcome to all new members as well! Thanks for joining! 
 
+6/4/2017 10:00 PM
+
+ **yanlingchen** :
+
+ >Hi! I'm YanLing and I'm a high school student interested in AI and Neurotech. I'm involved with a youth innovation program called TKS (<http://theksociety.com/>) and I'd appreciate any advice for getting started with either of those fields :smile:
+
