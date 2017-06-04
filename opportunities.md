@@ -570,3 +570,9 @@ Lab visits at HBP partner labs are a possibility for applicants to develop new t
 > 
 Further information and a list of contacts can be found on our website: <https://education.humanbrainproject.eu/web/lab-visits>"
 
+6/4/2017 4:08 AM
+
+ **mhough** :
+
+ >francescacoo I would like to visit and gain some practical experience with HBP and what it can do to improve/complement our research. The weblink seems broken though. Can you give me any info on when I would be able to visit? Thanks, -M
+
