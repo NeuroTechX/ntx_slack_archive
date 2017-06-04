@@ -375,3 +375,9 @@ francescacoo you going?
 
  >It's run by a neuroscientist, they have hosted us and they are always organising interesting events
 
+6/4/2017 10:57 AM
+
+ **javi_neuralcubes** :
+
+ >Sorry for the lack of links but I'm on the road and out of the country!
+
