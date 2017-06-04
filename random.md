@@ -1233,3 +1233,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >it is a vast field! could you be a little bit more specific as to what domain more specifically you are interested in?
 
+6/4/2017 11:39 PM
+
+ **chrisabbott** :
+
+ >Yeah, for sure. I'm currently looking at protein structure prediction and gene regulation
+
