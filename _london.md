@@ -381,3 +381,9 @@ francescacoo you going?
 
  >Sorry for the lack of links but I'm on the road and out of the country!
 
+6/4/2017 9:13 PM
+
+ **mhough** :
+
+ >No worries and thanks so much. Have you ever heard of this biobeats company in London. Going to meet with them tomorrow and so far they have only surprised me with the quality of their interest
+
