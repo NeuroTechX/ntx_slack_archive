@@ -1395,3 +1395,9 @@ L.
 
  >hi neurotech people! I'm Sid from Montreal, working on a startup developing a brain wellness device to promote mindfulness practices :slightly_smiling_face:
 
+6/4/2017 7:57 PM
+
+ **sydneyneurotechx** :
+
+ >welcome sid_fulminds !
+
