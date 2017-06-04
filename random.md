@@ -1227,3 +1227,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >chrisabbott: hey Chris
 
+6/4/2017 11:37 PM
+
+ **sid_fulminds** :
+
+ >it is a vast field! could you be a little bit more specific as to what domain more specifically you are interested in?
+
