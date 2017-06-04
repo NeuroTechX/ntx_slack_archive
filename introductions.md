@@ -1413,3 +1413,9 @@ L.
 
  >Hey! I'm YanLing and I'm a 16 year old from Toronto interested in learning more about Neurotech! I'm excited to join the community :slightly_smiling_face:
 
+6/4/2017 9:54 PM
+
+ **sydneyneurotechx** :
+
+ >welcome yanlingchen ! Please head to the <#C0VTC19DW|_toronto>  chapter and introduce yourself
+
