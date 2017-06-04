@@ -594,3 +594,9 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >First, EEG analysis full time with Greg Simpson at Go-think. It's neurofeedback and a large number of subjects but I havent gotten a public release commitment. I feel like I should say Greg's a friend so check him out with other people but get in touch if you want my two cents. If someone does take it I hope you get in touch because I think he values my opinion on analysis and I know what I would do with it
 
+6/4/2017 9:23 PM
+
+ **mhough** :
+
+ >Second, and I don't know if it's fully what's appropriate here but there is a part time digital marketing job with Steve Miller I think his name is. He is on the game parents (God damn autocorrect) with Merznicech and if you know who I am talking about and that's the kind of gig you want I think you could turn it into an opportunity. My guess is he wants someone to keep up his LinkedIn content but ask him.
+
