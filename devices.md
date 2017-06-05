@@ -2022,3 +2022,9 @@ Nicolas.
 
  >i've been working on an android app and my first goal was to get the two to connect and it worked
 
+6/5/2017 9:33 PM
+
+ **andrewjsauer** :
+
+ >but that's strange...
+
