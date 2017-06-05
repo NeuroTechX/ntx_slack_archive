@@ -1425,3 +1425,9 @@ L.
 
  >Hi I am Abhinav, CTO and Founder of Nuro Corp. Nice too meet you people :slightly_smiling_face: :slightly_smiling_face:
 
+6/5/2017 3:28 AM
+
+ **sydneyneurotechx** :
+
+ >welcome black !
+
