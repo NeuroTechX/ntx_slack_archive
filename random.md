@@ -1263,3 +1263,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >nothing comes to mind, but I will think about you if I come across anything of interest :slightly_smiling_face:
 
+6/5/2017 8:37 PM
+
+ **yannick** :
+
+ >Is there any neuro-related mailing list worth following? (any mailing list your on and you like)
+
