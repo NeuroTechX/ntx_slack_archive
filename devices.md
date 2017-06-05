@@ -2016,3 +2016,9 @@ Nicolas.
 
  >andrewjsauer SP4 supports 4.0 according to microsoft, but not sure about BLE. Anyways, Windows with Bluetooth is always a pain to setup so maybe I should use other os
 
+6/5/2017 9:33 PM
+
+ **andrewjsauer** :
+
+ >i've been working on an android app and my first goal was to get the two to connect and it worked
+
