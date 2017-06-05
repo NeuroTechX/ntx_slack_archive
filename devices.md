@@ -1950,3 +1950,9 @@ Nicolas.
 
  >chrisabbott thanks for the recommendation. Unfortunately i have the older Muse model so it looks like the muse-lsl code won't work with it. But plus side is it's compatible with the Muse research tools, so will probably go that route.
 
+6/5/2017 4:30 AM
+
+ **tonyb** :
+
+ >The app I'm developing is going to be geared towards the google cardboard platform and smartphones. I've been able to get away with using snap-in VR headsets alongside the Muse
+
