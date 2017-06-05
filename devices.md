@@ -2010,3 +2010,9 @@ Nicolas.
 
  >what is the app you used with the samsung phone?
 
+6/5/2017 9:17 PM
+
+ **naoto** :
+
+ >andrewjsauer SP4 supports 4.0 according to microsoft, but not sure about BLE. Anyways, Windows with Bluetooth is always a pain to setup so maybe I should use other os
+
