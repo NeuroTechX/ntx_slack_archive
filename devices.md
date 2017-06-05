@@ -1944,3 +1944,9 @@ Nicolas.
 
  >tonyb You could save yourself some time by purchasing this and using it with muse-lsl: <http://www.silabs.com/products/wireless/bluetooth/bluetooth-low-energy-modules/ble121lr-bluetooth-smart-long-range-module1>
 
+6/5/2017 4:28 AM
+
+ **tonyb** :
+
+ >chrisabbott thanks for the recommendation. Unfortunately i have the older Muse model so it looks like the muse-lsl code won't work with it. But plus side is it's compatible with the Muse research tools, so will probably go that route.
+
