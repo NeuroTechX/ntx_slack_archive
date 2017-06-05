@@ -1005,3 +1005,9 @@ Welcome to all new members as well! Thanks for joining!
 
  >yanlingchen we actually have another high school student as a project member at NeurotechUofT! Feel free to ask me any questions on Slack!
 
+6/5/2017 5:18 PM
+
+ **bryan_j** :
+
+ >sydneyneurotechx: thanks for connecting us! 
+
