@@ -1980,3 +1980,9 @@ Nicolas.
 
  >I just bought an OpenBCI Ganglion and trying to connect to Surface Pro 4. SP4 seems to support Bluetooth 4.0, but the OpenBCI GUI tool (specifically GanglionHub.exe) says "Uncaught Exception: Error: No compatible USB Bluetooth 4.0 device found!" Am I missing a setup procedure or do I need to purchase a USB dongle?
 
+6/5/2017 9:12 PM
+
+ **andrewjsauer** :
+
+ >naoto i think you are good on the USB dongle. i purchased a ganglion as well and didn't have issues connecting to my Samsung S6
+
