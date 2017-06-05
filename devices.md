@@ -1956,3 +1956,9 @@ Nicolas.
 
  >The app I'm developing is going to be geared towards the google cardboard platform and smartphones. I've been able to get away with using snap-in VR headsets alongside the Muse
 
+6/5/2017 4:42 AM
+
+ **chrisabbott** :
+
+ >tonyb: Ah okay, that makes a lot more sense. You might run into some issues with those front electrodes though. There's way more support for the 2014 model than the 2016, so you're at an advantage in that regard
+
