@@ -1023,3 +1023,9 @@ Welcome to all new members as well! Thanks for joining!
 > 
 Also, we are hosting an event for high-school students on June 30th. Interested? You may register on <http://www.meetup.com/NeuroTechTO|www.meetup.com/NeuroTechTO> and we will send you details directly. Let me know if you would like to attend! 
 
+6/5/2017 6:57 PM
+
+ **yanlingchen** :
+
+ >I heard about BrainBrowse from TOHC and I was super excited until I realized that I won't be in Canada on June 30 :( Would love to speak with you soon; let me know when you're free!
+
