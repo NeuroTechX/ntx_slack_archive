@@ -2004,3 +2004,9 @@ Nicolas.
 
  >:shrug:
 
+6/5/2017 9:13 PM
+
+ **naoto** :
+
+ >what is the app you used with the samsung phone?
+
