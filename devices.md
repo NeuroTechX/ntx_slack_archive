@@ -1962,3 +1962,9 @@ Nicolas.
 
  >tonyb: Ah okay, that makes a lot more sense. You might run into some issues with those front electrodes though. There's way more support for the 2014 model than the 2016, so you're at an advantage in that regard
 
+6/5/2017 8:16 AM
+
+ **mhough** :
+
+ >There is going to be a workshop on dry electrodes at the end of the summer for those interested and able to make it
+
