@@ -1968,3 +1968,9 @@ Nicolas.
 
  >There is going to be a workshop on dry electrodes at the end of the summer for those interested and able to make it
 
+6/5/2017 8:16 AM
+
+ **mhough** :
+
+ ><https://goo.gl/H1GDaL>
+
