@@ -2028,3 +2028,9 @@ Nicolas.
 
  >but that's strange...
 
+6/5/2017 9:34 PM
+
+ **andrewjsauer** :
+
+ >yeah, let me know what your results are with another OS
+
