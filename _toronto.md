@@ -1011,3 +1011,15 @@ Welcome to all new members as well! Thanks for joining!
 
  >sydneyneurotechx: thanks for connecting us! 
 
+6/5/2017 5:20 PM
+
+ **bryan_j** :
+
+ >Hi yanlingchen! Thanks for your message. It would be great to speak with you - would you be available for a video chat some time soon? 
+
+> 
+
+
+> 
+Also, we are hosting an event for high-school students on June 30th. Interested? You may register on <http://www.meetup.com/NeuroTechTO|www.meetup.com/NeuroTechTO> and we will send you details directly. Let me know if you would like to attend! 
+
