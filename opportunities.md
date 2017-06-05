@@ -627,3 +627,9 @@ We are also looking for someone to help with our Student Club Blog, writing shor
 > 
 If this sounds like something youd be interested in, please contact me on Slack or at <mailto:benjamindeleener@neurotechx.com|benjamindeleener@neurotechx.com> (these are volunteer positions)
 
+6/5/2017 5:22 PM
+
+ **bryan_j** :
+
+ >yannick: great uni! 
+
