@@ -1998,3 +1998,9 @@ Nicolas.
 
  >my guess is surface pro 4 does not support bluetooth 4.0
 
+6/5/2017 9:12 PM
+
+ **andrewjsauer** :
+
+ >:shrug:
+
