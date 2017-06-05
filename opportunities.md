@@ -600,3 +600,30 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >Second, and I don't know if it's fully what's appropriate here but there is a part time digital marketing job with Steve Miller I think his name is. He is on the game parents (God damn autocorrect) with Merznicech and if you know who I am talking about and that's the kind of gig you want I think you could turn it into an opportunity. My guess is he wants someone to keep up his LinkedIn content but ask him.
 
+6/5/2017 3:44 PM
+
+ **benjamindeleener** :
+
+ ><!channel> Would you like to get involved in #NeuroTechnology and make a difference with your marketing and/or writing skills? 
+
+> 
+--&gt; Join the NeuroTechX Student Clubs Initiative!
+
+> 
+
+
+> 
+We are currently looking for someone to help with Marketing, Social Media, Promotion of Events, Projects, Activities, etc. Undergrads are working on <#C3PRKC41K|neurotech> projects in many universities and we need your help to showcase them to the world: <http://neurotechx.com/opportunities/studentclubs-marketing.html>
+
+> 
+
+
+> 
+We are also looking for someone to help with our Student Club Blog, writing short posts about the initiative, the student clubs, the field, etc. <http://neurotechx.com/opportunities/studentclubs-marketing.html>
+
+> 
+
+
+> 
+If this sounds like something youd be interested in, please contact me on Slack or at <mailto:benjamindeleener@neurotechx.com|benjamindeleener@neurotechx.com> (these are volunteer positions)
+
