@@ -1245,3 +1245,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >aha great, then I will be there to watch your presentation!
 
+6/5/2017 6:48 PM
+
+ **naoto** :
+
+ >on which channel can I ask questions about openbci/ganglion ?
+
