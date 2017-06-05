@@ -1251,3 +1251,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >on which channel can I ask questions about openbci/ganglion ?
 
+6/5/2017 6:51 PM
+
+ **yannick** :
+
+ ><#C08T2SENQ|devices>
+
