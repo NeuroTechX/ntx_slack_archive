@@ -1029,3 +1029,9 @@ Also, we are hosting an event for high-school students on June 30th. Interested?
 
  >I heard about BrainBrowse from TOHC and I was super excited until I realized that I won't be in Canada on June 30 :( Would love to speak with you soon; let me know when you're free!
 
+6/5/2017 7:07 PM
+
+ **bryan_j** :
+
+ >Welcome 0ishe - it's about time :wink: 
+
