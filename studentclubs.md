@@ -528,3 +528,30 @@ Awesome people, meet Roshan Sriram from Carnegie Mellon University (CMU) startin
 
  ><!channel> Call to all neurohackers of Montreal that possess a Muse headband: PolyCortex is participating to the Festival Eurêka as an science outreach to young children. The festival will be hold from June 9 to June 11 and will welcome more than 30000 people at the Vieux-Port. PolyCortex is participating and is going to propose a concentration boat racing game but they would need more Muse headband to be sure to hold all the weekend. If you have a Muse headband and would like to lend some, please contact me as soon as possible. It would be very appreciated!
 
+6/5/2017 3:44 PM
+
+ **benjamindeleener** :
+
+ ><!channel> Would you like to get involved in #NeuroTechnology and make a difference with your marketing and/or writing skills? 
+
+> 
+--&gt; Join the NeuroTechX Student Clubs Initiative!
+
+> 
+
+
+> 
+We are currently looking for someone to help with Marketing, Social Media, Promotion of Events, Projects, Activities, etc. Undergrads are working on <#C3PRKC41K|neurotech> projects in many universities and we need your help to showcase them to the world: <http://neurotechx.com/opportunities/studentclubs-marketing.html>
+
+> 
+
+
+> 
+We are also looking for someone to help with our Student Club Blog, writing short posts about the initiative, the student clubs, the field, etc. <http://neurotechx.com/opportunities/studentclubs-marketing.html>
+
+> 
+
+
+> 
+If this sounds like something youd be interested in, please contact me on Slack or at <mailto:benjamindeleener@neurotechx.com|benjamindeleener@neurotechx.com> (these are volunteer positions)
+
