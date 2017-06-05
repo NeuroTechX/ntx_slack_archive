@@ -615,3 +615,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >I'm ordering cognionics electrodes (<http://cognionics.com/index.php/technology>). I got a quote for 25$ each, if anyone wants some, now is the time, you won't get them for a cheaper price. Let me know very quickly.
 
+6/5/2017 4:55 PM
+
+ **naoto** :
+
+ >fred-simard: I just received my OpenBCI :slightly_smiling_face: do you think these electrodes will work with OpenBCI?
+
