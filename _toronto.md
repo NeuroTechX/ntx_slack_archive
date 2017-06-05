@@ -999,3 +999,9 @@ Welcome to all new members as well! Thanks for joining!
 
  >hubertjb  dano  bryan_j  ^ Had a chat with her today and she seems eager to get connected. Might be interesting to talk about about NeuroTechTO at TKS :slightly_smiling_face:
 
+6/5/2017 1:41 AM
+
+ **sayan_faraz** :
+
+ >yanlingchen we actually have another high school student as a project member at NeurotechUofT! Feel free to ask me any questions on Slack!
+
