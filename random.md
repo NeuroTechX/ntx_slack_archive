@@ -1239,3 +1239,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Yeah, for sure. I'm currently looking at protein structure prediction and gene regulation
 
+6/5/2017 8:18 AM
+
+ **francescacoo** :
+
+ >aha great, then I will be there to watch your presentation!
+
