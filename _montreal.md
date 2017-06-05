@@ -609,3 +609,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >This week, I will be recording SSVEP elicited by a stimulus surrounded by 3 distractors -which are also SSVEP-prone stimuli. If everything goes as planned, the (in-fovea + attended) stimulus should trigger a stronger response and I should be able to decode which stimulus was attended by the subject.
 
+6/5/2017 3:58 PM
+
+ **fred-simard** :
+
+ >I'm ordering cognionics electrodes (<http://cognionics.com/index.php/technology>). I got a quote for 25$ each, if anyone wants some, now is the time, you won't get them for a cheaper price. Let me know very quickly.
+
