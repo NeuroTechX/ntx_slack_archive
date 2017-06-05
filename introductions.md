@@ -1419,3 +1419,9 @@ L.
 
  >welcome yanlingchen ! Please head to the <#C0VTC19DW|_toronto>  chapter and introduce yourself
 
+6/5/2017 3:15 AM
+
+ **black** :
+
+ >Hi I am Abhinav, CTO and Founder of Nuro Corp. Nice too meet you people :slightly_smiling_face: :slightly_smiling_face:
+
