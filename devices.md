@@ -1992,3 +1992,9 @@ Nicolas.
 
  >naoto i think you are good on the USB dongle. i purchased a ganglion as well and didn't have issues connecting to my Samsung S6
 
+6/5/2017 9:12 PM
+
+ **andrewjsauer** :
+
+ >my guess is surface pro 4 does not support bluetooth 4.0
+
