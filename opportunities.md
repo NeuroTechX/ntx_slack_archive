@@ -645,3 +645,9 @@ If this sounds like something youd be interested in, please contact me on Slack
 > 
 Looks like a really great opportunity to work with really smart people.
 
+6/6/2017 2:15 AM
+
+ **benjamindeleener** :
+
+ >Thanks a.tech! I hope many will embrace this opportunity. We need active and smart people to change the way people perceive neurotechnologies.
+
