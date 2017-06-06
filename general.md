@@ -3654,3 +3654,9 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >Thanks yannick
 
+6/6/2017 9:10 AM
+
+ **endoxaneuro** :
+
+ >Hello all, any feedback on the Halo Neuroscience? <https://www.haloneuro.com> what do you think about it?
+
