@@ -3672,3 +3672,15 @@ Further information and a list of contacts can be found on our website: <https:/
 > 
 So basically I was looking if you had any suggestions on where to take hints, ideas in which direction to move. I have a Muse headset and I was thinking to do something with that. But again, I don't have enough experience to understand if I could do something useful for a thesis!
 
+6/6/2017 9:28 PM
+
+ **stephen** :
+
+ >Who would you talk to and which unusual data sources would you include if you wanted to build the ultimate quantified self system? 
+
+> 
+
+
+> 
+As many types of data as possible, especially related to mental health. Wearables, time tracking, behavioral questionnaires, genetics, etc would all be possibilities?
+
