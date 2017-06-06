@@ -24,3 +24,9 @@
 
  >Hi Andrew- we dont have anything on the books, and are actually looking for a new organizer for the meetup. If youre interested, please reach out to me at <mailto:adam@delta-brain.com|adam@delta-brain.com>, and we can discuss more.
 
+6/6/2017 10:00 PM
+
+ **andrewjsauer** :
+
+ >hey adam just sent you an email!
+
