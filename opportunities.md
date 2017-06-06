@@ -633,3 +633,15 @@ If this sounds like something youd be interested in, please contact me on Slack
 
  >yannick: great uni! 
 
+6/6/2017 1:42 AM
+
+ **a.tech** :
+
+ >benjamindeleener: Awesome Ben goodluck with this!  
+
+> 
+
+
+> 
+Looks like a really great opportunity to work with really smart people.
+
