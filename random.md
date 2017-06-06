@@ -1323,3 +1323,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >at $700 a piece, don't you think the placebo effect probably has a significant impact ?
 
+6/6/2017 3:33 PM
+
+ **sid_fulminds** :
+
+ >meaning that if I invest that much, I will most likely use it extensively and/or increase my physical training to try to make the most of it
+
