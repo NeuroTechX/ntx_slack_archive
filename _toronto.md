@@ -1041,3 +1041,18 @@ Also, we are hosting an event for high-school students on June 30th. Interested?
 
  >0ishe well we are lucky to have you! Have you been working on any of the NTTO projects recently?
 
+6/6/2017 12:48 PM
+
+ **0ishe** :
+
+ >bryan_j I'm glad to be a part of this wonderful community!
+
+> 
+I haven't been working on NTTO projects in particular. However, I've been working with the UofT neurotech club.
+
+> 
+We're currently trying to connect to an ADS1299 (the analog front-end chip behind the openbci 8-channel board). We think it would be really cool if we can connect a raspberry pi to it.
+
+> 
+I've also been trying to work with the muse. I've had to do a lot of learning on client-server connections and learned the python Qt framework to run my own program with the muse. Here is the GUI I implemented to display the EEG signals in real-time. My next step is to include a way to play audio and sync it with the EEG readings so that I can start collecting data.
+
