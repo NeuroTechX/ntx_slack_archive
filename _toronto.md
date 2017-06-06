@@ -1065,3 +1065,9 @@ I've also been trying to work with the muse. I've had to do a lot of learning on
 > 
 I'd love to hear
 
+6/6/2017 4:44 PM
+
+ **bryan_j** :
+
+ >0ishe: I do indeed and I would love to tell you! We can discuss it at the next hack night :smile: 
+
