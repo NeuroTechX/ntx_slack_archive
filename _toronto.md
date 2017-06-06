@@ -1071,3 +1071,9 @@ I'd love to hear
 
  >0ishe: I do indeed and I would love to tell you! We can discuss it at the next hack night :smile: 
 
+6/6/2017 10:15 PM
+
+ **0ishe** :
+
+ >Okay, sounds wonderful!
+
