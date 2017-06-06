@@ -3696,3 +3696,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >With Cloudbrain + Neurodoro, two NTX projects, we're looking into an architecture where neural nets can be trained online with huge datasets, but tweaked on a person's phone for their particular data
 
+6/6/2017 10:21 PM
+
+ **dano** :
+
+ >Google's announced that they're going to make Tensorflow able to run both on a phone and in the cloud and share weights <https://www.androidheadlines.com/2017/05/tensorflow-lite-is-googles-optimized-tensorflow-for-android.html>
+
