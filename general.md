@@ -3690,3 +3690,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >francescacoo, I think one of the coolest things in the field rn is the possibility that machine learning could boost the efficacy of affordable consumer EEG to the point where it can provide such good benefits that people can't ignore it. IMU, what ML can do a really good job of in EEG is identify features and tailor itself to a user's particular brain. Because applying ML is relatively simple nowadays, I think figuring out whether that'll work at scale is really a software engineering question.
 
+6/6/2017 10:18 PM
+
+ **dano** :
+
+ >With Cloudbrain + Neurodoro, two NTX projects, we're looking into an architecture where neural nets can be trained online with huge datasets, but tweaked on a person's phone for their particular data
+
