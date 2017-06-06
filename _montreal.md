@@ -633,3 +633,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >fred-simard then I want 4 of them :slightly_smiling_face:
 
+6/6/2017 9:21 PM
+
+ **fred-simard** :
+
+ >i confirmed the order i'll have 4 for you. Next time i see you, i'll show you the VR-EEG headset i've made over the week-end. Surprisingly slick.
+
