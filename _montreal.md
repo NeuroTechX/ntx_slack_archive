@@ -627,3 +627,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >I tried them with OpenBCI they work super fine
 
+6/6/2017 8:45 PM
+
+ **naoto** :
+
+ >fred-simard then I want 4 of them :slightly_smiling_face:
+
