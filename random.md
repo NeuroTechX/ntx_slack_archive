@@ -1335,3 +1335,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >on a related topic, you may want to check that TED talk
 
+6/6/2017 3:36 PM
+
+ **sid_fulminds** :
+
+ ><https://www.youtube.com/watch?v=pR_Sa7gnzgE>
+
