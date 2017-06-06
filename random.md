@@ -1317,3 +1317,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >That's the point. I had hard time getting effects in lab conditions, with consumer devices the effects are going to be even weaker.
 
+6/6/2017 3:32 PM
+
+ **sid_fulminds** :
+
+ >at $700 a piece, don't you think the placebo effect probably has a significant impact ?
+
