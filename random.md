@@ -1269,3 +1269,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Is there any neuro-related mailing list worth following? (any mailing list your on and you like)
 
+6/6/2017 4:33 AM
+
+ **francois** :
+
+ >You should have attended the last meeting of NeurotechX Kitchener-Waterloo last month... That was our topic indeed :wink: ....
+
