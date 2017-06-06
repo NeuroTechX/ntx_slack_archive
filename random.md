@@ -1305,3 +1305,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >No proper testing to support claimed effects (extremely wide) =&gt; neurobullshit, whether it works or not. Hope at least the sound is ok.
 
+6/6/2017 2:53 PM
+
+ **alexandre.barachant** :
+
+ >you will have hard time to find clear and consistent evidence supporting the effect of neurostim in general
+
