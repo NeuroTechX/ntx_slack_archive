@@ -1056,3 +1056,12 @@ We're currently trying to connect to an ADS1299 (the analog front-end chip behin
 > 
 I've also been trying to work with the muse. I've had to do a lot of learning on client-server connections and learned the python Qt framework to run my own program with the muse. Here is the GUI I implemented to display the EEG signals in real-time. My next step is to include a way to play audio and sync it with the EEG readings so that I can start collecting data.
 
+6/6/2017 12:50 PM
+
+ **0ishe** :
+
+ >btw bryan_j I hear you have an interesting hardware idea
+
+> 
+I'd love to hear
+
