@@ -3708,3 +3708,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >So, there's an idea! Haha 
 
+6/6/2017 11:09 PM
+
+ **stephen** :
+
+ >dano Where could I learn more about the Neurodoro project?
+
