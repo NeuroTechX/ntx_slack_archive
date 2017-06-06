@@ -2046,3 +2046,9 @@ Nicolas.
 
  >sweet, :+1:
 
+6/6/2017 10:01 PM
+
+ **andrewjsauer** :
+
+ >naoto what are you building? or you just messing around?
+
