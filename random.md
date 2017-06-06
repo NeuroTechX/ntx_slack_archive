@@ -1341,3 +1341,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  ><https://www.youtube.com/watch?v=pR_Sa7gnzgE>
 
+6/6/2017 5:57 PM
+
+ **sc** :
+
+ ><https://redice.tv/news/a-hardware-update-for-the-human-brain>
+
