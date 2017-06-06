@@ -1311,3 +1311,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >you will have hard time to find clear and consistent evidence supporting the effect of neurostim in general
 
+6/6/2017 3:04 PM
+
+ **rgbn** :
+
+ >That's the point. I had hard time getting effects in lab conditions, with consumer devices the effects are going to be even weaker.
+
