@@ -1299,3 +1299,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Hello all, any feedback on the Halo Neuroscience? <https://www.haloneuro.com> what do you think about it?
 
+6/6/2017 2:51 PM
+
+ **rgbn** :
+
+ >No proper testing to support claimed effects (extremely wide) =&gt; neurobullshit, whether it works or not. Hope at least the sound is ok.
+
