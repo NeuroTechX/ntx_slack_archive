@@ -2040,3 +2040,9 @@ Nicolas.
 
  >andrewjsauer I got it working on my Raspberry Pi 3 with OpenBCI_Python. I will forget about windows and BLE...
 
+6/6/2017 10:01 PM
+
+ **andrewjsauer** :
+
+ >sweet, :+1:
+
