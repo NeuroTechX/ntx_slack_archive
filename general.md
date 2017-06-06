@@ -3684,3 +3684,9 @@ So basically I was looking if you had any suggestions on where to take hints, id
 > 
 As many types of data as possible, especially related to mental health. Wearables, time tracking, behavioral questionnaires, genetics, etc would all be possibilities?
 
+6/6/2017 10:16 PM
+
+ **dano** :
+
+ >francescacoo, I think one of the coolest things in the field rn is the possibility that machine learning could boost the efficacy of affordable consumer EEG to the point where it can provide such good benefits that people can't ignore it. IMU, what ML can do a really good job of in EEG is identify features and tailor itself to a user's particular brain. Because applying ML is relatively simple nowadays, I think figuring out whether that'll work at scale is really a software engineering question.
+
