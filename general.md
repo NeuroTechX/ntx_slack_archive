@@ -3702,3 +3702,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >Google's announced that they're going to make Tensorflow able to run both on a phone and in the cloud and share weights <https://www.androidheadlines.com/2017/05/tensorflow-lite-is-googles-optimized-tensorflow-for-android.html>
 
+6/6/2017 10:22 PM
+
+ **dano** :
+
+ >So, there's an idea! Haha 
+
