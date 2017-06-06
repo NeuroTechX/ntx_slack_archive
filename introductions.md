@@ -1431,3 +1431,9 @@ L.
 
  >welcome black !
 
+6/6/2017 6:01 PM
+
+ **maviperu** :
+
+ >Hello everyone, great community. I am Mavi, from Peru and I'm doing my PhD in upstate New York which is on EEG biometrics (Brainprints, we call them). Right now I am doing an internship in Montreal with a start up called <http://proximityhci.com/>.
+
