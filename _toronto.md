@@ -1035,3 +1035,9 @@ Also, we are hosting an event for high-school students on June 30th. Interested?
 
  >Welcome 0ishe - it's about time :wink: 
 
+6/6/2017 3:06 AM
+
+ **bryan_j** :
+
+ >0ishe well we are lucky to have you! Have you been working on any of the NTTO projects recently?
+
