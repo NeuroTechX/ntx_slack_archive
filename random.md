@@ -1281,3 +1281,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Totally agree with Yann and this was our conclusion here as well.
 
+6/6/2017 4:36 AM
+
+ **francois** :
+
+ >Now in terms of Syd's remark.... it depends what type of drug(s) you are talking about.... Would you prefer one method that will train you after 60+ hours to reduce ADHD symptoms or would you prefer taking 60 hours worth of a drug that might have some very serious side effects ???....
+
