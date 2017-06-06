@@ -1329,3 +1329,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >meaning that if I invest that much, I will most likely use it extensively and/or increase my physical training to try to make the most of it
 
+6/6/2017 3:36 PM
+
+ **sid_fulminds** :
+
+ >on a related topic, you may want to check that TED talk
+
