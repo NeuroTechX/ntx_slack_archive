@@ -1275,3 +1275,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >You should have attended the last meeting of NeurotechX Kitchener-Waterloo last month... That was our topic indeed :wink: ....
 
+6/6/2017 4:34 AM
+
+ **francois** :
+
+ >Totally agree with Yann and this was our conclusion here as well.
+
