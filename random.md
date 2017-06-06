@@ -1293,3 +1293,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  ><mailto:connectionists@mailman.srv.cs.cmu.edu|connectionists@mailman.srv.cs.cmu.edu>
 
+6/6/2017 2:11 PM
+
+ **endoxaneuro** :
+
+ >Hello all, any feedback on the Halo Neuroscience? <https://www.haloneuro.com> what do you think about it?
+
