@@ -3660,3 +3660,15 @@ Further information and a list of contacts can be found on our website: <https:/
 
  >Hello all, any feedback on the Halo Neuroscience? <https://www.haloneuro.com> what do you think about it?
 
+6/6/2017 9:08 PM
+
+ **francescacoo** :
+
+ >hi everybody, not sure where to post (as usual :smile: ). So, I am studying for a Msc in Software Engineering and it's time for my thesis. I would really love to do something related to BCI, as I have a great passion to learn more in the field. I have no academic background in neuroscience nor similar, I am not that strong at machine learning etc etc. We have a couple of thesis advisors which work on artificial intelligence and might be interested. The problem is that I have to submit an idea paper, and I am not sure where to start and what I could do!
+
+> 
+
+
+> 
+So basically I was looking if you had any suggestions on where to take hints, ideas in which direction to move. I have a Muse headset and I was thinking to do something with that. But again, I don't have enough experience to understand if I could do something useful for a thesis!
+
