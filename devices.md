@@ -2034,3 +2034,9 @@ Nicolas.
 
  >yeah, let me know what your results are with another OS
 
+6/6/2017 6:14 PM
+
+ **naoto** :
+
+ >andrewjsauer I got it working on my Raspberry Pi 3 with OpenBCI_Python. I will forget about windows and BLE...
+
