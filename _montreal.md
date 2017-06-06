@@ -621,3 +621,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >fred-simard: I just received my OpenBCI :slightly_smiling_face: do you think these electrodes will work with OpenBCI?
 
+6/6/2017 12:01 PM
+
+ **eferdinand** :
+
+ >I tried them with OpenBCI they work super fine
+
