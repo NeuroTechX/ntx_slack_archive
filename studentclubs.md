@@ -555,3 +555,9 @@ We are also looking for someone to help with our Student Club Blog, writing shor
 > 
 If this sounds like something youd be interested in, please contact me on Slack or at <mailto:benjamindeleener@neurotechx.com|benjamindeleener@neurotechx.com> (these are volunteer positions)
 
+6/7/2017 11:51 PM
+
+ **sayan_faraz** :
+
+ >has anyone used the Push the World impl of OpenBCI software? how is it? is it responsive and all?
+
