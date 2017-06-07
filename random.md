@@ -1389,3 +1389,12 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Funny enough I became aware of them as I was searching information on Faraday Cages and start seeing videos of people building Faraday Cage in their home to protect themselves saying they were being targeted.
 
+6/7/2017 1:36 AM
+
+ **yannick** :
+
+ >Then watched a couple of her video: <https://www.youtube.com/watch?v=o1rLEAjACz8>
+
+> 
+Trying to understand a bit more.
+
