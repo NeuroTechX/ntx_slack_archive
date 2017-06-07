@@ -1443,3 +1443,9 @@ L.
 
  >welcome maviperu !
 
+6/7/2017 12:33 PM
+
+ **sydneyneurotechx** :
+
+ >we are actually working on a eeg biometric project here in Montreal (Very slowly ) We can chat about it sometime if you want :slightly_smiling_face:
+
