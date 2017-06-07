@@ -1449,3 +1449,9 @@ L.
 
  >we are actually working on a eeg biometric project here in Montreal (Very slowly ) We can chat about it sometime if you want :slightly_smiling_face:
 
+6/7/2017 12:34 PM
+
+ **sydneyneurotechx** :
+
+ >also there are some people from Lima here <#C0VU2AP1Q|_lima> if you want to get connected
+
