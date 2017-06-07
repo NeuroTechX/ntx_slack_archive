@@ -1377,3 +1377,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >a.tech: Yeah Ive seen some videos of TIs& Their numbers are growing fast&
 
+6/7/2017 1:22 AM
+
+ **a.tech** :
+
+ >Yah I had no idea this was a thing until the vice video!
+
