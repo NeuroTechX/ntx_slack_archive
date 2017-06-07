@@ -1083,3 +1083,9 @@ I'd love to hear
 
  >In case anyone is interested: <https://www.aging2.com/events/details/aging-20-toronto-presents-aging20-americas-startup-bootcamp#/>
 
+6/7/2017 12:18 AM
+
+ **bryan_j** :
+
+ >Aging 2.0 Startup Bootcamp! June 20 at MaRS
+
