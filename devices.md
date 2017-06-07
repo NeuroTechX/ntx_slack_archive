@@ -2058,3 +2058,9 @@ Nicolas.
 
  >andrewjsauer I'm working on projects like this <http://naotohieda.com/muse/> <http://naotohieda.com/eegexp/>
 
+6/7/2017 1:28 PM
+
+ **lubo** :
+
+ >What do you guys think of Neuroon Open: <http://kickstarter.neuroon.com/sleep-hackers>
+
