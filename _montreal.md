@@ -657,3 +657,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >naoto It sure looks like it. You could try to sweep the SSVEP frequency, at a slow rate. That would give you a traveling peak
 
+6/7/2017 12:46 PM
+
+ **naoto** :
+
+ >fred-simard sweeping will be interesting to see. I wanted to try but I couldn't make the flickering at an arbitrary rate (right now it blinks every N frame) 
+
