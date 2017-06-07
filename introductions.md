@@ -1455,3 +1455,9 @@ L.
 
  >also there are some people from Lima here <#C0VU2AP1Q|_lima> if you want to get connected
 
+6/7/2017 1:46 PM
+
+ **maviperu** :
+
+ >Yes, I was so happy to hear that! One of the organizers, Erick Carranza, has been my student. What a small world. We are e-meeting over talk about neurotech X
+
