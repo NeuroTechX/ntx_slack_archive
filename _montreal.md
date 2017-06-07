@@ -663,3 +663,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >fred-simard sweeping will be interesting to see. I wanted to try but I couldn't make the flickering at an arbitrary rate (right now it blinks every N frame) 
 
+6/7/2017 1:39 PM
+
+ **fred-simard** :
+
+ >naoto you will be limited in choice, the frequency needs to be an integer ratio of your frame rate, but i'm sure you can find a few ratios to sweep through.
+
