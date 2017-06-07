@@ -1089,3 +1089,9 @@ I'd love to hear
 
  >Aging 2.0 Startup Bootcamp! June 20 at MaRS
 
+6/7/2017 4:16 PM
+
+ **bryan_j** :
+
+ >0ishe: amazing - it will be next Thursday! 
+
