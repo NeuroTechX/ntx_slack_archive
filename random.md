@@ -1383,3 +1383,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Yah I had no idea this was a thing until the vice video!
 
+6/7/2017 1:34 AM
+
+ **yannick** :
+
+ >Funny enough I became aware of them as I was searching information on Faraday Cages and start seeing videos of people building Faraday Cage in their home to protect themselves saying they were being targeted.
+
