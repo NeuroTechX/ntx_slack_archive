@@ -669,3 +669,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >naoto you will be limited in choice, the frequency needs to be an integer ratio of your frame rate, but i'm sure you can find a few ratios to sweep through.
 
+6/7/2017 2:26 PM
+
+ **naoto** :
+
+ >fred-simard: of course, you're right. Maybe I will experiment with Arduino + LED so I have more flexible control
+
