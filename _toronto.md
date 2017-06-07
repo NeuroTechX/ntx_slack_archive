@@ -1095,3 +1095,9 @@ I'd love to hear
 
  >0ishe: amazing - it will be next Thursday! 
 
+6/7/2017 4:17 PM
+
+ **bryan_j** :
+
+ >yanlingchen: could you email me at <mailto:bryan@neurotechx.com|bryan@neurotechx.com>? We can set up a time to chat (hopefully) before the end of June. When are you leaving Canada? 
+
