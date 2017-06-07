@@ -639,3 +639,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >i confirmed the order i'll have 4 for you. Next time i see you, i'll show you the VR-EEG headset i've made over the week-end. Surprisingly slick.
 
+6/7/2017 4:14 AM
+
+ **naoto** :
+
+ >thanks! I won't be at the hacknights for two weeks though (this week Dublin and next week for exhibition at Concordia)
+
