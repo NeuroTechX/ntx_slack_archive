@@ -1077,3 +1077,9 @@ I'd love to hear
 
  >Okay, sounds wonderful!
 
+6/7/2017 12:18 AM
+
+ **bryan_j** :
+
+ >In case anyone is interested: <https://www.aging2.com/events/details/aging-20-toronto-presents-aging20-americas-startup-bootcamp#/>
+
