@@ -645,3 +645,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >thanks! I won't be at the hacknights for two weeks though (this week Dublin and next week for exhibition at Concordia)
 
+6/7/2017 4:16 AM
+
+ **naoto** :
+
+ >fred-simard I think I got SSVEP with OpenBCI, Oz, 200 samples per sec, 2000 samples window (=10 sec). sorry for the flashing lights <https://www.instagram.com/p/BVBjQNIlZLT>
+
