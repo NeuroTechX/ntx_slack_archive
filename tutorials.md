@@ -12,3 +12,9 @@
 
  >In the tutorials channel?
 
+6/7/2017 5:33 AM
+
+ **d.adamos** :
+
+ ><http://neuroinformatics.gr/node/37>
+
