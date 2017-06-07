@@ -1359,3 +1359,15 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Snap some photos and share, please!!
 
+6/7/2017 12:33 AM
+
+ **a.tech** :
+
+ >Am I the only one worried about the radicalization of this group against neurotechnology as it gains media coverage? 
+
+> 
+
+
+> 
+<https://youtu.be/62s3FinAoC0>
+
