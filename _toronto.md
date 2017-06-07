@@ -1101,3 +1101,9 @@ I'd love to hear
 
  >yanlingchen: could you email me at <mailto:bryan@neurotechx.com|bryan@neurotechx.com>? We can set up a time to chat (hopefully) before the end of June. When are you leaving Canada? 
 
+6/7/2017 11:50 PM
+
+ **sayan_faraz** :
+
+ >Ooh what time? I want to hear this idea as well :stuck_out_tongue:
+
