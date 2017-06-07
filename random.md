@@ -1347,3 +1347,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  ><https://redice.tv/news/a-hardware-update-for-the-human-brain>
 
+6/7/2017 12:12 AM
+
+ **bryan_j** :
+
+ >sydneyneurotechx: LOL. This is the kind of hardware we have been itching to develop.
+
