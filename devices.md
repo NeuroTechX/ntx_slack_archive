@@ -2052,3 +2052,9 @@ Nicolas.
 
  >naoto what are you building? or you just messing around?
 
+6/7/2017 4:17 AM
+
+ **naoto** :
+
+ >andrewjsauer I'm working on projects like this <http://naotohieda.com/muse/> <http://naotohieda.com/eegexp/>
+
