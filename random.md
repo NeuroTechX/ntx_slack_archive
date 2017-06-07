@@ -1371,3 +1371,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 > 
 <https://youtu.be/62s3FinAoC0>
 
+6/7/2017 1:16 AM
+
+ **yannick** :
+
+ >a.tech: Yeah Ive seen some videos of TIs& Their numbers are growing fast&
+
