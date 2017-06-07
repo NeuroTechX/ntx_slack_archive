@@ -30,3 +30,9 @@
 
  ><http://neuroinformatics.gr/node/37>
 
+6/7/2017 5:47 AM
+
+ **d.adamos** :
+
+ >Event synchronization between *OpenSesame* and *Emotiv* EEG Testbench | <http://neuroinformatics.gr/node/37>
+
