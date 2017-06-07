@@ -651,3 +651,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >fred-simard I think I got SSVEP with OpenBCI, Oz, 200 samples per sec, 2000 samples window (=10 sec). sorry for the flashing lights <https://www.instagram.com/p/BVBjQNIlZLT>
 
+6/7/2017 11:52 AM
+
+ **fred-simard** :
+
+ >naoto It sure looks like it. You could try to sweep the SSVEP frequency, at a slow rate. That would give you a traveling peak
+
