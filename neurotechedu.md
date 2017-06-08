@@ -672,3 +672,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Somestimes you need to delete the space between two words to remove the new line
 
+6/8/2017 7:35 AM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  For those who have been working on EDU, can you please put your info in the contributors MD?
+
