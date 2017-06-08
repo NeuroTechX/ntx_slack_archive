@@ -3747,3 +3747,9 @@ As many types of data as possible, especially related to mental health. Wearable
 > 
 <http://insidescientific.com/webinar/fNIRS-and-brain-computer-interface-for-communication-nirx>
 
+6/8/2017 3:53 PM
+
+ **mhough** :
+
+ >Hi francescacoo yeah I should have said something too. It was pretty basic overview stuff although the application to ALS was nice to see. The recording will be online so you haven't missed it if your interested
+
