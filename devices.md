@@ -2076,3 +2076,9 @@ Nicolas.
 
  >tonyb yes something with google cardboard would be good for the experimental control system I always thought. Anyone tried to run psychopy on Android? Definitely want to do SSVEPs to one eye and the phone connects to the raspi3 running the DAQ. Its mounted on top of the ganglion board for instance
 
+6/8/2017 3:16 PM
+
+ **naoto** :
+
+ >mhough: mine is raspbian 8
+
