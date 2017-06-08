@@ -1416,3 +1416,9 @@ Trying to understand a bit more.
 
  >sid_fulminds yes. yes there should be. And not just electrical. I thought that was understood after the Lumosity case. In the cases that are remanded to therapy because no treatment alternatives are available, the same exact rules should apply. That is where the widespread abuse of these treatments takes place in my opinion. Hope that helps
 
+6/8/2017 11:54 PM
+
+ **mhough** :
+
+ >Here is a copy of what a device manufacturer would like to say constitutes evidence of claims. It was shared publicly on LinkedIn so I feel comfortable posting this. The discussion arose regarding Lymes disease but the manufacturer claims many other disorders can be similarly treated. Lastly before I post this, think about what a device should be shown to do to be an effective treatment for say Lymes  disease. 
+
