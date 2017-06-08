@@ -1113,3 +1113,9 @@ I'd love to hear
 
  >Will do! I'll be leaving on June 28th
 
+6/8/2017 12:44 AM
+
+ **bryan_j** :
+
+ >Thanks - I have received your email. I will answer shortly! 
+
