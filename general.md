@@ -3714,3 +3714,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >dano Where could I learn more about the Neurodoro project?
 
+6/8/2017 4:09 AM
+
+ **dano** :
+
+ >francescacoo <https://research.googleblog.com/2017/04/federated-learning-collaborative.html?m=1>
+
