@@ -678,3 +678,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  ><!channel>  For those who have been working on EDU, can you please put your info in the contributors MD?
 
+6/8/2017 7:35 AM
+
+ **sydneyneurotechx** :
+
+ ><https://github.com/NeuroTechX/learn.neurotechedu.com/blob/gh-pages/pages/contributors.md>
+
