@@ -3720,3 +3720,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >francescacoo <https://research.googleblog.com/2017/04/federated-learning-collaborative.html?m=1>
 
+6/8/2017 7:26 AM
+
+ **mhough** :
+
+ >hi endoxaneuro well they would definitely get a better "review" if they didn't make it sound like the military, Olympics, NBA, MLB, and NFL sports "medicine" people know what the hell they are doing and that this has been shown effective to people who should care. If I am wrong about that please post some links to peer-reviewed research articles etc. that I definitely missed. Even with those, and I take it they exist, check the reproducibility problem in neuroscience. Yes I understand the principle they are using. In a way, its kind of the opposite of sewing monkey's fingers together. Not exactly, but I am going to stick with that image. That the military can actually waste money on technology that doesn't work is really just common sense. Hope that helps
+
