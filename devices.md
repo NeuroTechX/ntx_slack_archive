@@ -2082,3 +2082,9 @@ Nicolas.
 
  >mhough: mine is raspbian 8
 
+6/8/2017 4:01 PM
+
+ **mhough** :
+
+ >Thanks naoto. It would be great to see those interested in an ARM branch of neurodebian use ubuntu 16.04/mate as its pretty responsive as a desktop. Any of the neurodebian supported OS versions would do though. I know dmitryneuro is interested and Anderson Winkler at FMRIB has some posts on getting neurodebian packages running on ARM. Its probably outdated and maybe they are already doing this but I would like to help an effort to get this officially supported on at least a couple of reference boards including Qualcomm's one.
+
