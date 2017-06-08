@@ -3738,3 +3738,12 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >Hey Dano,
 
+6/8/2017 1:39 PM
+
+ **francescacoo** :
+
+ >Hi everybody, a bit late, but there is a webinar starting soon "fNIRS and Brain-Computer Interfaces for Communication. An essential webinar for all BCI researchers: fNIRS enables the read out of voluntarily controlled brain states in real time and opens a communication channel with completely locked-in patients, otherwise isolated from the external world." 
+
+> 
+<http://insidescientific.com/webinar/fNIRS-and-brain-computer-interface-for-communication-nirx>
+
