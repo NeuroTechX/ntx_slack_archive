@@ -1107,3 +1107,9 @@ I'd love to hear
 
  >Ooh what time? I want to hear this idea as well :stuck_out_tongue:
 
+6/8/2017 12:21 AM
+
+ **yanlingchen** :
+
+ >Will do! I'll be leaving on June 28th
+
