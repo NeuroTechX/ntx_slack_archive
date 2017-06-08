@@ -684,3 +684,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  ><https://github.com/NeuroTechX/learn.neurotechedu.com/blob/gh-pages/pages/contributors.md>
 
+6/8/2017 11:14 AM
+
+ **francescacoo** :
+
+ >hey guys, I was reading the different lessons and in Applications - the video linked is not available anymore <http://learn.neurotechedu.com/applications/>
+
