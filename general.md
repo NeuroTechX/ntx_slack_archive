@@ -3753,3 +3753,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >Hi francescacoo yeah I should have said something too. It was pretty basic overview stuff although the application to ALS was nice to see. The recording will be online so you haven't missed it if your interested
 
+6/8/2017 4:01 PM
+
+ **francescacoo** :
+
+ >I watched until 15 minutes from the end.. it was good for me because basic :) so I could follow! yep the videos of what they have done was interesting!
+
