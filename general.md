@@ -3732,3 +3732,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >I really do mean that honestly that it helps. These people should expect to get laughed out of a room. Not because what they are trying to do is bad but if you say you have a magic wand then show me some friggin magic and then teach me the incantation and make it public so it can get the review it needs. The fact that they don't should scare them - hopefully wise them up - nothing else
 
+6/8/2017 7:48 AM
+
+ **francescacoo** :
+
+ >Hey Dano,
+
