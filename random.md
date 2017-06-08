@@ -1428,3 +1428,9 @@ Trying to understand a bit more.
 
  >While you are thinking about that I want to say this person is actually responding and trying to muster something which is pretty rare in my experience so kudos 
 
+6/8/2017 11:58 PM
+
+ **mhough** :
+
+ >Good comments Morgan, I am using audio-visual entrainment at simultaneous SMR/beta frequencies. I highlight three cases in my article and have more cases to add. Here's the link to my article:  <http://mindalive.com/default/assets/File/AVE%20and%20diffuse%20axonal%20injuries%20for%20publication-Final%20-%20Feb%2023%202017(2).pdf> 
+
