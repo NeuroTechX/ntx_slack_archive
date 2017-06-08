@@ -690,3 +690,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >hey guys, I was reading the different lessons and in Applications - the video linked is not available anymore <http://learn.neurotechedu.com/applications/>
 
+6/8/2017 12:20 PM
+
+ **sydneyneurotechx** :
+
+ >Yup. Updating it :slightly_smiling_face:
+
