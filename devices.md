@@ -2064,3 +2064,9 @@ Nicolas.
 
  >What do you guys think of Neuroon Open: <http://kickstarter.neuroon.com/sleep-hackers>
 
+6/8/2017 7:08 AM
+
+ **mhough** :
+
+ >naoto thats awesome. what you using for the OS on the raspi3? I am hoping a fedora or ubuntu mate?
+
