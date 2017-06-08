@@ -3759,3 +3759,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >I watched until 15 minutes from the end.. it was good for me because basic :) so I could follow! yep the videos of what they have done was interesting!
 
+6/8/2017 4:19 PM
+
+ **davidevaleriani** :
+
+ >Yeah it wasn't that bad, the Plos Biology paper of the second speaker got quite a lot of attention when it got published actually
+
