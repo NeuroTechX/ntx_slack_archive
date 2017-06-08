@@ -2070,3 +2070,9 @@ Nicolas.
 
  >naoto thats awesome. what you using for the OS on the raspi3? I am hoping a fedora or ubuntu mate?
 
+6/8/2017 7:13 AM
+
+ **mhough** :
+
+ >tonyb yes something with google cardboard would be good for the experimental control system I always thought. Anyone tried to run psychopy on Android? Definitely want to do SSVEPs to one eye and the phone connects to the raspi3 running the DAQ. Its mounted on top of the ganglion board for instance
+
