@@ -1398,3 +1398,9 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 > 
 Trying to understand a bit more.
 
+6/8/2017 8:06 AM
+
+ **mhough** :
+
+ >sid_fulminds rgbn alexandre.barachant ok I see you already responded to this. I posted in devices. Can we just have some boilerplate response for all these that we can just point people to. Yeah I think it should have something about how people who buy it will potentially be some of its most vocal advocates and psychologically why. Not just placebo effects but social psychological and other known mechanisms such as lack of proper metrics and economists understanding of human's temporal blinders. With great claims comes the need for overwhelming evidence not scant. These toy sport devices are not my concern really, I think a prototype, if you will:), of what I am talking about are the binaural, audio-visual and somatosensory devices that are WIDELY used in a number of chronic pain disorders, clinical disorders with no recognized effective treatment and actually RECOMMENDED by PTSD/trauma therapists for whatever you want to call their pain. These people are in a risk category for suicide which is you know sometimes fatal. If you follow me on LinkedIn, you can see that following the temporal interference TES device manufacturer around he seems to be quite cozy with such peddlers. Again, not really my focus, my target being the Amen Clinics as respectable medical facilities, but I want to know how best to respond. Electricity is not a new therapy. It has been used as such almost as soon as Galvani made a frog's leg move. Historically it has been used whenever there is a lack of recognized treatment but it is especially known for treating "diagnoses" that were socially or culturally motivated such as shocking women who were infertile or in the case of my grandmother probably because she was talking just a little too much sense.
+
