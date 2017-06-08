@@ -675,3 +675,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >fred-simard: of course, you're right. Maybe I will experiment with Arduino + LED so I have more flexible control
 
+6/8/2017 12:37 AM
+
+ **fred-simard** :
+
+ >naoto You can also sum up and normalize multiple signals to have multiple components, if that's of any interest
+
