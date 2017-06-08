@@ -657,3 +657,15 @@ Looks like a really great opportunity to work with really smart people.
 
  ><http://56143.seu1.cleverreach.com/c/22389374/b38168fb3e59-or80i6>
 
+6/8/2017 8:57 PM
+
+ **a.tech** :
+
+ >Amazing job opportunity. 
+
+> 
+
+
+> 
+<http://kernel.co/job-board/?gh_jid=702672>
+
