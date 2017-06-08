@@ -1422,3 +1422,9 @@ Trying to understand a bit more.
 
  >Here is a copy of what a device manufacturer would like to say constitutes evidence of claims. It was shared publicly on LinkedIn so I feel comfortable posting this. The discussion arose regarding Lymes disease but the manufacturer claims many other disorders can be similarly treated. Lastly before I post this, think about what a device should be shown to do to be an effective treatment for say Lymes  disease. 
 
+6/8/2017 11:57 PM
+
+ **mhough** :
+
+ >While you are thinking about that I want to say this person is actually responding and trying to muster something which is pretty rare in my experience so kudos 
+
