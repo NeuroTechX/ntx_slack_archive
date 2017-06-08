@@ -1119,3 +1119,9 @@ I'd love to hear
 
  >Thanks - I have received your email. I will answer shortly! 
 
+6/8/2017 12:45 AM
+
+ **bryan_j** :
+
+ >Details will be shared here - usually around 6-7pm, definitely at the Varagesale office! 
+
