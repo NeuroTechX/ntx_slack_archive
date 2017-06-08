@@ -1410,3 +1410,9 @@ Trying to understand a bit more.
 
  >mhough thanks for sharing! Although in all honesty, I am not sure I understand your point though. Are you saying that in general there is a need to provide hard evidence to healthcare claims that are often much too lightly substantiated ?
 
+6/8/2017 10:46 PM
+
+ **mhough** :
+
+ >sid_fulminds yes. yes there should be. And not just electrical. I thought that was understood after the Lumosity case. In the cases that are remanded to therapy because no treatment alternatives are available, the same exact rules should apply. That is where the widespread abuse of these treatments takes place in my opinion. Hope that helps
+
