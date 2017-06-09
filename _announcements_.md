@@ -414,3 +414,9 @@ If you are in Vancouver, come hang out with us in person! We will go for beer an
 
  >You have got to be f^%$#^ with me
 
+6/9/2017 11:50 AM
+
+ **mhough** :
+
+ >So I signed up and will be there. Thanks. Going to try and have the whole physics team there actually. Yep
+
