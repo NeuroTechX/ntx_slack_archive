@@ -1521,3 +1521,9 @@ I'm Alireza Davoudi. I took my master degree from Amirkabir university of techno
 > 
 --&gt; alexandre.barachant, are you gonna charge NeuroTechX for Ads placement? :stuck_out_tongue:
 
+6/9/2017 2:53 PM
+
+ **alexandre.barachant** :
+
+ >haha, I think i got back the same kind of ads from NeurotechX on multiple occasion
+
