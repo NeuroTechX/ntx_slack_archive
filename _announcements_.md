@@ -633,3 +633,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >I want Henrick to come and see if that is really what he thinks we should be doing
 
+6/9/2017 6:18 PM
+
+ **mhough** :
+
+ >Again, if someone will just operationalize this for me in terms of I don't know like the moving mirror experiment then people can build it do it and if the evidence isn't there note it and move on
+
