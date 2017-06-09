@@ -492,3 +492,9 @@ Do others have thoughts on this?
 
  >But you have to get ready for the maths no matter what
 
+6/9/2017 4:58 PM
+
+ **mhough** :
+
+ >How are we going to navigate in an algorithmic world populated with quantum algorithms without being comfortable navigating this from a position of knowledge
+
