@@ -768,3 +768,21 @@ We worked hard to make this talk happen because even though the idea of a quantu
 
  >Cool. Look simulations of this kind of thing are totally doable and soon building things into neuromorphic hardware will be doable too. Warm SQUIDS are doable. I want to know where the quantum computing field is and I think others should too. People use NMRs for experiments and thats something not quite OpenBCI but within the realm of the amateur let's say. Once you enter this world you only have the maths to ground you though and keeping it an engineering level is I think important
 
+6/9/2017 7:46 PM
+
+ **andrewjsauer** :
+
+ >a.tech mhough "...experiments in the past few years has been steadly confirming Penrose's hypothesis that microtubules can support warm quantum coherence and potentially play a role in human consciousness."
+
+> 
+
+
+> 
+love the passion here, and as someone relatively new to all of this i have no clue what you guys are talking about.
+
+> 
+
+
+> 
+can you point me in the right direction to brush up on these experiments you refer too? or maybe there's some must-know articles to read before this talk? i know i could dive deep into google / wiki but interested to hear if you recommend specific articles / sites. very interested, and would love to learn more. cheers.
+
