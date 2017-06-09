@@ -585,3 +585,9 @@ So that the event is less of an unquestioned endorsement
 > 
 Right now, Im primarily interested in framing the event around this discussion.
 
+6/9/2017 5:10 PM
+
+ **mhough** :
+
+ >I don't know what OR-ORCH is but how about ask him or someone to explain the warm MEG sensors
+
