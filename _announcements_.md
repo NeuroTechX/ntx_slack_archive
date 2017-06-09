@@ -723,3 +723,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >if someone is making people walk with cheaper stuff - don't bring in the guy doing unclaimed lyme's disease "cures"
 
+6/9/2017 6:23 PM
+
+ **a.tech** :
+
+ >Like what I mean is that
+
