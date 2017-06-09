@@ -681,3 +681,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >Looks at the way that naturally occurring biological microtubules can support warm quantum coherence 
 
+6/9/2017 6:21 PM
+
+ **mhough** :
+
+ >Okay is that what he is talking about
+
