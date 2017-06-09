@@ -1512,3 +1512,12 @@ I'm Alireza Davoudi. I took my master degree from Amirkabir university of techno
 
  >great !
 
+6/9/2017 2:51 PM
+
+ **yannick** :
+
+ >_I found this place through Dr. Barachants home page_
+
+> 
+--&gt; alexandre.barachant, are you gonna charge NeuroTechX for Ads placement? :stuck_out_tongue:
+
