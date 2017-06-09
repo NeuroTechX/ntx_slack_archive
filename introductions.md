@@ -1461,3 +1461,12 @@ L.
 
  >Yes, I was so happy to hear that! One of the organizers, Erick Carranza, has been my student. What a small world. We are e-meeting over talk about neurotech X
 
+6/9/2017 1:51 PM
+
+ **alirezad** :
+
+ >Hello guys. 
+
+> 
+I'm Alireza Davoudi. I took my master degree from Amirkabir university of technology, Iran. My master thesis focus was on the use of Riemannian geometry in the machine learning phase of BCI. I also published my findings in a paper entitled "Dimensionality reduction based on distance preservation to local mean for symmetric positive definite matrices and its application in braincomputer interfaces".
+
