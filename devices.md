@@ -2100,3 +2100,9 @@ Nicolas.
 
  >francescacoo : <https://github.com/alexandrebarachant/muse-lsl>
 
+6/9/2017 12:11 PM
+
+ **francescacoo** :
+
+ >alexandre.barachant: wohooo that's great alexandre! Thanks a lot!
+
