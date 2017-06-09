@@ -738,3 +738,15 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 > 
 Does the concern about framing make sense to you? How would you describe it in your own words?
 
+6/9/2017 6:32 PM
+
+ **a.tech** :
+
+ >The talk is purely about the the ability of biological structures to support quantum superpositions. This is where it all starts from a quantum perspective. So any hypothesis or "theories of mind" are completely left out, since we dont have proof about this. Cisco may not have as many citations as other Rock stars, but I believe in his academic integrity to present what he knows without making it flowery.
+
+> 
+
+
+> 
+We worked hard to make this talk happen because even though the idea of a quantum human mind sounds crazy, experiments in the past few years has been steadly confirming Penrose's hypothesis that microtubules can support warm quantum coherence and potentially play a role in human consciousness. 
+
