@@ -510,3 +510,15 @@ Do others have thoughts on this?
 
  >^ lol
 
+6/9/2017 5:03 PM
+
+ **stephen** :
+
+ >a.tech mhough At the least, you could say at the top of the event page We acknowledge this is a controversial topic among neuroscientists and Dr. Gooding will make invest sufficient time in (1) outlining the specific claims he wants to make and (2) acknowledging and addressing the common objections to discussions and quantum physics and neuroscience.
+
+> 
+
+
+> 
+So that the event is less of an unquestioned endorsement
+
