@@ -822,3 +822,9 @@ can you point me in the right direction to brush up on these experiments you ref
 > 
 There are alot of uncertainties (no pun intended lol) and rather then stack on layers on unnecessary abstraction... the best approach atm is to focus on the molecular biology. Once we get a good grip on that then it'll be easier to see how the rest of it falls into play.
 
+6/9/2017 10:36 PM
+
+ **a.tech** :
+
+ >andrewjsauer Please give me a moment or two to compile a summary of the research regarding the matter!
+
