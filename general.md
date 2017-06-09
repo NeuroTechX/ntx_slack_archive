@@ -3771,3 +3771,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >Hello guys!
 
+6/9/2017 1:44 PM
+
+ **yannick** :
+
+ >Hey alirezad, welcome on board, feel free to introduce yourself in <#C08QEC5H7|introductions>. Tell us more about you (where you are from, background, interests, how you found NeuroTechX&) :ntxt:
+
