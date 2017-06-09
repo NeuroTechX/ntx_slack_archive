@@ -3795,3 +3795,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >or saying it differently, if you go on the Deep learning road, you better pick a topic that google and facebook and other are not going to solve within the next 5 years
 
+6/9/2017 2:19 PM
+
+ **alirezad** :
+
+ >alexandre.barachant Or maybe BCI research will be stoped by the united nation because of its dangers for human beings :smile:
+
