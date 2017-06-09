@@ -558,3 +558,9 @@ So that the event is less of an unquestioned endorsement
 
  >Oh yeah, no thats all you guys. Sorry, I hope you don't think I was really weighing in on that
 
+6/9/2017 5:07 PM
+
+ **mhough** :
+
+ >I am talking about these kinds of algorithms
+
