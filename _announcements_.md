@@ -762,3 +762,9 @@ We worked hard to make this talk happen because even though the idea of a quantu
 
  >I will take a look at the media material we put out, and see how we can clarify the heart of the matter for our potential audience. 
 
+6/9/2017 7:03 PM
+
+ **mhough** :
+
+ >Cool. Look simulations of this kind of thing are totally doable and soon building things into neuromorphic hardware will be doable too. Warm SQUIDS are doable. I want to know where the quantum computing field is and I think others should too. People use NMRs for experiments and thats something not quite OpenBCI but within the realm of the amateur let's say. Once you enter this world you only have the maths to ground you though and keeping it an engineering level is I think important
+
