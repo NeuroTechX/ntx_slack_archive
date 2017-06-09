@@ -693,3 +693,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >I forgot to say that the recording site is Pz. These are only preliminary results, Eventually I plan on writing a white paper, when I'll have the results I want to present.
 
+6/9/2017 9:44 PM
+
+ **eferdinand** :
+
+ >sidksv yannick I'll be there at 6:30
+
