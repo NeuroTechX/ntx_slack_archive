@@ -573,3 +573,9 @@ If this sounds like something youd be interested in, please contact me on Slack
 
  >harris thanks :D AJ's talking to me on the Push the World channel :D
 
+6/9/2017 5:27 PM
+
+ **yannick** :
+
+ >Is PolyCortex at Festival Eureka! today? Pix or its fake.
+
