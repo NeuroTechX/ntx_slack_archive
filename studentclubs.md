@@ -579,3 +579,9 @@ If this sounds like something youd be interested in, please contact me on Slack
 
  >Is PolyCortex at Festival Eureka! today? Pix or its fake.
 
+6/9/2017 6:47 PM
+
+ **benjamindeleener** :
+
+ >So popular, no time to take pictures!! 
+
