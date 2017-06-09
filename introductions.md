@@ -1494,3 +1494,9 @@ I'm Alireza Davoudi. I took my master degree from Amirkabir university of techno
 
  >I could try to translate it.
 
+6/9/2017 2:04 PM
+
+ **alexandre.barachant** :
+
+ >i was playing with this kind of thing lately (using pymanopt actually), so i'm interested in comparing different methods. I think i have an implementation of Harandi's method as well
+
