@@ -81,3 +81,45 @@ It will be a stella event!
 > 
 <https://www.eventbrite.ca/e/age-well-hacking-health-national-ideathon-vancouver-tickets-30076465518>
 
+6/9/2017 8:03 AM
+
+ **a.tech** :
+
+ >_NeuroTechVan Fireside_ brings in world class speakers to present the latest ideas in world of brain computer interfaces.  
+
+> 
+
+
+> 
+At this upcoming NeuroTechX Fireside event, globally acclaimed theoretical physicist Dr. Cisco Gooding will help our NTX members bridge the gap between neuroscience and cutting edge quantum research. Gooding provides an authoritative perspective of orchestrated objective reduction(OR-ORCH) and warm quantum coherence in biological systems. In addition to his various academic publications in theoretical physics as an independent, Gooding is a research colleague of Roger Penrose, father of "OR-ORCH" theory.
+
+> 
+
+
+> 
+We invite you to attend this exciting exploration at the University of British Columbia, Vancouver, Canada on Sunday the 25th of June. It will be a connection of the two most revolutionary fields in our modern day: Quantum Physics and Neuroscience. 
+
+> 
+
+
+> 
+Everybody is welcome and attendance is free (as all knowledge should be). 
+
+> 
+
+
+> 
+See you there! 
+
+> 
+
+
+> 
+<https://www.meetup.com/NeuroTechVAN/events/240659251/>
+
+> 
+
+
+> 
+_For those who are not in Vancouver or are unable to make it... we will be professionally filming all of this Jazz so you can check it out!_
+
