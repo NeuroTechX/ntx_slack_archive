@@ -1500,3 +1500,9 @@ I'm Alireza Davoudi. I took my master degree from Amirkabir university of techno
 
  >i was playing with this kind of thing lately (using pymanopt actually), so i'm interested in comparing different methods. I think i have an implementation of Harandi's method as well
 
+6/9/2017 2:07 PM
+
+ **alirezad** :
+
+ >alexandre.barachant Thank you, I will share my codes on my github and inform you about this.
+
