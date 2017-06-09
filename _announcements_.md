@@ -408,3 +408,9 @@ If you are in Vancouver, come hang out with us in person! We will go for beer an
 > 
 <https://www.meetup.com/NeuroTechVAN/events/240659251/>
 
+6/9/2017 11:21 AM
+
+ **mhough** :
+
+ >You have got to be f^%$#^ with me
+
