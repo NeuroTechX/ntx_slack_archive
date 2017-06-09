@@ -438,3 +438,33 @@ If you are in Vancouver, come hang out with us in person! We will go for beer an
 
  >Quantum Physics + Neuroscience :smile:
 
+6/9/2017 4:40 PM
+
+ **stephen** :
+
+ >Also, for a globally acclaimed physicist, its odd that he only has 18 citations. <https://www.researchgate.net/profile/Cisco_Gooding>
+
+> 
+
+
+> 
+Its definitely possible to have a constructive conversation about quantum physics + neuroscience. You might have a few speakers representing different perspectives or interpretations. Perhaps one could play the skeptic, one could be the voice of Penrose, and one could say I land in the middle in these ways or it depends on doing these experiments that we dont yet have the tools to do. 
+
+> 
+
+
+> 
+As it stands, this event doesnt seem to appreciate those nuances. I advise a policy where we call things for what they are. 
+
+> 
+
+
+> 
+*To be totally clear: this smells like bullshit and seems highly inconsistent with the otherwise scientifically-credible brand of NeurotechX.*
+
+> 
+
+
+> 
+Do others have thoughts on this?
+
