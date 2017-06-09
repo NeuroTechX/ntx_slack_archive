@@ -639,3 +639,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >Again, if someone will just operationalize this for me in terms of I don't know like the moving mirror experiment then people can build it do it and if the evidence isn't there note it and move on
 
+6/9/2017 6:19 PM
+
+ **mhough** :
+
+ >I think no matter the tone stephen is right, keep an eye on how your perceived
+
