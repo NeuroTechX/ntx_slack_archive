@@ -627,3 +627,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >I am not coming to stump someone
 
+6/9/2017 6:16 PM
+
+ **mhough** :
+
+ >I want Henrick to come and see if that is really what he thinks we should be doing
+
