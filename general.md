@@ -3813,3 +3813,12 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >alirezad check the Connectionists mailing list, there are quite a few opportunities on neuroscience related topics for PhDs...
 
+6/9/2017 5:51 PM
+
+ **yannick** :
+
+ >Hey francescacoo, davidevaleriani &amp; mhough, you guys were talking about fNIRS Webinar.
+
+> 
+It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and-brain-computer-interface-for-communication-nirx>
+
