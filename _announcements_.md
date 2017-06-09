@@ -729,3 +729,12 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >Like what I mean is that
 
+6/9/2017 6:24 PM
+
+ **stephen** :
+
+ >a.tech Thats fair - my words were pretty direct. 
+
+> 
+Does the concern about framing make sense to you? How would you describe it in your own words?
+
