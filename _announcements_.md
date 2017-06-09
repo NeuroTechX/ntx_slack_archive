@@ -522,3 +522,9 @@ Do others have thoughts on this?
 > 
 So that the event is less of an unquestioned endorsement
 
+6/9/2017 5:04 PM
+
+ **stephen** :
+
+ >What do you think about that?
+
