@@ -3789,3 +3789,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >There is for sure more opportunity for someone with a PHD in machine learning. but my guess is that it is an ultra competitive field
 
+6/9/2017 2:16 PM
+
+ **alexandre.barachant** :
+
+ >or saying it differently, if you go on the Deep learning road, you better pick a topic that google and facebook and other are not going to solve within the next 5 years
+
