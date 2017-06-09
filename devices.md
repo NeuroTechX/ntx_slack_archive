@@ -2112,3 +2112,9 @@ Nicolas.
 
  >francescacoo : <https://github.com/urish/muse-js>
 
+6/9/2017 12:12 PM
+
+ **alexandre.barachant** :
+
+ >my code is in python, and if you don't use linux (windows or MacOS), you will have to buy a BLED112 dongle
+
