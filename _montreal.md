@@ -705,3 +705,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >Ill be there slightly after 18h30, gotta grab the Emotiv Insight to test it tonight for tomorrow.
 
+6/9/2017 10:01 PM
+
+ **sidksv** :
+
+ >See you there
+
