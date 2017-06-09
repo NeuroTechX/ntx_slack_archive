@@ -3777,3 +3777,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >Hey alirezad, welcome on board, feel free to introduce yourself in <#C08QEC5H7|introductions>. Tell us more about you (where you are from, background, interests, how you found NeuroTechX&) :ntxt:
 
+6/9/2017 2:02 PM
+
+ **alirezad** :
+
+ >As a student who wants to continue studying PHD, I was wondering how is the job opportunities for someone with a PHD degree in BCI? (compared to someone with a machine learning PHD)
+
