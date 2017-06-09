@@ -585,3 +585,12 @@ If this sounds like something youd be interested in, please contact me on Slack
 
  >So popular, no time to take pictures!! 
 
+6/9/2017 6:54 PM
+
+ **yannick** :
+
+ >graeme check how the Muse headbands are being used by PolyCortex at Eureka! Festival (big science fair with 70,000+ people going over the weekend)
+
+> 
+Racing boats with the Muse. I love it. Cant wait to check it out tomorrow.
+
