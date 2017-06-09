@@ -705,3 +705,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >The focus is on the objective evidence and research on the biological level
 
+6/9/2017 6:22 PM
+
+ **mhough** :
+
+ >this is kind of what I was talking about in devices
+
