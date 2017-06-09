@@ -2094,3 +2094,9 @@ Nicolas.
 
  >Muse: hi guys, few months ago my Muse broke while under warranty. They sent me a new one and it is a Muse 2016. Since then I never tried the research tools SDK anymore, but I discovered yesterday that it is not supported on Muse 2016 :open_mouth: any workaround?
 
+6/9/2017 12:11 PM
+
+ **alexandre.barachant** :
+
+ >francescacoo : <https://github.com/alexandrebarachant/muse-lsl>
+
