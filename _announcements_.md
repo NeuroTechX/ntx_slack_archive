@@ -480,3 +480,9 @@ Do others have thoughts on this?
 
  >I can bring people, again I thought it a little out of topic but if you want to put a team together for the Penrose Prize there are people interested. I will not tolerate BS and I want it much clearer what constitutes evidence
 
+6/9/2017 4:50 PM
+
+ **mhough** :
+
+ >Karl Pribram really was friends with some of these guys and would talk about it a lot more than I thought practical
+
