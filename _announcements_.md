@@ -693,3 +693,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >All that flowery stuff and interpretations, there will be none of that jazz.
 
+6/9/2017 6:22 PM
+
+ **mhough** :
+
+ >I know but people are doing stuff with quantum theory
+
