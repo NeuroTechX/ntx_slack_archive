@@ -3801,3 +3801,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >alexandre.barachant Or maybe BCI research will be stoped by the united nation because of its dangers for human beings :smile:
 
+6/9/2017 2:22 PM
+
+ **alexandre.barachant** :
+
+ >Unless you are working on invasive BCI in a lab with a very good reputation, BCI research funding is quite weak right now
+
