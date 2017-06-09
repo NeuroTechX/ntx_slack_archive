@@ -498,3 +498,9 @@ Do others have thoughts on this?
 
  >How are we going to navigate in an algorithmic world populated with quantum algorithms without being comfortable navigating this from a position of knowledge
 
+6/9/2017 5:02 PM
+
+ **mhough** :
+
+ >I just want someone from the Bohm/Penrose/I don't know who else to tell me what they need or are waiting for. Microtubules something was the answer I always got maybe 20 years ago
+
