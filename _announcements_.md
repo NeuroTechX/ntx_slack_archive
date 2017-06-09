@@ -369,3 +369,42 @@ Thanks a whole lot for your help and for taking the time guys and gals! <!channe
 
  >Oh wow
 
+6/9/2017 8:17 AM
+
+ **a.tech** :
+
+ ><!channel> 
+
+> 
+
+
+> 
+_NeuroTechVan Fireside_ brings in world class speakers to present ideas in world of brain computer interfaces.  
+
+> 
+
+
+> 
+On June the 25th, globally acclaimed theoretical physicist Dr. Cisco Gooding will help our members bridge the gap between neuroscience and cutting edge quantum research. Gooding provides an authoritative perspective of orchestrated objective reduction(OR-ORCH) and warm quantum coherence in biological systems. In addition to his various academic publications in theoretical physics Gooding is notably a research colleague of Roger Penrose, father of "OR-ORCH" theory.
+
+> 
+
+
+> 
+We invite you to attend the live stream of the event where you can ask us questions real time via twitter. Details and link to be posted shortly. 
+
+> 
+
+
+> 
+This will be a connection of the two revolutionary fields in our modern day: Quantum Physics and Neuroscience. 
+
+> 
+
+
+> 
+If you are in Vancouver, come hang out with us in person! We will go for beer and chicken waffles to causally catalyze networking after the event.   
+
+> 
+<https://www.meetup.com/NeuroTechVAN/events/240659251/>
+
