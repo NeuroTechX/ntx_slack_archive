@@ -687,3 +687,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >Okay is that what he is talking about
 
+6/9/2017 6:22 PM
+
+ **a.tech** :
+
+ >All that flowery stuff and interpretations, there will be none of that jazz.
+
