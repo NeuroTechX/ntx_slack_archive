@@ -2124,3 +2124,9 @@ Nicolas.
 
  >I am on Linux
 
+6/9/2017 12:13 PM
+
+ **alexandre.barachant** :
+
+ >i did not tried muse-js, but it might have a better os support
+
