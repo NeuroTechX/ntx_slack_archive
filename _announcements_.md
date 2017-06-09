@@ -798,3 +798,9 @@ can you point me in the right direction to brush up on these experiments you ref
 
  >that'd be super insightful :+1:
 
+6/9/2017 9:11 PM
+
+ **bryan_j** :
+
+ >mhough: I would love to join - please do! 
+
