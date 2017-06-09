@@ -2088,3 +2088,9 @@ Nicolas.
 
  >Thanks naoto. It would be great to see those interested in an ARM branch of neurodebian use ubuntu 16.04/mate as its pretty responsive as a desktop. Any of the neurodebian supported OS versions would do though. I know dmitryneuro is interested and Anderson Winkler at FMRIB has some posts on getting neurodebian packages running on ARM. Its probably outdated and maybe they are already doing this but I would like to help an effort to get this officially supported on at least a couple of reference boards including Qualcomm's one.
 
+6/9/2017 12:04 PM
+
+ **francescacoo** :
+
+ >Muse: hi guys, few months ago my Muse broke while under warranty. They sent me a new one and it is a Muse 2016. Since then I never tried the research tools SDK anymore, but I discovered yesterday that it is not supported on Muse 2016 :open_mouth: any workaround?
+
