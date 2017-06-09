@@ -3822,3 +3822,9 @@ As many types of data as possible, especially related to mental health. Wearable
 > 
 It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and-brain-computer-interface-for-communication-nirx>
 
+6/9/2017 5:52 PM
+
+ **mhough** :
+
+ >Yep
+
