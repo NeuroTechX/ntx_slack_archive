@@ -792,3 +792,9 @@ can you point me in the right direction to brush up on these experiments you ref
 
  >hey andrewjsauer sure. Maybe we could start a channel for this and I can get Henrik to finally join (your not here right:) and we can get concrete on both sides of this. I don't mean on the sides of the quantum debate but engineering level for both quantum and molecular biology
 
+6/9/2017 7:55 PM
+
+ **andrewjsauer** :
+
+ >that'd be super insightful :+1:
+
