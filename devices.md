@@ -2118,3 +2118,9 @@ Nicolas.
 
  >my code is in python, and if you don't use linux (windows or MacOS), you will have to buy a BLED112 dongle
 
+6/9/2017 12:13 PM
+
+ **francescacoo** :
+
+ >I am on Linux
+
