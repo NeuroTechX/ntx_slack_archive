@@ -432,3 +432,9 @@ If you are in Vancouver, come hang out with us in person! We will go for beer an
 
  >a.tech Since this can be a controversial topic, it would be helpful for you to describe more specifics about what the speaker will present, what the speaker _wont_ present (i.e. a reiteration of Penroses theories?), and the types of questions / conversations that would be constructive for attendees to bring up.
 
+6/9/2017 4:26 PM
+
+ **jnaulty** :
+
+ >Quantum Physics + Neuroscience :smile:
+
