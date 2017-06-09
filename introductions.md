@@ -1470,3 +1470,9 @@ L.
 > 
 I'm Alireza Davoudi. I took my master degree from Amirkabir university of technology, Iran. My master thesis focus was on the use of Riemannian geometry in the machine learning phase of BCI. I also published my findings in a paper entitled "Dimensionality reduction based on distance preservation to local mean for symmetric positive definite matrices and its application in braincomputer interfaces".
 
+6/9/2017 1:52 PM
+
+ **alirezad** :
+
+ >I found this place through Dr. Barachant's home page
+
