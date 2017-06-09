@@ -651,3 +651,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >I probably need that advice several times a day:)
 
+6/9/2017 6:19 PM
+
+ **a.tech** :
+
+ >Well, I am not claiming that we KNOW the whole new field of quantum mechanics and neuroscience lol... 
+
