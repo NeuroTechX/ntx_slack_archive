@@ -750,3 +750,9 @@ Does the concern about framing make sense to you? How would you describe it in y
 > 
 We worked hard to make this talk happen because even though the idea of a quantum human mind sounds crazy, experiments in the past few years has been steadly confirming Penrose's hypothesis that microtubules can support warm quantum coherence and potentially play a role in human consciousness. 
 
+6/9/2017 6:33 PM
+
+ **a.tech** :
+
+ >I do appreciate the concerns you raised though. It totally makes sense.
+
