@@ -486,3 +486,9 @@ Do others have thoughts on this?
 
  >Karl Pribram really was friends with some of these guys and would talk about it a lot more than I thought practical
 
+6/9/2017 4:53 PM
+
+ **mhough** :
+
+ >But you have to get ready for the maths no matter what
+
