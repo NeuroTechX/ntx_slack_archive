@@ -474,3 +474,9 @@ Do others have thoughts on this?
 
  >yes, I agree I just didn't know we were having this conversation.
 
+6/9/2017 4:48 PM
+
+ **mhough** :
+
+ >I can bring people, again I thought it a little out of topic but if you want to put a team together for the Penrose Prize there are people interested. I will not tolerate BS and I want it much clearer what constitutes evidence
+
