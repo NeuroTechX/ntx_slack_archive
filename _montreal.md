@@ -681,3 +681,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >naoto You can also sum up and normalize multiple signals to have multiple components, if that's of any interest
 
+6/9/2017 4:15 PM
+
+ **fred-simard** :
+
+ >naoto I recorded using 4 stimuli at frequencies: 11, 7, 5, 3 Hz. I'm working on the analysiss, but if you need more I would use 13 and 14. This is a 'one hot' coding scheme, but using combinations of frequencies would increase the number of codes exponentially.
+
