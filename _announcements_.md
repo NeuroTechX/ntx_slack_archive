@@ -597,3 +597,9 @@ Right now, Im primarily interested in framing the event around this discussion.
 
  >Sure
 
+6/9/2017 5:12 PM
+
+ **stephen** :
+
+ >a.tech Can you please describe your plan on how to ensure this event has proper framing?
+
