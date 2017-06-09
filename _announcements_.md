@@ -786,3 +786,9 @@ love the passion here, and as someone relatively new to all of this i have no cl
 > 
 can you point me in the right direction to brush up on these experiments you refer too? or maybe there's some must-know articles to read before this talk? i know i could dive deep into google / wiki but interested to hear if you recommend specific articles / sites. very interested, and would love to learn more. cheers.
 
+6/9/2017 7:55 PM
+
+ **mhough** :
+
+ >hey andrewjsauer sure. Maybe we could start a channel for this and I can get Henrik to finally join (your not here right:) and we can get concrete on both sides of this. I don't mean on the sides of the quantum debate but engineering level for both quantum and molecular biology
+
