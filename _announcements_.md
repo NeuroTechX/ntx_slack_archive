@@ -756,3 +756,9 @@ We worked hard to make this talk happen because even though the idea of a quantu
 
  >I do appreciate the concerns you raised though. It totally makes sense.
 
+6/9/2017 6:34 PM
+
+ **a.tech** :
+
+ >I will take a look at the media material we put out, and see how we can clarify the heart of the matter for our potential audience. 
+
