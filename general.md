@@ -3828,3 +3828,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >Yep
 
+6/9/2017 5:56 PM
+
+ **davidevaleriani** :
+
+ >yannick: yeah, I've received the notification via email, but I've already watched it :) I think they could be useful for those who missed it, though
+
