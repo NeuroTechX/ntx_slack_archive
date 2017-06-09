@@ -1476,3 +1476,9 @@ I'm Alireza Davoudi. I took my master degree from Amirkabir university of techno
 
  >I found this place through Dr. Barachant's home page
 
+6/9/2017 1:54 PM
+
+ **alexandre.barachant** :
+
+ >alirezad nice work :slightly_smiling_face: Do you have a python implementation ? we can integrates it to pyRiemann
+
