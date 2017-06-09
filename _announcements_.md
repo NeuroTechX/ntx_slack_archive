@@ -420,3 +420,9 @@ If you are in Vancouver, come hang out with us in person! We will go for beer an
 
  >So I signed up and will be there. Thanks. Going to try and have the whole physics team there actually. Yep
 
+6/9/2017 3:37 PM
+
+ **dano** :
+
+ >a.tech: Hey you know Cisco! He's a pretty good guy
+
