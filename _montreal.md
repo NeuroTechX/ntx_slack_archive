@@ -687,3 +687,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >naoto I recorded using 4 stimuli at frequencies: 11, 7, 5, 3 Hz. I'm working on the analysiss, but if you need more I would use 13 and 14. This is a 'one hot' coding scheme, but using combinations of frequencies would increase the number of codes exponentially.
 
+6/9/2017 4:44 PM
+
+ **fred-simard** :
+
+ >I forgot to say that the recording site is Pz. These are only preliminary results, Eventually I plan on writing a white paper, when I'll have the results I want to present.
+
