@@ -561,3 +561,9 @@ If this sounds like something youd be interested in, please contact me on Slack
 
  >has anyone used the Push the World impl of OpenBCI software? how is it? is it responsive and all?
 
+6/9/2017 2:53 AM
+
+ **harris** :
+
+ >sayan_faraz aj would be a great person to direct any Push the world questions to
+
