@@ -468,3 +468,9 @@ As it stands, this event doesnt seem to appreciate those nuances. I advise a po
 > 
 Do others have thoughts on this?
 
+6/9/2017 4:44 PM
+
+ **mhough** :
+
+ >yes, I agree I just didn't know we were having this conversation.
+
