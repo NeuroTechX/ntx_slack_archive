@@ -3783,3 +3783,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >As a student who wants to continue studying PHD, I was wondering how is the job opportunities for someone with a PHD degree in BCI? (compared to someone with a machine learning PHD)
 
+6/9/2017 2:05 PM
+
+ **alexandre.barachant** :
+
+ >There is for sure more opportunity for someone with a PHD in machine learning. but my guess is that it is an ultra competitive field
+
