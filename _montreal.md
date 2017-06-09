@@ -699,3 +699,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >sidksv yannick I'll be there at 6:30
 
+6/9/2017 9:45 PM
+
+ **yannick** :
+
+ >Ill be there slightly after 18h30, gotta grab the Emotiv Insight to test it tonight for tomorrow.
+
