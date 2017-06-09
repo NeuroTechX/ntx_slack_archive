@@ -576,3 +576,12 @@ So that the event is less of an unquestioned endorsement
 
  >What we know is that microtubules are not the seat of conciousness:)
 
+6/9/2017 5:10 PM
+
+ **stephen** :
+
+ >mhough Cool. Thank you for that. :slightly_smiling_face: 
+
+> 
+Right now, Im primarily interested in framing the event around this discussion.
+
