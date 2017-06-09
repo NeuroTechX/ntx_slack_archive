@@ -711,3 +711,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >this is kind of what I was talking about in devices
 
+6/9/2017 6:23 PM
+
+ **a.tech** :
+
+ >It is what it is
+
