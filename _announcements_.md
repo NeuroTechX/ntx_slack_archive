@@ -540,3 +540,9 @@ So that the event is less of an unquestioned endorsement
 
  >We know a lot more about microtubules now
 
+6/9/2017 5:06 PM
+
+ **stephen** :
+
+ >mhough Regardless of what we know about microtubules, it needs to be the case that people looking at the event page (even if they dont attend the event) see that the framing of the event was sound, and that there wasnt an unquestioned endorsement of the speaker.
+
