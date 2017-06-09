@@ -615,3 +615,9 @@ Right now, Im primarily interested in framing the event around this discussion.
 > 
 mhough Looking forward to seeing you there. Please bring your hardest questions and see if you can stump Cisco. 
 
+6/9/2017 6:15 PM
+
+ **mhough** :
+
+ >Hi a.tech I am sure everyone wants the same thing here
+
