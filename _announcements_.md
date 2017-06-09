@@ -699,3 +699,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >I know but people are doing stuff with quantum theory
 
+6/9/2017 6:22 PM
+
+ **a.tech** :
+
+ >The focus is on the objective evidence and research on the biological level
+
