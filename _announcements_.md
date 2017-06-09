@@ -717,3 +717,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >It is what it is
 
+6/9/2017 6:23 PM
+
+ **mhough** :
+
+ >if someone is making people walk with cheaper stuff - don't bring in the guy doing unclaimed lyme's disease "cures"
+
