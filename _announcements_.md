@@ -546,3 +546,9 @@ So that the event is less of an unquestioned endorsement
 
  >mhough Regardless of what we know about microtubules, it needs to be the case that people looking at the event page (even if they dont attend the event) see that the framing of the event was sound, and that there wasnt an unquestioned endorsement of the speaker.
 
+6/9/2017 5:07 PM
+
+ **stephen** :
+
+ >This is just what you do if you want to navigate controversial territory. You put ten times the usual effort into framing the conversation in a way that retains credibility for the hosting organization.
+
