@@ -567,3 +567,9 @@ If this sounds like something youd be interested in, please contact me on Slack
 
  >sayan_faraz aj would be a great person to direct any Push the world questions to
 
+6/9/2017 3:31 AM
+
+ **sayan_faraz** :
+
+ >harris thanks :D AJ's talking to me on the Push the World channel :D
+
