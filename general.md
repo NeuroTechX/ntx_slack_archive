@@ -3807,3 +3807,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >Unless you are working on invasive BCI in a lab with a very good reputation, BCI research funding is quite weak right now
 
+6/9/2017 2:32 PM
+
+ **davidevaleriani** :
+
+ >alirezad check the Connectionists mailing list, there are quite a few opportunities on neuroscience related topics for PhDs...
+
