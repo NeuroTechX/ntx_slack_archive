@@ -591,3 +591,9 @@ Right now, Im primarily interested in framing the event around this discussion.
 
  >I don't know what OR-ORCH is but how about ask him or someone to explain the warm MEG sensors
 
+6/9/2017 5:11 PM
+
+ **mhough** :
+
+ >Sure
+
