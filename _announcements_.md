@@ -504,3 +504,9 @@ Do others have thoughts on this?
 
  >I just want someone from the Bohm/Penrose/I don't know who else to tell me what they need or are waiting for. Microtubules something was the answer I always got maybe 20 years ago
 
+6/9/2017 5:02 PM
+
+ **bryan_j** :
+
+ >^ lol
+
