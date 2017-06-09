@@ -603,3 +603,15 @@ Right now, Im primarily interested in framing the event around this discussion.
 
  >a.tech Can you please describe your plan on how to ensure this event has proper framing?
 
+6/9/2017 6:14 PM
+
+ **a.tech** :
+
+ >stephen  There are more respectful ways of getting the same message across.
+
+> 
+
+
+> 
+mhough Looking forward to seeing you there. Please bring your hardest questions and see if you can stump Cisco. 
+
