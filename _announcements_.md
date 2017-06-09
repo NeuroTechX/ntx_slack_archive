@@ -663,3 +663,9 @@ mhough Looking forward to seeing you there. Please bring your hardest questions 
 
  >No one is
 
+6/9/2017 6:20 PM
+
+ **a.tech** :
+
+ >It is just such a new field. But quantum research is undeniably going to transform human understanding looking forward 
+
