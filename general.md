@@ -3765,3 +3765,9 @@ As many types of data as possible, especially related to mental health. Wearable
 
  >Yeah it wasn't that bad, the Plos Biology paper of the second speaker got quite a lot of attention when it got published actually
 
+6/9/2017 1:41 PM
+
+ **alirezad** :
+
+ >Hello guys!
+
