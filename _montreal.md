@@ -726,3 +726,9 @@ ray_cassani nicomaque.jette melanie fred-simard naoto waiting for you Guys if yo
 
  >Ill be there!
 
+6/10/2017 5:59 PM
+
+ **eferdinand** :
+
+ >We need volunteers to help us animate the workshop next Saturday the 17th <http://www.lesateliersneuronix.com/>
+
