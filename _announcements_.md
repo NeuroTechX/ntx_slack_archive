@@ -834,3 +834,9 @@ There are alot of uncertainties (no pun intended lol) and rather then stack on l
 
  >a.tech that's awesome, thank you! looking forward to it.
 
+6/10/2017 3:16 AM
+
+ **mhough** :
+
+ >yes so how do you start a channel. I feel like the old guy trying to get the VCR clock set and then realized you probably don't know what a VCR is:)
+
