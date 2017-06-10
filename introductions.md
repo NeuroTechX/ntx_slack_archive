@@ -1527,3 +1527,9 @@ I'm Alireza Davoudi. I took my master degree from Amirkabir university of techno
 
  >haha, I think i got back the same kind of ads from NeurotechX on multiple occasion
 
+6/10/2017 3:01 PM
+
+ **nina** :
+
+ >Hi everyone, I just got my Ph.D in geometric statistics applied to the exploration of the brain anatomy through MRIs. I will start a postdoc soon on related topics, and I am currently working in industry on medical imaging in the meantime. I'm happy to e-meet you all :brain: !
+
