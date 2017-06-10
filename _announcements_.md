@@ -840,3 +840,9 @@ There are alot of uncertainties (no pun intended lol) and rather then stack on l
 
  >yes so how do you start a channel. I feel like the old guy trying to get the VCR clock set and then realized you probably don't know what a VCR is:)
 
+6/10/2017 3:23 AM
+
+ **dano** :
+
+ >Just chiming in here in support of making this event skeptical and credible. I've :bee: aware of the quantum consciousness theory for years and after having actually studied microtubules in neurons came to the personal conclusion that it was probably not true. That said this could be a fun event and if there's been new evidence that's good let's hear it
+
