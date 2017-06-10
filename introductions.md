@@ -1533,3 +1533,36 @@ I'm Alireza Davoudi. I took my master degree from Amirkabir university of techno
 
  >Hi everyone, I just got my Ph.D in geometric statistics applied to the exploration of the brain anatomy through MRIs. I will start a postdoc soon on related topics, and I am currently working in industry on medical imaging in the meantime. I'm happy to e-meet you all :brain: !
 
+6/10/2017 7:00 PM
+
+ **timfiori** :
+
+ >Hey everyone, super impressed with the community - wish I'd heard about it earlier! I'm a medical doctor from Australia with a background in clinical research using EEG and tDCS. I'm in the US over the next month with chrisnorman and ahmud, we're part of a neurotech startup building a wearable brain-computer interface to monitor and boost brain activity.
+
+> 
+
+
+> 
+We'll be in these cities and would really love to meet as much of the community as we can and hear what you're all working on. We're big proponents of open source neurotech and it would be great to hear how our work could be of benefit to the community. 
+
+> 
+
+
+> 
+Boston - 10-14 June
+
+> 
+New York - 14-18 June
+
+> 
+San Francisco - 18-27 June
+
+> 
+LA - 27 June - 2 July
+
+> 
+
+
+> 
+We'd love to hear about any upcoming meet ups or PM me if anyone would like to chat over a coffee :slightly_smiling_face:
+
