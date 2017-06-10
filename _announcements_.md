@@ -828,3 +828,9 @@ There are alot of uncertainties (no pun intended lol) and rather then stack on l
 
  >andrewjsauer Please give me a moment or two to compile a summary of the research regarding the matter!
 
+6/10/2017 12:12 AM
+
+ **andrewjsauer** :
+
+ >a.tech that's awesome, thank you! looking forward to it.
+
