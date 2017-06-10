@@ -720,3 +720,9 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 > 
 ray_cassani nicomaque.jette melanie fred-simard naoto waiting for you Guys if you can make it...
 
+6/10/2017 12:21 PM
+
+ **benjamindeleener** :
+
+ >Ill be there!
+
