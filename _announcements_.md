@@ -846,3 +846,9 @@ There are alot of uncertainties (no pun intended lol) and rather then stack on l
 
  >Just chiming in here in support of making this event skeptical and credible. I've :bee: aware of the quantum consciousness theory for years and after having actually studied microtubules in neurons came to the personal conclusion that it was probably not true. That said this could be a fun event and if there's been new evidence that's good let's hear it
 
+6/10/2017 8:47 AM
+
+ **mhough** :
+
+ >Why do I love Oxford. I'm sitting at Starbucks (don't judge me:) and when I take my headphones off the two people behind me are having a conversation about conciousness and quantum mechanics! I had to jump in and started talking about the behavior of multiagent AI and we agreed that we don't really understand what we mean by conciousness. That's the hard problem. Anyway, there is a lecture today at new cross college on the subject. I'll see what I can find out. 
+
