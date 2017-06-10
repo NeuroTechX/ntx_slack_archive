@@ -669,3 +669,9 @@ Looks like a really great opportunity to work with really smart people.
 > 
 <http://kernel.co/job-board/?gh_jid=702672>
 
+6/10/2017 9:06 PM
+
+ **bryan_j** :
+
+ >eferdinand: thanks for sharing!
+
