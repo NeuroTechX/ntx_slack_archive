@@ -711,3 +711,12 @@ by developing Marketing and Sales strategies then send me a DM or an e-mail to <
 
  >See you there
 
+6/10/2017 2:59 AM
+
+ **eferdinand** :
+
+ ><!channel> join us tomorrow at Eureka Festival 'post 18' going to have some fun
+
+> 
+ray_cassani nicomaque.jette melanie fred-simard naoto waiting for you Guys if you can make it...
+
