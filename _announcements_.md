@@ -852,3 +852,9 @@ There are alot of uncertainties (no pun intended lol) and rather then stack on l
 
  >Why do I love Oxford. I'm sitting at Starbucks (don't judge me:) and when I take my headphones off the two people behind me are having a conversation about conciousness and quantum mechanics! I had to jump in and started talking about the behavior of multiagent AI and we agreed that we don't really understand what we mean by conciousness. That's the hard problem. Anyway, there is a lecture today at new cross college on the subject. I'll see what I can find out. 
 
+6/11/2017 10:31 AM
+
+ **mhough** :
+
+ >Here's a recent paper about the algos <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.210504>
+
