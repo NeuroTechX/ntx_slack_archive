@@ -879,3 +879,12 @@ You gotta click on the little "+" arrow where the CHANNELS toggle is haha.
 > 
 Check out these interesting links :slightly_smiling_face:
 
+6/11/2017 10:40 PM
+
+ **a.tech** :
+
+ >*Consciousness in the universe: A review of the Orch OR theory*
+
+> 
+<http://ac.els-cdn.com/S1571064513001188/1-s2.0-S1571064513001188-main.pdf?_tid=3ada0350-4ef1-11e7-ae1f-00000aab0f26&amp;acdnat=1497218544_cb4a108caa309c1e834624e5c2d7bbcd>
+
