@@ -888,3 +888,15 @@ Check out these interesting links :slightly_smiling_face:
 > 
 <http://ac.els-cdn.com/S1571064513001188/1-s2.0-S1571064513001188-main.pdf?_tid=3ada0350-4ef1-11e7-ae1f-00000aab0f26&amp;acdnat=1497218544_cb4a108caa309c1e834624e5c2d7bbcd>
 
+6/11/2017 10:40 PM
+
+ **a.tech** :
+
+ >--------------
+
+> 
+*Reply to seven commentaries on Consciousness in the universe: Review of the Orch OR theory*
+
+> 
+<http://ac.els-cdn.com/S1571064513001905/1-s2.0-S1571064513001905-main.pdf?_tid=a517c288-4ef2-11e7-8809-00000aab0f6c&amp;acdnat=1497219151_5243a83ca7590fb3b92933e722fb0588>
+
