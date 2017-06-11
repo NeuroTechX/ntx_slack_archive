@@ -3834,3 +3834,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >yannick: yeah, I've received the notification via email, but I've already watched it :) I think they could be useful for those who missed it, though
 
+6/11/2017 7:59 PM
+
+ **yannick** :
+
+ >We have been experimenting a little bit with the bot recently. If you have received multiple messages to the point that it feels like a bug / spam-ish, please let me know. It shouldnt have happened, but if something slipped through, please let me know :slightly_smiling_face:
+
