@@ -867,3 +867,15 @@ There are alot of uncertainties (no pun intended lol) and rather then stack on l
 > 
 You gotta click on the little "+" arrow where the CHANNELS toggle is haha.
 
+6/11/2017 10:39 PM
+
+ **a.tech** :
+
+ >andrewjsauer 
+
+> 
+
+
+> 
+Check out these interesting links :slightly_smiling_face:
+
