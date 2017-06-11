@@ -858,3 +858,12 @@ There are alot of uncertainties (no pun intended lol) and rather then stack on l
 
  >Here's a recent paper about the algos <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.210504>
 
+6/11/2017 10:38 PM
+
+ **a.tech** :
+
+ >mhough 
+
+> 
+You gotta click on the little "+" arrow where the CHANNELS toggle is haha.
+
