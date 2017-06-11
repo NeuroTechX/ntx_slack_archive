@@ -54,3 +54,9 @@
 > 
 We're in the US this month and are currently in transit to Boston! We'll be in the area from 11-14 June and would love to meet as many of you as possible. We'd love to buy any of you coffee and talk about the things you're working on :slightly_smiling_face:
 
+6/11/2017 2:21 PM
+
+ **wronk** :
+
+ >Damn, just missed you guys :disappointed: Do you have a website?
+
