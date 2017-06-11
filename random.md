@@ -1434,3 +1434,9 @@ Trying to understand a bit more.
 
  >Good comments Morgan, I am using audio-visual entrainment at simultaneous SMR/beta frequencies. I highlight three cases in my article and have more cases to add. Here's the link to my article:  <http://mindalive.com/default/assets/File/AVE%20and%20diffuse%20axonal%20injuries%20for%20publication-Final%20-%20Feb%2023%202017(2).pdf> 
 
+6/11/2017 2:18 PM
+
+ **yannick** :
+
+ >Hey sid_fulminds can you post the Fidget Spinner web app you showed me the other day? dano wanted to make a NeuroTechX one :slightly_smiling_face: Lets fork the github repo and add the :ntxblue:
+
