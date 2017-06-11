@@ -900,3 +900,15 @@ Check out these interesting links :slightly_smiling_face:
 > 
 <http://ac.els-cdn.com/S1571064513001905/1-s2.0-S1571064513001905-main.pdf?_tid=a517c288-4ef2-11e7-8809-00000aab0f6c&amp;acdnat=1497219151_5243a83ca7590fb3b92933e722fb0588>
 
+6/11/2017 10:41 PM
+
+ **a.tech** :
+
+ >--------------
+
+> 
+*Interesting experimental finding in 2014 of Biological Microtubules and Quantum Vibrations. *
+
+> 
+<https://www.elsevier.com/about/press-releases/research-and-journals/discovery-of-quantum-vibrations-in-microtubules-inside-brain-neurons-corroborates-controversial-20-year-old-theory-of-consciousness>
+
