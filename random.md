@@ -1440,3 +1440,9 @@ Trying to understand a bit more.
 
  >Hey sid_fulminds can you post the Fidget Spinner web app you showed me the other day? dano wanted to make a NeuroTechX one :slightly_smiling_face: Lets fork the github repo and add the :ntxblue:
 
+6/11/2017 7:54 PM
+
+ **sc** :
+
+ ><https://www.washingtonpost.com/national/health-science/brain-computer-interfaces-are-coming-consensual-telepathy-anyone/2017/06/09/9345c682-46ef-11e7-98cd-af64b4fe2dfc_story.html?utm_term=.8f2aa68cf17b>
+
