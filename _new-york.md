@@ -72,3 +72,9 @@
 
  ><!channel> hey! I just got permission to use the OpenBCI lab for some after hours hacking
 
+6/12/2017 10:44 PM
+
+ **aj** :
+
+ >i want to do a weekly hack night
+
