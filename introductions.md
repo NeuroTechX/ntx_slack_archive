@@ -1626,3 +1626,9 @@ We'd love to hear about any upcoming meet ups or PM me if anyone would like to c
 
  >I contributed to many FLOSS projects, including nmap, audacity, fail2ban, and have created mod_openpgp, jiffy, enigform, and others. My first time with Linux was in late 1994.
 
+6/12/2017 9:04 PM
+
+ **samsagaz** :
+
+ >Hey! I'm Jose Luis from Argentina and I don't have any PhD like a lot of you. I'm interested in learn how bci devices works because want to start a small company in my country about it. Developing hardware and software to use it. Will purchase a ganglion this week! 
+
