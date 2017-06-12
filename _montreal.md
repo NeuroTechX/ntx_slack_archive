@@ -753,3 +753,9 @@ Theres the HackingHealth Café Big Data &amp; Health Care right after.
 > 
 Ill be attending both, let me know if you are attending any of them.
 
+6/12/2017 9:08 PM
+
+ **hectordomorozco** :
+
+ >yannick I wish people could really organize themselves and not overlap cool ass events like that :disappointed:
+
