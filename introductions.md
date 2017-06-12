@@ -1620,3 +1620,9 @@ We'd love to hear about any upcoming meet ups or PM me if anyone would like to c
 
  >I met Melanie at andsec conference. I currently work as chief strategy officer for Mkit, the company behind andsec
 
+6/12/2017 5:48 PM
+
+ **buanzo** :
+
+ >I contributed to many FLOSS projects, including nmap, audacity, fail2ban, and have created mod_openpgp, jiffy, enigform, and others. My first time with Linux was in late 1994.
+
