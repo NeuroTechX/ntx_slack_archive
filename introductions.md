@@ -1578,3 +1578,9 @@ We'd love to hear about any upcoming meet ups or PM me if anyone would like to c
 
  >timfiori: Welcome! Come up to Montreal sometime! We have some great labs up here
 
+6/12/2017 2:02 PM
+
+ **timfiori** :
+
+ >Definitely hoping to soon!
+
