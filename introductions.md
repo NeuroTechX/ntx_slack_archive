@@ -1614,3 +1614,9 @@ We'd love to hear about any upcoming meet ups or PM me if anyone would like to c
 
  >Hi! My name is Arturo Busleiman aka Buanzo, I am a hobbyst researcher. I work formally in INFOSEC/defense/government. I used to be in charge of R&amp;D for cybersecurity at federal level for my country's government. I have been involved in IT since 1990.
 
+6/12/2017 4:26 PM
+
+ **buanzo** :
+
+ >I met Melanie at andsec conference. I currently work as chief strategy officer for Mkit, the company behind andsec
+
