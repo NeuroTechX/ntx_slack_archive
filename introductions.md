@@ -1632,3 +1632,9 @@ We'd love to hear about any upcoming meet ups or PM me if anyone would like to c
 
  >Hey! I'm Jose Luis from Argentina and I don't have any PhD like a lot of you. I'm interested in learn how bci devices works because want to start a small company in my country about it. Developing hardware and software to use it. Will purchase a ganglion this week! 
 
+6/12/2017 9:07 PM
+
+ **samsagaz** :
+
+ >Wow I still using fail2ban in my boxes :)
+
