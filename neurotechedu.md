@@ -714,3 +714,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >ok, looking into it
 
+6/12/2017 1:05 PM
+
+ **davidevaleriani** :
+
+ >Regarding the contributors MD, is there any template we can follow? The page seems a bit random at the moment :slightly_smiling_face: Maybe putting a table with name, role, contribution and Slack name?
+
