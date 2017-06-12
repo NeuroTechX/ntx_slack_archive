@@ -3858,3 +3858,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >yannick I'm from Argentina. Already introduced myself a few minutes ago.
 
+6/12/2017 9:20 PM
+
+ **yrenard** :
+
+ >samsagaz don't mind yannick, he is a bot and asks any new login in <#C073WP1T9|general> to post a short intro in <#C08QEC5H7|introductions> :wink:
+
