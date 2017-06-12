@@ -1566,3 +1566,9 @@ LA - 27 June - 2 July
 > 
 We'd love to hear about any upcoming meet ups or PM me if anyone would like to chat over a coffee :slightly_smiling_face:
 
+6/12/2017 12:40 PM
+
+ **sydneyneurotechx** :
+
+ >nina: Welcome!
+
