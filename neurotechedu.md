@@ -702,3 +702,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >And it seems that the link to "Intro to neuroscience" is broken: <http://learn.neurotechedu.com/IntroToNeuroscience/>
 
+6/12/2017 12:42 PM
+
+ **sydneyneurotechx** :
+
+ >Hmmm
+
