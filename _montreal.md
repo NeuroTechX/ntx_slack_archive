@@ -759,3 +759,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >yannick I wish people could really organize themselves and not overlap cool ass events like that :disappointed:
 
+6/12/2017 9:14 PM
+
+ **yannick** :
+
+ >Are you gonna be in Montreal for the events?
+
