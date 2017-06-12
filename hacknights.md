@@ -99,3 +99,9 @@ You might need to get in touch with this club for that .
 
  >It wont be a big one since many of the regulars wont join tonight. But yes its happening.
 
+6/12/2017 10:47 PM
+
+ **aj** :
+
+ >hey! i'm starting NYC hacknights
+
