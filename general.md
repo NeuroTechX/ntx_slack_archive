@@ -3846,3 +3846,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >Hi guys
 
+6/12/2017 4:20 PM
+
+ **yannick** :
+
+ >Hey samsagaz. Where are you from? You can introduce yourself in <#C08QEC5H7|introductions> so we learn a little bit more about yourself
+
