@@ -84,3 +84,9 @@
 
  >anyone interested? I don't really want to go through <http://Meetup.com|Meetup.com> and list it but if that's what it takes I'd do it!
 
+6/12/2017 11:52 PM
+
+ **sydneyneurotechx** :
+
+ >Maybe post in general as well aj as many people may not be aware of the New York Channel
+
