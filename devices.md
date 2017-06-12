@@ -2130,3 +2130,9 @@ Nicolas.
 
  >i did not tried muse-js, but it might have a better os support
 
+6/12/2017 2:50 PM
+
+ **ben.cuthbert** :
+
+ >mhough: this link is broken- is the workshop still happening? Where is it?
+
