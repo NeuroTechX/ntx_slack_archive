@@ -1446,3 +1446,9 @@ Trying to understand a bit more.
 
  ><https://www.washingtonpost.com/national/health-science/brain-computer-interfaces-are-coming-consensual-telepathy-anyone/2017/06/09/9345c682-46ef-11e7-98cd-af64b4fe2dfc_story.html?utm_term=.8f2aa68cf17b>
 
+6/12/2017 1:08 PM
+
+ **sidksv** :
+
+ >yannick you mean this? <http://mannynotfound.github.io/fidget/>
+
