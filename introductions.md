@@ -1590,3 +1590,9 @@ We'd love to hear about any upcoming meet ups or PM me if anyone would like to c
 
  >Hi everyone, I am Ph.D student of Polytechnique Montreal and I work on neural coding in the visual cortex. I use machine learning techniques for this purpose. I will glad to meet you all
 
+6/12/2017 3:22 PM
+
+ **davidevaleriani** :
+
+ >Welcome here armin!
+
