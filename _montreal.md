@@ -732,3 +732,24 @@ ray_cassani nicomaque.jette melanie fred-simard naoto waiting for you Guys if yo
 
  >We need volunteers to help us animate the workshop next Saturday the 17th <http://www.lesateliersneuronix.com/>
 
+6/12/2017 8:22 PM
+
+ **yannick** :
+
+ >Whos coming to the Neurosymposium?
+
+> 
+<https://neurosymposium.ca/>
+
+> 
+Theres the HackingHealth Café Big Data &amp; Health Care right after.
+
+> 
+<https://www.eventbrite.ca/e/big-data-cafe-tickets-33610260193>
+
+> 
+
+
+> 
+Ill be attending both, let me know if you are attending any of them.
+
