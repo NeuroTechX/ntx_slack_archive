@@ -3840,3 +3840,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >We have been experimenting a little bit with the bot recently. If you have received multiple messages to the point that it feels like a bug / spam-ish, please let me know. It shouldnt have happened, but if something slipped through, please let me know :slightly_smiling_face:
 
+6/12/2017 4:11 PM
+
+ **samsagaz** :
+
+ >Hi guys
+
