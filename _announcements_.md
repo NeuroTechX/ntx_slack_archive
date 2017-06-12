@@ -912,3 +912,9 @@ Check out these interesting links :slightly_smiling_face:
 > 
 <https://www.elsevier.com/about/press-releases/research-and-journals/discovery-of-quantum-vibrations-in-microtubules-inside-brain-neurons-corroborates-controversial-20-year-old-theory-of-consciousness>
 
+6/12/2017 9:02 PM
+
+ **bryan_j** :
+
+ >a.tech thank you for sharing! Bedtime reads for this week :nerd_face: 
+
