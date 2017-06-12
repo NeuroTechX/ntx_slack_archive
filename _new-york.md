@@ -90,3 +90,9 @@
 
  >Maybe post in general as well aj as many people may not be aware of the New York Channel
 
+6/12/2017 11:55 PM
+
+ **aj** :
+
+ >Hack nights seems to have everyone in it
+
