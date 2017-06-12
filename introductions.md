@@ -1572,3 +1572,9 @@ We'd love to hear about any upcoming meet ups or PM me if anyone would like to c
 
  >nina: Welcome!
 
+6/12/2017 12:41 PM
+
+ **sydneyneurotechx** :
+
+ >timfiori: Welcome! Come up to Montreal sometime! We have some great labs up here
+
