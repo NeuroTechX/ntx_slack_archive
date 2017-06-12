@@ -3852,3 +3852,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >Hey samsagaz. Where are you from? You can introduce yourself in <#C08QEC5H7|introductions> so we learn a little bit more about yourself
 
+6/12/2017 9:12 PM
+
+ **samsagaz** :
+
+ >yannick I'm from Argentina. Already introduced myself a few minutes ago.
+
