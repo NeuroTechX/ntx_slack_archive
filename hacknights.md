@@ -105,3 +105,9 @@ You might need to get in touch with this club for that .
 
  >hey! i'm starting NYC hacknights
 
+6/12/2017 10:47 PM
+
+ **aj** :
+
+ >finally got a space in brooklyn to hold them at, aka the OpenBCI lab
+
