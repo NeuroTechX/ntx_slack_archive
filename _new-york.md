@@ -78,3 +78,9 @@
 
  >i want to do a weekly hack night
 
+6/12/2017 10:45 PM
+
+ **aj** :
+
+ >anyone interested? I don't really want to go through <http://Meetup.com|Meetup.com> and list it but if that's what it takes I'd do it!
+
