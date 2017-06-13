@@ -3966,3 +3966,9 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 
  >There is, actually (though mostly in animals). Its surprisingly similar, though you lose a lot of spatial specificity because of the skull and scalp!
 
+6/13/2017 2:23 AM
+
+ **sydneyneurotechx** :
+
+ >Alright the answer is looking pretty unanimous.  <!channel>  head on over to <#C5SJP8FC3|implants> for related convos :slightly_smiling_face:
+
