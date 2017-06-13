@@ -1668,3 +1668,9 @@ I dropped out of college because of that.
 > 
 So, dont suffer for not having a degree. What you accomplish with your life has nothing to do with whatever academical degrees you hold.
 
+6/13/2017 5:51 PM
+
+ **samsagaz** :
+
+ >buanzo thanks for your words :) I don't suffer, just is incredible the academical degrees that ppl have here :) 
+
