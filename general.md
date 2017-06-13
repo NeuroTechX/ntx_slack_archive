@@ -3960,3 +3960,9 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 
  >Trust me Im an engineer! :rocket: :sweat_smile: I am too, lets do it
 
+6/13/2017 2:18 AM
+
+ **mrkrause** :
+
+ >There is, actually (though mostly in animals). Its surprisingly similar, though you lose a lot of spatial specificity because of the skull and scalp!
+
