@@ -4023,3 +4023,9 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 > 
 Nicolas.
 
+6/13/2017 2:03 PM
+
+ **davidevaleriani** :
+
+ >haha thank you NTX folks :slightly_smiling_face:
+
