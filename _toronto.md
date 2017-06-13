@@ -1137,3 +1137,9 @@ I'd love to hear
 > 
 Doesn't look like we'll be having an official Hacknight this Thursday. Pushing that back to next week.
 
+6/13/2017 1:40 AM
+
+ **bryan_j** :
+
+ >^ will give us more time to prep the awesomeness that will happen next Thursday! Be ready :) 
+
