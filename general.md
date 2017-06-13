@@ -3906,3 +3906,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  ><!channel> Would you be interested in an Invasive/Implantable Devices Channel (ie what Kernel and neuralink are working on)? Please let us know in the poll above ^
 
+6/13/2017 1:11 AM
+
+ **c00p3r** :
+
+ >i would be interested, in learning more...
+
