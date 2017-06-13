@@ -4071,3 +4071,9 @@ Nicolas.
 
  >Btw, openbci devices are the best to start developing apps and start learning about bci?
 
+6/13/2017 11:40 PM
+
+ **lait** :
+
+ >the languages options are switched in the neuroservo webpage :joy:
+
