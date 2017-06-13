@@ -3870,3 +3870,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >Oh. Im feeling like a fool :)
 
+6/13/2017 12:58 AM
+
+ **watson** :
+
+ >Hey team, I just invited a friend who is a neurosurgeon doing brain implants (mostly DBS to combat parkinsons). Im curious if there are any channels here that are most appropriate for his interests?
+
