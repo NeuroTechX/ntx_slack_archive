@@ -1125,3 +1125,15 @@ I'd love to hear
 
  >Details will be shared here - usually around 6-7pm, definitely at the Varagesale office! 
 
+6/13/2017 1:26 AM
+
+ **dano** :
+
+ >Hey guys,
+
+> 
+
+
+> 
+Doesn't look like we'll be having an official Hacknight this Thursday. Pushing that back to next week.
+
