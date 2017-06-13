@@ -3978,3 +3978,15 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 
  >yannick: Bot worked great for me!
 
+6/13/2017 12:00 PM
+
+ **eferdinand** :
+
+ >If you didn't grabs yours yet, you have until the end of June to receive a devkit at <http://neuroservo.com|neuroservo.com> use promo code NTXJUNE2017
+
+> 
+
+
+> 
+<https://www.facebook.com/neurotechx/photos/a.983820045034284.1073741833.894613010621655/1384799141603037/?type=3>
+
