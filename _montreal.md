@@ -789,3 +789,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >will drop by
 
+6/13/2017 10:33 PM
+
+ **naoto** :
+
+ >thanks!
+
