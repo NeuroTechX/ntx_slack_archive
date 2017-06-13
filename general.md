@@ -3912,3 +3912,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >i would be interested, in learning more...
 
+6/13/2017 1:23 AM
+
+ **melanie** :
+
+ >sydneyneurotechx  for clinical or non-clinical use?
+
