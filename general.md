@@ -4008,3 +4008,9 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 
  >I guess maybe some region based issue,no free stuff in India :P
 
+6/13/2017 1:12 PM
+
+ **yannick** :
+
+ >Please join me in wishing happy birthday to davidevaleriani whos been a strong pillar of the NeuroTechX community through his involvement in NeuroTechLDN, NeuroTechEDU and also in exploring the neurotech opportunities and recruitment services NTX could offer. He also very recently received his Dr. title (finished his PhD) so I expect him to celebrate accordingly!
+
