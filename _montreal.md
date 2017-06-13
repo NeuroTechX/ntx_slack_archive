@@ -765,3 +765,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >Are you gonna be in Montreal for the events?
 
+6/13/2017 1:51 AM
+
+ **hectordomorozco** :
+
+ >Imma be in Boston; but I'll be in Montreal in August :heart:
+
