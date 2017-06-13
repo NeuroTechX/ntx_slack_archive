@@ -771,3 +771,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >Imma be in Boston; but I'll be in Montreal in August :heart:
 
+6/13/2017 9:07 PM
+
+ **naoto** :
+
+ >it's next to the Faubourg building so you can stop by before the hacknight!
+
