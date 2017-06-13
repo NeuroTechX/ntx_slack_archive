@@ -3954,3 +3954,9 @@ Then we could compare the SNR of the OpenBCI when using electrodes on the scalp 
 > 
 Not much literature out there comparing the SNR of the same electrodes in the brain and outside the skull simultaneously. :slightly_smiling_face:
 
+6/13/2017 2:09 AM
+
+ **benjamindeleener** :
+
+ >Trust me Im an engineer! :rocket: :sweat_smile: I am too, lets do it
+
