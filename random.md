@@ -1479,3 +1479,9 @@ They seem to have missed NeuroTechX?! :anguished:
 
  >:clap: 
 
+6/13/2017 4:44 PM
+
+ **dano** :
+
+ >benjamindeleener: they have an office in Toronto. We'll to over there and straighten them out :slightly_smiling_face:
+
