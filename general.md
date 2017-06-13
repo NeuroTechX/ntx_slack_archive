@@ -4047,3 +4047,9 @@ Nicolas.
 
  >yannick: story of the doctor who implanted himself in South America comes to... mind. We have precedent! 
 
+6/13/2017 4:31 PM
+
+ **davidevaleriani** :
+
+ >Thanks guys, a few things planned for the weekend, yes :slightly_smiling_face:
+
