@@ -111,3 +111,9 @@ You might need to get in touch with this club for that .
 
  >finally got a space in brooklyn to hold them at, aka the OpenBCI lab
 
+6/13/2017 1:13 AM
+
+ **mhough** :
+
+ >aj that's awesome 
+
