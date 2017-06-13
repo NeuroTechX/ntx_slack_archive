@@ -3996,3 +3996,9 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 
  >eferdinand: not able to apply this Promo code
 
+6/13/2017 12:58 PM
+
+ **eferdinand** :
+
+ >ntremblay_neuroservo can you check this please
+
