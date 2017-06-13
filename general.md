@@ -3930,3 +3930,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >what non clinical application do you oversee would use invasive / implantable devices ?
 
+6/13/2017 1:31 AM
+
+ **sydneyneurotechx** :
+
+ >Nothing DIY if that's what you're worried about melanie :smile:
+
