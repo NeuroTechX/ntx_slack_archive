@@ -1674,3 +1674,9 @@ So, dont suffer for not having a degree. What you accomplish with your life has 
 
  >buanzo thanks for your words :) I don't suffer, just is incredible the academical degrees that ppl have here :) 
 
+6/13/2017 6:05 PM
+
+ **buanzo** :
+
+ >oh, absolutely! :smile:
+
