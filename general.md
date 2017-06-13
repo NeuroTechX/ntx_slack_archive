@@ -4065,3 +4065,9 @@ Nicolas.
 
  >Didn't know about neuroservo! Looks nice.
 
+6/13/2017 5:54 PM
+
+ **samsagaz** :
+
+ >Btw, openbci devices are the best to start developing apps and start learning about bci?
+
