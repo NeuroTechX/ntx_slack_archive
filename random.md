@@ -1467,3 +1467,9 @@ Trying to understand a bit more.
 > 
 They seem to have missed NeuroTechX?! :anguished:
 
+6/13/2017 2:26 PM
+
+ **naoto** :
+
+ >yesterday just came back from brain hackathon in Dublin... unfortunately I couldn't make any fancy demo, but I started working on interfacing LSL and creative coding tools like Processing and openFrameworks. For example I made a tool to parse xdf format (EEG/marker streams recorded by LabRecorder) and stream it back to LSL, and then convert them to OSC protocol to make it easier to hook up with Processing. It's groundwork but I hope eventually it will benefit the BCI community <https://www.instagram.com/p/BVQD8bMF0PN/>
+
