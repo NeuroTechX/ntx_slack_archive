@@ -1485,3 +1485,9 @@ They seem to have missed NeuroTechX?! :anguished:
 
  >benjamindeleener: they have an office in Toronto. We'll to over there and straighten them out :slightly_smiling_face:
 
+6/13/2017 5:22 PM
+
+ **buanzo** :
+
+ >naoto that is very cool. I enjoy livecoding with fluxus, so it would be very nice to interface with your osc data
+
