@@ -1650,3 +1650,21 @@ We'd love to hear about any upcoming meet ups or PM me if anyone would like to c
 
  >samsagaz: Not all of us are PHD's :slightly_smiling_face: (I'm self taught). Many of us are hobbyists as well.  Welcome to our community
 
+6/13/2017 5:19 PM
+
+ **buanzo** :
+
+ >samsagaz I only have a high school degree in electronics, but my wife holds a phd and a master (both in environmental sciences), plus a degree in chemistry. When i started the university (systems engineering), i was called from the other national university for me to become a professor, because they were using material I wrote to teach unix programming. they were appalled at the fact that i was 19 years old at that time. 
+
+> 
+
+
+> 
+I dropped out of college because of that.
+
+> 
+
+
+> 
+So, dont suffer for not having a degree. What you accomplish with your life has nothing to do with whatever academical degrees you hold.
+
