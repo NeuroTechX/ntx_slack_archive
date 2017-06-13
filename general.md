@@ -3924,3 +3924,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >melanie don't you believe it should be clinical-use only ?
 
+6/13/2017 1:26 AM
+
+ **yrenard** :
+
+ >what non clinical application do you oversee would use invasive / implantable devices ?
+
