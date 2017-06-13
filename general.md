@@ -3990,3 +3990,9 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 > 
 <https://www.facebook.com/neurotechx/photos/a.983820045034284.1073741833.894613010621655/1384799141603037/?type=3>
 
+6/13/2017 12:38 PM
+
+ **rohit** :
+
+ >eferdinand: not able to apply this Promo code
+
