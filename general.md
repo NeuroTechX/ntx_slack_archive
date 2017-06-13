@@ -4002,3 +4002,9 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 
  >ntremblay_neuroservo can you check this please
 
+6/13/2017 1:00 PM
+
+ **rohit** :
+
+ >I guess maybe some region based issue,no free stuff in India :P
+
