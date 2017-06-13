@@ -4041,3 +4041,9 @@ Nicolas.
 
  >Happy Birthday! Any big plans davidevaleriani?? 
 
+6/13/2017 4:30 PM
+
+ **bryan_j** :
+
+ >yannick: story of the doctor who implanted himself in South America comes to... mind. We have precedent! 
+
