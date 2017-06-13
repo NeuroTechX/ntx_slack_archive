@@ -726,3 +726,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >There is a format. Essentially you state what role you had(In your case you were a mentor), what modules you contributed to and your social media info
 
+6/13/2017 12:24 AM
+
+ **sydneyneurotechx** :
+
+ >I like your idea of including your slack id
+
