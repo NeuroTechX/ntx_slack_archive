@@ -3972,3 +3972,9 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 
  >Alright the answer is looking pretty unanimous.  <!channel>  head on over to <#C5SJP8FC3|implants> for related convos :slightly_smiling_face:
 
+6/13/2017 9:49 AM
+
+ **catpitch** :
+
+ >yannick: Bot worked great for me!
+
