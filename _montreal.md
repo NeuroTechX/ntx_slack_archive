@@ -777,3 +777,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >it's next to the Faubourg building so you can stop by before the hacknight!
 
+6/13/2017 9:45 PM
+
+ **sydneyneurotechx** :
+
+ >sweet
+
