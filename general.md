@@ -3894,3 +3894,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >(but I was asking about stuff that would be more directly related to invasive / implantable devices) Maybe just <#C08T2SENQ|devices> ?
 
+6/13/2017 1:08 AM
+
+ **sydneyneurotechx** :
+
+ >Posted a poll. Let's see what people think
+
