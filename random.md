@@ -1452,3 +1452,18 @@ Trying to understand a bit more.
 
  >yannick you mean this? <http://mannynotfound.github.io/fidget/>
 
+6/13/2017 11:26 AM
+
+ **benjamindeleener** :
+
+ >The Full List of 1000 Slack Communities
+
+> 
+<https://blog.standuply.com/the-full-list-of-1000-slack-communities-2c412054ea30>
+
+> 
+
+
+> 
+They seem to have missed NeuroTechX?! :anguished:
+
