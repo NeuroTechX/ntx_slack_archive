@@ -720,3 +720,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Regarding the contributors MD, is there any template we can follow? The page seems a bit random at the moment :slightly_smiling_face: Maybe putting a table with name, role, contribution and Slack name?
 
+6/13/2017 12:23 AM
+
+ **sydneyneurotechx** :
+
+ >There is a format. Essentially you state what role you had(In your case you were a mentor), what modules you contributed to and your social media info
+
