@@ -1644,3 +1644,9 @@ We'd love to hear about any upcoming meet ups or PM me if anyone would like to c
 
  >buanzo: Welcome!
 
+6/13/2017 12:27 AM
+
+ **sydneyneurotechx** :
+
+ >samsagaz: Not all of us are PHD's :slightly_smiling_face: (I'm self taught). Many of us are hobbyists as well.  Welcome to our community
+
