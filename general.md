@@ -3876,3 +3876,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >Hey team, I just invited a friend who is a neurosurgeon doing brain implants (mostly DBS to combat parkinsons). Im curious if there are any channels here that are most appropriate for his interests?
 
+6/13/2017 1:03 AM
+
+ **sydneyneurotechx** :
+
+ >watson: I'm assuming his interest is in DBS? Nothing yet. Should we create one? I wonder how many people would be interested.
+
