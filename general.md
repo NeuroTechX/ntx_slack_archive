@@ -3888,3 +3888,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >I think his interest is in unpacking the brains mechanisms in general and understanding the potential from brain enhancement (e.g. Kernal)
 
+6/13/2017 1:06 AM
+
+ **watson** :
+
+ >(but I was asking about stuff that would be more directly related to invasive / implantable devices) Maybe just <#C08T2SENQ|devices> ?
+
