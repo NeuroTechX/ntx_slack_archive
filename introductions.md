@@ -1698,3 +1698,9 @@ So, dont suffer for not having a degree. What you accomplish with your life has 
 
  >Hey guys, my name is Manuel from Buenos Aires, Argentina, i'm here because i really like neurotech and basically everything that improves our senses making us kinda cyborgs. I'm an informatic engineering student. so, don't trust me, i'm not an engineer ye
 
+6/13/2017 11:53 PM
+
+ **lait** :
+
+ >yet*
+
