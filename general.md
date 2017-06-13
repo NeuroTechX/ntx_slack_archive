@@ -3882,3 +3882,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >watson: I'm assuming his interest is in DBS? Nothing yet. Should we create one? I wonder how many people would be interested.
 
+6/13/2017 1:05 AM
+
+ **watson** :
+
+ >I think his interest is in unpacking the brains mechanisms in general and understanding the potential from brain enhancement (e.g. Kernal)
+
