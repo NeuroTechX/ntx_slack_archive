@@ -4014,3 +4014,12 @@ Not much literature out there comparing the SNR of the same electrodes in the br
 
  >Please join me in wishing happy birthday to davidevaleriani whos been a strong pillar of the NeuroTechX community through his involvement in NeuroTechLDN, NeuroTechEDU and also in exploring the neurotech opportunities and recruitment services NTX could offer. He also very recently received his Dr. title (finished his PhD) so I expect him to celebrate accordingly!
 
+6/13/2017 1:53 PM
+
+ **ntremblay_neuroservo** :
+
+ >Hello Rohit, you need to buy the device to receive the free dev kit so during checkout, you add a device, then a devkit, then you apply the promo code to have the discount applied. Let me know if you still have problem at checkout.
+
+> 
+Nicolas.
+
