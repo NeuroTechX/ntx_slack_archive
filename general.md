@@ -3942,3 +3942,15 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >I think there is just a lot of people interested in knowing more about the field
 
+6/13/2017 2:07 AM
+
+ **yannick** :
+
+ >During HackNight, we could experiment on how to open someones skull. Ive seen many videos, I feel confident that I could pull this off. Trust me Im an engineer!
+
+> 
+Then we could compare the SNR of the OpenBCI when using electrodes on the scalp and on the brain.
+
+> 
+Not much literature out there comparing the SNR of the same electrodes in the brain and outside the skull simultaneously. :slightly_smiling_face:
+
