@@ -3936,3 +3936,9 @@ It is now accessible (same link): <http://insidescientific.com/webinar/fNIRS-and
 
  >Nothing DIY if that's what you're worried about melanie :smile:
 
+6/13/2017 1:32 AM
+
+ **sydneyneurotechx** :
+
+ >I think there is just a lot of people interested in knowing more about the field
+
