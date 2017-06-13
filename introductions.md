@@ -1680,3 +1680,9 @@ So, dont suffer for not having a degree. What you accomplish with your life has 
 
  >oh, absolutely! :smile:
 
+6/13/2017 8:04 PM
+
+ **grandmasterspock** :
+
+ >Hey guys, I'm Dillon from Utah (USA). I'm just getting into the neurotech field and super excited by the possibilities! I do machine learning and web development mostly, and I'm looking to expand my horizons
+
