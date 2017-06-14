@@ -42,3 +42,9 @@
 
  ><https://www.meetup.com/NeuroTechLA/>
 
+6/14/2017 11:06 PM
+
+ **adam** :
+
+ ><https://www.meetup.com/NeuroTechLA/>
+
