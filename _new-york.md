@@ -96,3 +96,9 @@
 
  >Hack nights seems to have everyone in it
 
+6/14/2017 4:58 PM
+
+ **aj** :
+
+ >Hacknight this Tuesday from 7-9pm
+
