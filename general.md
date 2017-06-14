@@ -4089,3 +4089,9 @@ Nicolas.
 
  >Not that this is a good idea to compare in a live subject, but you need different impedances inside and outside the skull.
 
+6/14/2017 5:01 PM
+
+ **aj** :
+
+ >Hey! Starting hacknights for New York City at the OpenBCI lab from 7-9pm. OpenBCI's on deck and there are a bunch of other awesome other electronics to hack on!
+
