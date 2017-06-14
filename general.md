@@ -4095,3 +4095,9 @@ Nicolas.
 
  >Hey! Starting hacknights for New York City at the OpenBCI lab from 7-9pm. OpenBCI's on deck and there are a bunch of other awesome other electronics to hack on!
 
+6/14/2017 8:39 PM
+
+ **grandmasterspock** :
+
+ >Is there anyone on this channel who lives in the salt lake city area? (Utah, USA)
+
