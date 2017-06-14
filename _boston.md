@@ -69,3 +69,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 > 
 <https://www.humm.tech/>
 
+6/14/2017 3:55 PM
+
+ **adamm_neurable** :
+
+ >Hey timfiori , just responded to chrisnorman on Linkedin. Let me know if you're still around!
+
