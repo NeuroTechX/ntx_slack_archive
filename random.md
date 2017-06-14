@@ -1491,3 +1491,9 @@ They seem to have missed NeuroTechX?! :anguished:
 
  >naoto that is very cool. I enjoy livecoding with fluxus, so it would be very nice to interface with your osc data
 
+6/14/2017 5:01 AM
+
+ **sid_fulminds** :
+
+ >yannick: hi yannick, I am not sure what is the web app you are referring to... could you please remind me when I showed it to you and whether it looked like I was drunk? :smile::beers:
+
