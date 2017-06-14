@@ -4077,3 +4077,9 @@ Nicolas.
 
  >the languages options are switched in the neuroservo webpage :joy:
 
+6/14/2017 4:08 PM
+
+ **graeme** :
+
+ >Are we allowing marketing and selling now in the NTX general channel yannick?
+
