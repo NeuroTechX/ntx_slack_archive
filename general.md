@@ -4083,3 +4083,9 @@ Nicolas.
 
  >Are we allowing marketing and selling now in the NTX general channel yannick?
 
+6/14/2017 4:18 PM
+
+ **graeme** :
+
+ >Not that this is a good idea to compare in a live subject, but you need different impedances inside and outside the skull.
+
