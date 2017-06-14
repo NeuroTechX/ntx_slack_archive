@@ -1497,3 +1497,9 @@ They seem to have missed NeuroTechX?! :anguished:
 
  >yannick: hi yannick, I am not sure what is the web app you are referring to... could you please remind me when I showed it to you and whether it looked like I was drunk? :smile::beers:
 
+6/14/2017 5:03 AM
+
+ **sid_fulminds** :
+
+ >sidksv: alright now I know who was drunk when they typed the previous message!... :face_with_rolling_eyes: yannick
+
