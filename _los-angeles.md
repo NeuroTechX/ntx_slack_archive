@@ -30,3 +30,9 @@
 
  >hey adam just sent you an email!
 
+6/14/2017 10:57 PM
+
+ **adam** :
+
+ >Hi Everyone- Id like to welcome andrewjsauer as the new co-organizer of the LA chapter of NeuroTechX. Were rebooting and renaming it to NeuroTechLA (the old name ended in LAX which was confusing because thats the name of the airport!). Stay tuned next monthAndrew and I are excited to bring this chapter back into action!
+
