@@ -732,3 +732,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >I like your idea of including your slack id
 
+6/14/2017 3:22 PM
+
+ **davidevaleriani** :
+
+ >Hey everyone, a couple of Italian high-school students I supervised have made a BCI based on Arduino to control a toy car with alpha waves. They shared the project on hackster, but I thought it could be useful to share it on NTX Edu as well: <https://www.hackster.io/daniel-rossi/brainforce-fd2aab>
+
