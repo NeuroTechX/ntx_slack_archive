@@ -135,3 +135,9 @@ You might need to get in touch with this club for that .
 
  >congratulations!
 
+6/14/2017 1:24 PM
+
+ **aj** :
+
+ >Next Tuesday from 7-9pm
+
