@@ -2142,3 +2142,9 @@ Nicolas.
 
  >Just ordered the first batch of production OpenBCI Wifi Shields! Should be on sale within a month or so. Adding features to the firmware for the next two weeks, if you have any requests (i.e. features that will ship with the default firmware) (e.g. marion and I are making a direct to cloudbrain feature that has a login page and everything on the default firmware)
 
+6/14/2017 5:06 PM
+
+ **aj** :
+
+ >Pretty sure they will cost $119.99 per board
+
