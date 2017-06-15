@@ -2148,3 +2148,9 @@ Nicolas.
 
  >Pretty sure they will cost $119.99 per board
 
+6/15/2017 11:37 AM
+
+ **mesca** :
+
+ >aj Where can I buy it? I cant find any link on the OpenBCI or PTW websites.
+
