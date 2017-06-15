@@ -3420,3 +3420,9 @@ However, I'd love to take a look at the library. Showing some cool data visualiz
 
  >dano no worries! eeg-101 looks great! i've almost got a streaming version working, but it will be a little while til its generally usable i think
 
+6/15/2017 4:34 PM
+
+ **davidevaleriani** :
+
+ >Hi everyone, I have started working with the OpenBCI 8bit after a few months and the board does not connect to the dongle anymore, although the LEDs are on. I have changed the battery with a new one, but nothing. Do you have any suggestions on what to try?
+
