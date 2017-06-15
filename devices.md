@@ -2154,3 +2154,9 @@ Nicolas.
 
  >aj Where can I buy it? I cant find any link on the OpenBCI or PTW websites.
 
+6/15/2017 11:37 AM
+
+ **mesca** :
+
+ >Also: is it compatible with the 16-channel setup (Cyton + Daisy)?
+
