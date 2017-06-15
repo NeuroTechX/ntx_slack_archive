@@ -4146,3 +4146,9 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 
  >yrenard: I don't know about any kits in Russia at all. Tactile BCIs generally don't work very good anyway, so if the stimuli is not strong enough there probably is no point in using it.
 
+6/15/2017 9:30 PM
+
+ **aj** :
+
+ >I just bought a couple of these!!
+
