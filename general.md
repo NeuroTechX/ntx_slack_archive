@@ -4128,3 +4128,9 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 
  >rgbn in the past, i used LRA vibration motor to deliver vibrotactile stimulation : <https://www.precisionmicrodrives.com/vibration-motors/precision-haptic-tm-haptic-feedback-vibration-motors>
 
+6/15/2017 6:16 PM
+
+ **yrenard** :
+
+ >would definitely trigger a much stronger brain response I think
+
