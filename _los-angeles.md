@@ -48,3 +48,9 @@
 
  ><https://www.meetup.com/NeuroTechLA/>
 
+6/15/2017 1:24 AM
+
+ **andrewjsauer** :
+
+ >thanks adam! super stoked guys to be rebooting this awesome community. in addition to the new look, we will also be sending out a survey shortly to get your feedback on days, speaker recs and more. stay tuned, cheers!
+
