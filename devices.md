@@ -2172,3 +2172,9 @@ Nicolas.
 
  >Available in about a month
 
+6/15/2017 11:39 AM
+
+ **aj** :
+
+ >And yes fully compatible with ganglion, cyton, cyton+Daisy
+
