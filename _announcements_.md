@@ -918,3 +918,9 @@ Check out these interesting links :slightly_smiling_face:
 
  >a.tech thank you for sharing! Bedtime reads for this week :nerd_face: 
 
+6/15/2017 1:28 AM
+
+ **andrewjsauer** :
+
+ >a.tech can't thank you enough. this is awesome, cheers! :100:
+
