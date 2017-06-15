@@ -2184,3 +2184,9 @@ Nicolas.
 
  >Great! Cant wait :wink:
 
+6/15/2017 10:21 PM
+
+ **aj** :
+
+ >Just found myself defending muse for the first time when they were called a marketing company. I was like hold the fuck up they mastered conductive rubber electrodes and made a EEG headset people can put on. Plus they have cool neuroscientists working for them contributing to open source where possible
+
