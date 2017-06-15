@@ -1716,3 +1716,9 @@ So, dont suffer for not having a degree. What you accomplish with your life has 
 
  >welcome Manuel, I am also from Buenos Aires!
 
+6/15/2017 1:44 PM
+
+ **buanzo** :
+
+ >Welcome. Pleased to meet you!
+
