@@ -4101,3 +4101,18 @@ Nicolas.
 
  >Is there anyone on this channel who lives in the salt lake city area? (Utah, USA)
 
+6/15/2017 4:17 PM
+
+ **rgbn** :
+
+ >Hi everybody!
+
+> 
+Does anybody have experience with ultrahaptics technology? 
+
+> 
+<https://www.ultrahaptics.com/>
+
+> 
+This looks like nice way do deliver stimuli for tactile BCIs and stuff like that.
+
