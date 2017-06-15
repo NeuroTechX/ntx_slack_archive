@@ -1143,3 +1143,9 @@ Doesn't look like we'll be having an official Hacknight this Thursday. Pushing t
 
  >^ will give us more time to prep the awesomeness that will happen next Thursday! Be ready :) 
 
+6/15/2017 4:26 PM
+
+ **sunnyp** :
+
+ >dano What will you guys be working on at the next hackathon?
+
