@@ -1149,3 +1149,15 @@ Doesn't look like we'll be having an official Hacknight this Thursday. Pushing t
 
  >dano What will you guys be working on at the next hackathon?
 
+6/15/2017 6:35 PM
+
+ **dano** :
+
+ >Our next hack*night* (on the 22nd) should be pretty fun. We'll be working on the EEG 101 and Neurodoro apps, both of which will benefit from getting Muses on as many foreheads as possible.
+
+> 
+
+
+> 
+For EEG 101 we're going to be testing the prototype of our general purpose Guassian Naive Bayes classifier for a BCI and for Neurodor we're trying to build a large dataset of cognitive testing data that we can use to train an attention classifier.
+
