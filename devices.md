@@ -2160,3 +2160,9 @@ Nicolas.
 
  >Also: is it compatible with the 16-channel setup (Cyton + Daisy)?
 
+6/15/2017 11:38 AM
+
+ **aj** :
+
+ >The boards are being made right now !
+
