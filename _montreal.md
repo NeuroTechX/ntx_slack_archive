@@ -795,3 +795,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >thanks!
 
+6/15/2017 11:45 AM
+
+ **fred-simard** :
+
+ >I'll be missing the hack night this week, but I should be jumping by your exposition naoto
+
