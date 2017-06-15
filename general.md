@@ -4152,3 +4152,9 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 
  >I just bought a couple of these!!
 
+6/15/2017 9:33 PM
+
+ **alexandre.barachant** :
+
+ >Adafruit has some nice breakout board for driving them. Otherwise you can use a PWM pin on an arduino (but pick the resonant frequency of the LRA)
+
