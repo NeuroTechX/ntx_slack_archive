@@ -4122,3 +4122,9 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 
  >rgbn I have tried Ultrahaptics in the past, it's outstanding piece of technology, but I would not recommend using it for tactile BCI based on my past experience on such BCI. Ultrahaptics gives you a sense of where in space the surface is located, but it certainly would not generate a brain response that compares to a vibrotactile stimulator because the stimulation would be much weaker. Did you have a chance to try some of their demo to get a taste of how that feels ?
 
+6/15/2017 6:11 PM
+
+ **alexandre.barachant** :
+
+ >rgbn in the past, i used LRA vibration motor to deliver vibrotactile stimulation : <https://www.precisionmicrodrives.com/vibration-motors/precision-haptic-tm-haptic-feedback-vibration-motors>
+
