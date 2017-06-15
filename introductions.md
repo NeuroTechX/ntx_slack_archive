@@ -1710,3 +1710,9 @@ So, dont suffer for not having a degree. What you accomplish with your life has 
 
  >lait: Welcome Manuel!
 
+6/15/2017 1:44 PM
+
+ **buanzo** :
+
+ >welcome Manuel, I am also from Buenos Aires!
+
