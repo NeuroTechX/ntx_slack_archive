@@ -4134,3 +4134,9 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 
  >would definitely trigger a much stronger brain response I think
 
+6/15/2017 7:17 PM
+
+ **rgbn** :
+
+ >Yeah, I have just ordered LRAs from precision haptic, they just didn't ship yet.
+
