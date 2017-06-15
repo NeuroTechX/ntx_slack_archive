@@ -4140,3 +4140,9 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 
  >Yeah, I have just ordered LRAs from precision haptic, they just didn't ship yet.
 
+6/15/2017 7:22 PM
+
+ **rgbn** :
+
+ >yrenard: I don't know about any kits in Russia at all. Tactile BCIs generally don't work very good anyway, so if the stimuli is not strong enough there probably is no point in using it.
+
