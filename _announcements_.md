@@ -924,3 +924,15 @@ Check out these interesting links :slightly_smiling_face:
 
  >a.tech can't thank you enough. this is awesome, cheers! :100:
 
+6/15/2017 3:34 AM
+
+ **a.tech** :
+
+ >bryan_j andrewjsauer 
+
+> 
+
+
+> 
+NP :) I will repost these asap in the <#C5RB2U1MW|quantum_systems> channel and we can chat about this stuff there!
+
