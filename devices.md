@@ -2178,3 +2178,9 @@ Nicolas.
 
  >And yes fully compatible with ganglion, cyton, cyton+Daisy
 
+6/15/2017 11:40 AM
+
+ **mesca** :
+
+ >Great! Cant wait :wink:
+
