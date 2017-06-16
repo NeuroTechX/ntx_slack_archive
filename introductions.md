@@ -1743,3 +1743,9 @@ My name is Sharif and I'm currently doing my Masters studies in Cognitive Psycho
 
  >Glad to have you onboard devxl and jayjantz_neurable
 
+6/16/2017 2:58 PM
+
+ **jayjantz_neurable** :
+
+ >davidevaleriani: Thanks!
+
