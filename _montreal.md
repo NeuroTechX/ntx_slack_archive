@@ -801,3 +801,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >I'll be missing the hack night this week, but I should be jumping by your exposition naoto
 
+6/16/2017 8:57 PM
+
+ **sydneyneurotechx** :
+
+ >family emergency and will need to bail tonight. Can be reached on slack.  naoto  I'll drop by tomorrow instead.
+
