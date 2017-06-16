@@ -1749,3 +1749,9 @@ My name is Sharif and I'm currently doing my Masters studies in Cognitive Psycho
 
  >davidevaleriani: Thanks!
 
+6/16/2017 3:26 PM
+
+ **alexandre.barachant** :
+
+ >hey jayjantz_neurable welcome ! what's going on at neurable ? any news you can share ?
+
