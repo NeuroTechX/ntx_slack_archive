@@ -1731,3 +1731,9 @@ So, dont suffer for not having a degree. What you accomplish with your life has 
 > 
 My name is Sharif and I'm currently doing my Masters studies in Cognitive Psychology. I find computational and mathematical modelings of human behavior very exciting, and my thesis is about prediction of experienced emotions with Game Theory models. I'm looking forward to get to know the community and hopefully exchange some ideas if anyone here is interested in these fields.
 
+6/16/2017 2:51 PM
+
+ **jayjantz_neurable** :
+
+ >Hey everyone - I am Jay, resident neuroscientist at Neurable Inc, a BCI company in Boston. I am glad to meet you!
+
