@@ -843,3 +843,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >naoto Thanks for the tip about CVEP, read a paper on the topic and it looks promising. 
 
+6/16/2017 11:22 PM
+
+ **fred-simard** :
+
+ >naoto This correspond to what I had in mind, broad-band stimulus <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133797>
+
