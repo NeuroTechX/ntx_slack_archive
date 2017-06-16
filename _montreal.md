@@ -813,3 +813,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >hi folks! just wondering if hacknight is happening tonight in Montreal
 
+6/16/2017 9:05 PM
+
+ **naoto** :
+
+ >sydneyneurotechx: thanks for letting me know, take care!
+
