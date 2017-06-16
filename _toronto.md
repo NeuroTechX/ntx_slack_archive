@@ -1161,3 +1161,15 @@ Doesn't look like we'll be having an official Hacknight this Thursday. Pushing t
 > 
 For EEG 101 we're going to be testing the prototype of our general purpose Guassian Naive Bayes classifier for a BCI and for Neurodor we're trying to build a large dataset of cognitive testing data that we can use to train an attention classifier.
 
+6/16/2017 12:02 AM
+
+ **dano** :
+
+ >Here is the official BrainBrowse exhibit document. We'll use it to keep track of everything that we'll demo at the event, including how much needs to be done and who needs to do it
+
+> 
+
+
+> 
+<https://docs.google.com/a/neurotechx.com/document/d/11u9mNcPWhOKURT1OTUGw_-fPH_GgKndRne_TX8Ke6O8/edit?usp=sharing>
+
