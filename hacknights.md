@@ -153,3 +153,9 @@ You might need to get in touch with this club for that .
 
  >Sounds great. Do I need to register?
 
+6/16/2017 2:48 PM
+
+ **sid_fulminds** :
+
+ >aj: hey aj, are you talking about the Montreal hacknight or some other city?
+
