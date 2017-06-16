@@ -2202,3 +2202,9 @@ Nicolas.
 
  >Mine has some commits
 
+6/16/2017 11:46 AM
+
+ **yannick** :
+
+ >Some of you might be interested by this Low Cost BCI paper <http://ieeexplore.ieee.org/document/7851005/>
+
