@@ -825,3 +825,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >sid_fulminds eferdinand  should be there tonight
 
+6/16/2017 9:40 PM
+
+ **eferdinand** :
+
+ >No i don't think i will, sorry for that! 
+
