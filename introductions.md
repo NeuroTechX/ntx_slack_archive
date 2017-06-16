@@ -1737,3 +1737,9 @@ My name is Sharif and I'm currently doing my Masters studies in Cognitive Psycho
 
  >Hey everyone - I am Jay, resident neuroscientist at Neurable Inc, a BCI company in Boston. I am glad to meet you!
 
+6/16/2017 2:56 PM
+
+ **davidevaleriani** :
+
+ >Glad to have you onboard devxl and jayjantz_neurable
+
