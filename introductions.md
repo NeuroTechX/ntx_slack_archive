@@ -1722,3 +1722,12 @@ So, dont suffer for not having a degree. What you accomplish with your life has 
 
  >Welcome. Pleased to meet you!
 
+6/16/2017 4:48 AM
+
+ **devxl** :
+
+ >H! Everyone,
+
+> 
+My name is Sharif and I'm currently doing my Masters studies in Cognitive Psychology. I find computational and mathematical modelings of human behavior very exciting, and my thesis is about prediction of experienced emotions with Game Theory models. I'm looking forward to get to know the community and hopefully exchange some ideas if anyone here is interested in these fields.
+
