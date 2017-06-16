@@ -837,3 +837,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >ok, then no hacknight tonight?
 
+6/16/2017 11:18 PM
+
+ **fred-simard** :
+
+ >naoto Thanks for the tip about CVEP, read a paper on the topic and it looks promising. 
+
