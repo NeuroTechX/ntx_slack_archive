@@ -831,3 +831,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >No i don't think i will, sorry for that! 
 
+6/16/2017 9:41 PM
+
+ **sid_fulminds** :
+
+ >ok, then no hacknight tonight?
+
