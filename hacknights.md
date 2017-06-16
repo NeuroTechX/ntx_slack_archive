@@ -159,3 +159,9 @@ You might need to get in touch with this club for that .
 
  >aj: hey aj, are you talking about the Montreal hacknight or some other city?
 
+6/16/2017 8:58 PM
+
+ **sid_fulminds** :
+
+ >hi folks! just wondering if hacknight is happening tonight in Montreal
+
