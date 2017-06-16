@@ -849,3 +849,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >naoto This correspond to what I had in mind, broad-band stimulus <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133797>
 
+6/16/2017 11:24 PM
+
+ **fred-simard** :
+
+ >Short-term I'm sticking to SSVEP, but my goal is to leverage these other forms of stimulation to find the sweet spot between perceptual annoyance and information transfer rate.
+
