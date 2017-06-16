@@ -2196,3 +2196,9 @@ Nicolas.
 
  >aj, any links to those open source things? Are those unofficial Muse BLE connection libs on github actually by people connected with Muse?
 
+6/16/2017 1:42 AM
+
+ **aj** :
+
+ >Mine has some commits
+
