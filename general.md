@@ -4164,3 +4164,9 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 
  >i used them to do somato-sensory stimulation in children
 
+6/16/2017 5:28 AM
+
+ **eamon** :
+
+ >Gives a new meaning to "hacking"
+
