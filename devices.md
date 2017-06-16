@@ -2190,3 +2190,9 @@ Nicolas.
 
  >Just found myself defending muse for the first time when they were called a marketing company. I was like hold the fuck up they mastered conductive rubber electrodes and made a EEG headset people can put on. Plus they have cool neuroscientists working for them contributing to open source where possible
 
+6/16/2017 12:41 AM
+
+ **maxim** :
+
+ >aj, any links to those open source things? Are those unofficial Muse BLE connection libs on github actually by people connected with Muse?
+
