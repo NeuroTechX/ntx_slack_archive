@@ -1173,3 +1173,9 @@ For EEG 101 we're going to be testing the prototype of our general purpose Guass
 > 
 <https://docs.google.com/a/neurotechx.com/document/d/11u9mNcPWhOKURT1OTUGw_-fPH_GgKndRne_TX8Ke6O8/edit?usp=sharing>
 
+6/16/2017 2:14 AM
+
+ **bryan_j** :
+
+ >dano awesome :) 
+
