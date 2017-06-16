@@ -1755,3 +1755,9 @@ My name is Sharif and I'm currently doing my Masters studies in Cognitive Psycho
 
  >hey jayjantz_neurable welcome ! what's going on at neurable ? any news you can share ?
 
+6/16/2017 5:02 PM
+
+ **sydneyneurotechx** :
+
+ >devxl: welcome devxl!
+
