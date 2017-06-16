@@ -807,3 +807,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >family emergency and will need to bail tonight. Can be reached on slack.  naoto  I'll drop by tomorrow instead.
 
+6/16/2017 9:01 PM
+
+ **sid_fulminds** :
+
+ >hi folks! just wondering if hacknight is happening tonight in Montreal
+
