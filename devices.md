@@ -2208,3 +2208,9 @@ Nicolas.
 
  >Some of you might be interested by this Low Cost BCI paper <http://ieeexplore.ieee.org/document/7851005/>
 
+6/16/2017 1:56 PM
+
+ **sc** :
+
+ >Ha yes, very close to the original in-place laplacian I was going for (c:
+
