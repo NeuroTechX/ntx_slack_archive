@@ -1191,3 +1191,9 @@ For EEG 101 we're going to be testing the prototype of our general purpose Guass
 
  >Are any of you attending the Big Data Toronto conference on the 20th and 21st?
 
+6/17/2017 5:27 PM
+
+ **bryan_j** :
+
+ >sunnyp: I'm out of the country :( will be there? 
+
