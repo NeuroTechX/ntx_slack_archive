@@ -1203,3 +1203,9 @@ For EEG 101 we're going to be testing the prototype of our general purpose Guass
 
  >I most definitely will! Did you want me to check anything out for you?
 
+6/17/2017 9:27 PM
+
+ **sunnyp** :
+
+ >dano: Youve got some pretty interesting projects going on in that document. If you dont mind Id like to swing by the hacknight to get a feel for it and help out in any way I can. I dont have any gear besides my laptop though&. will that be ok?
+
