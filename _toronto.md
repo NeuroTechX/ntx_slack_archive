@@ -1197,3 +1197,9 @@ For EEG 101 we're going to be testing the prototype of our general purpose Guass
 
  >sunnyp: I'm out of the country :( will be there? 
 
+6/17/2017 9:22 PM
+
+ **sunnyp** :
+
+ >I most definitely will! Did you want me to check anything out for you?
+
