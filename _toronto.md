@@ -1185,3 +1185,9 @@ For EEG 101 we're going to be testing the prototype of our general purpose Guass
 
  >dano Thanks!
 
+6/17/2017 3:06 AM
+
+ **sunnyp** :
+
+ >Are any of you attending the Big Data Toronto conference on the 20th and 21st?
+
