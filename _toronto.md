@@ -1179,3 +1179,9 @@ For EEG 101 we're going to be testing the prototype of our general purpose Guass
 
  >dano awesome :) 
 
+6/17/2017 3:05 AM
+
+ **sunnyp** :
+
+ >dano Thanks!
+
