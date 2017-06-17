@@ -1209,3 +1209,15 @@ For EEG 101 we're going to be testing the prototype of our general purpose Guass
 
  >dano: Youve got some pretty interesting projects going on in that document. If you dont mind Id like to swing by the hacknight to get a feel for it and help out in any way I can. I dont have any gear besides my laptop though&. will that be ok?
 
+6/17/2017 10:29 PM
+
+ **dano** :
+
+ >Sounds great, man. We have plenty of gear that we can hook you up with.
+
+> 
+
+
+> 
+I'll provide more info on the upcoming hacknight in this channel as things get sorted out
+
