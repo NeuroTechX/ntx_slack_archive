@@ -2214,3 +2214,9 @@ Nicolas.
 
  >Ha yes, very close to the original in-place laplacian I was going for (c:
 
+6/17/2017 6:16 PM
+
+ **mhough** :
+
+ >Damn yannick that's cool. sc are you doing multimodal?
+
