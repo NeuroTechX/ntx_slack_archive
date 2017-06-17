@@ -165,3 +165,9 @@ You might need to get in touch with this club for that .
 
  >hi folks! just wondering if hacknight is happening tonight in Montreal
 
+6/17/2017 1:34 PM
+
+ **aj** :
+
+ >jk no just join the <#C0VT5LTJ8|_new-york> channel
+
