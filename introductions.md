@@ -1791,3 +1791,12 @@ My name is Sharif and I'm currently doing my Masters studies in Cognitive Psycho
 
  >fixed link
 
+6/18/2017 9:26 PM
+
+ **urish** :
+
+ >Just joined today - web developer, maker, and a proud owner of Muse EEG
+
+> 
+Website: <https://urish.org>
+
