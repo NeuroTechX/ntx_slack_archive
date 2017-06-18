@@ -108,3 +108,9 @@
 
  ><!channel>
 
+6/18/2017 10:59 PM
+
+ **teon** :
+
+ >aj, do you have access to the neurotechnyc meetup account? if not, I can get you some proper permissions
+
