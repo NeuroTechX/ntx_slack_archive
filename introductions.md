@@ -1806,3 +1806,9 @@ Website: <https://urish.org>
 
  >The project I am currently working on is building an app to get the data from Muse EEG directly into the browser, using Web Bluetooth:
 
+6/18/2017 9:28 PM
+
+ **urish** :
+
+ ><https://github.com/urish/angular-muse>
+
