@@ -855,3 +855,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >Short-term I'm sticking to SSVEP, but my goal is to leverage these other forms of stimulation to find the sweet spot between perceptual annoyance and information transfer rate.
 
+6/18/2017 10:21 PM
+
+ **yannick** :
+
+ ><https://www.meetup.com/NeuroTechMTL/events/238548058/>
+
