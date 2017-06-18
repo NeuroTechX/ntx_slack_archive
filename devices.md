@@ -2226,3 +2226,9 @@ Nicolas.
 
  >that is really cool
 
+6/18/2017 1:18 AM
+
+ **aj** :
+
+ >i thought nir didnt work through hair
+
