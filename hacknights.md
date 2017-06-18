@@ -171,3 +171,9 @@ You might need to get in touch with this club for that .
 
  >jk no just join the <#C0VT5LTJ8|_new-york> channel
 
+6/18/2017 10:50 PM
+
+ **aj** :
+
+ >NYC!
+
