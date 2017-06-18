@@ -2220,3 +2220,9 @@ Nicolas.
 
  >Damn yannick that's cool. sc are you doing multimodal?
 
+6/18/2017 1:18 AM
+
+ **aj** :
+
+ >that is really cool
+
