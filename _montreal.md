@@ -861,3 +861,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  ><https://www.meetup.com/NeuroTechMTL/events/238548058/>
 
+6/18/2017 10:22 PM
+
+ **yannick** :
+
+ >Join us, its gonna be a nice casual event to regroup in a non-hacknight setting
+
