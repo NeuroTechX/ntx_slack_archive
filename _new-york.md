@@ -120,3 +120,9 @@
 
  >no i don't!
 
+6/19/2017 3:04 PM
+
+ **aj** :
+
+ ><!channel> Please private message me if you intend to come to the hacknight tomorrow night from 7-9pm in Brooklyn!
+
