@@ -1824,3 +1824,9 @@ Website: <https://urish.org>
 
  >Hi agustnr64 where are you from? And what University are you studying Biomed?
 
+6/19/2017 7:52 PM
+
+ **agustnr64** :
+
+ >Hi yannick i am  from Spain. i study at Pompeu Fabra university,Barcelona.  I wish to  learn about BCI for Thesis
+
