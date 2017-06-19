@@ -81,3 +81,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >Welcome NeuroHackers!
 
+6/19/2017 3:04 PM
+
+ **alex** :
+
+ >This channel is the first to hear that we're planning an event for mid-late July. Stay tuned for details!
+
