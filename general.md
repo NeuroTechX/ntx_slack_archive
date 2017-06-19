@@ -4170,3 +4170,12 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 
  >Gives a new meaning to "hacking"
 
+6/19/2017 2:18 AM
+
+ **dano** :
+
+ >Coverage of the Muse plugin for HTC Vive
+
+> 
+<https://medium.com/@micah31/what-eeg-can-bring-to-your-vr-experience-d2931652c4a8>
+
