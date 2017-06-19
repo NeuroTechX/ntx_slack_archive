@@ -1221,3 +1221,9 @@ For EEG 101 we're going to be testing the prototype of our general purpose Guass
 > 
 I'll provide more info on the upcoming hacknight in this channel as things get sorted out
 
+6/19/2017 10:02 PM
+
+ **graeme** :
+
+ >dano sorry - I took the Nexus tablet to a conference with me. You can have it for the next hacknight.
+
