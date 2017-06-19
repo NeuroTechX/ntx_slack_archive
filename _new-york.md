@@ -114,3 +114,9 @@
 
  >aj, do you have access to the neurotechnyc meetup account? if not, I can get you some proper permissions
 
+6/19/2017 3:03 PM
+
+ **aj** :
+
+ >no i don't!
+
