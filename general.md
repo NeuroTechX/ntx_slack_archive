@@ -4179,3 +4179,9 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 > 
 <https://medium.com/@micah31/what-eeg-can-bring-to-your-vr-experience-d2931652c4a8>
 
+6/19/2017 3:03 PM
+
+ **aj** :
+
+ >sick@
+
