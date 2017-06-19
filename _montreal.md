@@ -879,3 +879,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  ><!channel>  District 3 will be closed this friday and next due to St Jean Baptiste and Canada Day
 
+6/19/2017 7:08 PM
+
+ **sydneyneurotechx** :
+
+ >any recommendations of where to go instead?
+
