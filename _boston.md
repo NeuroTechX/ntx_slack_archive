@@ -75,3 +75,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >Hey timfiori , just responded to chrisnorman on Linkedin. Let me know if you're still around!
 
+6/19/2017 3:03 PM
+
+ **alex** :
+
+ >Welcome NeuroHackers!
+
