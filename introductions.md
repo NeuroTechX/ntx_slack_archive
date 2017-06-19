@@ -1818,3 +1818,9 @@ Website: <https://urish.org>
 
  >hy i am a new member, I am  student  biomedical engeneering
 
+6/19/2017 1:49 PM
+
+ **yannick** :
+
+ >Hi agustnr64 where are you from? And what University are you studying Biomed?
+
