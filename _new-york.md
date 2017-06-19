@@ -132,3 +132,9 @@
 
  >aj, just checked. you should have permission as a co-organizer. let me know if that doesnt work for you. you can email out over the listserv through meetup
 
+6/19/2017 3:11 PM
+
+ **aj** :
+
+ >ok im not going to open this up to meetup quite yet
+
