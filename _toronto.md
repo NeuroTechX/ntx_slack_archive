@@ -1227,3 +1227,9 @@ I'll provide more info on the upcoming hacknight in this channel as things get s
 
  >dano sorry - I took the Nexus tablet to a conference with me. You can have it for the next hacknight.
 
+6/19/2017 10:02 PM
+
+ **graeme** :
+
+ >actually hold on I'm back the 22nd. Nvm.
+
