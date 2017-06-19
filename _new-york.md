@@ -126,3 +126,9 @@
 
  ><!channel> Please private message me if you intend to come to the hacknight tomorrow night from 7-9pm in Brooklyn!
 
+6/19/2017 3:10 PM
+
+ **teon** :
+
+ >aj, just checked. you should have permission as a co-organizer. let me know if that doesnt work for you. you can email out over the listserv through meetup
+
