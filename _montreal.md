@@ -867,3 +867,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >Join us, its gonna be a nice casual event to regroup in a non-hacknight setting
 
+6/19/2017 3:52 PM
+
+ **naoto** :
+
+ >yannick: too bad that July 4th doesn't work for me. please say hi to Etienne!
+
