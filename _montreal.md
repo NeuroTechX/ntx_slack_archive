@@ -873,3 +873,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >yannick: too bad that July 4th doesn't work for me. please say hi to Etienne!
 
+6/19/2017 7:08 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  District 3 will be closed this friday and next due to St Jean Baptiste and Canada Day
+
