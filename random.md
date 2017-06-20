@@ -1515,3 +1515,21 @@ They seem to have missed NeuroTechX?! :anguished:
 
  >Hey folks, what
 
+6/20/2017 8:12 PM
+
+ **frawley_andrew** :
+
+ >Hey folks,
+
+> 
+
+
+> 
+What are people's thoughts on Kernel's mission to map our neural code?
+
+> 
+
+
+> 
+It would obviously have mega implications and I applaud them for it, but how practical is this to produce something useful in the next decade? Two?
+
