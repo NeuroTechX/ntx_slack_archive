@@ -1533,3 +1533,39 @@ What are people's thoughts on Kernel's mission to map our neural code?
 > 
 It would obviously have mega implications and I applaud them for it, but how practical is this to produce something useful in the next decade? Two?
 
+6/20/2017 8:56 PM
+
+ **sydneyneurotechx** :
+
+ >frawley_andrew : 
+
+> 
+
+
+> 
+It's a complicated problem to solve and it will require multiple innovations. One perspective that I'm agreeing more and more with is that of Thomas C. Südhof 
+
+> 
+
+
+> 
+<https://www.washingtonpost.com/opinions/too-many-medical-trials-are-moonshots-in-the-dark/2017/01/04/a7d88102-c184-11e6-9578-0054287507db_story.html>
+
+> 
+
+
+> 
+His article argues that curing diseases by a "moonshot" is not very effective as there is a fundamental lack of understanding of how diseases work. I feel that a similar story is happening with neurotech "moon shots". IE not enough focus on understanding how the brain works. 
+
+> 
+
+
+> 
+So I'm skeptical of a positive return being there and they may run out of money first. 
+
+> 
+
+
+> 
+On the other hand, I believe some innovations will come out of the company and I'm happy that they are investing money into the problem. First movers are not necessarily successful, but they will push the field forward.
+
