@@ -909,3 +909,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >sure!
 
+6/20/2017 5:02 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  Hacknights this week and next will be happening at Foulab  <https://foulab.org/en/wiki/Index_Page>
+
