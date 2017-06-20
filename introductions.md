@@ -1836,3 +1836,9 @@ Website: <https://urish.org>
 
  >Hi everyone ! My name is Bora and I am an interactive media producer. Most of my projects are focused on using biofeedback data to make emotionally interactive experiences. One of the main projects that I am involved with is S.E.E.D. ( <https://vimeo.com/184643912> ) which will be showcased at Nuit Blanche Toronto, Mutek Montreal and Franz Mayer Museum in Mexico City - I am wondering if there are any students/researchers/professionals that might be interested in collaborating on this project ! Please let me know  :slightly_smiling_face: :heart:
 
+6/20/2017 4:28 PM
+
+ **sydneyneurotechx** :
+
+ >agustnr64: Welcome agustnr64 !
+
