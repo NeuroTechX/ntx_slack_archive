@@ -1569,3 +1569,15 @@ So I'm skeptical of a positive return being there and they may run out of money 
 > 
 On the other hand, I believe some innovations will come out of the company and I'm happy that they are investing money into the problem. First movers are not necessarily successful, but they will push the field forward.
 
+6/20/2017 9:00 PM
+
+ **frawley_andrew** :
+
+ >Really good points I would agree with. 100m won't last to the finish line (unless they grab more of course) but they could break ground on something
+
+> 
+
+
+> 
+Also a really good article there
+
