@@ -903,3 +903,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >^
 
+6/20/2017 3:34 PM
+
+ **melanie** :
+
+ >sure!
+
