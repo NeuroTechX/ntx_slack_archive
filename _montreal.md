@@ -927,3 +927,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >It's the bottom doorbell  melanie ?
 
+6/20/2017 5:03 PM
+
+ **melanie** :
+
+ >I believe so. I'm heading there tonight so I'll confirm then
+
