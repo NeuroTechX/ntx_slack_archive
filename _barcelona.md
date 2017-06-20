@@ -30,3 +30,9 @@
 
  >would be nice to have a chat
 
+6/20/2017 1:41 PM
+
+ **agustnr64** :
+
+ >Hi ! i am a new member, I am  student  biomedical engineering at UPF
+
