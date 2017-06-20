@@ -1587,3 +1587,21 @@ Also a really good article there
 
  >sydneyneurotechx
 
+6/20/2017 9:33 PM
+
+ **wronk** :
+
+ >Good article. At it's core, the issue seems to be that hope and necessity don't directly translate into scientific progress (though they probably help). A lot of people like to point out that the original moon shot worked so well because the space agency recursively broke the problem down into achievable steps that were actually doable (e.g., mercury and gemini projects) before sending our fragile bodies to the moon. I.e., it was a concerted effort to actually follow through on a long-term strategy even in the face of failures/political pressure.
+
+> 
+
+
+> 
+That might be the best path forward for Kernel, neuralink, fb, etc., and it's hard to say if they want to follow that strategy or if they are financially able to (c.f., nation-state != company). Or maybe that strategy worked in the 60s and gives absolutely no bearing in the age of AI and big data... Either way, it's really exciting that we're actually trying.
+
+> 
+
+
+> 
+Also, anyone else get miffed by the fact that every big initiative is dubbed a "moon shot?"
+
