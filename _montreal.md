@@ -915,3 +915,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  ><!channel>  Hacknights this week and next will be happening at Foulab  <https://foulab.org/en/wiki/Index_Page>
 
+6/20/2017 5:02 PM
+
+ **sydneyneurotechx** :
+
+ >There is a doorbell you ring once you get at the building
+
