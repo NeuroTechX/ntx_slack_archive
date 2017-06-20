@@ -1233,3 +1233,9 @@ I'll provide more info on the upcoming hacknight in this channel as things get s
 
  >actually hold on I'm back the 22nd. Nvm.
 
+6/20/2017 4:24 PM
+
+ **bryan_j** :
+
+ >sunnyp: potentially - I was looking through the website but nothing came up and I did not have time to continue! Grab info at your discretion ;) thanks Sunny! 
+
