@@ -885,3 +885,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >any recommendations of where to go instead?
 
+6/20/2017 12:34 PM
+
+ **fred-simard** :
+
+ >sydneyneurotechx I'm dropping the idea, would foulab host us into their space?
+
