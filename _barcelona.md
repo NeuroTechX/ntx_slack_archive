@@ -36,3 +36,9 @@
 
  >Hi ! i am a new member, I am  student  biomedical engineering at UPF
 
+6/21/2017 8:40 PM
+
+ **griselda_pages** :
+
+ >Benvingut Agustin!
+
