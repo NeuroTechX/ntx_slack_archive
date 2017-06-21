@@ -3426,3 +3426,15 @@ However, I'd love to take a look at the library. Showing some cool data visualiz
 
  >Hi everyone, I have started working with the OpenBCI 8bit after a few months and the board does not connect to the dongle anymore, although the LEDs are on. I have changed the battery with a new one, but nothing. Do you have any suggestions on what to try?
 
+6/21/2017 4:53 PM
+
+ **davidevaleriani** :
+
+ >Hi all, I am trying to use the MNE library to extract CSP features from a 4-class MI dataset, however I get the following error:
+
+> 
+TypeError: 'float' object cannot be interpreted as an integer
+
+> 
+The 2-class version works perfectly. Do you have any example code for 4-class CSP? Am I missing something?
+
