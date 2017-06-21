@@ -1617,3 +1617,9 @@ Also, anyone else get miffed by the fact that every big initiative is dubbed a "
 
  >naoto: Nice! LSL definitely seems like the protocol to learn and develop. Some good convo here about using it in NeuroJS, which could be a gateway to web-integrated brain data <https://github.com/NeuroJS/eeg-stream-data-model/issues/1>
 
+6/21/2017 3:59 AM
+
+ **naoto** :
+
+ >js implementation sounds very interesting. I think lsl has a lot of potential and it should reach outside "lab"
+
