@@ -1605,3 +1605,9 @@ That might be the best path forward for Kernel, neuralink, fb, etc., and it's ha
 > 
 Also, anyone else get miffed by the fact that every big initiative is dubbed a "moon shot?"
 
+6/21/2017 2:08 AM
+
+ **naoto** :
+
+ >labstreaminglayer for openFrameworks (work in progress) <https://github.com/micuat/ofxLsl>
+
