@@ -2253,3 +2253,9 @@ Thanks a million!
 
  >Depending on the amount we order the price of each device will be in the range of $14-$16
 
+6/21/2017 1:13 PM
+
+ **alexandre.barachant** :
+
+ >for PCB, oshpark is great
+
