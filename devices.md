@@ -2259,3 +2259,9 @@ Thanks a million!
 
  >for PCB, oshpark is great
 
+6/21/2017 1:14 PM
+
+ **alexandre.barachant** :
+
+ >i had good results with seeedstudio too
+
