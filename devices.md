@@ -2277,3 +2277,9 @@ Thanks a million!
 
  >hey javi_neuralcubes we can do a call about it and see what we can uggest
 
+6/21/2017 6:58 PM
+
+ **japesinator** :
+
+ >3pcb and dirtypcbs can both do good work for super cheap
+
