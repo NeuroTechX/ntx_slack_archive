@@ -2232,3 +2232,12 @@ Nicolas.
 
  >i thought nir didnt work through hair
 
+6/21/2017 1:08 PM
+
+ **javi_neuralcubes** :
+
+ >We're trying give a push to the <#C1G552DD4|smartphone-bci> project, now known as icibici (pronounced as easy-bisi) for that we're going to order some pcbs of the project in bulk. We are wondering if anyone would be interested in getting some for organising hackathons for their chapters, or just to play around a bit. Also we're trying to get some funding to give the project a bit of push, anyone knows any good opportunities or interested bodies yannick sydneyneurotechx?
+
+> 
+Thanks a million!
+
