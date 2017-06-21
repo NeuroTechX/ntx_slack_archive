@@ -1611,3 +1611,9 @@ Also, anyone else get miffed by the fact that every big initiative is dubbed a "
 
  >labstreaminglayer for openFrameworks (work in progress) <https://github.com/micuat/ofxLsl>
 
+6/21/2017 3:53 AM
+
+ **dano** :
+
+ >naoto: Nice! LSL definitely seems like the protocol to learn and develop. Some good convo here about using it in NeuroJS, which could be a gateway to web-integrated brain data <https://github.com/NeuroJS/eeg-stream-data-model/issues/1>
+
