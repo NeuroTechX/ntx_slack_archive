@@ -2271,3 +2271,9 @@ Thanks a million!
 
  >i have had perfect success with <http://pcb-pool.com|pcb-pool.com>
 
+6/21/2017 5:54 PM
+
+ **sydneyneurotechx** :
+
+ >hey javi_neuralcubes we can do a call about it and see what we can uggest
+
