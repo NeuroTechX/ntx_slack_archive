@@ -54,3 +54,9 @@
 
  >thanks adam! super stoked guys to be rebooting this awesome community. in addition to the new look, we will also be sending out a survey shortly to get your feedback on days, speaker recs and more. stay tuned, cheers!
 
+6/21/2017 5:18 PM
+
+ **stephen** :
+
+ >andrewjsauer: Splendid!
+
