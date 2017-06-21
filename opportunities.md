@@ -675,3 +675,9 @@ Looks like a really great opportunity to work with really smart people.
 
  >eferdinand: thanks for sharing!
 
+6/21/2017 9:11 AM
+
+ **alexandre.barachant** :
+
+ >Post doc position  in BCI : <http://www.ru.nl/werken/details/details_vacature_0/?recid=597503>
+
