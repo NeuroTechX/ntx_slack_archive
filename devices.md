@@ -2247,3 +2247,9 @@ Thanks a million!
 
  >also we're planning on using pcbGOGO, some knows any other good service that we can use?
 
+6/21/2017 1:10 PM
+
+ **javi_neuralcubes** :
+
+ >Depending on the amount we order the price of each device will be in the range of $14-$16
+
