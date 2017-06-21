@@ -189,3 +189,9 @@ You might need to get in touch with this club for that .
 
  >thanks
 
+6/21/2017 1:34 AM
+
+ **aj** :
+
+ >Sweet NYC hacknight tonight! Same time next week NYC!
+
