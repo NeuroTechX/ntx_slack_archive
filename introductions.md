@@ -1944,3 +1944,9 @@ Website: <https://urish.org>
 
  >Thank you sydneyneurotechx !
 
+6/22/2017 5:46 PM
+
+ **sydneyneurotechx** :
+
+ >yuniverse  is there a biosignal component to the S.E.E.D Project? What type?
+
