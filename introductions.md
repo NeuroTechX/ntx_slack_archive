@@ -1908,3 +1908,9 @@ Website: <https://urish.org>
 
  >I'm in North Bay!
 
+6/22/2017 5:19 PM
+
+ **lucyrichards** :
+
+ >haha perfect
+
