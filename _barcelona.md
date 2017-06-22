@@ -54,3 +54,9 @@
 
  >Quería preguntar  si alguien del grupo conoce como esta el tema de BCI en Barcelona, quiero decir que empresas o grupos de investigación  en Barcelona se dedican a desarrollar esta tecnología. Me gustaría hacer practicas en esta rama pero no se muy bien por donde empezar.
 
+6/22/2017 3:48 PM
+
+ **agustnr64** :
+
+ >Me gustaria aprender acerca de BCI, si hay alguna propuesta interesante para colaborar o hacer un proyecto también estoy interesado.
+
