@@ -1629,3 +1629,9 @@ Also, anyone else get miffed by the fact that every big initiative is dubbed a "
 
  >also made a small script to read EEG from LSL stream and send power bands back to LSL as well as OSC. Very simple but scalable from Muse to research grade EEG, and ready to use for creative coding platforms <https://gist.github.com/micuat/bb0b012a95673151715e7f60f19364a8>
 
+6/22/2017 1:17 PM
+
+ **aj** :
+
+ ><https://youtu.be/oNjPHcIzQkM>
+
