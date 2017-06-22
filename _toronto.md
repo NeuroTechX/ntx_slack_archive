@@ -1317,3 +1317,9 @@ Big items for tonight's hacknight include:
 
  >dano: this sounds like a blast
 
+6/22/2017 7:09 PM
+
+ **bryan_j** :
+
+ >Sounds so fun! Wish I could attend. Have a blast, all! I look forward to hearing about it. dano share some photos pls! 
+
