@@ -1902,3 +1902,9 @@ Website: <https://urish.org>
 
  >would be happy to! Im on the job right now, but I can chat via phone or text later in the day. What timezone are you?
 
+6/22/2017 5:19 PM
+
+ **rashi** :
+
+ >I'm in North Bay!
+
