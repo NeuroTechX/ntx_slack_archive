@@ -1641,3 +1641,12 @@ Also, anyone else get miffed by the fact that every big initiative is dubbed a "
 
  >aj: looks like it was made at KTH :slightly_smiling_face:
 
+6/22/2017 10:36 PM
+
+ **sydneyneurotechx** :
+
+ >I have no words 
+
+> 
+<http://gizmodo.com/nasa-calls-bullshit-on-goops-120-bio-frequency-healing-1796309360>
+
