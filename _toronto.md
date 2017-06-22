@@ -1239,3 +1239,75 @@ I'll provide more info on the upcoming hacknight in this channel as things get s
 
  >sunnyp: potentially - I was looking through the website but nothing came up and I did not have time to continue! Grab info at your discretion ;) thanks Sunny! 
 
+6/22/2017 3:27 PM
+
+ **dano** :
+
+ >```
+
+> 
+
+
+> 
+ __  __                   __                          __      __      
+
+> 
+/\ \/\ \                 /\ \              __        /\ \    /\ \__   
+
+> 
+\ \ \_\ \     __      ___\ \ \/'\     ___ /\_\     __\ \ \___\ \ ,_\  
+
+> 
+ \ \  _  \  /'__`\   /'___\ \ , &lt;   /' _ `\/\ \  /'_ `\ \  _ `\ \ \/  
+
+> 
+  \ \ \ \ \/\ \L\.\_/\ \__/\ \ \\`\ /\ \/\ \ \ \/\ \L\ \ \ \ \ \ \ \_ 
+
+> 
+   \ \_\ \_\ \__/.\_\ \____\\ \_\ \_\ \_\ \_\ \_\ \____ \ \_\ \_\ \__\
+
+> 
+    \/_/\/_/\/__/\/_/\/____/ \/_/\/_/\/_/\/_/\/_/\/___L\ \/_/\/_/\/__/
+
+> 
+                                                   /\____/            
+
+> 
+                                                   \_/__/             
+
+> 
+```
+
+> 
+
+
+> 
+Yes <!channel>, we are hacking tonight!
+
+> 
+
+
+> 
+We're switching things up this week and moving our hacknight into the public eye. We'll meet at *6pm at Field Trip Cafe*, a neighborhood gem that has just extended it's hours to 10pm. It's a great place and I recommend you all to buy a tea or a beer while we're there.
+
+> 
+
+
+> 
+The cafe is at 3 Westmoreland Ave, on Bloor and Westmoreland in the west side
+
+> 
+
+
+> 
+Big items for tonight's hacknight include:
+
+> 
+- Testing of EEG 101's new general purpose classifier
+
+> 
+- Trying out NeurotechBerkeley's BCI labs for OpenBCI
+
+> 
+- And whatever you guys are in to!
+
