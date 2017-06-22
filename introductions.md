@@ -1950,3 +1950,9 @@ Website: <https://urish.org>
 
  >yuniverse  is there a biosignal component to the S.E.E.D Project? What type?
 
+6/22/2017 5:56 PM
+
+ **dj_mini** :
+
+ >Hi, I am Evelyne also known as Dj Mini. I do multimedia projects and lots of collaborations, and have investigated using eeg in dome environments and for play/education purposes in the last 5 years. would love to collaborate on future art installations &amp; performances projects.
+
