@@ -1878,3 +1878,9 @@ Website: <https://urish.org>
 > 
 <http://www.mutek.org/en/montreal/2017>
 
+6/22/2017 5:14 PM
+
+ **lucyrichards** :
+
+ >Hey all  Name is Lucy from Oakland CA, working with Talking Points to improve translations on our chat application. I dont have much experience in machine learning/nlp and will be learning on the job! Im super excited to dive into this field (my experience so far has been in webdev ), and am hoping to get involved in the community. :slightly_smiling_face: Id love to get involved in some side projects in the bay area.
+
