@@ -1926,3 +1926,9 @@ Website: <https://urish.org>
 
  >awesome  PM me with times for a call or if youd rather just ask questions via slack I can answer later. Would also be willing to meet in person in SF since were both in the bay!  Lemme know.
 
+6/22/2017 5:21 PM
+
+ **sydneyneurotechx** :
+
+ >rashi: Welcome rashi !
+
