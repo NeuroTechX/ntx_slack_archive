@@ -1860,3 +1860,9 @@ Website: <https://urish.org>
 
  >this looks awesome! I am very curious to experience it. please share more information about this Mutek event in Montreal :slightly_smiling_face:
 
+6/22/2017 4:29 PM
+
+ **rashi** :
+
+ >Hello I'm Rashi! I've been to the Neurogaming Xtech conference 5 years in a row and I finally figured out there's a slack channel here. Better late than never!
+
