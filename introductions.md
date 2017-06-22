@@ -1974,3 +1974,9 @@ Website: <https://urish.org>
 
  >iain_mcintyre 
 
+6/22/2017 8:21 PM
+
+ **griselda_pages** :
+
+ >There are also city chapters! Check in <http://meetup.com|meetup.com> NeuroTechX + name of your city
+
