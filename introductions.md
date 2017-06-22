@@ -1962,3 +1962,9 @@ Website: <https://urish.org>
 
  >dj_mini: Woooo. You're finally on here :heart:
 
+6/22/2017 5:59 PM
+
+ **dj_mini** :
+
+ >like, 4 years later :wink:
+
