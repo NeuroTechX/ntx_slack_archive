@@ -1311,3 +1311,9 @@ Big items for tonight's hacknight include:
 > 
 - And whatever you guys are in to!
 
+6/22/2017 4:05 PM
+
+ **andrewjsauer** :
+
+ >dano: this sounds like a blast
+
