@@ -945,3 +945,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >sydneyneurotechx fred-simard melanie at what time are hacknights happening at Foulab tomorrow and next Friday?
 
+6/22/2017 3:16 PM
+
+ **sydneyneurotechx** :
+
+ >Around 6:30 sid_fulminds
+
