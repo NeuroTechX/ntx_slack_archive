@@ -1854,3 +1854,9 @@ Website: <https://urish.org>
 
  >Thank you sydneyneurotechx  !! :blush:
 
+6/22/2017 12:25 AM
+
+ **sid_fulminds** :
+
+ >this looks awesome! I am very curious to experience it. please share more information about this Mutek event in Montreal :slightly_smiling_face:
+
