@@ -1920,3 +1920,9 @@ Website: <https://urish.org>
 
  >of SF BAY
 
+6/22/2017 5:20 PM
+
+ **lucyrichards** :
+
+ >awesome  PM me with times for a call or if youd rather just ask questions via slack I can answer later. Would also be willing to meet in person in SF since were both in the bay!  Lemme know.
+
