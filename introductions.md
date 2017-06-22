@@ -1896,3 +1896,9 @@ Website: <https://urish.org>
 
  >Hi lucyrichards ! I'm trying to get in to this field also! You seem ahead of me in the job searching aspect, I was wondering if we could chat?
 
+6/22/2017 5:18 PM
+
+ **lucyrichards** :
+
+ >would be happy to! Im on the job right now, but I can chat via phone or text later in the day. What timezone are you?
+
