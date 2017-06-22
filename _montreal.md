@@ -957,3 +957,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >cool :+1:
 
+6/22/2017 9:24 PM
+
+ **fred-simard** :
+
+ >i'll be there
+
