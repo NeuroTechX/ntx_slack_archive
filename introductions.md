@@ -1866,3 +1866,15 @@ Website: <https://urish.org>
 
  >Hello I'm Rashi! I've been to the Neurogaming Xtech conference 5 years in a row and I finally figured out there's a slack channel here. Better late than never!
 
+6/22/2017 4:53 PM
+
+ **yuniverse** :
+
+ >sid_fulminds Thank you for your interest ! Here is the event link :slightly_smiling_face: 
+
+> 
+
+
+> 
+<http://www.mutek.org/en/montreal/2017>
+
