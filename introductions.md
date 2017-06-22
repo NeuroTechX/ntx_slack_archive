@@ -1890,3 +1890,9 @@ Website: <https://urish.org>
 
  >thanks! looking forward to checking out SEED there :slightly_smiling_face:
 
+6/22/2017 5:18 PM
+
+ **rashi** :
+
+ >Hi lucyrichards ! I'm trying to get in to this field also! You seem ahead of me in the job searching aspect, I was wondering if we could chat?
+
