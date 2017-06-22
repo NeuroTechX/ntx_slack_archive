@@ -1956,3 +1956,9 @@ Website: <https://urish.org>
 
  >Hi, I am Evelyne also known as Dj Mini. I do multimedia projects and lots of collaborations, and have investigated using eeg in dome environments and for play/education purposes in the last 5 years. would love to collaborate on future art installations &amp; performances projects.
 
+6/22/2017 5:57 PM
+
+ **sydneyneurotechx** :
+
+ >dj_mini: Woooo. You're finally on here :heart:
+
