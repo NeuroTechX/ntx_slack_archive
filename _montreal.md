@@ -939,3 +939,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >it is indeed the bottom doorbell. there's a foulab sticker next to it on the wall
 
+6/22/2017 2:07 PM
+
+ **sid_fulminds** :
+
+ >sydneyneurotechx fred-simard melanie at what time are hacknights happening at Foulab tomorrow and next Friday?
+
