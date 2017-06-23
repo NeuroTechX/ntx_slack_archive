@@ -1980,3 +1980,9 @@ Website: <https://urish.org>
 
  >There are also city chapters! Check in <http://meetup.com|meetup.com> NeuroTechX + name of your city
 
+6/23/2017 2:20 PM
+
+ **buanzo** :
+
+ >hi! i'd like to check out your work! i am into modular synthesis now
+
