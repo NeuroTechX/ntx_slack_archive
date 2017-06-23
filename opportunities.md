@@ -681,3 +681,9 @@ Looks like a really great opportunity to work with really smart people.
 
  >Post doc position  in BCI : <http://www.ru.nl/werken/details/details_vacature_0/?recid=597503>
 
+6/23/2017 2:38 AM
+
+ **adam** :
+
+ >Delta Brain Inc. is hiring a Back End / Machine Learning Engineer. Salaried position with benefits in Pasadena, California for a US citizen or permanent resident. No remote/no recruiters. If interested, please email resume and cover letter to: <mailto:recruiting@delta-brain.com|recruiting@delta-brain.com>. Details: <https://angel.co/delta-brain/jobs/248970-backend-software-engineer>
+
