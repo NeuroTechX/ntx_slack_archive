@@ -963,3 +963,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >i'll be there
 
+6/23/2017 8:45 PM
+
+ **yannick** :
+
+ >Wont be making it tonight unfortunately. Have a great HackNight! and a great St-Jean Weekend :slightly_smiling_face:
+
