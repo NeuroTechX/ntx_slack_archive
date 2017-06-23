@@ -2283,3 +2283,9 @@ Thanks a million!
 
  >3pcb and dirtypcbs can both do good work for super cheap
 
+6/23/2017 12:15 AM
+
+ **naoto** :
+
+ >I don't know if it's packet loss but I had some bad issues with packet loss on Linux <https://github.com/OpenBCI/OpenBCI_Python>
+
