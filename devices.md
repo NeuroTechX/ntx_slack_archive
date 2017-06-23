@@ -2289,3 +2289,9 @@ Thanks a million!
 
  >I don't know if it's packet loss but I had some bad issues with packet loss on Linux <https://github.com/OpenBCI/OpenBCI_Python>
 
+6/23/2017 12:21 AM
+
+ **yrenard** :
+
+ >could also be reference electrode popping
+
