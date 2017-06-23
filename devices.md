@@ -2295,3 +2295,9 @@ Thanks a million!
 
  >could also be reference electrode popping
 
+6/23/2017 1:56 AM
+
+ **dano** :
+
+ >naoto: I am on Linux
+
