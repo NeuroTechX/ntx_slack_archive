@@ -2307,3 +2307,9 @@ Thanks a million!
 
  >yrenard: The references are the ear clips, right? Any way to improve their connection? I did notice high impedence for them
 
+6/23/2017 2:24 AM
+
+ **yrenard** :
+
+ >yes, I guess this is the earclips - I think some people are adding some saline solution or gel on them, and you can also clean the ear lobe with alcohol prior to applying the electrode, but electrode pop is not exactly similar to impedance issues, it might more be that the electrode is moving a little bit or that the conductive surface loses connection with the skin from time to time
+
