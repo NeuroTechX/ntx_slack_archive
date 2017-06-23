@@ -1650,3 +1650,9 @@ Also, anyone else get miffed by the fact that every big initiative is dubbed a "
 > 
 <http://gizmodo.com/nasa-calls-bullshit-on-goops-120-bio-frequency-healing-1796309360>
 
+6/23/2017 8:58 PM
+
+ **sc** :
+
+ ><https://www.powerofpositivity.com/paralyzed-patients-tell-doctors-happy-computer-reads-thoughts/>
+
