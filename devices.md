@@ -2301,3 +2301,9 @@ Thanks a million!
 
  >naoto: I am on Linux
 
+6/23/2017 1:56 AM
+
+ **dano** :
+
+ >yrenard: The references are the ear clips, right? Any way to improve their connection? I did notice high impedence for them
+
