@@ -4209,3 +4209,9 @@ Here is the livestream link for June 25th 3:30 pm PST. <https://www.youtube.com/
 > 
 More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
 
+6/24/2017 2:53 AM
+
+ **dano** :
+
+ >Please record it and keep it up on Youtube if you guys can. I don't think I'll have time to catch the stream on Sunday, but I do want to watch
+
