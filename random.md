@@ -1698,3 +1698,9 @@ Thanks! Manon
 
  >Not sure to which extent this is all true and accurate, but we are probably steering in this direction (pun intended)
 
+6/24/2017 9:45 PM
+
+ **timopheym** :
+
+ >Sorry guys, does anyone knows opensourced control-bases application for openBCI (games, or anything else?) I found <http://openbci.com/community/openbci-game-aya/> but there no sources availible. Thanks!
+
