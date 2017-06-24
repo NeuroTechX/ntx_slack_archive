@@ -2331,3 +2331,9 @@ Thanks a million!
 
  >dano that's super strange you should reach out to OpenBCI!
 
+6/24/2017 5:46 AM
+
+ **aj** :
+
+ >That high ref impedance is troubking
+
