@@ -195,3 +195,24 @@ You might need to get in touch with this club for that .
 
  >Sweet NYC hacknight tonight! Same time next week NYC!
 
+6/24/2017 12:03 AM
+
+ **a.tech** :
+
+ >Just a heads that we will be livestreaming a talk about quantum physics and neurobiology this Sunday. 
+
+> 
+
+
+> 
+Here is the livestream link for June 25th 3:30 pm PST. <https://www.youtube.com/watch?v=NFC4g3t9Bys>
+
+> 
+
+
+> 
+More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
+
+> 
+
+
