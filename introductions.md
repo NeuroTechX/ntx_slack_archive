@@ -1998,3 +1998,9 @@ Website: <https://urish.org>
 
  >Hi everyone! My name is Saskia, but most people call me Ski. I am a behavior analyst in Phoenix, AZ working with children on the autism spectrum. I am in the process of developing my own practice and am interested in using advances in technology to support the children I work with. For example, I've purchased a EDA wrist band to assist in better understanding the function of a behavior rather than just collecting data based on what I perceive or what is told to me by the family. I have also become really interested in VR for teaching social skills, but need to do more research in this area for any adverse effects. Anyway that's a little bit about me, I'm excited to learn more about the NeuroTechX community!
 
+6/24/2017 8:36 PM
+
+ **dj_mini** :
+
+ >oh buanzo ive seen some really cool eeg/modular stuff using littlebits ! let me know if you wanna tackle this at some point, i have the hardware, aside from modulars !
+
