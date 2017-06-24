@@ -1686,3 +1686,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 > 
 Thanks! Manon
 
+6/24/2017 8:13 PM
+
+ **urish** :
+
+ >Hi manonb , nice to meet. I am going to try that in a few days, I will probably post my results here
+
