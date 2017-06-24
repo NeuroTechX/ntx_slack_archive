@@ -2319,3 +2319,9 @@ Thanks a million!
 
  ><http://kickstarter.neuroon.com/sleep-hackers>
 
+6/24/2017 12:27 AM
+
+ **eferdinand** :
+
+ >Anyone has updates about this, it's been planned for a while now
+
