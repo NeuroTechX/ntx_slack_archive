@@ -1656,3 +1656,9 @@ Also, anyone else get miffed by the fact that every big initiative is dubbed a "
 
  ><https://www.powerofpositivity.com/paralyzed-patients-tell-doctors-happy-computer-reads-thoughts/>
 
+6/24/2017 5:07 AM
+
+ **sid_fulminds** :
+
+ >you guys have probably seen this already... :man::skin-tone-2::wrench::toilet::mushroom::princess:
+
