@@ -2343,3 +2343,9 @@ Thanks a million!
 
  >What does the data look like with no electrodes? This would not be a firmware issue
 
+6/24/2017 5:46 AM
+
+ **aj** :
+
+ >The newer firmware has no compression differences
+
