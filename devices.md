@@ -2361,3 +2361,9 @@ Thanks a million!
 
  >It'd be great to have a chat
 
+6/24/2017 3:03 PM
+
+ **aj** :
+
+ >javi_neuralcubes you should sell them on the OpenBCI online store!
+
