@@ -2373,3 +2373,12 @@ Thanks a million!
 
  >Would be the only single channel device
 
+6/24/2017 3:10 PM
+
+ **yannick** :
+
+ >javi_neuralcubes I hope well sell them on the NTX store :wink:  
+
+> 
+(new feature of NTX website 2.0 soon to be released)
+
