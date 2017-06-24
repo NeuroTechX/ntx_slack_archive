@@ -1692,3 +1692,9 @@ Thanks! Manon
 
  >Hi manonb , nice to meet. I am going to try that in a few days, I will probably post my results here
 
+6/24/2017 8:18 PM
+
+ **sid_fulminds** :
+
+ >Not sure to which extent this is all true and accurate, but we are probably steering in this direction (pun intended)
+
