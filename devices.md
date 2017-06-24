@@ -2325,3 +2325,9 @@ Thanks a million!
 
  >Anyone has updates about this, it's been planned for a while now
 
+6/24/2017 5:45 AM
+
+ **aj** :
+
+ >dano that's super strange you should reach out to OpenBCI!
+
