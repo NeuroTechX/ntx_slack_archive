@@ -1668,3 +1668,21 @@ Also, anyone else get miffed by the fact that every big initiative is dubbed a "
 
  ><https://youtu.be/55ymdPR5RN4>
 
+6/24/2017 1:17 PM
+
+ **manonb** :
+
+ >Hi,
+
+> 
+I am just starting and very new to this exciting world! :slightly_smiling_face:.  I am a programmer but have no electrical abilities :0.  I need to add to the standard Muse electrodes a couple of additional electrodes.
+
+> 
+Would someone be interested in doing this and selling me a pair?  The technical documentation of the muse states:"Auxiliary electrodes (enabled via [Settings] &gt; [Show Aux Input]) can be connected on the Muse micro USB connector, by pin 4 on the MU-02 (BlueTooth LE) model."
+
+> 
+<http://www.musemonitor.com/Technical_Manual.php>
+
+> 
+Thanks! Manon
+
