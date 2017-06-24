@@ -2313,3 +2313,9 @@ Thanks a million!
 
  >yes, I guess this is the earclips - I think some people are adding some saline solution or gel on them, and you can also clean the ear lobe with alcohol prior to applying the electrode, but electrode pop is not exactly similar to impedance issues, it might more be that the electrode is moving a little bit or that the conductive surface loses connection with the skin from time to time
 
+6/24/2017 12:25 AM
+
+ **eferdinand** :
+
+ ><http://kickstarter.neuroon.com/sleep-hackers>
+
