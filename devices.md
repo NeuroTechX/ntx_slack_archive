@@ -2355,3 +2355,9 @@ Thanks a million!
 
  >sydneyneurotechx how's your availability this week?
 
+6/24/2017 12:35 PM
+
+ **javi_neuralcubes** :
+
+ >It'd be great to have a chat
+
