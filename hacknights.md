@@ -216,3 +216,9 @@ More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
 > 
 
 
+6/24/2017 7:40 PM
+
+ **mattherich** :
+
+ >a.tech: Sounds interesting, I'll be following along!
+
