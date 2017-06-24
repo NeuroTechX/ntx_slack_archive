@@ -4191,3 +4191,21 @@ This looks like nice way do deliver stimuli for tactile BCIs and stuff like that
 
  >awesome
 
+6/24/2017 12:02 AM
+
+ **a.tech** :
+
+ >Just a heads that we will be livestreaming a talk about quantum physics and neurobiology this Sunday. 
+
+> 
+
+
+> 
+Here is the livestream link for June 25th 3:30 pm PST. <https://www.youtube.com/watch?v=NFC4g3t9Bys>
+
+> 
+
+
+> 
+More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
+
