@@ -4215,3 +4215,24 @@ More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
 
  >Please record it and keep it up on Youtube if you guys can. I don't think I'll have time to catch the stream on Sunday, but I do want to watch
 
+6/24/2017 1:07 PM
+
+ **manonb** :
+
+ >Hi,
+
+> 
+I need to add to the standard Muse electrodes a couple of additional electrodes.
+
+> 
+Would someone be interested in doing this and selling me a pair?  The technical documentation of the muse states:
+
+> 
+
+
+> 
+"Auxiliary electrodes (enabled via [Settings] &gt; [Show Aux Input]) can be connected on the Muse micro USB connector, by pin 4 on the MU-02 (BlueTooth LE) model."
+
+> 
+<http://www.musemonitor.com/Technical_Manual.php>
+
