@@ -2367,3 +2367,9 @@ Thanks a million!
 
  >javi_neuralcubes you should sell them on the OpenBCI online store!
 
+6/24/2017 3:03 PM
+
+ **aj** :
+
+ >Would be the only single channel device
+
