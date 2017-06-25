@@ -60,3 +60,27 @@
 
  >andrewjsauer: Splendid!
 
+6/25/2017 9:23 PM
+
+ **andrewjsauer** :
+
+ ><!channel> what's up los angeles! i sent out an email via <http://meetUp.com|meetUp.com> but i'll post here as well just in case. 
+
+> 
+
+
+> 
+as adam and i mentioned, we are rebooting this awesome community and part of that process is hearing from you. hence, survey time! shouldn't take more than a couple minutes asking basic questions like what day of the week you prefer, etc. thank you!
+
+> 
+
+
+> 
+stay cool out there! :sunglasses:
+
+> 
+
+
+> 
+survey: <https://goo.gl/forms/JbGt0XhqlHmbLIe53>
+
