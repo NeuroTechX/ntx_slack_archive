@@ -1722,3 +1722,9 @@ Thanks! Manon
 
  >sydneyneurotechx Is it that one <https://github.com/niyathic/flappybird_easy/tree/master/flappy_bird_easy> ?
 
+6/25/2017 7:23 PM
+
+ **timopheym** :
+
+ >I found PR with the list <https://github.com/niyathic/Docs/blob/69156c2671bff2fc85cc4461b875a2d2ac7d9af7/tutorials/13-Hacking_OpenBCI.md>
+
