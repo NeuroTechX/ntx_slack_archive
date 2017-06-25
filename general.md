@@ -4248,3 +4248,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >rashi Neuropod is good: <http://www.nature.com/neurosci/neuropod/index.html>
 
+6/25/2017 5:12 AM
+
+ **pierre** :
+
+ >this one is good too, but if you have time: <http://snrp.utsa.edu/Podcast/Podcast.html>
+
