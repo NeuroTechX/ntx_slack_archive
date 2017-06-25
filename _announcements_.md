@@ -936,3 +936,30 @@ Check out these interesting links :slightly_smiling_face:
 > 
 NP :) I will repost these asap in the <#C5RB2U1MW|quantum_systems> channel and we can chat about this stuff there!
 
+6/25/2017 8:11 PM
+
+ **a.tech** :
+
+ >T-minus ~2.5hrs to Live Feed for Vancouver Chapter's talk on "Warm Quantum Coherence in Biological Systems and Orchestrated Objective Reduction".
+
+> 
+
+
+> 
+Talk starts at 330pm PST. 
+
+> 
+
+
+> 
+<https://www.youtube.com/watch?v=NFC4g3t9Bys>
+
+> 
+
+
+> 
+See you there <!channel> 
+
+> 
+
+
