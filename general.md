@@ -4260,3 +4260,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >pierre "Please note that from December 2015, NeuroPod is not being updated."
 
+6/25/2017 5:13 AM
+
+ **pierre** :
+
+ >ah too bad... I was thinking I haven't been listening to it in a while and I guess that's why hahah
+
