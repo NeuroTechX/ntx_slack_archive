@@ -84,3 +84,9 @@ stay cool out there! :sunglasses:
 > 
 survey: <https://goo.gl/forms/JbGt0XhqlHmbLIe53>
 
+6/25/2017 10:25 PM
+
+ **stevosupremo33** :
+
+ ><!here> any techies out there interested in working on a holistic health application - pm me! Will be incorporating different forms of biofeedback including eeg
+
