@@ -1710,3 +1710,9 @@ Thanks! Manon
 
  >urish: Good luck! I heard it can make the toolmore accurate
 
+6/25/2017 5:59 PM
+
+ **sydneyneurotechx** :
+
+ >timopheym  aj developed one game with flappy Bird and OpenBCI. Is it available aj?
+
