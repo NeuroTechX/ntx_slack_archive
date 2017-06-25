@@ -1704,3 +1704,9 @@ Thanks! Manon
 
  >Sorry guys, does anyone knows opensourced control-bases application for openBCI (games, or anything else?) I found <http://openbci.com/community/openbci-game-aya/> but there no sources availible. Thanks!
 
+6/25/2017 5:00 PM
+
+ **manonb** :
+
+ >urish: Good luck! I heard it can make the toolmore accurate
+
