@@ -72,3 +72,9 @@
 
  ><http://www.neuroelectrics.com/>
 
+6/25/2017 8:13 PM
+
+ **pskorupinski** :
+
+ >Que querias hacer exactamente?
+
