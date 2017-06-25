@@ -2388,3 +2388,9 @@ Thanks a million!
 
  >Hi all! I would love feedback on the OpenBCI wifi shield http rest server protocol!! <https://app.swaggerhub.com/apis/pushtheworld/openbci-wifi-server/1.1.0> 
 
+6/25/2017 2:45 PM
+
+ **aj** :
+
+ >I'm finalizing the 1.0.0 firmware June 30th!
+
