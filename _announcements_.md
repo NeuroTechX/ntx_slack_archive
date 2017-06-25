@@ -969,3 +969,9 @@ See you there <!channel>
 
  >:slightly_smiling_face: 
 
+6/25/2017 10:34 PM
+
+ **mattherich** :
+
+ >Technical difficulties, hangouts link: <https://hangouts.google.com/call/ftw534ni2bbtrcmjmwndrek7ueu>
+
