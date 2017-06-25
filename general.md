@@ -4266,3 +4266,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >ah too bad... I was thinking I haven't been listening to it in a while and I guess that's why hahah
 
+6/25/2017 5:14 AM
+
+ **pierre** :
+
+ >still recommend delving into the older episodes, as they were quite good and still pretty current
+
