@@ -2382,3 +2382,9 @@ Thanks a million!
 > 
 (new feature of NTX website 2.0 soon to be released)
 
+6/25/2017 2:44 PM
+
+ **aj** :
+
+ >Hi all! I would love feedback on the OpenBCI wifi shield http rest server protocol!! <https://app.swaggerhub.com/apis/pushtheworld/openbci-wifi-server/1.1.0> 
+
