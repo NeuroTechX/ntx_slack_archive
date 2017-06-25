@@ -4254,3 +4254,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >this one is good too, but if you have time: <http://snrp.utsa.edu/Podcast/Podcast.html>
 
+6/25/2017 5:12 AM
+
+ **rashi** :
+
+ >pierre "Please note that from December 2015, NeuroPod is not being updated."
+
