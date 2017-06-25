@@ -1716,3 +1716,9 @@ Thanks! Manon
 
  >timopheym  aj developed one game with flappy Bird and OpenBCI. Is it available aj?
 
+6/25/2017 7:23 PM
+
+ **timopheym** :
+
+ >sydneyneurotechx Is it that one <https://github.com/niyathic/flappybird_easy/tree/master/flappy_bird_easy> ?
+
