@@ -4242,3 +4242,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >Is there a good Neuroscience Podcast? 
 
+6/25/2017 5:11 AM
+
+ **pierre** :
+
+ >rashi Neuropod is good: <http://www.nature.com/neurosci/neuropod/index.html>
+
