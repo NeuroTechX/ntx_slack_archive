@@ -2010,3 +2010,9 @@ Website: <https://urish.org>
 
  >Hello everyone! My name is Rasmus and I'm an entrepreneur by heart. I have one miserably unsuccessful startup of my own under my belt, and currently I spend my days working for a big a startup. I find the future of neurotechnology highly exciting and meaningful field to work on and I'd love to start learning more about it. As a complete newbie to this subject, I intend to start the journey by going through a stack of textbooks about the field I have on my bedside table. Once I have something to contribute, I'd very much like to be able to take part in the conversation. Happy to meet you all! :v:
 
+6/25/2017 2:12 PM
+
+ **rashi** :
+
+ >Hi rasmus ! Welcome! Feel free to jump in before you read all your textbooks.
+
