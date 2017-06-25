@@ -2016,3 +2016,9 @@ Website: <https://urish.org>
 
  >Hi rasmus ! Welcome! Feel free to jump in before you read all your textbooks.
 
+6/25/2017 3:13 PM
+
+ **yrenard** :
+
+ >Hi rasmus, you will find that your miserably unsuccessful startup will probably be a huge part of the success of your next - and hey, you are already contributing - welcome on NTX
+
