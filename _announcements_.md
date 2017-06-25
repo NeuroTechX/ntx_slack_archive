@@ -975,3 +975,9 @@ See you there <!channel>
 
  >Technical difficulties, hangouts link: <https://hangouts.google.com/call/ftw534ni2bbtrcmjmwndrek7ueu>
 
+6/25/2017 11:11 PM
+
+ **a.tech** :
+
+ >Thank you so much for sharing this here Matt. It was a little hectic!
+
