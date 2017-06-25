@@ -4236,3 +4236,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 > 
 <http://www.musemonitor.com/Technical_Manual.php>
 
+6/25/2017 12:05 AM
+
+ **rashi** :
+
+ >Is there a good Neuroscience Podcast? 
+
