@@ -60,3 +60,9 @@
 
  >Me gustaria aprender acerca de BCI, si hay alguna propuesta interesante para colaborar o hacer un proyecto también estoy interesado.
 
+6/25/2017 8:13 PM
+
+ **pskorupinski** :
+
+ >Hola Agustin!
+
