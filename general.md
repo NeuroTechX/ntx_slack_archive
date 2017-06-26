@@ -4284,3 +4284,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >javi_neuralcubes: Hi Javi! could you please tell us a little bit more about your project?
 
+6/26/2017 3:56 PM
+
+ **javi_neuralcubes** :
+
+ >sid_fulminds  yes this is the whole desc <https://jmanart.github.io/smartphone-bci-hardware/>
+
