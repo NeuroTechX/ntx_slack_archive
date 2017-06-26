@@ -4290,3 +4290,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >sid_fulminds  yes this is the whole desc <https://jmanart.github.io/smartphone-bci-hardware/>
 
+6/26/2017 3:58 PM
+
+ **sid_fulminds** :
+
+ >nice! :slightly_smiling_face: thanks
+
