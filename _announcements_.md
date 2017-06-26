@@ -999,3 +999,12 @@ See you there <!channel>
 
  >I was also curious about it
 
+6/26/2017 2:49 PM
+
+ **yannick** :
+
+ >We released Junes newsletter this weekend, if you missed it:
+
+> 
+<http://bit.ly/ntx-summertime|bit.ly/ntx-summertime>
+
