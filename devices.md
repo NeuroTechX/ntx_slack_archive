@@ -2394,3 +2394,15 @@ Thanks a million!
 
  >I'm finalizing the 1.0.0 firmware June 30th!
 
+6/26/2017 2:38 PM
+
+ **javi_neuralcubes** :
+
+ >yannick that's a great idea!
+
+> 
+aj what kind of process should we follow to sell it at the openbci store
+
+> 
+also, this is a kind of super dyi thing, we haven't  gone through any kind of quality testing/regulation stuff... how does the liability works with you guys :smile:
+
