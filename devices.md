@@ -2424,3 +2424,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  >does muse has a warranty because mine was broken which about like 3 months old
 
+6/26/2017 7:31 PM
+
+ **aj** :
+
+ > dano yes please try and use another PC!
+
