@@ -4278,3 +4278,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >We're trying give a push to the <#C1G552DD4|smartphone-bci> project, now known as icibici (pronounced as easy-bisi) for that we're going to order some pcbs of the project in bulk. We are wondering if anyone would be interested in getting some for organising hackathons for their chapters, or just to play around a bit. Also we're trying to get some funding to give the project a bit of push! join our channel if you want learn more!
 
+6/26/2017 3:40 PM
+
+ **sid_fulminds** :
+
+ >javi_neuralcubes: Hi Javi! could you please tell us a little bit more about your project?
+
