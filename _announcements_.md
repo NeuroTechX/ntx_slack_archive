@@ -987,3 +987,9 @@ See you there <!channel>
 
  >No problem, I enjoyed the talk!
 
+6/26/2017 10:24 AM
+
+ **rashi** :
+
+ >Is there an archive of the talk? 
+
