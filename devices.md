@@ -2418,3 +2418,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  >I'll try and use the same ganglion with a PC and see if I get the same error
 
+6/26/2017 5:23 PM
+
+ **bhargava2566302** :
+
+ >does muse has a warranty because mine was broken which about like 3 months old
+
