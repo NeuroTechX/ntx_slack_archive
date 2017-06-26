@@ -4302,3 +4302,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >I've never really come across a good neuroscience podcast after NeuroPod (RIP)
 
+6/26/2017 7:13 PM
+
+ **dano** :
+
+ >You might want to try the Super Science Happy Hour back catalog <https://itunes.apple.com/us/podcast/the-super-science-happy-hour-with-matt-matt/id653573048?mt=2>
+
