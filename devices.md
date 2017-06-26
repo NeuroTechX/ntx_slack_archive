@@ -2412,3 +2412,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  >andt thanks alexandre.barachant
 
+6/26/2017 4:37 PM
+
+ **dano** :
+
+ >I'll try and use the same ganglion with a PC and see if I get the same error
+
