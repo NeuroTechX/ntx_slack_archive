@@ -993,3 +993,9 @@ See you there <!channel>
 
  >Is there an archive of the talk? 
 
+6/26/2017 11:16 AM
+
+ **z3** :
+
+ >I was also curious about it
+
