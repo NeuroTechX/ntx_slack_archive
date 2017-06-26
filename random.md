@@ -1740,3 +1740,12 @@ Thanks! Manon
 
  >Mine was just a little EMG controller game
 
+6/26/2017 9:37 AM
+
+ **yannick** :
+
+ ><https://futurism.com/scientists-selectively-erased-memories-in-snails-are-we-next/>
+
+> 
+dan.rizzuto do you have any comment?
+
