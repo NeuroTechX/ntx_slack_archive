@@ -4296,3 +4296,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >nice! :slightly_smiling_face: thanks
 
+6/26/2017 7:12 PM
+
+ **dano** :
+
+ >I've never really come across a good neuroscience podcast after NeuroPod (RIP)
+
