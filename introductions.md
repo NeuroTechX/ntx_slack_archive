@@ -2028,3 +2028,9 @@ Website: <https://urish.org>
 
  >Hello All, glad I found the NeuroTechX community! Looking forward to learning more.  Through my work at UCSD a few years ago, I started a blog on cognitive health that's turned into a niche media site. With your okay, would like to share topics &amp; progress with our 50k+ subscribers.  Thanks:+1:
 
+6/26/2017 7:49 PM
+
+ **yannick** :
+
+ >Hey dcelliott welcome on board! Very interesting, Ill contact you in PM. Whats the blog/site?
+
