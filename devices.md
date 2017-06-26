@@ -2406,3 +2406,9 @@ aj what kind of process should we follow to sell it at the openbci store
 > 
 also, this is a kind of super dyi thing, we haven't  gone through any kind of quality testing/regulation stuff... how does the liability works with you guys :smile:
 
+6/26/2017 2:39 PM
+
+ **javi_neuralcubes** :
+
+ >andt thanks alexandre.barachant
+
