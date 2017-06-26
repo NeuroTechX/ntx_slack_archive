@@ -2022,3 +2022,9 @@ Website: <https://urish.org>
 
  >Hi rasmus, you will find that your miserably unsuccessful startup will probably be a huge part of the success of your next - and hey, you are already contributing - welcome on NTX
 
+6/26/2017 6:00 PM
+
+ **dcelliott** :
+
+ >Hello All, glad I found the NeuroTechX community! Looking forward to learning more.  Through my work at UCSD a few years ago, I started a blog on cognitive health that's turned into a niche media site. With your okay, would like to share topics &amp; progress with our 50k+ subscribers.  Thanks:+1:
+
