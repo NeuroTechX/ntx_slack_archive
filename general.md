@@ -4308,3 +4308,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >You might want to try the Super Science Happy Hour back catalog <https://itunes.apple.com/us/podcast/the-super-science-happy-hour-with-matt-matt/id653573048?mt=2>
 
+6/26/2017 7:13 PM
+
+ **dano** :
+
+ >They're two really geeky, kind of funny neuro postdocs who ramble. Some times they talk about their science
+
