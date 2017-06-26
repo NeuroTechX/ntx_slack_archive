@@ -981,3 +981,9 @@ See you there <!channel>
 
  >Thank you so much for sharing this here Matt. It was a little hectic!
 
+6/26/2017 12:32 AM
+
+ **mattherich** :
+
+ >No problem, I enjoyed the talk!
+
