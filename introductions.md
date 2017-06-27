@@ -2058,3 +2058,9 @@ Website: <https://urish.org>
 > 
 If you don't feel comfortable contributing just yet, there are also some channels that are less Neurotech related which you can can join such as <#C073WQK34|random>, however never be afraid to share a thought or question!
 
+6/27/2017 4:52 AM
+
+ **hfork** :
+
+ >Hello everyone. I'm Mehdi from Montreal, currently studying electrical engineering at Polytechnique. Found NTX by "chance" while I was looking for a computational neuroscience online course. I'm completely new to the neuro field thus I'm ready to start learning from scratch (I'm totally open to all your suggestions, 101s over here!). Also, I intend to use my summer time trying to get seriously started in AI.
+
