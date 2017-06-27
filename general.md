@@ -4314,3 +4314,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >They're two really geeky, kind of funny neuro postdocs who ramble. Some times they talk about their science
 
+6/27/2017 12:17 AM
+
+ **joeyo** :
+
+ ><http://snrp.utsa.edu/Podcast/Podcast.html>
+
