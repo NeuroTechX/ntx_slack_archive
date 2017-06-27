@@ -4326,3 +4326,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >"Neuroscientists Talk Shop is the University of Texas at San Antonio's (UTSA) Neurobiology Podcast, showcasing the current research of internationally renowned guest Neuroscientists."
 
+6/27/2017 12:18 AM
+
+ **joeyo** :
+
+ >Ah Pierre already posted it, pardon
+
