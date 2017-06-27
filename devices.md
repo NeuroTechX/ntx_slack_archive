@@ -2436,3 +2436,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  >Neuroon Open has launched an open source eeg for sleeping. <https://www.kickstarter.com/projects/intelclinic/neuroon-open-smartest-sleep-dreams-and-meditation>
 
+6/27/2017 9:44 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  anyone in NeuroTechX associated with them??
+
