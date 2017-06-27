@@ -84,3 +84,9 @@
 
  >Hola! Soy Mar Estarellas, también estudiante de  Ingeniería Biomédica de la UPF (que casualidad agustnr64 !)
 
+6/27/2017 10:25 AM
+
+ **mar_estarellas** :
+
+ >Pues agustnr64 , justamente yo quería comentar sobre un proyecto que tenemos unos compañeros y yo. Se trata de un prototipo de BCI para silla de ruedas, lo llamamos Whee'll. Nació de un proyecto de una asignatura pero lo hemos seguido sacando adelante. Hace poco ganamos un premio y ahora tenemos algo de presupuesto para seguir con la idea, cosa que antes nos faltaba, por tanto estamos buscando a gente que se quiera unir con nosotros para terminarlo.
+
