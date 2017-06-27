@@ -1038,3 +1038,9 @@ I just spoke with the film crew and we should have edited footage ready to roll 
 
  >hectordomorozco: say whatttt! Amazing :) KW is having an event on Thursday as well, and TO on Friday. What a week! 
 
+6/27/2017 7:01 PM
+
+ **sydneyneurotechx** :
+
+ >Congrats hectordomorozco  and good luck! Looking forward to hearing about the results
+
