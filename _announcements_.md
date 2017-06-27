@@ -1026,3 +1026,9 @@ I just spoke with the film crew and we should have edited footage ready to roll 
 
  >Awesome, a.tech! Will look out for it
 
+6/27/2017 5:41 PM
+
+ **hectordomorozco** :
+
+ >We are having our First official big meeting on Thursday as NeuroTechXs Hamilton chapter and I am super excited and I just wanted to share that with you guys :octopicorn: :unicorn_face: :confetti_ball: (Also, I just created the Slack channel)
+
