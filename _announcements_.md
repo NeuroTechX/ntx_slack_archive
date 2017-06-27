@@ -1008,3 +1008,15 @@ See you there <!channel>
 > 
 <http://bit.ly/ntx-summertime|bit.ly/ntx-summertime>
 
+6/27/2017 12:43 AM
+
+ **a.tech** :
+
+ >z3 rashi gg timfiori 
+
+> 
+
+
+> 
+I just spoke with the film crew and we should have edited footage ready to roll soon. Will upload it on our <#C5RB2U1MW|quantum_systems> page!
+
