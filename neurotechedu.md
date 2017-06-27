@@ -738,3 +738,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Hey everyone, a couple of Italian high-school students I supervised have made a BCI based on Arduino to control a toy car with alpha waves. They shared the project on hackster, but I thought it could be useful to share it on NTX Edu as well: <https://www.hackster.io/daniel-rossi/brainforce-fd2aab>
 
+6/27/2017 7:50 PM
+
+ **sydneyneurotechx** :
+
+ >For those interested, OHBM put together some material's around eeg and MRI. Pretty cool find <https://www.humanbrainmapping.org/m/pages.cfm?pageID=3814>
+
