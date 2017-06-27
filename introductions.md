@@ -2100,3 +2100,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >dano Oh, a friend of mine recommended the same course. Anyway, there is so much AI online course material.
 
+6/27/2017 11:02 PM
+
+ **poppingtonic** :
+
+ >Thank you, sydneyneurotechx !
+
