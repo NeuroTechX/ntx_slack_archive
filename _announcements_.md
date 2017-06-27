@@ -1062,3 +1062,12 @@ I just spoke with the film crew and we should have edited footage ready to roll 
 > 
 Funny thing: I send a mail to the Psych and Neuroscience department today and I made an interesting mistake: I wrote Neurotic group in Hamilton instead of NeuroTech group in Hamilton as the subject and& oh, well. At least I hope it catches peoples eyes.
 
+6/27/2017 7:19 PM
+
+ **hectordomorozco** :
+
+ >Yeeeees; Ill volunteering in the Toronto event :smile: 
+
+> 
+Ontario is on fire these days :heart:
+
