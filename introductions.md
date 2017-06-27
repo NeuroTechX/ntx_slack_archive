@@ -2094,3 +2094,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >poppingtonic: Welcome Brian!
 
+6/27/2017 7:32 PM
+
+ **hfork** :
+
+ >dano Oh, a friend of mine recommended the same course. Anyway, there is so much AI online course material.
+
