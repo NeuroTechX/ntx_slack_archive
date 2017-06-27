@@ -2076,3 +2076,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey benjamindeleener, I didn't know about it until yesterday actually. I will probably contact them in the next few days/weeks and see if I can meet some of the members so I can learn more about what they're planning for autumn 2017.
 
+6/27/2017 12:35 PM
+
+ **poppingtonic** :
+
+ >Hi I'm Brian, a software engineer from Nairobi, Kenya. I learned about NTX from the openbci forums. I'm looking to learn more about neuroscience through online courses and open hardware neurotech. Mainly so I can understand current AI techniques with varied data sources.
+
