@@ -2430,3 +2430,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  > dano yes please try and use another PC!
 
+6/27/2017 9:43 PM
+
+ **sydneyneurotechx** :
+
+ >Neuroon Open has launched an open source eeg for sleeping. <https://www.kickstarter.com/projects/intelclinic/neuroon-open-smartest-sleep-dreams-and-meditation>
+
