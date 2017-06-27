@@ -78,3 +78,9 @@
 
  >Que querias hacer exactamente?
 
+6/27/2017 10:19 AM
+
+ **mar_estarellas** :
+
+ >Hola! Soy Mar Estarellas, también estudiante de  Ingeniería Biomédica de la UPF (que casualidad agustnr64 !)
+
