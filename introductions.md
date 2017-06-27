@@ -2046,3 +2046,15 @@ Website: <https://urish.org>
 
  >dcelliott: welcome to the community!
 
+6/27/2017 2:51 AM
+
+ **sydneyneurotechx** :
+
+ >rasmus: Welcome Rasmus!  I co-founded a startup incubator and I've discovered that the majority of people fail their first startup. As long as you persist and learn quickly from your mistakes, you'll make it. I've seem companies be laughed at only to make it to big accelerators like YC. 
+
+> 
+
+
+> 
+If you don't feel comfortable contributing just yet, there are also some channels that are less Neurotech related which you can can join such as <#C073WQK34|random>, however never be afraid to share a thought or question!
+
