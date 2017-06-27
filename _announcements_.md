@@ -1032,3 +1032,9 @@ I just spoke with the film crew and we should have edited footage ready to roll 
 
  >We are having our First official big meeting on Thursday as NeuroTechXs Hamilton chapter and I am super excited and I just wanted to share that with you guys :octopicorn: :unicorn_face: :confetti_ball: (Also, I just created the Slack channel)
 
+6/27/2017 6:56 PM
+
+ **bryan_j** :
+
+ >hectordomorozco: say whatttt! Amazing :) KW is having an event on Thursday as well, and TO on Friday. What a week! 
+
