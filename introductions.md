@@ -2070,3 +2070,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey hfork, do you know PolyCortex? It is the neurotech student club at Polytechnique. That would be a good starting point to learn about neurotechnologies. They also have some devices you could start experimenting on.
 
+6/27/2017 10:19 AM
+
+ **hfork** :
+
+ >Hey benjamindeleener, I didn't know about it until yesterday actually. I will probably contact them in the next few days/weeks and see if I can meet some of the members so I can learn more about what they're planning for autumn 2017.
+
