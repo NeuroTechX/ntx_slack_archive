@@ -2088,3 +2088,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >hfork: Good idea. I'm kind of doing the same with with AI by taking this <http://course.fast.ai/>
 
+6/27/2017 3:56 PM
+
+ **sydneyneurotechx** :
+
+ >poppingtonic: Welcome Brian!
+
