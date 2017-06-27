@@ -1020,3 +1020,9 @@ See you there <!channel>
 > 
 I just spoke with the film crew and we should have edited footage ready to roll soon. Will upload it on our <#C5RB2U1MW|quantum_systems> page!
 
+6/27/2017 12:44 AM
+
+ **gg** :
+
+ >Awesome, a.tech! Will look out for it
+
