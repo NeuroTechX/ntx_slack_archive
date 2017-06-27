@@ -2064,3 +2064,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hello everyone. I'm Mehdi from Montreal, currently studying electrical engineering at Polytechnique. Found NTX by "chance" while I was looking for a computational neuroscience online course. I'm completely new to the neuro field thus I'm ready to start learning from scratch (I'm totally open to all your suggestions, 101s over here!). Also, I intend to use my summer time trying to get seriously started in AI.
 
+6/27/2017 10:10 AM
+
+ **benjamindeleener** :
+
+ >Hey hfork, do you know PolyCortex? It is the neurotech student club at Polytechnique. That would be a good starting point to learn about neurotechnologies. They also have some devices you could start experimenting on.
+
