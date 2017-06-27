@@ -969,3 +969,15 @@ Ill be attending both, let me know if you are attending any of them.
 
  >Wont be making it tonight unfortunately. Have a great HackNight! and a great St-Jean Weekend :slightly_smiling_face:
 
+6/27/2017 1:44 AM
+
+ **sydneyneurotechx** :
+
+ ><!channel> For July 14th, we will be doing our Hacknight as part of Hacker Nest at Startup Fest. This is a 24 hour hackathon where we will get the opportunity to come together to showcase some of our projects to the larger hacker community. We will have 4 other organizations be there such as Hacking Health, Brico Bio and others.  Tickets are 15$. Hope you all can make it :slightly_smiling_face:
+
+> 
+
+
+> 
+<http://www.startupfestival.com/hackerfest/>
+
