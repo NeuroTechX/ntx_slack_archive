@@ -4356,3 +4356,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >Tell us a bit about yourself
 
+6/27/2017 2:40 AM
+
+ **sydneyneurotechx** :
+
+ >hey hfork. Please introduce yourself in the <#C08QEC5H7|introductions>  channel
+
