@@ -1044,3 +1044,9 @@ I just spoke with the film crew and we should have edited footage ready to roll 
 
  >Congrats hectordomorozco  and good luck! Looking forward to hearing about the results
 
+6/27/2017 7:08 PM
+
+ **bryan_j** :
+
+ >Congrats hectordomorozco! Send some photos of the awesomeness to your NTX family! 
+
