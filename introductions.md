@@ -2082,3 +2082,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi I'm Brian, a software engineer from Nairobi, Kenya. I learned about NTX from the openbci forums. I'm looking to learn more about neuroscience through online courses and open hardware neurotech. Mainly so I can understand current AI techniques with varied data sources.
 
+6/27/2017 1:16 PM
+
+ **dano** :
+
+ >hfork: Good idea. I'm kind of doing the same with with AI by taking this <http://course.fast.ai/>
+
