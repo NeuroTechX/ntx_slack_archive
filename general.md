@@ -4368,3 +4368,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >dano: AWESOMEEE - excited to see it in action this Friday!
 
+6/28/2017 2:00 AM
+
+ **bryan_j** :
+
+ >dano: Agreed!
+
