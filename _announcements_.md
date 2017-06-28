@@ -1095,3 +1095,9 @@ Gotta love the age of auto-correct that we live in :stuck_out_tongue: hopefully 
 
  >Love it haha! I may have to use that some time :P
 
+6/28/2017 3:11 PM
+
+ **hectordomorozco** :
+
+ >Oh, please do :laughing:
+
