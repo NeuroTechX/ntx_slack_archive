@@ -1089,3 +1089,9 @@ Gotta love the age of auto-correct that we live in :stuck_out_tongue: hopefully 
 
  >Oh, no, people apparently took it as a nice joke :laughing:
 
+6/28/2017 3:05 PM
+
+ **bryan_j** :
+
+ >Love it haha! I may have to use that some time :P
+
