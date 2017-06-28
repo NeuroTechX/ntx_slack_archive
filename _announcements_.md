@@ -1083,3 +1083,9 @@ Ontario is on fire these days :heart:
 > 
 Gotta love the age of auto-correct that we live in :stuck_out_tongue: hopefully it is not a deterrent!
 
+6/28/2017 2:23 PM
+
+ **hectordomorozco** :
+
+ >Oh, no, people apparently took it as a nice joke :laughing:
+
