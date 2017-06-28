@@ -4362,3 +4362,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >hey hfork. Please introduce yourself in the <#C08QEC5H7|introductions>  channel
 
+6/28/2017 2:00 AM
+
+ **bryan_j** :
+
+ >dano: AWESOMEEE - excited to see it in action this Friday!
+
