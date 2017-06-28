@@ -4374,3 +4374,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 
  >dano: Agreed!
 
+6/28/2017 2:12 AM
+
+ **fred7272** :
+
+ >This presentation at the GPU Technology Conference is a bit computational in nature, but it seems like a significant improvement (from 4 hours to interactive) for this brain simulation tool. <http://on-demand.gputechconf.com/gtc/2017/video/s7342-zigon-gpu-data-mining-neuroimaging-genomics.mp4>  I am more of a general machine learning person, so I am curious to hear from computational neuroscience people. Is this best in class or there are better brain mapping/simulation tools out there?
+
