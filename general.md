@@ -4392,3 +4392,18 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 > 
 <https://futurism.com/world-first-ultrasound-used-to-jump-start-patients-brain-out-of-a-coma/>
 
+6/28/2017 8:50 PM
+
+ **griselda_pages** :
+
+ >Hi <!channel>, we're working hard on the *re-design of the NeuroTechX's website*. After having gathered some insights from the community, worked on strategy and designed the wireframes of the main pages, we're ready to start the design phase. *But before that, we'd love to have your feedback:* 
+
+> 
+&gt;*Is there anything missing?* For example: user goals, pages, sections, functionalities...
+
+> 
+&gt;*Is the document "understandable"?* Would you change anything? Add anything?
+
+> 
+Here's the doc that we're going to share with the designer: <https://docs.google.com/presentation/d/1Q2zlV6bufMgW5bidtCcYKBVrRAsPnvoJe3h61Ym-9fQ/edit?usp=sharing>
+
