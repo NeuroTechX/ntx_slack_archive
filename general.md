@@ -4407,3 +4407,9 @@ Would someone be interested in doing this and selling me a pair?  The technical 
 > 
 Here's the doc that we're going to share with the designer: <https://docs.google.com/presentation/d/1Q2zlV6bufMgW5bidtCcYKBVrRAsPnvoJe3h61Ym-9fQ/edit?usp=sharing>
 
+6/28/2017 10:47 PM
+
+ **mhough** :
+
+ >sydneyneurotechx interesting article on ultrasound. I still haven't made it to the foundation but I will have a look. Don't know why they have such a nice tractography image but we will see:) Thanks for pointing this out.
+
