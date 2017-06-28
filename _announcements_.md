@@ -1071,3 +1071,15 @@ Funny thing: I send a mail to the Psych and Neuroscience department today and I 
 > 
 Ontario is on fire these days :heart:
 
+6/28/2017 1:58 AM
+
+ **bryan_j** :
+
+ >hectordomorozco: looking forward to seeing the photos!
+
+> 
+
+
+> 
+Gotta love the age of auto-correct that we live in :stuck_out_tongue: hopefully it is not a deterrent!
+
