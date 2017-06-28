@@ -2106,3 +2106,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Thank you, sydneyneurotechx !
 
+6/28/2017 1:36 PM
+
+ **karletzel** :
+
+ >Hi I'm Karl - I live and work in Silicon Valley, long background in sports / fitness tech and also PaaS companies.  Looking for the right way to combine these in the neuroscience / cognitive performance world.  Also active in SV Health meetup, and I work with Firstbeat who are experts in heart rate analytics.
+
