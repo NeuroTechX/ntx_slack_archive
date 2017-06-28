@@ -1749,3 +1749,9 @@ Thanks! Manon
 > 
 dan.rizzuto do you have any comment?
 
+6/28/2017 12:23 PM
+
+ **jk** :
+
+ >Hello. My name is Jinsu and I just made an iOS app. Right now the goal is to tune your brain using binaural sound. The plan is to integrate it with neurotech in the future. The app is called Zone. <https://goo.gl/KjktDe>
+
