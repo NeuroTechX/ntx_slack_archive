@@ -1323,3 +1323,21 @@ Big items for tonight's hacknight include:
 
  >Sounds so fun! Wish I could attend. Have a blast, all! I look forward to hearing about it. dano share some photos pls! 
 
+6/29/2017 3:47 PM
+
+ **martys** :
+
+ >As part of the Toronto NeuroTechTO projects, we are partnering, TOHC, and The DMZ are partnering up to introduce the basics of Brain  Computer Interfaces.  NeuroTechTO will demonstrate several examples and how to setup your own hardware so we can all start hacking!  
+
+> 
+
+
+> 
+Dr. Steve Prescott is joining the team to discuss the medical applications of  neurotechnology.  In his lab, Steve's ultimate goal is to uncover how the nervous system processes pain-related sensory information and how chronic pain arises. Those findings have broad applications but we also consider the specific consequences of neural information processing for pain. 
+
+> 
+
+
+> 
+We are getting excited about the event and the amazing world of neuroscience!!!
+
