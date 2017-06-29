@@ -4461,3 +4461,9 @@ Ref:
 
  >Yes, thank you very much Griselda
 
+6/29/2017 4:56 PM
+
+ **griselda_pages** :
+
+ >you're welcome! Also, if anybody in the local community has any suggestions for future events, or activities, they can always contact the local organizers. They'll be more than happy to hear some ideas and get some feedback :slightly_smiling_face:
+
