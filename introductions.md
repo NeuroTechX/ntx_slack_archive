@@ -2118,3 +2118,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >karletzel: Welcome Karl! You should connect with yannick
 
+6/29/2017 8:31 PM
+
+ **dj_mini** :
+
+ >hey there, welcome ! always game to apply this AI to music :slightly_smiling_face: let me know if you want to play !
+
