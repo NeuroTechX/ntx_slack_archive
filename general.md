@@ -4437,3 +4437,9 @@ Ref:
 > 
 <https://maori.geek.nz/why-are-ultrasound-machines-so-expensive-623ce91d8402>
 
+6/29/2017 6:25 AM
+
+ **mhough** :
+
+ >sydneyneurotechx thanks so much. Yeah familiar with all this. It's what Karl Pribrams partner would really like me to follow up on with the foundation in Charlottesville. It's a really big deal clinically. People interested in medical development should really be looking at this. Research wise my interest is in what you can do with sensor fusion or maybe better to say sensor synergy. Combining this with optical and EM is very rewarding but it might not be the best in terms of lowering the cost of a US system. 
+
