@@ -4443,3 +4443,9 @@ Ref:
 
  >sydneyneurotechx thanks so much. Yeah familiar with all this. It's what Karl Pribrams partner would really like me to follow up on with the foundation in Charlottesville. It's a really big deal clinically. People interested in medical development should really be looking at this. Research wise my interest is in what you can do with sensor fusion or maybe better to say sensor synergy. Combining this with optical and EM is very rewarding but it might not be the best in terms of lowering the cost of a US system. 
 
+6/29/2017 4:49 PM
+
+ **armin** :
+
+ >griselda_pages: Hi, can we have a section for scheduling local group meetings? For example, if it is possible that every three months those who are interested in Neurotech in Montreal have gathering to talk about Montreal news in Neurotech?
+
