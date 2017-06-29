@@ -4449,3 +4449,9 @@ Ref:
 
  >griselda_pages: Hi, can we have a section for scheduling local group meetings? For example, if it is possible that every three months those who are interested in Neurotech in Montreal have gathering to talk about Montreal news in Neurotech?
 
+6/29/2017 4:53 PM
+
+ **griselda_pages** :
+
+ >HI Armin! Thanks for the suggestion! But I'm not sure I understand what you mean. City chapters will keep organizing events via <http://meetup.com|meetup.com>, and those events are the ones that are going to be displayed in that "city" page. Also, all city chapters will keep their city channel on this slack, so the local community can chat in a more informal way, in between events. Does this answer your question?
+
