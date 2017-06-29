@@ -4413,3 +4413,27 @@ Here's the doc that we're going to share with the designer: <https://docs.google
 
  >sydneyneurotechx interesting article on ultrasound. I still haven't made it to the foundation but I will have a look. Don't know why they have such a nice tractography image but we will see:) Thanks for pointing this out.
 
+6/29/2017 3:24 AM
+
+ **sydneyneurotechx** :
+
+ >mhough: Yea, ultrasound still is one of those things that still needs a lot of exploration. As a Neuroimaging approach, ultrasound provide a better spatial resolution at a potential low cost.
+
+> 
+
+
+> 
+Ref:
+
+> 
+
+
+> 
+<http://fultrasound.eu/clinical-neuroimaging/>
+
+> 
+
+
+> 
+<https://maori.geek.nz/why-are-ultrasound-machines-so-expensive-623ce91d8402>
+
