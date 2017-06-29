@@ -4455,3 +4455,9 @@ Ref:
 
  >HI Armin! Thanks for the suggestion! But I'm not sure I understand what you mean. City chapters will keep organizing events via <http://meetup.com|meetup.com>, and those events are the ones that are going to be displayed in that "city" page. Also, all city chapters will keep their city channel on this slack, so the local community can chat in a more informal way, in between events. Does this answer your question?
 
+6/29/2017 4:55 PM
+
+ **armin** :
+
+ >Yes, thank you very much Griselda
+
