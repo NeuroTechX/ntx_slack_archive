@@ -1770,3 +1770,9 @@ dan.rizzuto do you have any comment?
 > 
 <http://synaptitude.me/blog/wp-content/uploads/2015/01/ssvep1.gif>
 
+6/29/2017 4:55 PM
+
+ **yannick** :
+
+ >hahahaha Love it!!!
+
