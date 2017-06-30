@@ -993,3 +993,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >welcome Armin
 
+6/30/2017 1:35 AM
+
+ **sydneyneurotechx** :
+
+ >We will be doing our Hacknight at Foulab tomorrow
+
