@@ -1059,3 +1059,9 @@ I'm looking for a source for a bunch of misc. electronic parts. Any recommendati
 
  >Thanks! Don't suppose you also want to volunteer to explain to my fiancee where all the money went? :slightly_smiling_face:
 
+6/30/2017 11:15 PM
+
+ **ray_cassani** :
+
+ >save few dollars for chocolate, that never fails :slightly_smiling_face:
+
