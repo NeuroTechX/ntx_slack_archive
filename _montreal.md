@@ -1047,3 +1047,9 @@ Ill be attending both, let me know if you are attending any of them.
 > 
 I'm looking for a source for a bunch of misc. electronic parts. Any recommendations for local places?
 
+6/30/2017 7:16 PM
+
+ **ray_cassani** :
+
+ ><https://abra-electronics.com/montreal-store.html> , <http://www.spikenzielabs.com/Catalog/>
+
