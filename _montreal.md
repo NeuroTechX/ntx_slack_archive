@@ -1053,3 +1053,9 @@ I'm looking for a source for a bunch of misc. electronic parts. Any recommendati
 
  ><https://abra-electronics.com/montreal-store.html> , <http://www.spikenzielabs.com/Catalog/>
 
+6/30/2017 7:21 PM
+
+ **mrkrause** :
+
+ >Thanks! Don't suppose you also want to volunteer to explain to my fiancee where all the money went? :slightly_smiling_face:
+
