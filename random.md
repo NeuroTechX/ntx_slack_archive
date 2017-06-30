@@ -1776,3 +1776,9 @@ dan.rizzuto do you have any comment?
 
  >hahahaha Love it!!!
 
+6/30/2017 7:54 AM
+
+ **sc** :
+
+ ><https://www.extremetech.com/extreme/251796-brain-computer-interfaces-eliminate-lower-back-pain-scientists-think-yes>
+
