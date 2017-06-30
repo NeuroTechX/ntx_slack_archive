@@ -1125,3 +1125,9 @@ Gotta love the age of auto-correct that we live in :stuck_out_tongue: hopefully 
 > 
 See out tonight hectordomorozco 
 
+6/30/2017 6:12 PM
+
+ **hectordomorozco** :
+
+ >Yaaaas! I'm on my way to Toronto bryan_j :grin:
+
