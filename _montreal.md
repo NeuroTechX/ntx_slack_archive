@@ -1029,3 +1029,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >yup! The bottom doorbell can be rung to get entrace :slightly_smiling_face:
 
+6/30/2017 6:12 AM
+
+ **hfork** :
+
+ >Oh, I didn't know about this..where can I find a list of all Montreal chapter events?
+
