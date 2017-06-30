@@ -1113,3 +1113,15 @@ Gotta love the age of auto-correct that we live in :stuck_out_tongue: hopefully 
 
  >Thanks - I will give you credit of course :P
 
+6/30/2017 2:23 PM
+
+ **bryan_j** :
+
+ >Congrats fellow Ontario NTX'ers! We look forward to working with you :) 
+
+> 
+
+
+> 
+See out tonight hectordomorozco 
+
