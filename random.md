@@ -1782,3 +1782,9 @@ dan.rizzuto do you have any comment?
 
  ><https://www.extremetech.com/extreme/251796-brain-computer-interfaces-eliminate-lower-back-pain-scientists-think-yes>
 
+6/30/2017 3:45 PM
+
+ **sc** :
+
+ >Lol <http://www.techradar.com/news/we-need-ethical-safeguards-to-stop-our-brains-getting-hacked-say-the-experts>
+
