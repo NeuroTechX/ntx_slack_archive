@@ -1788,3 +1788,9 @@ dan.rizzuto do you have any comment?
 
  >Lol <http://www.techradar.com/news/we-need-ethical-safeguards-to-stop-our-brains-getting-hacked-say-the-experts>
 
+6/30/2017 6:06 PM
+
+ **bryan_j** :
+
+ >sc: gena_cereb
+
