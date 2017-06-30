@@ -4479,3 +4479,9 @@ Ref:
 
  >Maybe link to calls to action earlier on the first section (seems to be the third screen down).
 
+6/30/2017 6:54 PM
+
+ **griselda_pages** :
+
+ >Hi tara! Thanks for your suggestion. Could you explain a little bit more please? What calls to action are u making reference to? And what section and page? Thanks!
+
