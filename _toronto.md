@@ -1341,3 +1341,15 @@ Dr. Steve Prescott is joining the team to discuss the medical applications of  n
 > 
 We are getting excited about the event and the amazing world of neuroscience!!!
 
+6/30/2017 2:16 PM
+
+ **bryan_j** :
+
+ >Calling all high school students: this event is tonight! 
+
+> 
+
+
+> 
+Details may be found at www.brainbrowse.tech 
+
