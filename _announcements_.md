@@ -1107,3 +1107,9 @@ Gotta love the age of auto-correct that we live in :stuck_out_tongue: hopefully 
 
  >NeurotechHa is officially born :heart:
 
+6/30/2017 1:33 PM
+
+ **bryan_j** :
+
+ >Thanks - I will give you credit of course :P
+
