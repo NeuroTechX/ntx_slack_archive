@@ -1101,3 +1101,9 @@ Gotta love the age of auto-correct that we live in :stuck_out_tongue: hopefully 
 
  >Oh, please do :laughing:
 
+6/30/2017 1:30 AM
+
+ **hectordomorozco** :
+
+ >NeurotechHa is officially born :heart:
+
