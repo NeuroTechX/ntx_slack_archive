@@ -1023,3 +1023,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >Suite 33B, 999 du Collège, Montreal, Quebec, Canada, H4C 2S3
 
+6/30/2017 3:51 AM
+
+ **sydneyneurotechx** :
+
+ >yup! The bottom doorbell can be rung to get entrace :slightly_smiling_face:
+
