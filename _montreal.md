@@ -987,3 +987,9 @@ Ill be attending both, let me know if you are attending any of them.
 
  >Hi all, I am new in this group. I am interested to join the Fridays meetings. Can you please guide me? Thanks
 
+6/30/2017 1:34 AM
+
+ **sydneyneurotechx** :
+
+ >welcome Armin
+
