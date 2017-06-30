@@ -90,3 +90,9 @@ survey: <https://goo.gl/forms/JbGt0XhqlHmbLIe53>
 
  ><!here> any techies out there interested in working on a holistic health application - pm me! Will be incorporating different forms of biofeedback including eeg
 
+6/30/2017 2:17 PM
+
+ **andrewjsauer** :
+
+ ><!here|@here> gentle reminder. if you haven't taken the survey, please take a moment. thank you to those who have! <https://goo.gl/forms/JbGt0XhqlHmbLIe53>
+
