@@ -1143,3 +1143,9 @@ See out tonight hectordomorozco
 
  >Oh, Canada!
 
+7/1/2017 4:38 AM
+
+ **bryan_j** :
+
+ >Thanks so much man - amazing hanging out with you! 
+
