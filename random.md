@@ -1794,3 +1794,9 @@ dan.rizzuto do you have any comment?
 
  >sc: gena_cereb
 
+7/1/2017 9:54 PM
+
+ **sc** :
+
+ >More fun with journalists and BCI <https://www.gizmodo.com.au/2017/07/how-will-we-stop-hackers-from-invading-our-brains-once-were-cyborgs/>
+
