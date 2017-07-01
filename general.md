@@ -4485,3 +4485,12 @@ Ref:
 
  >Hi tara! Thanks for your suggestion. Could you explain a little bit more please? What calls to action are u making reference to? And what section and page? Thanks!
 
+7/1/2017 7:33 AM
+
+ **kevin_ac** :
+
+ >Hi everybody,
+
+> 
+Will someone go to EMBC 2017 that will take place on South Korea (Jeju) ? :slightly_smiling_face:
+
