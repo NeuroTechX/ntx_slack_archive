@@ -4500,3 +4500,9 @@ Will someone go to EMBC 2017 that will take place on South Korea (Jeju) ? :sligh
 
  >griselda_pages I mean things like signing up for your newsletter/chapters and so on.  You could have a join us button on the first screen/home page for instance and ask for email and location and match people up to chapters and events.
 
+7/1/2017 5:09 PM
+
+ **tara** :
+
+ >or just grab the IP location somehow.
+
