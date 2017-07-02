@@ -4506,3 +4506,15 @@ Will someone go to EMBC 2017 that will take place on South Korea (Jeju) ? :sligh
 
  >or just grab the IP location somehow.
 
+7/2/2017 3:54 AM
+
+ **ndartd** :
+
+ >anything on transcranial magnetic stimulation ?
+
+> 
+I found this:
+
+> 
+<https://neurotechx.slack.com/archives/C1KFVAXCH/p1498421608471619>
+
