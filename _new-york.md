@@ -138,3 +138,9 @@
 
  >ok im not going to open this up to meetup quite yet
 
+7/3/2017 12:52 PM
+
+ **aj** :
+
+ ><!channel> next NYC hack night will be July 12th
+
