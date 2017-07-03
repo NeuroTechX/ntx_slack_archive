@@ -399,3 +399,9 @@ francescacoo you going?
 > 
 We have a few openings available and thought there might be some like-minded individuals who would be interested in attending. It will be from 9:45 AM  4:30 PM near Shepherds Bush and lunch will be provided. PM for more information.
 
+7/3/2017 10:27 PM
+
+ **javi_neuralcubes** :
+
+ >lai_london sounds great, I won't be able to make it though
+
