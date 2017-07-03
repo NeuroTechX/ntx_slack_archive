@@ -1158,3 +1158,9 @@ See out tonight hectordomorozco
 > 
 Will someone go to EMBC 2017 that will take place on South Korea (Jeju) ?
 
+7/3/2017 4:45 PM
+
+ **hectordomorozco** :
+
+ >I had a blast dude! Cant wait for more neurotech events :smile:
+
