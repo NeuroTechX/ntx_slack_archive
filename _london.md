@@ -387,3 +387,15 @@ francescacoo you going?
 
  >No worries and thanks so much. Have you ever heard of this biobeats company in London. Going to meet with them tomorrow and so far they have only surprised me with the quality of their interest
 
+7/3/2017 1:43 PM
+
+ **lai_london** :
+
+ >Hi guys, I just wanted to raise awareness of an event run by company I am working with at the moment, called Encode Health. We are holding a workshop on Saturday the 8th to discuss needs in digital health, and common problems people have experienced in accessing healthcare. Our agenda includes open discussions and guided, interactive brainstorm activities on the topics of Medical Conditions, Life Events, Digital Technologies, Patient Empathy and more.
+
+> 
+
+
+> 
+We have a few openings available and thought there might be some like-minded individuals who would be interested in attending. It will be from 9:45 AM  4:30 PM near Shepherds Bush and lunch will be provided. PM for more information.
+
