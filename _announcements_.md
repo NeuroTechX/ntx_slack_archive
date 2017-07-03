@@ -1149,3 +1149,12 @@ See out tonight hectordomorozco
 
  >Thanks so much man - amazing hanging out with you! 
 
+7/3/2017 6:16 AM
+
+ **kevin_ac** :
+
+ >Hi everybody,
+
+> 
+Will someone go to EMBC 2017 that will take place on South Korea (Jeju) ?
+
