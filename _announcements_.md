@@ -1182,3 +1182,9 @@ Will someone go to EMBC 2017 that will take place on South Korea (Jeju) ?
 > 
 Indeed, I'll see you guys in the next event lol 
 
+7/4/2017 5:06 PM
+
+ **bryan_j** :
+
+ >Looking forward to it! :)
+
