@@ -2454,3 +2454,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  >sydneyneurotechx it is simple a 7T MRI machine. Still for research and coming slowly into clinics. What they used is state-of-the-art fiber tractography on high-resolution diffusion MRI.
 
+7/4/2017 12:50 PM
+
+ **benjamindeleener** :
+
+ >The high magnetic field allows higher resolution and contrast while reducing the scanning time.
+
