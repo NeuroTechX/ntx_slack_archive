@@ -1164,3 +1164,9 @@ Will someone go to EMBC 2017 that will take place on South Korea (Jeju) ?
 
  >I had a blast dude! Cant wait for more neurotech events :smile:
 
+7/4/2017 3:12 AM
+
+ **bryan_j** :
+
+ >Hey hectordomorozco - same! Thanks again for coming, and hanging. Was such a great night. I hope that you arrived home safe, and cannot wait for the next time that we collab and chill!
+
