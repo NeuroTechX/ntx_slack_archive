@@ -4533,3 +4533,12 @@ I found this:
 > 
 <http://campaign.r20.constantcontact.com/render?m=1111295273584&amp;ca=5881d2c7-5051-401e-a335-0a95d9550aa3>
 
+7/4/2017 3:04 PM
+
+ **dano** :
+
+ >sheida: Hey Sheida! :slightly_smiling_face:
+
+> 
+Have any more info about Mobi? Looks like a new organization. Is it linked to a journal?
+
