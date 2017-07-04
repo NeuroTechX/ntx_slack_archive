@@ -2460,3 +2460,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  >The high magnetic field allows higher resolution and contrast while reducing the scanning time.
 
+7/4/2017 12:51 PM
+
+ **benjamindeleener** :
+
+ >I believe McGill will receive its own 7T MRI scanner pretty soon :slightly_smiling_face:
+
