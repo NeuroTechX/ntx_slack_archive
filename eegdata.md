@@ -3456,3 +3456,9 @@ The 2-class version works perfectly. Do you have any example code for 4-class CS
 > 
 <https://zenodo.org/search?page=1&amp;size=20&amp;q=EEG&amp;type=dataset&amp;access_right=open&amp;sort=mostrecent>
 
+7/4/2017 2:11 PM
+
+ **alexandre.barachant** :
+
+ >jk what kind of EEG are you interested in ?
+
