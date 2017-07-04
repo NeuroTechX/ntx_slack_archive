@@ -1125,3 +1125,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >Thanks armin ! I'd need help on the Saturday mostly but you are free to come on both days :slightly_smiling_face:.  It's 24 hours, but you don't need to stay the whole time. If you were to come from 5-9 on the Friday and then come on the Saturday in the morning until 5-6 ish.
 
+7/4/2017 4:07 PM
+
+ **armin** :
+
+ >Perfect, I will come for both
+
