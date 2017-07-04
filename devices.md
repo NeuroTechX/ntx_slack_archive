@@ -2496,3 +2496,9 @@ What does higher Tesla values provide? More resolution?
 
  >However, increasing the magnetic field also increase the risks for the patients (mainly heat risks)
 
+7/4/2017 1:02 PM
+
+ **benjamindeleener** :
+
+ >And the usual rule of 1M$ per Tesla still applies
+
