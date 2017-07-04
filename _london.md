@@ -411,3 +411,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >Thanks for the update javi_neuralcubes, Is anyone in the community likely to be free that day or know anyone who would be interested in attending?
 
+7/4/2017 8:00 PM
+
+ **davidevaleriani** :
+
+ >Sorry lai_london but I cant make it either
+
