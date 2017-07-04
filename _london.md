@@ -405,3 +405,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >lai_london sounds great, I won't be able to make it though
 
+7/4/2017 12:45 PM
+
+ **lai_london** :
+
+ >Thanks for the update javi_neuralcubes, Is anyone in the community likely to be free that day or know anyone who would be interested in attending?
+
