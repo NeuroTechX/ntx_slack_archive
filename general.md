@@ -4542,3 +4542,9 @@ I found this:
 > 
 Have any more info about Mobi? Looks like a new organization. Is it linked to a journal?
 
+7/4/2017 4:13 PM
+
+ **sheida** :
+
+ >Hey! First time I'm hearing about it too, looks like it's the first time there doing it! But I found out through Brain Products, which is what I use for my EEG studies so should be legit
+
