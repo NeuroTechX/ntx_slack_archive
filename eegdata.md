@@ -3474,3 +3474,9 @@ The 2-class version works perfectly. Do you have any example code for 4-class CS
 
  >/raw_fft0 -&gt; /alpha_absolute feels like it should be the simplest, but calculating alpha power from each /raw_fft0 doesn't match the /alpha_absolute emitted just after:
 
+7/4/2017 7:13 PM
+
+ **pat** :
+
+ >is there usually averaging added to alphas to smooth them out over time?
+
