@@ -3438,3 +3438,9 @@ TypeError: 'float' object cannot be interpreted as an integer
 > 
 The 2-class version works perfectly. Do you have any example code for 4-class CSP? Am I missing something?
 
+7/4/2017 1:56 PM
+
+ **jk** :
+
+ >Hi peeps. Where can I find various sets of eeg data online?
+
