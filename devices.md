@@ -2490,3 +2490,9 @@ What does higher Tesla values provide? More resolution?
 
  >sydneyneurotechx Yes, basically higher resolution because it increase the signal-to-noise ratio (so you can go in higher res with the same SNR). These machines usually also comes with better gradients, which improves many things, such as sensitivity in diffusion MRI.
 
+7/4/2017 1:01 PM
+
+ **benjamindeleener** :
+
+ >However, increasing the magnetic field also increase the risks for the patients (mainly heat risks)
+
