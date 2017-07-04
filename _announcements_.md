@@ -1170,3 +1170,15 @@ Will someone go to EMBC 2017 that will take place on South Korea (Jeju) ?
 
  >Hey hectordomorozco - same! Thanks again for coming, and hanging. Was such a great night. I hope that you arrived home safe, and cannot wait for the next time that we collab and chill!
 
+7/4/2017 3:49 AM
+
+ **hectordomorozco** :
+
+ >Yes, got home safe and good :)
+
+> 
+
+
+> 
+Indeed, I'll see you guys in the next event lol 
+
