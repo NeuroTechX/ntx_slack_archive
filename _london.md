@@ -417,3 +417,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >Sorry lai_london but I cant make it either
 
+7/4/2017 8:01 PM
+
+ **lai_london** :
+
+ >No worries thanks for update
+
