@@ -4524,3 +4524,12 @@ I found this:
 
  >Hi ndartd neuroelectrics is EEG/TES but I don't know who is making multicoil TMS. Not much has been done new with coils that I know of. Transmit/receive MRI coils are interesting. What are you looking for? 
 
+7/4/2017 1:00 PM
+
+ **sheida** :
+
+ >Probably lots of eligible people here! 
+
+> 
+<http://campaign.r20.constantcontact.com/render?m=1111295273584&amp;ca=5881d2c7-5051-401e-a335-0a95d9550aa3>
+
