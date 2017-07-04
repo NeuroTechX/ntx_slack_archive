@@ -3444,3 +3444,15 @@ The 2-class version works perfectly. Do you have any example code for 4-class CS
 
  >Hi peeps. Where can I find various sets of eeg data online?
 
+7/4/2017 2:09 PM
+
+ **alexandre.barachant** :
+
+ >jk 
+
+> 
+<http://bnci-horizon-2020.eu/database/data-sets>
+
+> 
+<https://zenodo.org/search?page=1&amp;size=20&amp;q=EEG&amp;type=dataset&amp;access_right=open&amp;sort=mostrecent>
+
