@@ -1065,3 +1065,21 @@ I'm looking for a source for a bunch of misc. electronic parts. Any recommendati
 
  >save few dollars for chocolate, that never fails :slightly_smiling_face:
 
+7/4/2017 2:19 PM
+
+ **sydneyneurotechx** :
+
+ >Hi <!channel>. Does anyone want to help me for HackerFest? NeuroTechX will be representing  at this 24 hour hackathon and I need some help in managing it. 
+
+> 
+
+
+> 
+If you are unfamiliar with Hackerfest, it is a hackathon that brings together different communities in Montreal to work on a variety of projects. More details below. Message me if interested. 
+
+> 
+
+
+> 
+<http://www.startupfestival.com/hackerfest/>
+
