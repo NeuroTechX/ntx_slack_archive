@@ -2472,3 +2472,15 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  >I would be happy to discuss more MRI stuff if there are interested people
 
+7/4/2017 12:55 PM
+
+ **sydneyneurotechx** :
+
+ >benjamindeleener: Neat! Was reading up wikipedia and there was mention that up to 9.4 T has been used on humans. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406343/>
+
+> 
+
+
+> 
+What does higher Tesla values provide? More resolution?
+
