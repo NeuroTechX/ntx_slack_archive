@@ -4548,3 +4548,9 @@ Have any more info about Mobi? Looks like a new organization. Is it linked to a 
 
  >Hey! First time I'm hearing about it too, looks like it's the first time there doing it! But I found out through Brain Products, which is what I use for my EEG studies so should be legit
 
+7/4/2017 6:42 PM
+
+ **dano** :
+
+ >Cool, so any papers published recently that have to do with "mobile brain imaging" are eligible for an award of &lt;=$3000. Cool
+
