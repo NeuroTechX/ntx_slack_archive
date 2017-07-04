@@ -2466,3 +2466,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  >I believe McGill will receive its own 7T MRI scanner pretty soon :slightly_smiling_face:
 
+7/4/2017 12:52 PM
+
+ **benjamindeleener** :
+
+ >I would be happy to discuss more MRI stuff if there are interested people
+
