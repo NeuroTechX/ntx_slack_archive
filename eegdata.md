@@ -3468,3 +3468,9 @@ The 2-class version works perfectly. Do you have any example code for 4-class CS
 
  >Has anyone here looked at Muse's raw_fft channels? I'm trying to recreate the /eeg -&gt; /alpha_absolute processing using the notes at <http://developer.choosemuse.com/research-tools/available-data#Raw_FFTs_for_Each_Channel>, but neither the /eeg -&gt; /raw_fft0 nor /raw_fft0 -&gt; /alpha_absolute appear to be working
 
+7/4/2017 6:58 PM
+
+ **pat** :
+
+ >/raw_fft0 -&gt; /alpha_absolute feels like it should be the simplest, but calculating alpha power from each /raw_fft0 doesn't match the /alpha_absolute emitted just after:
+
