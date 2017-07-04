@@ -1095,3 +1095,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >From 9 to 5
 
+7/4/2017 2:24 PM
+
+ **maviperu** :
+
+ >mrkrause: <https://www.google.ca/maps/place/Addison+Electronics/@45.5694822,-73.6057631,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91ec5790d4817:0xa3ce1f8786692589!8m2!3d45.5694822!4d-73.6035744?hl=en> Addison excellent place!
+
