@@ -1083,3 +1083,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 > 
 <http://www.startupfestival.com/hackerfest/>
 
+7/4/2017 2:21 PM
+
+ **eferdinand** :
+
+ >I may be able to come help on the 14th
+
