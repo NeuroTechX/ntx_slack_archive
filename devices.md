@@ -2442,3 +2442,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  ><!channel>  anyone in NeuroTechX associated with them??
 
+7/4/2017 12:40 PM
+
+ **sydneyneurotechx** :
+
+ >Any details on this MRI machine? How does it compare to other models? <http://www.bbc.com/news/health-40488545>
+
