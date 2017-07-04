@@ -2448,3 +2448,9 @@ also, this is a kind of super dyi thing, we haven't  gone through any kind of qu
 
  >Any details on this MRI machine? How does it compare to other models? <http://www.bbc.com/news/health-40488545>
 
+7/4/2017 12:50 PM
+
+ **benjamindeleener** :
+
+ >sydneyneurotechx it is simple a 7T MRI machine. Still for research and coming slowly into clinics. What they used is state-of-the-art fiber tractography on high-resolution diffusion MRI.
+
