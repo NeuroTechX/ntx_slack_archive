@@ -423,3 +423,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >No worries thanks for update
 
+7/4/2017 8:02 PM
+
+ **lai_london** :
+
+ >Maybe we should offer champagne too, cheers though davidevaleriani
+
