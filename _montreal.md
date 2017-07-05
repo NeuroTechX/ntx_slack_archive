@@ -1149,3 +1149,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >Sure
 
+7/5/2017 10:21 AM
+
+ **yannick** :
+
+ >Thanks for yesterday. It was a great evening. I hope you enjoyed it as much as I did and met awesome people. 
+
