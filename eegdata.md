@@ -3480,3 +3480,9 @@ The 2-class version works perfectly. Do you have any example code for 4-class CS
 
  >is there usually averaging added to alphas to smooth them out over time?
 
+7/5/2017 8:22 PM
+
+ **benjamindeleener** :
+
+ >fred-simard nice work! I was wondering if you would like to share the code so we can try to reproduce? It would be awesome to try get the same results as you
+
