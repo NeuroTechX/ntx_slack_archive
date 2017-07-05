@@ -2502,3 +2502,9 @@ What does higher Tesla values provide? More resolution?
 
  >And the usual rule of 1M$ per Tesla still applies
 
+7/5/2017 5:34 PM
+
+ **bciguy** :
+
+ >sydneyneurotechx: Im in touch with them, however we already have a device that provides this open framework. Happy to discuss further.
+
