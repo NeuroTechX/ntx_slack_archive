@@ -2124,3 +2124,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >hey there, welcome ! always game to apply this AI to music :slightly_smiling_face: let me know if you want to play !
 
+7/5/2017 2:54 AM
+
+ **zigzagzen7** :
+
+ >Hi, I'm Alex from Montreal, I am interested in using EEG and neurofeedback to study the effects of meditation on the brain.  I am a newbie in this field but a quick learner.  I am working with a ganglion board from OpenBCI and also used a muse headset as well.
+
