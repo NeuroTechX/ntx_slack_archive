@@ -3486,3 +3486,9 @@ The 2-class version works perfectly. Do you have any example code for 4-class CS
 
  >fred-simard nice work! I was wondering if you would like to share the code so we can try to reproduce? It would be awesome to try get the same results as you
 
+7/5/2017 8:55 PM
+
+ **dano** :
+
+ >pat good detective work!
+
