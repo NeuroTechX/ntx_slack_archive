@@ -1353,3 +1353,15 @@ We are getting excited about the event and the amazing world of neuroscience!!!
 > 
 Details may be found at www.brainbrowse.tech 
 
+7/5/2017 9:08 PM
+
+ **dano** :
+
+ >Hey guys! There won't be any hacknight this week as I'll be away. But, some of us will be going to the Maker Extravaganza this weekend at the Toronto Library. We're planning some more tangible neuro-projects (laser etching, etc.) so it will be a great network opportunity
+
+> 
+
+
+> 
+<http://makerfestival.ca/>
+
