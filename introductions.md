@@ -2142,3 +2142,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Sounds like a great opportunity to set up a neurotechX chapter in Nairobi! Welcome aboard, Brian.
 
+7/5/2017 9:07 PM
+
+ **dano** :
+
+ >Hey Alex, have you read that book Zig Zag Zen? I remember seeing it in the library when I was like 16 and never checking it out
+
