@@ -1161,3 +1161,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  ><!channel>  Reminder: Hacknights on Friday at 6:30. Happening at District 3 <http://d3center.ca/en/contact/>
 
+7/5/2017 8:09 PM
+
+ **fred-simard** :
+
+ >Hey guys, I've just released my white paper on the topic of SSVEPs, I put it in <#C08PVFWH4|eegdata> so that everyone can benefit from it. It only covers my preliminary results, but more to come as new results pump in.
+
