@@ -2136,3 +2136,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >zigzagzen7: Welcome Alex@
 
+7/5/2017 5:56 PM
+
+ **graeme** :
+
+ >Sounds like a great opportunity to set up a neurotechX chapter in Nairobi! Welcome aboard, Brian.
+
