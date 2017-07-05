@@ -1155,3 +1155,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >Thanks for yesterday. It was a great evening. I hope you enjoyed it as much as I did and met awesome people. 
 
+7/5/2017 2:03 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  Reminder: Hacknights on Friday at 6:30. Happening at District 3 <http://d3center.ca/en/contact/>
+
