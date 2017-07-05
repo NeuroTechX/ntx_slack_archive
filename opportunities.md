@@ -687,3 +687,18 @@ Looks like a really great opportunity to work with really smart people.
 
  >Delta Brain Inc. is hiring a Back End / Machine Learning Engineer. Salaried position with benefits in Pasadena, California for a US citizen or permanent resident. No remote/no recruiters. If interested, please email resume and cover letter to: <mailto:recruiting@delta-brain.com|recruiting@delta-brain.com>. Details: <https://angel.co/delta-brain/jobs/248970-backend-software-engineer>
 
+7/5/2017 3:00 PM
+
+ **jonas.chatel-goldman** :
+
+ >hi all, at Open Mind Innovation were hiring skilled data engineers and data scientists. Wanna do cool neurotech research in French Normandy?!
+
+> 
+If interested feel free to MP me or register on our website.
+
+> 
+<https://omind.me/en/startup-de-neurosciences-data-scientist-ingenieur-rd-cdi/>
+
+> 
+<https://omind.me/en/startup-de-neurosciences-inge-dev-c-pyhton-rd-cdi/>
+
