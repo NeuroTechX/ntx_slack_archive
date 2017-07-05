@@ -3492,3 +3492,9 @@ The 2-class version works perfectly. Do you have any example code for 4-class CS
 
  >pat good detective work!
 
+7/5/2017 8:56 PM
+
+ **dano** :
+
+ >Any ideas, hubertjb?
+
