@@ -1188,3 +1188,9 @@ Indeed, I'll see you guys in the next event lol
 
  >Looking forward to it! :)
 
+7/5/2017 12:58 PM
+
+ **maviperu** :
+
+ >The Lima team will be there, erick.carranza  departed recently to South Korea
+
