@@ -702,3 +702,9 @@ If interested feel free to MP me or register on our website.
 > 
 <https://omind.me/en/startup-de-neurosciences-inge-dev-c-pyhton-rd-cdi/>
 
+7/5/2017 3:05 PM
+
+ **alexandre.barachant** :
+
+ >Omind has a great team :slightly_smiling_face: I recommend +1
+
