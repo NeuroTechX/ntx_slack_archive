@@ -2520,3 +2520,9 @@ What does higher Tesla values provide? More resolution?
 
  >timfiori yeah I was hoping to but haven't yet. Is there anything special you need from them?
 
+7/6/2017 9:25 PM
+
+ **mhough** :
+
+ >sydneyneurotechx benjamindeleener 7t doesn't improve everything yet. Diffusion is one of those things that works well. T1s not so much:) I wonder which package they used for tracking.
+
