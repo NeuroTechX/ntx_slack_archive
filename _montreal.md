@@ -1173,3 +1173,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >fred-simard: awesome! I'll take a look later!
 
+7/6/2017 4:05 PM
+
+ **fred-simard** :
+
+ >Please do, it works very well to be honest. I was expecting more cross-talk between stimuli.
+
