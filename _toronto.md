@@ -1377,3 +1377,9 @@ Details may be found at www.brainbrowse.tech
 
  >Interesting! <!channel>
 
+7/6/2017 2:19 PM
+
+ **cbattista** :
+
+ >bryan_j Yeah I'm going to go to MakerFest on Sun
+
