@@ -1179,3 +1179,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >Please do, it works very well to be honest. I was expecting more cross-talk between stimuli.
 
+7/6/2017 4:11 PM
+
+ **fred-simard** :
+
+ >mrkrause: I recommend Abra, or these guys ship surprisingly fast: <http://ca.mouser.com/>, or if you spend &gt;= 100$ you can go for <http://digikey.ca|digikey.ca>. If you don't spend &gt;= 100$, digikey bills 20$ of shipping.
+
