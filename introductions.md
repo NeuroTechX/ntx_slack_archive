@@ -2148,3 +2148,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey Alex, have you read that book Zig Zag Zen? I remember seeing it in the library when I was like 16 and never checking it out
 
+7/6/2017 9:32 PM
+
+ **samuelbg13** :
+
+ >Hi all! I am Samuel from Colombia, currently doing my master's in Tübingen, Germany. I am interested in BMI and neurorobotics using EEG. My long term goal is to develop clinical applications, but for now I'm just learning and doing some experiments :slightly_smiling_face:. I hope I can have some interesting discussions here!
+
