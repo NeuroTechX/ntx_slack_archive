@@ -1365,3 +1365,9 @@ Details may be found at www.brainbrowse.tech
 > 
 <http://makerfestival.ca/>
 
+7/6/2017 12:27 AM
+
+ **bryan_j** :
+
+ ><!channel> anyone going to MakerFest this weekend?
+
