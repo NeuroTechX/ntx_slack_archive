@@ -3516,3 +3516,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 > 
 1. I got some pretty good results using Bayesian classifier over the native statistics of the SSVEP, that is the f-test. The parametric formulation in the Bayesian framework leads to an intuitive formulation of the problem that allowed me to build a weakly-supervised detector that performed at 75% without any training (biased toward idle, so I had less than 2% of false positive).
 
+7/6/2017 10:27 PM
+
+ **samuelbg13** :
+
+ >Hi guys! I am interested in BMIs and neurorobotics. I wanted to ask about the "mental commands" of the cognitive suite of the Emotiv Epoc, the famous virtual cube. Has anybody worked with that?  I am just wondering how does it really work, since as they brand it could seem it performs better than the standard paradigms of motor imagery decoded from SMRs.  How do they manage to get rid of all the perturbations? And assuming that the perturbations are somehow useful as part of the signal (i.e. muscle signals from the face), do you think it would work with locked-in and completely locked-in patients?  Any literature on the matter would be much appreciated :slightly_smiling_face:.
+
