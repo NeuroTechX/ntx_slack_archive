@@ -222,3 +222,9 @@ More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
 
  >a.tech: Sounds interesting, I'll be following along!
 
+7/6/2017 1:05 AM
+
+ **rashi** :
+
+ >When and where is the next hack night? 
+
