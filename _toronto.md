@@ -1389,3 +1389,9 @@ Details may be found at www.brainbrowse.tech
 
  >bryan_j, dano, you guys planning on going to the Maker Extravaganza? It looks really interesting :eyes:
 
+7/6/2017 10:38 PM
+
+ **dano** :
+
+ >Yep! I'll be there Sunday
+
