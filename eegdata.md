@@ -3507,3 +3507,12 @@ The 2-class version works perfectly. Do you have any example code for 4-class CS
 > 
 Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian geometry. See <https://hal-uvsq.archives-ouvertes.fr/hal-01351623/document>
 
+7/6/2017 1:26 PM
+
+ **fred-simard** :
+
+ >okbalefthanded qbarthelemy Thanks guys, really nice of you, I didn't expected to get answers. To be fair, I already had the answers for myself, although I haven't wrote the report. Since you were nice enough to share your methods with me, I'll do the same:
+
+> 
+1. I got some pretty good results using Bayesian classifier over the native statistics of the SSVEP, that is the f-test. The parametric formulation in the Bayesian framework leads to an intuitive formulation of the problem that allowed me to build a weakly-supervised detector that performed at 75% without any training (biased toward idle, so I had less than 2% of false positive).
+
