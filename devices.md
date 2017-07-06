@@ -2514,3 +2514,9 @@ What does higher Tesla values provide? More resolution?
 
  >Has anyone used the <http://foc.us|foc.us> fNIRS sensors yet? Looks like it was discussed in the group in May last, I'm wondering if anyone has had any experience with them yet. I'm looking into fNIRS devices and <http://foc.us|foc.us> is the only one that fits the budget!
 
+7/6/2017 9:22 PM
+
+ **mhough** :
+
+ >timfiori yeah I was hoping to but haven't yet. Is there anything special you need from them?
+
