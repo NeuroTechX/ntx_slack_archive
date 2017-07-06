@@ -429,3 +429,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >Maybe we should offer champagne too, cheers though davidevaleriani
 
+7/6/2017 9:28 PM
+
+ **mhough** :
+
+ >I am in San Francisco but thanks for the info
+
