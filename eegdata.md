@@ -3498,3 +3498,12 @@ The 2-class version works perfectly. Do you have any example code for 4-class CS
 
  >Any ideas, hubertjb?
 
+7/6/2017 12:43 PM
+
+ **qbarthelemy** :
+
+ >&gt; 1. SSVEP is detected using CCA (cross-canonical Analysis) 
+
+> 
+Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian geometry. See <https://hal-uvsq.archives-ouvertes.fr/hal-01351623/document>
+
