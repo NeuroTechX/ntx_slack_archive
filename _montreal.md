@@ -1167,3 +1167,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >Hey guys, I've just released my white paper on the topic of SSVEPs, I put it in <#C08PVFWH4|eegdata> so that everyone can benefit from it. It only covers my preliminary results, but more to come as new results pump in.
 
+7/6/2017 3:39 PM
+
+ **naoto** :
+
+ >fred-simard: awesome! I'll take a look later!
+
