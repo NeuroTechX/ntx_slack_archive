@@ -240,3 +240,9 @@ More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
 
  >I'm not sure what that means.  I'm in the sf area if that helps
 
+7/6/2017 2:20 PM
+
+ **yrenard** :
+
+ >rashi just invited you to <#C0VTQK7CZ|_san-francisco> this would be the best place to ask :wink:
+
