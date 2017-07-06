@@ -234,3 +234,9 @@ More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
 
  >rashi: distric 3 on Friday at 6:30
 
+7/6/2017 2:08 PM
+
+ **rashi** :
+
+ >I'm not sure what that means.  I'm in the sf area if that helps
+
