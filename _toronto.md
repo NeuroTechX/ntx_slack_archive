@@ -1395,3 +1395,9 @@ Details may be found at www.brainbrowse.tech
 
  >Yep! I'll be there Sunday
 
+7/6/2017 11:02 PM
+
+ **bryan_j** :
+
+ >Amazing! I may be there morning on Sunday, planning for Saturday early afternoon as well. 
+
