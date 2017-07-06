@@ -228,3 +228,9 @@ More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
 
  >When and where is the next hack night? 
 
+7/6/2017 12:57 PM
+
+ **maviperu** :
+
+ >rashi: distric 3 on Friday at 6:30
+
