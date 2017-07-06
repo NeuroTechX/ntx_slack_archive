@@ -1383,3 +1383,9 @@ Details may be found at www.brainbrowse.tech
 
  >bryan_j Yeah I'm going to go to MakerFest on Sun
 
+7/6/2017 6:21 PM
+
+ **hectordomorozco** :
+
+ >bryan_j, dano, you guys planning on going to the Maker Extravaganza? It looks really interesting :eyes:
+
