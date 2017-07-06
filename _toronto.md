@@ -1401,3 +1401,9 @@ Details may be found at www.brainbrowse.tech
 
  >Amazing! I may be there morning on Sunday, planning for Saturday early afternoon as well. 
 
+7/6/2017 11:22 PM
+
+ **hectordomorozco** :
+
+ >Yay, Ill let you guys know if I do end up going :smile:
+
