@@ -123,3 +123,9 @@ seems to be fairly new though
 
  >vagus nerve stimulation for weightloss: <https://vbloc.com/how-it-works/> =&gt; described as a neuroregulator
 
+7/6/2017 9:27 PM
+
+ **mhough** :
+
+ >andreacoravos yeah your going to see a lot of these nerve stimulators
+
