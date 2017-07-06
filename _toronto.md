@@ -1371,3 +1371,9 @@ Details may be found at www.brainbrowse.tech
 
  ><!channel> anyone going to MakerFest this weekend?
 
+7/6/2017 12:29 AM
+
+ **bryan_j** :
+
+ >Interesting! <!channel>
+
