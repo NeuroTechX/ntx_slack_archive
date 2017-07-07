@@ -1209,3 +1209,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >sydneyneurotechx see you there
 
+7/7/2017 8:25 PM
+
+ **naoto** :
+
+ >i'll try to come
+
