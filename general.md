@@ -4560,3 +4560,12 @@ Have any more info about Mobi? Looks like a new organization. Is it linked to a 
 
  >Thanks, good to know
 
+7/7/2017 10:37 PM
+
+ **stephen** :
+
+ >Who do you know that is interested in blockchain applications for handling health data? 
+
+> 
+cc andreacoravos watson pierre melanie
+
