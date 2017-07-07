@@ -1191,3 +1191,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  ><!channel> Hacknights at D3 as per the usual. 6:30 pm
 
+7/7/2017 5:04 PM
+
+ **sydneyneurotechx** :
+
+ >Anyone showing up?
+
