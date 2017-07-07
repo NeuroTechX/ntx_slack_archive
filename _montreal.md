@@ -1215,3 +1215,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >i'll try to come
 
+7/7/2017 9:34 PM
+
+ **armin** :
+
+ >I will be there
+
