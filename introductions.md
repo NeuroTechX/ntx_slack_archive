@@ -2160,3 +2160,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >samuelbg13: Welcome Samuel!
 
+7/7/2017 4:04 PM
+
+ **zigzagzen7** :
+
+ >I guess you mean "Zig Zag Zen: Buddhism and Psychedelics".  You that name was inspired from that book, even though I've never read it. yet.
+
