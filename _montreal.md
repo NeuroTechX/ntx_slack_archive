@@ -1221,3 +1221,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >I will be there
 
+7/7/2017 10:13 PM
+
+ **sydneyneurotechx** :
+
+ >I set up in the classroom. Will be in there
+
