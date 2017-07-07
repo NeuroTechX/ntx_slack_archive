@@ -2550,3 +2550,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >timfiori I know about NIRx in Germany, they have good reputation, I haven't used their device though and have no idea of the price
 
+7/7/2017 9:42 PM
+
+ **a.tech** :
+
+ >timfiori Biopac also has an affordable fnir device <https://www.biopac.com/knowledge-base/fnir-faq/>
+
