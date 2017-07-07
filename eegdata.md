@@ -3534,3 +3534,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >alexandre.barachant I'm trying to get openvibe to run on my mac. Did you ever get chance to write that script for mac port?
 
+7/7/2017 2:26 PM
+
+ **alexandre.barachant** :
+
+ >jk no, I gave up Mac and came back to my good old Linux laptop.
+
