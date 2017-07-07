@@ -1185,3 +1185,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >mrkrause: I recommend Abra, or these guys ship surprisingly fast: <http://ca.mouser.com/>, or if you spend &gt;= 100$ you can go for <http://digikey.ca|digikey.ca>. If you don't spend &gt;= 100$, digikey bills 20$ of shipping.
 
+7/7/2017 5:04 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Hacknights at D3 as per the usual. 6:30 pm
+
