@@ -2526,3 +2526,9 @@ What does higher Tesla values provide? More resolution?
 
  >sydneyneurotechx benjamindeleener 7t doesn't improve everything yet. Diffusion is one of those things that works well. T1s not so much:) I wonder which package they used for tracking.
 
+7/7/2017 8:42 AM
+
+ **jmhorschig** :
+
+ >timfiori I know no one with that device and haven't read anything here thus far. If you buy it, please share your experience. But, to ease your mind, it is actually the only device on the market that cheap - the only other cheap option is to make it yourself (<http://opennirs.org/>). I am also not aware of any development from any other company to make a consumer fnirs product in near future (we definitely don't).
+
