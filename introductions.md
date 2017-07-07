@@ -2154,3 +2154,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi all! I am Samuel from Colombia, currently doing my master's in Tübingen, Germany. I am interested in BMI and neurorobotics using EEG. My long term goal is to develop clinical applications, but for now I'm just learning and doing some experiments :slightly_smiling_face:. I hope I can have some interesting discussions here!
 
+7/7/2017 3:17 AM
+
+ **sydneyneurotechx** :
+
+ >samuelbg13: Welcome Samuel!
+
