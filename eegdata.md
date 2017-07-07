@@ -3522,3 +3522,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >Hi guys! I am interested in BMIs and neurorobotics. I wanted to ask about the "mental commands" of the cognitive suite of the Emotiv Epoc, the famous virtual cube. Has anybody worked with that?  I am just wondering how does it really work, since as they brand it could seem it performs better than the standard paradigms of motor imagery decoded from SMRs.  How do they manage to get rid of all the perturbations? And assuming that the perturbations are somehow useful as part of the signal (i.e. muscle signals from the face), do you think it would work with locked-in and completely locked-in patients?  Any literature on the matter would be much appreciated :slightly_smiling_face:.
 
+7/7/2017 1:40 PM
+
+ **jk** :
+
+ >alexandre.barachant I found these interesting - music (<http://doc.ml.tu-berlin.de/bbci/BNCIHorizon2020-MusicBCI/BNCI_MusicBCI.pdf>) and emergency brake (<https://lampx.tugraz.at/~bci/database/002-2016/description.txt>)
+
