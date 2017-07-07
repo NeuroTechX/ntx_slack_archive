@@ -1407,3 +1407,9 @@ Details may be found at www.brainbrowse.tech
 
  >Yay, Ill let you guys know if I do end up going :smile:
 
+7/7/2017 3:02 AM
+
+ **martys** :
+
+ >They just released the workshop schedule. Looks like there will be some good ones!
+
