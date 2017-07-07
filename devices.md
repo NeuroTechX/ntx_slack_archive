@@ -2544,3 +2544,9 @@ What does higher Tesla values provide? More resolution?
 > 
 jmhorschig opennirs looks promising from the documentation, have you had experience with it?
 
+7/7/2017 4:31 PM
+
+ **yrenard** :
+
+ >timfiori I know about NIRx in Germany, they have good reputation, I haven't used their device though and have no idea of the price
+
