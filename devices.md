@@ -2532,3 +2532,15 @@ What does higher Tesla values provide? More resolution?
 
  >timfiori I know no one with that device and haven't read anything here thus far. If you buy it, please share your experience. But, to ease your mind, it is actually the only device on the market that cheap - the only other cheap option is to make it yourself (<http://opennirs.org/>). I am also not aware of any development from any other company to make a consumer fnirs product in near future (we definitely don't).
 
+7/7/2017 4:26 PM
+
+ **timfiori** :
+
+ >mhough I don't need anything specific at this stage apart from affordability! It's more for experimentation. I've had bad experiences with <http://foc.us|foc.us> hardware breaking but I'll likely order a set and will let everyone know how it goes
+
+> 
+
+
+> 
+jmhorschig opennirs looks promising from the documentation, have you had experience with it?
+
