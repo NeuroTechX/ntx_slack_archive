@@ -4569,3 +4569,9 @@ Have any more info about Mobi? Looks like a new organization. Is it linked to a 
 > 
 cc andreacoravos watson pierre melanie
 
+7/7/2017 10:55 PM
+
+ **watson** :
+
+ >stephen: Id recommend talking with my friend Alex Newman & not sure if hes thought about that specifically but he knows about both:  <mailto:posix4e@gmail.com|posix4e@gmail.com>
+
