@@ -4554,3 +4554,9 @@ Have any more info about Mobi? Looks like a new organization. Is it linked to a 
 
  >Cool, so any papers published recently that have to do with "mobile brain imaging" are eligible for an award of &lt;=$3000. Cool
 
+7/7/2017 5:39 PM
+
+ **fred-simard** :
+
+ >Thanks, good to know
+
