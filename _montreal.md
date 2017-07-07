@@ -1197,3 +1197,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >Anyone showing up?
 
+7/7/2017 5:38 PM
+
+ **fred-simard** :
+
+ >sydneyneurotechx I'll be there
+
