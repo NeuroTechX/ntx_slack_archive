@@ -1203,3 +1203,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >sydneyneurotechx I'll be there
 
+7/7/2017 6:20 PM
+
+ **sidksv** :
+
+ >sydneyneurotechx see you there
+
