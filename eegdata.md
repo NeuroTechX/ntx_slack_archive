@@ -3528,3 +3528,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >alexandre.barachant I found these interesting - music (<http://doc.ml.tu-berlin.de/bbci/BNCIHorizon2020-MusicBCI/BNCI_MusicBCI.pdf>) and emergency brake (<https://lampx.tugraz.at/~bci/database/002-2016/description.txt>)
 
+7/7/2017 1:43 PM
+
+ **jk** :
+
+ >alexandre.barachant I'm trying to get openvibe to run on my mac. Did you ever get chance to write that script for mac port?
+
