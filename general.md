@@ -4575,3 +4575,9 @@ cc andreacoravos watson pierre melanie
 
  >stephen: Id recommend talking with my friend Alex Newman & not sure if hes thought about that specifically but he knows about both:  <mailto:posix4e@gmail.com|posix4e@gmail.com>
 
+7/8/2017 7:04 PM
+
+ **sydneyneurotechx** :
+
+ >There's a blockchain group here in Montreal that I know well, but they are mostly interested in the Fintech Vertical.
+
