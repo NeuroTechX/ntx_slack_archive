@@ -135,3 +135,9 @@ seems to be fairly new though
 
  >Hey sydneyneurotechx, how do the Halo phones feel?
 
+7/9/2017 10:53 PM
+
+ **dano** :
+
+ >And do they have a focus and/or accelerated learning setting?
+
