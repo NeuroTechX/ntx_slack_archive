@@ -2556,3 +2556,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >timfiori Biopac also has an affordable fnir device <https://www.biopac.com/knowledge-base/fnir-faq/>
 
+7/9/2017 10:04 AM
+
+ **alexandre.barachant** :
+
+ >hey all, I have to find a name for my open hardware EEG project, but i'm not very inspired. Any idea ?
+
