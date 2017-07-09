@@ -2574,3 +2574,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >urish soon to be open. I procrastinated the source release (one reason being i can't find a nice name for the project)
 
+7/9/2017 5:47 PM
+
+ **alexandre.barachant** :
+
+ >its mainly an amplifier, but I also want to propose plan for a cap and electrodes
+
