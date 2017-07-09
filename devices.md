@@ -2580,3 +2580,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >its mainly an amplifier, but I also want to propose plan for a cap and electrodes
 
+7/9/2017 8:22 PM
+
+ **urish** :
+
+ >What kind of name are you looking for? fun name? something with more professional sound?
+
