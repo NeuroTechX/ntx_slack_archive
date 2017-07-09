@@ -4581,3 +4581,9 @@ cc andreacoravos watson pierre melanie
 
  >There's a blockchain group here in Montreal that I know well, but they are mostly interested in the Fintech Vertical.
 
+7/9/2017 5:23 AM
+
+ **rashi** :
+
+ >Has anyone investigated hypnosis, subliminal messaging, consciousness and the like? I found a textbook on it and would love to discuss what I've read. 
+
