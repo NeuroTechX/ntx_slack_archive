@@ -2598,3 +2598,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >:brain: storming
 
+7/9/2017 10:59 PM
+
+ **dano** :
+
+ >Is this the AlexEEG?
+
