@@ -24,3 +24,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >Just met a guy in Toronto starting a company called Lucid <http://transmediazone.ca/teams/lucid/>
 
+7/9/2017 10:55 PM
+
+ **dano** :
+
+ >He's built a color-therapy/music-therapy chamber that uses EEG to entrain the brain to a relaxed state and said his next project might be a multi-user collaborative experience
+
