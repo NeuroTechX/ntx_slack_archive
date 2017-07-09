@@ -30,3 +30,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >He's built a color-therapy/music-therapy chamber that uses EEG to entrain the brain to a relaxed state and said his next project might be a multi-user collaborative experience
 
+7/9/2017 10:55 PM
+
+ **dano** :
+
+ >I pointed him to CloudBrain as being a potential solution for him (sounded like he was more of a sound designer/hacker than a backend dev)
+
