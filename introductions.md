@@ -2166,3 +2166,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >I guess you mean "Zig Zag Zen: Buddhism and Psychedelics".  You that name was inspired from that book, even though I've never read it. yet.
 
+7/9/2017 4:25 PM
+
+ **dano** :
+
+ >Gahh! That's funny! Made an impression on me as well just from the title. What an elusive book. I am going to the library again today....
+
