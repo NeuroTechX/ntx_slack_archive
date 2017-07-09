@@ -4599,3 +4599,9 @@ cc andreacoravos watson pierre melanie
 
  ><http://www.lifesci.sussex.ac.uk/home/Zoltan_Dienes/Dienes%20and%20Seth%202015%20Conscious%20vs%20unconscious%20processes.pdf>
 
+7/9/2017 5:26 AM
+
+ **rashi** :
+
+ >I put it in a text to speech app called @voice and went for a walk. It's a great way to exercise
+
