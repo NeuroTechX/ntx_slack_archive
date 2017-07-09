@@ -2562,3 +2562,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >hey all, I have to find a name for my open hardware EEG project, but i'm not very inspired. Any idea ?
 
+7/9/2017 5:25 PM
+
+ **urish** :
+
+ >Hi Alex! Is this a open hardware EEG headset?
+
