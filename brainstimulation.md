@@ -129,3 +129,9 @@ seems to be fairly new though
 
  >andreacoravos yeah your going to see a lot of these nerve stimulators
 
+7/9/2017 10:52 PM
+
+ **dano** :
+
+ >Hey sydneyneurotechx, how do the Halo phones feel?
+
