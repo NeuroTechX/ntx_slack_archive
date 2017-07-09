@@ -2568,3 +2568,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >Hi Alex! Is this a open hardware EEG headset?
 
+7/9/2017 5:46 PM
+
+ **alexandre.barachant** :
+
+ >urish soon to be open. I procrastinated the source release (one reason being i can't find a nice name for the project)
+
