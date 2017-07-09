@@ -4605,3 +4605,9 @@ cc andreacoravos watson pierre melanie
 
  >I put it in a text to speech app called @voice and went for a walk. It's a great way to exercise
 
+7/9/2017 7:53 PM
+
+ **lai_london** :
+
+ >rashi  Hypnosis, and the associated areas seem interesting but Im always slightly skeptical of claims that are made, the link you provided looks interesting.
+
