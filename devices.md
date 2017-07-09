@@ -2586,3 +2586,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >What kind of name are you looking for? fun name? something with more professional sound?
 
+7/9/2017 10:56 PM
+
+ **dano** :
+
+ >timfiori: Super curious about this as well. We should really put together a pitch and ask <http://foc.us|foc.us> for a free device to hack on
+
