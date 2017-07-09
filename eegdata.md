@@ -3540,3 +3540,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >jk no, I gave up Mac and came back to my good old Linux laptop.
 
+7/9/2017 5:22 AM
+
+ **rashi** :
+
+ >I've tried it out but I am no neuroscientist so I don't know what your words mean.  Perhaps you could ask questions and I'll tell you what I recall from trying it out
+
