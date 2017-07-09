@@ -2592,3 +2592,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >timfiori: Super curious about this as well. We should really put together a pitch and ask <http://foc.us|foc.us> for a free device to hack on
 
+7/9/2017 10:58 PM
+
+ **dano** :
+
+ >:brain: storming
+
