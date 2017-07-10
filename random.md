@@ -1800,3 +1800,9 @@ dan.rizzuto do you have any comment?
 
  >More fun with journalists and BCI <https://www.gizmodo.com.au/2017/07/how-will-we-stop-hackers-from-invading-our-brains-once-were-cyborgs/>
 
+7/10/2017 2:40 PM
+
+ **timopheym** :
+
+ >Hey gusy, who have been already used <https://robintibor.github.io/braindecode/> ? Does it worth it?
+
