@@ -1227,3 +1227,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >I set up in the classroom. Will be in there
 
+7/10/2017 2:17 PM
+
+ **maviperu** :
+
+ >Hey guys, the hack night was a lot of fun, it was great meeting you all!
+
