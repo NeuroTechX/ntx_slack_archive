@@ -3552,3 +3552,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >Hi guys, I am am a artist who has been working with the Emotiv insight to make music for a upcoming album I have been stumped for a while any suggestions?
 
+7/10/2017 5:16 AM
+
+ **rashi** :
+
+ >theengramproject Wha
+
