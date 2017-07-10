@@ -3564,3 +3564,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >What's your questi
 
+7/10/2017 5:16 AM
+
+ **rashi** :
+
+ >on?
+
