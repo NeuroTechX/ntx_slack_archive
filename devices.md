@@ -2616,3 +2616,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >a.tech similar prices there as far as we know, something around 30k$? Plus, the Biotech devices have a really low sample rate (1Hz), so I cannot recommend their devices. SNR seems good though, and it's roughly portable at least - but not as good and portable as our products ofc' ;) Just adding to that disclaimer, I am happy about anyone using NIRS, no matter what device.
 
+7/10/2017 6:55 AM
+
+ **jmhorschig** :
+
+ >timfiori no, never tried, but seems legit. Was part of a guys Master's thesis who is working with really knowledgable researchers in Berlin on his PhD (EEG+fNIRS) now. I never met him, but talked to his supervisors. Seems to me though that he's the kind of guy that you can walk up to and ask for a bit of help.
+
