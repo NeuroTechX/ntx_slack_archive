@@ -2622,3 +2622,12 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >timfiori no, never tried, but seems legit. Was part of a guys Master's thesis who is working with really knowledgable researchers in Berlin on his PhD (EEG+fNIRS) now. I never met him, but talked to his supervisors. Seems to me though that he's the kind of guy that you can walk up to and ask for a bit of help.
 
+7/10/2017 8:19 AM
+
+ **alexandre.barachant** :
+
+ >dano yes, the amplifier and cap developed in this project is the "AlexEEG" from my blog. 
+
+> 
+urish i'm looking for any name really. uninspired name with Open* and Free*  are already taken.
+
