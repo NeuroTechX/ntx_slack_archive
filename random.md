@@ -1806,3 +1806,9 @@ dan.rizzuto do you have any comment?
 
  >Hey gusy, who have been already used <https://robintibor.github.io/braindecode/> ? Does it worth it?
 
+7/10/2017 3:58 PM
+
+ **gabe.ibagon** :
+
+ >timopheym I've used pieces of the source code. The paper behind this toolbox is very good, I recommend reading it. I haven't used to toolbox itself, but implementing algorithms from the paper is straightforward using any DL packages (keras, tensorflow, theano, etc).  <https://arxiv.org/abs/1703.05051>
+
