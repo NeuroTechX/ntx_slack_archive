@@ -4641,3 +4641,9 @@ cc andreacoravos watson pierre melanie
 
  ><http://www.whatsonmybrain.com/head-hacking-part-3/>
 
+7/10/2017 3:26 AM
+
+ **rashi** :
+
+ >Very interesting and I enjoy their courses. I think they have a free one someplace
+
