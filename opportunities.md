@@ -708,3 +708,15 @@ If interested feel free to MP me or register on our website.
 
  >Omind has a great team :slightly_smiling_face: I recommend +1
 
+7/10/2017 9:26 PM
+
+ **jacobflood** :
+
+ >Hey all, Mindset is hiring an electrical engineer! Were looking for someone thats played with analog/digital electronics, embedded firmware, and (hopefully!) EEG. Paid position (salary + equity) based in Montreal, with opportunity to travel to Shenzhen. 
+
+> 
+
+
+> 
+Check out the posting here: <https://angel.co/thinkmindset/jobs/211807-lead-electrical-engineer>
+
