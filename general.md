@@ -4611,3 +4611,9 @@ cc andreacoravos watson pierre melanie
 
  >rashi  Hypnosis, and the associated areas seem interesting but Im always slightly skeptical of claims that are made, the link you provided looks interesting.
 
+7/10/2017 3:22 AM
+
+ **rashi** :
+
+ >lai_london I sort of cycle through believing and not, because there's not a whole lot of evidence either way. I've been able to consistently. 
+
