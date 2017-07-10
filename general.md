@@ -4617,3 +4617,9 @@ cc andreacoravos watson pierre melanie
 
  >lai_london I sort of cycle through believing and not, because there's not a whole lot of evidence either way. I've been able to consistently. 
 
+7/10/2017 3:22 AM
+
+ **rashi** :
+
+ >Achieve name amnesia though
+
