@@ -2655,3 +2655,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >WaveWare is nice!
 
+7/10/2017 11:22 PM
+
+ **yannick** :
+
+ >abEEG. A Better EEG :wink:
+
