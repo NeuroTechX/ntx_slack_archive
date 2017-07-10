@@ -1812,3 +1812,9 @@ dan.rizzuto do you have any comment?
 
  >timopheym I've used pieces of the source code. The paper behind this toolbox is very good, I recommend reading it. I haven't used to toolbox itself, but implementing algorithms from the paper is straightforward using any DL packages (keras, tensorflow, theano, etc).  <https://arxiv.org/abs/1703.05051>
 
+7/10/2017 8:27 PM
+
+ **sc** :
+
+ ><https://www.engadget.com/2017/07/10/darpa-taps-five-organizations-to-develop-neural-interface-tech/>
+
