@@ -3570,3 +3570,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >on?
 
+7/10/2017 12:34 PM
+
+ **samuelbg13** :
+
+ >Hi rashi!  Many thanks. Have you worked with the mental commands suite? I was just wondering what is the machine learning paradigm behind it... Could you tell me how well has it worked for you? Is it robust and trustable? Does it work well with new people when they try it for the first time? 
+
