@@ -4677,3 +4677,9 @@ cc andreacoravos watson pierre melanie
 
  >There's a bunch more on the channel about the rest
 
+7/10/2017 2:52 PM
+
+ **eferdinand** :
+
+ ><http://www.adnews.com.au/news/applying-neuroscience-to-cannes-winning-work-airbnb-s-until-we-all-belong>
+
