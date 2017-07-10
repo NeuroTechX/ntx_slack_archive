@@ -2637,3 +2637,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >alexandre.barachant here are a few ideas: BrainLogger, LibreEEG, EEGenius, HomeEEG, EEG4All, PersonalEEG, WaveWare, ThoughtMaster
 
+7/10/2017 9:21 AM
+
+ **alexandre.barachant** :
+
+ >nice, thanks !
+
