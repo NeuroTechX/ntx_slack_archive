@@ -4683,3 +4683,9 @@ cc andreacoravos watson pierre melanie
 
  ><http://www.adnews.com.au/news/applying-neuroscience-to-cannes-winning-work-airbnb-s-until-we-all-belong>
 
+7/10/2017 3:01 PM
+
+ **joeyo** :
+
+ ><https://www.engadget.com/2017/07/10/darpa-taps-five-organizations-to-develop-neural-interface-tech/>
+
