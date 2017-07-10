@@ -4689,3 +4689,9 @@ cc andreacoravos watson pierre melanie
 
  ><https://www.engadget.com/2017/07/10/darpa-taps-five-organizations-to-develop-neural-interface-tech/>
 
+7/10/2017 8:54 PM
+
+ **sydneyneurotechx** :
+
+ >related to joeyo 's post. The Darpa announcement <http://www.darpa.mil/news-events/2017-07-10>
+
