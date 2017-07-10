@@ -2610,3 +2610,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >timfiori NIRx, not good, better check out <http://www.artinis.com|www.artinis.com> ;) that's where I am working at (Dutch company). NIRx is actually a US company with a German office in Berlin. I'd say their devices are okay, but obviously ours are better. Pricewise they are much too expensive for a consumer product though, with their cheapest device around 40k$. Our cheapest (single channel) is around 12k$, multichannel 20k$. This is really cheap for a research-grade device, but definitely not suited for regular consumers.
 
+7/10/2017 6:53 AM
+
+ **jmhorschig** :
+
+ >a.tech similar prices there as far as we know, something around 30k$? Plus, the Biotech devices have a really low sample rate (1Hz), so I cannot recommend their devices. SNR seems good though, and it's roughly portable at least - but not as good and portable as our products ofc' ;) Just adding to that disclaimer, I am happy about anyone using NIRS, no matter what device.
+
