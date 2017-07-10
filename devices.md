@@ -2604,3 +2604,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 
  >Is this the AlexEEG?
 
+7/10/2017 6:50 AM
+
+ **jmhorschig** :
+
+ >timfiori NIRx, not good, better check out <http://www.artinis.com|www.artinis.com> ;) that's where I am working at (Dutch company). NIRx is actually a US company with a German office in Berlin. I'd say their devices are okay, but obviously ours are better. Pricewise they are much too expensive for a consumer product though, with their cheapest device around 40k$. Our cheapest (single channel) is around 12k$, multichannel 20k$. This is really cheap for a research-grade device, but definitely not suited for regular consumers.
+
