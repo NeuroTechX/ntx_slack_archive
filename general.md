@@ -4671,3 +4671,9 @@ cc andreacoravos watson pierre melanie
 
  ><https://youtu.be/x85prwKYgOQ>
 
+7/10/2017 3:40 AM
+
+ **rashi** :
+
+ >There's a bunch more on the channel about the rest
+
