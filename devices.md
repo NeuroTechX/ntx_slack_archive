@@ -2631,3 +2631,9 @@ jmhorschig opennirs looks promising from the documentation, have you had experie
 > 
 urish i'm looking for any name really. uninspired name with Open* and Free*  are already taken.
 
+7/10/2017 8:47 AM
+
+ **urish** :
+
+ >alexandre.barachant here are a few ideas: BrainLogger, LibreEEG, EEGenius, HomeEEG, EEG4All, PersonalEEG, WaveWare, ThoughtMaster
+
