@@ -1848,3 +1848,9 @@ dan.rizzuto do you have any comment?
 
  ><http://www.br41n.io/>
 
+7/11/2017 5:00 PM
+
+ **samsagaz** :
+
+ >guys which device recommend to start learning BCI? openBCI ones?
+
