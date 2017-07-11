@@ -1830,3 +1830,9 @@ dan.rizzuto do you have any comment?
 
  >gabe.ibagon good! Would prefer theano version:)
 
+7/11/2017 3:55 AM
+
+ **yrenard** :
+
+ ><http://openvibe.inria.fr/openvibe-2-0-soon-to-appear/>
+
