@@ -1413,3 +1413,36 @@ Details may be found at www.brainbrowse.tech
 
  >They just released the workshop schedule. Looks like there will be some good ones!
 
+7/11/2017 10:24 PM
+
+ **dano** :
+
+ >```
+
+> 
+
+
+> 
+ _______              __           __         __     __   
+
+> 
+|   |   |.---.-.----.|  |--.-----.|__|.-----.|  |--.|  |_ 
+
+> 
+|       ||  _  |  __||    &lt;|     ||  ||  _  ||     ||   _|
+
+> 
+|___|___||___._|____||__|__|__|__||__||___  ||__|__||____|
+
+> 
+                                      |_____|             
+
+> 
+```
+
+> 
+
+
+> 
+Toronto neurohackers assemble! We will be having another hacknight this Thursday, hopefully with another solid round of drinks afterwards.
+
