@@ -1239,3 +1239,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >Guys, I published another paper in <#C08PVFWH4|eegdata>, this time I'm reporting my results measuring the alpha wave, a classic. For those who are new to EEG recording and analysis, I suggest you start there, this is the easiest paradigm and can be done with practically any hardware. I've done it with the Muse...
 
+7/11/2017 10:29 PM
+
+ **yannick** :
+
+ >Thanks again for sharing your work with the community!
+
