@@ -2196,3 +2196,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi, nice to meet you all. I'm Karina from Boulder, Colorado. I'm interested in neuroscience and BCI. Hoping to learn more about the industry. I work with tech companies of all kinds and this field has been of interest for me recently.
 
+7/11/2017 9:24 PM
+
+ **dano** :
+
+ >Hey man, you should come out to one of our Toronto chapter hacknights! Our flagship app, EEG 101, is built with JavaScript and Java
+
