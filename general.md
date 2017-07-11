@@ -4695,3 +4695,12 @@ cc andreacoravos watson pierre melanie
 
  >related to joeyo 's post. The Darpa announcement <http://www.darpa.mil/news-events/2017-07-10>
 
+7/11/2017 12:49 AM
+
+ **yannick** :
+
+ >Anyone knows about Zeto? (<http://zeto-inc.com/>) 
+
+> 
+Wireless, Dry EEG headset. (that seems to target the medical/clinical market)
+
