@@ -1836,3 +1836,9 @@ dan.rizzuto do you have any comment?
 
  ><http://openvibe.inria.fr/openvibe-2-0-soon-to-appear/>
 
+7/11/2017 1:26 PM
+
+ **sc** :
+
+ ><https://www.darpa.mil/news-events/2017-07-10>
+
