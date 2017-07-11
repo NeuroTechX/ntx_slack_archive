@@ -1233,3 +1233,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >Hey guys, the hack night was a lot of fun, it was great meeting you all!
 
+7/11/2017 8:14 PM
+
+ **fred-simard** :
+
+ >Guys, I published another paper in <#C08PVFWH4|eegdata>, this time I'm reporting my results measuring the alpha wave, a classic. For those who are new to EEG recording and analysis, I suggest you start there, this is the easiest paradigm and can be done with practically any hardware. I've done it with the Muse...
+
