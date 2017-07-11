@@ -246,3 +246,51 @@ More details at <https://www.meetup.com/NeuroTechVAN/events/240659251/>
 
  >rashi just invited you to <#C0VTQK7CZ|_san-francisco> this would be the best place to ask :wink:
 
+7/11/2017 10:29 PM
+
+ **dano** :
+
+ >```
+
+> 
+
+
+> 
+ _______              __           __         __     __   
+
+> 
+|   |   |.---.-.----.|  |--.-----.|__|.-----.|  |--.|  |_ 
+
+> 
+|       ||  _  |  __||    &lt;|     ||  ||  _  ||     ||   _|
+
+> 
+|___|___||___._|____||__|__|__|__||__||___  ||__|__||____|
+
+> 
+                                      |_____|             
+
+> 
+```
+
+> 
+
+
+> 
+Toronto neurohackers assemble! We will be having another hacknight this Thursday, hopefully with another solid round of drinks afterwards.
+
+> 
+
+
+> 
+Time: Thursday the 13th, 6 or 7 until 10pm
+
+> 
+Location: TBA
+
+> 
+
+
+> 
+If you've been to our hacknights before or if you're brand new, come see what we've been cooking up, learn and share ideas about the future of neurotech, and help us build fun things that will blow people's minds.
+
