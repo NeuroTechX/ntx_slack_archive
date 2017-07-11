@@ -4710,3 +4710,9 @@ Wireless, Dry EEG headset. (that seems to target the medical/clinical market)
 
  >Does anyone have any board for sale ( OpenBCI Gang.) Or something similar? thanks
 
+7/11/2017 5:57 PM
+
+ **samsagaz** :
+
+ >hey travjav im looking some to purchase too  :slightly_smiling_face:
+
