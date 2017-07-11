@@ -4716,3 +4716,9 @@ Wireless, Dry EEG headset. (that seems to target the medical/clinical market)
 
  >hey travjav im looking some to purchase too  :slightly_smiling_face:
 
+7/11/2017 5:58 PM
+
+ **samsagaz** :
+
+ >but dont know which one :confused:
+
