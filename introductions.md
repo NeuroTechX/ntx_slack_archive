@@ -2208,3 +2208,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Join the <#C0VTC19DW|_toronto> channel for info on when/where
 
+7/11/2017 10:25 PM
+
+ **yannick** :
+
+ >Hi karinacosta welcome on board!
+
