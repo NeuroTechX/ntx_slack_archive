@@ -1854,3 +1854,9 @@ dan.rizzuto do you have any comment?
 
  >guys which device recommend to start learning BCI? openBCI ones?
 
+7/11/2017 9:26 PM
+
+ **francescacoo** :
+
+ >I saw them at the opening of Dublin hackatlon!
+
