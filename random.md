@@ -1818,3 +1818,9 @@ dan.rizzuto do you have any comment?
 
  ><https://www.engadget.com/2017/07/10/darpa-taps-five-organizations-to-develop-neural-interface-tech/>
 
+7/11/2017 12:13 AM
+
+ **mhough** :
+
+ >timopheym thanks for sharing. Looks good
+
