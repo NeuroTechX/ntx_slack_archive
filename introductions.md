@@ -2172,3 +2172,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Gahh! That's funny! Made an impression on me as well just from the title. What an elusive book. I am going to the library again today....
 
+7/11/2017 1:48 AM
+
+ **imasha** :
+
+ >Hi my name is Imasha, I'm from Canada. I'm currently doing a degree in Psychology and Neuroscience and I'm interested in Brain Computer Interfacing and deep learning :slightly_smiling_face:
+
