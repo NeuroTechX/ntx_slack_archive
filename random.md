@@ -1824,3 +1824,9 @@ dan.rizzuto do you have any comment?
 
  >timopheym thanks for sharing. Looks good
 
+7/11/2017 12:13 AM
+
+ **mhough** :
+
+ >gabe.ibagon good! Would prefer theano version:)
+
