@@ -1860,3 +1860,12 @@ dan.rizzuto do you have any comment?
 
  >I saw them at the opening of Dublin hackatlon!
 
+7/11/2017 10:25 PM
+
+ **yannick** :
+
+ >samsagaz indeed the OpenBCI is a very good device to learn about BCI and biosignals. The Muse headset is also another good option. They are both great tools to start with.
+
+> 
+Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information on BCI.
+
