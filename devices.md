@@ -2673,3 +2673,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >I see, prices are really very crazy on the research market - but then againt it's a small niche and all the R&amp;D costs need to be covered to maintain a sustainable business. At least there are no bullshit companies out there, which flood the market with cheap and nonworking devices. Not sure about the focus though ;) Would you mind sending me a snippet of data once you got some? I am really curious about the data quality.
 
+7/11/2017 11:41 PM
+
+ **marion** :
+
+ >Shout-out to <http://autodidactes.io|autodidactes.io> for their awesome Bcibox. I just got mine and I'm loving it. <http://www.autodidacts.io/bcibox-open-source-openbci-enclosure/>
+
