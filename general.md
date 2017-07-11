@@ -4704,3 +4704,9 @@ cc andreacoravos watson pierre melanie
 > 
 Wireless, Dry EEG headset. (that seems to target the medical/clinical market)
 
+7/11/2017 5:33 PM
+
+ **travjav** :
+
+ >Does anyone have any board for sale ( OpenBCI Gang.) Or something similar? thanks
+
