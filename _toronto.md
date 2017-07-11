@@ -1446,3 +1446,9 @@ Details may be found at www.brainbrowse.tech
 > 
 Toronto neurohackers assemble! We will be having another hacknight this Thursday, hopefully with another solid round of drinks afterwards.
 
+7/11/2017 10:28 PM
+
+ **yannick** :
+
+ >:octopicorn:
+
