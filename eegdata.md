@@ -3588,3 +3588,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >How do I convert the eeg raw data into midi?
 
+7/11/2017 7:31 PM
+
+ **naoto** :
+
+ >theengramproject do you have SDK for raw EEG? I know there's a reverse engineered script for Epoc (so you don't need the expensive SDK) but it seems they don't support Insight <http://github.com/openyou/emokit>
+
