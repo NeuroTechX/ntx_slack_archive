@@ -3582,3 +3582,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >Hey theengramproject, like rashi pointed out, your question isnt very clear&
 
+7/11/2017 2:27 AM
+
+ **theengramproject** :
+
+ >How do I convert the eeg raw data into midi?
+
