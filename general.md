@@ -4734,3 +4734,9 @@ Wireless, Dry EEG headset. (that seems to target the medical/clinical market)
 
  >ok :slightly_smiling_face:
 
+7/11/2017 7:57 PM
+
+ **samsagaz** :
+
+ >guys, someoone know some android app that use BCI? i want to see what are the things that are made with BCI gears
+
