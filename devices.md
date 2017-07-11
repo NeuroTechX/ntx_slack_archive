@@ -2661,3 +2661,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >abEEG. A Better EEG :wink:
 
+7/11/2017 5:53 AM
+
+ **timfiori** :
+
+ >jmhorschig: thanks for all the advice! We're not quite ready to commit to the price of a higher quality device so will likely pick up the <http://foc.us|foc.us> fNIRS system. Very interested in having a go at the opennirs device in the future
+
