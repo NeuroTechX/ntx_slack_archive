@@ -1452,3 +1452,9 @@ Toronto neurohackers assemble! We will be having another hacknight this Thursday
 
  >:octopicorn:
 
+7/11/2017 11:40 PM
+
+ **cbattista** :
+
+ >sweet count me in!
+
