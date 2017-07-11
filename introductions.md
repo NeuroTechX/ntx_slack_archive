@@ -2190,3 +2190,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey guys, I have been programming for 3 years now ( Java, C/C++ ) currently in a web dev. bootcamp in Toronto I have been interested in Bio-tech for a really long time and is kind of where my natural interests are... originally from Kingston but am in Toronto  going to school for now!
 
+7/11/2017 7:13 PM
+
+ **karinacosta** :
+
+ >Hi, nice to meet you all. I'm Karina from Boulder, Colorado. I'm interested in neuroscience and BCI. Hoping to learn more about the industry. I work with tech companies of all kinds and this field has been of interest for me recently.
+
