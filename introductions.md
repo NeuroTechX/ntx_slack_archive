@@ -2178,3 +2178,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi my name is Imasha, I'm from Canada. I'm currently doing a degree in Psychology and Neuroscience and I'm interested in Brain Computer Interfacing and deep learning :slightly_smiling_face:
 
+7/11/2017 1:54 AM
+
+ **yannick** :
+
+ >Hey imasha welcome on board. Where about in Canada?
+
