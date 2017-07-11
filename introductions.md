@@ -2184,3 +2184,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey imasha welcome on board. Where about in Canada?
 
+7/11/2017 5:34 PM
+
+ **travjav** :
+
+ >Hey guys, I have been programming for 3 years now ( Java, C/C++ ) currently in a web dev. bootcamp in Toronto I have been interested in Bio-tech for a really long time and is kind of where my natural interests are... originally from Kingston but am in Toronto  going to school for now!
+
