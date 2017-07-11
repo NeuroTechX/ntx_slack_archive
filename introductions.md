@@ -2202,3 +2202,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey man, you should come out to one of our Toronto chapter hacknights! Our flagship app, EEG 101, is built with JavaScript and Java
 
+7/11/2017 9:24 PM
+
+ **dano** :
+
+ >Join the <#C0VTC19DW|_toronto> channel for info on when/where
+
