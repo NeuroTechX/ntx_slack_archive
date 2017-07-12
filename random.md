@@ -1869,3 +1869,9 @@ dan.rizzuto do you have any comment?
 > 
 Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information on BCI.
 
+7/12/2017 10:38 PM
+
+ **karinacosta** :
+
+ >does anyone have thoughts on this conference <https://mit.applysci.com/> I'm considering going, did enyone ever been to one?
+
