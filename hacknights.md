@@ -294,3 +294,9 @@ Location: TBA
 > 
 If you've been to our hacknights before or if you're brand new, come see what we've been cooking up, learn and share ideas about the future of neurotech, and help us build fun things that will blow people's minds.
 
+7/12/2017 1:28 PM
+
+ **aj** :
+
+ >Hack night nyc cancelled tonight. Will hold another hack night next Tuesday!
+
