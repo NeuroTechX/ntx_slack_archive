@@ -3594,3 +3594,15 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 
  >theengramproject do you have SDK for raw EEG? I know there's a reverse engineered script for Epoc (so you don't need the expensive SDK) but it seems they don't support Insight <http://github.com/openyou/emokit>
 
+7/12/2017 3:42 PM
+
+ **fred-simard** :
+
+ >jmhorschig You are right. I am indeed reporting the t-test p-value, but erroneously multiplied by 100, I fixed it on my end and added the trial length (15 seconds). 
+
+> 
+
+
+> 
+I do see the alpha wave on screen (raw-eeg past values, when I open my eyes). The high p-value is likely due to the outliers seen in the histogram and small number of samples (N=14), which limits the robustness of the mean statistic. This is why I complemented with a test on the median. Thanks for the feedback.
+
