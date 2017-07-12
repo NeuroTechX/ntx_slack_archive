@@ -1245,3 +1245,9 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >Thanks again for sharing your work with the community!
 
+7/12/2017 3:43 PM
+
+ **fred-simard** :
+
+ >And thanks for building a community :wink:
+
