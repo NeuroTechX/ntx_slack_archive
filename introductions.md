@@ -2226,3 +2226,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >thx Sydney - will do
 
+7/12/2017 1:55 PM
+
+ **eferdinand** :
+
+ >Welcome ferdi , it's the first time for me to meet someone with the same name
+
