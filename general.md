@@ -4740,3 +4740,33 @@ Wireless, Dry EEG headset. (that seems to target the medical/clinical market)
 
  >guys, someoone know some android app that use BCI? i want to see what are the things that are made with BCI gears
 
+7/12/2017 11:37 AM
+
+ **jmhorschig** :
+
+ >yannick 
+
+> 
+
+
+> 
+I don't know them, but I found this:
+
+> 
+
+
+> 
+<https://books.google.nl/books?id=zohLDAAAQBAJ&amp;pg=PA389&amp;lpg=PA389&amp;dq=zeto+inc+eeg&amp;source=bl&amp;ots=CCri6HX9kf&amp;sig=gWaWsVCi7oJBX8zye3QIOz3Iy7A&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwiiiOCv04PVAhWFZlAKHclwDaUQ6AEIUjAG#v=onepage&amp;q=zeto%20inc%20eeg&amp;f=false>
+
+> 
+
+
+> 
+"A compact, self-use EEG device that improves diagnosis and self-management of epilepsy" 
+
+> 
+
+
+> 
+I guess the 'medical-grade' is pure marketing for the US?
+
