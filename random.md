@@ -1881,3 +1881,9 @@ Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information 
 
  >That's a strong speaker list 
 
+7/13/2017 1:43 AM
+
+ **dano** :
+
+ >Looks awesome, but that pricing is exclusionarily high. Not for free-wheeling hackers like me. 
+
