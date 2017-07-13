@@ -2232,3 +2232,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome ferdi , it's the first time for me to meet someone with the same name
 
+7/13/2017 4:49 PM
+
+ **sylvain** :
+
+ >Hi, Im Sylvain Chevallier, Im working at Université de Versailles and INRIA (France) mostly on SSVEP and on signal processing based on the geometry of covariance matrices (pyriemann from alexandre.barachant). I support open source and open science.
+
