@@ -1875,3 +1875,9 @@ Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information 
 
  >does anyone have thoughts on this conference <https://mit.applysci.com/> I'm considering going, did enyone ever been to one?
 
+7/13/2017 12:49 AM
+
+ **joeyo** :
+
+ >That's a strong speaker list 
+
