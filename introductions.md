@@ -2238,3 +2238,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi, Im Sylvain Chevallier, Im working at Université de Versailles and INRIA (France) mostly on SSVEP and on signal processing based on the geometry of covariance matrices (pyriemann from alexandre.barachant). I support open source and open science.
 
+7/13/2017 5:43 PM
+
+ **sydneyneurotechx** :
+
+ >karinacosta: Welcome Karina! Techstars is setting up offices here in Montreal right now via Sergio Escobar. Great to have you on board!
+
