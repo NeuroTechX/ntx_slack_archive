@@ -2256,3 +2256,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >sylvain: Bienvenue Sylvain! It's great to have you be part of our community
 
+7/13/2017 8:54 PM
+
+ **sylvain** :
+
+ >Thank you very much! The community seems very active and open-minded: this is a great place!
+
