@@ -153,3 +153,9 @@ On dispose dun OpenBCI, mais on aimerais bien essayer avec un Muse
 > 
 Documentation : <https://coglab.hackpad.com/Projet-OpenBCIA-LNdWg4xq0P8>
 
+7/13/2017 4:51 PM
+
+ **sylvain** :
+
+ >Bonjour à tous !
+
