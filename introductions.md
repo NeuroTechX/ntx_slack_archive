@@ -2244,3 +2244,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >karinacosta: Welcome Karina! Techstars is setting up offices here in Montreal right now via Sergio Escobar. Great to have you on board!
 
+7/13/2017 5:44 PM
+
+ **sydneyneurotechx** :
+
+ >welcome @Travis!
+
