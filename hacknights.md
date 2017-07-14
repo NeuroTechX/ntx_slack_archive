@@ -306,3 +306,9 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >Hacknight TO links for password stuff: <https://docs.google.com/document/d/1aQnR80fgP8gcC4clLjbaFaaKGdiUwY_m1Zzdq3325uE/edit?usp=sharing>
 
+7/14/2017 3:01 PM
+
+ **cbattista** :
+
+ >This would be fun to try and replicate.
+
