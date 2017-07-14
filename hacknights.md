@@ -300,3 +300,9 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >Hack night nyc cancelled tonight. Will hold another hack night next Tuesday!
 
+7/14/2017 12:32 AM
+
+ **kowalej** :
+
+ >Hacknight TO links for password stuff: <https://docs.google.com/document/d/1aQnR80fgP8gcC4clLjbaFaaKGdiUwY_m1Zzdq3325uE/edit?usp=sharing>
+
