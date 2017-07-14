@@ -159,3 +159,12 @@ Documentation : <https://coglab.hackpad.com/Projet-OpenBCIA-LNdWg4xq0P8>
 
  >Bonjour à tous !
 
+7/14/2017 12:18 PM
+
+ **rouffi** :
+
+ >Bonjour sylvain 
+
+> 
+Bienvenue sur Slack ! :slightly_smiling_face:
+
