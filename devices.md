@@ -2679,3 +2679,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Shout-out to <http://autodidactes.io|autodidactes.io> for their awesome Bcibox. I just got mine and I'm loving it. <http://www.autodidacts.io/bcibox-open-source-openbci-enclosure/>
 
+7/14/2017 1:36 AM
+
+ **timfiori** :
+
+ >Sure, will definitely make some data available. I find it's hard to know what you're getting with focus products since there isn't a lot of documentation or many reviews out there
+
