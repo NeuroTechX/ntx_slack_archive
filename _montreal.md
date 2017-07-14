@@ -1251,3 +1251,15 @@ If you are unfamiliar with Hackerfest, it is a hackathon that brings together di
 
  >And thanks for building a community :wink:
 
+7/14/2017 2:24 AM
+
+ **sydneyneurotechx** :
+
+ >hi <!channel> . Reminder, we will be at Hackerfest tomorrow. Cost are 15 $ but gives you access for 24 hours (includes a breakfast :)) <http://www.startupfestival.com/hackerfest/>  
+
+> 
+
+
+> 
+Come join us!
+
