@@ -720,3 +720,9 @@ If interested feel free to MP me or register on our website.
 > 
 Check out the posting here: <https://angel.co/thinkmindset/jobs/211807-lead-electrical-engineer>
 
+7/14/2017 9:41 AM
+
+ **alexandre.barachant** :
+
+ ><http://www.eng.ox.ac.uk/jobs/current-vacancies/vacancy/129981-Postdoctoral-Research-Assistant-in-Smart-Brain-Monitoring>
+
