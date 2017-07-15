@@ -4800,3 +4800,12 @@ The recurrent questions are then captured and will be incorporated in NeuroTechE
 > 
 A good example of a recurrent question is where can I find resources to learn on BCI stuff BCI?, we then created the *Awesome BCI List* (<https://github.com/NeuroTechX/awesome-bci>) to answer that question.
 
+7/15/2017 3:14 PM
+
+ **yannick** :
+
+ >Another recurrent question is *What are the current Neurotech Opportunities?*, to which we are also preparing something exciting for the community. 
+
+> 
+(just dropping a teaser)
+
