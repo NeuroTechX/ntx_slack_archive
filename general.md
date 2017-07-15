@@ -4776,3 +4776,9 @@ I guess the 'medical-grade' is pure marketing for the US?
 
  >EEG 101 may be the only one right now <https://play.google.com/store/apps/details?id=com.eeg_project&amp;hl=en>
 
+7/15/2017 9:19 AM
+
+ **francescacoo** :
+
+ >hey everybody, what about a "newbie" channel for people like me :grin: I have few questions on how to get started with a "project", some of them are very basic... I might post them here, but.. thanks!!! (you can't understand how much I would love to have chapter in Dublin to experiment with other people gggghhh)
+
