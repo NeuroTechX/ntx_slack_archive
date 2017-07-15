@@ -4809,3 +4809,12 @@ A good example of a recurrent question is where can I find resources to learn o
 > 
 (just dropping a teaser)
 
+7/15/2017 6:56 PM
+
+ **francescacoo** :
+
+ >Thanks yannick , I thought it could be good to see grouped the beginner questions in one place, but if you have already all these plans that's for sure good!
+
+> 
+I will ask my questions then in the channels you have suggested, thank you!
+
