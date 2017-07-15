@@ -4782,3 +4782,21 @@ I guess the 'medical-grade' is pure marketing for the US?
 
  >hey everybody, what about a "newbie" channel for people like me :grin: I have few questions on how to get started with a "project", some of them are very basic... I might post them here, but.. thanks!!! (you can't understand how much I would love to have chapter in Dublin to experiment with other people gggghhh)
 
+7/15/2017 3:12 PM
+
+ **yannick** :
+
+ >francescacoo you know that you are always welcome to ask your question in any channel. For example you can ask in <#C08T2SENQ|devices> for things related to the various devices or in <#C08PVFWH4|eegdata> if its a general question on EEG data. 
+
+> 
+We dont isolate newbies. We welcome their questions in all and any channel as we were all newbies at one point. :wink:
+
+> 
+
+
+> 
+The recurrent questions are then captured and will be incorporated in NeuroTechEDU.
+
+> 
+A good example of a recurrent question is where can I find resources to learn on BCI stuff BCI?, we then created the *Awesome BCI List* (<https://github.com/NeuroTechX/awesome-bci>) to answer that question.
+
