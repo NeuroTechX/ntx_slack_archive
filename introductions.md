@@ -2286,3 +2286,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >yo I'm a researcher at the MILA AI lab
 
+7/16/2017 11:22 PM
+
+ **bennaxos** :
+
+ >anyone else here working on AI?
+
