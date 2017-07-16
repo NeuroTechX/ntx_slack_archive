@@ -2685,3 +2685,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Sure, will definitely make some data available. I find it's hard to know what you're getting with focus products since there isn't a lot of documentation or many reviews out there
 
+7/16/2017 12:05 AM
+
+ **bhargava2566302** :
+
+ >Does anyone had an 3d printed small or medium size
+
