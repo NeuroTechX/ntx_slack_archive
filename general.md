@@ -4818,3 +4818,15 @@ A good example of a recurrent question is where can I find resources to learn o
 > 
 I will ask my questions then in the channels you have suggested, thank you!
 
+7/16/2017 2:57 AM
+
+ **dano** :
+
+ >Hey everybody,
+
+> 
+
+
+> 
+EEG101 2.0 is in open beta. Download it here and try it with any Muse headset! <https://play.google.com/apps/testing/com.eeg_project>
+
