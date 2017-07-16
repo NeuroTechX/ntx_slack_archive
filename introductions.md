@@ -2280,3 +2280,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >That sounds amazing. I'm personally interested in Sensory Integration therapy. I used to study how (at the level of a single neuron), sensory events can influence the plasticity that occurs in response to events in the future. Sensory integration therapy, at least with the short amount of time I've looked into it, seems like it might be drawing on that type of low-level neurobiology.
 
+7/16/2017 11:16 PM
+
+ **bennaxos** :
+
+ >yo I'm a researcher at the MILA AI lab
+
