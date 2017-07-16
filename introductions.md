@@ -2268,3 +2268,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Bienvenue parmis nous! 
 
+7/16/2017 5:44 PM
+
+ **physionikhil** :
+
+ >Hi Ski , have you tried interactive floors n walls for autistic kids &amp; children with ADHD?
+
