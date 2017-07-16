@@ -2274,3 +2274,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi Ski , have you tried interactive floors n walls for autistic kids &amp; children with ADHD?
 
+7/16/2017 7:27 PM
+
+ **dano** :
+
+ >That sounds amazing. I'm personally interested in Sensory Integration therapy. I used to study how (at the level of a single neuron), sensory events can influence the plasticity that occurs in response to events in the future. Sensory integration therapy, at least with the short amount of time I've looked into it, seems like it might be drawing on that type of low-level neurobiology.
+
