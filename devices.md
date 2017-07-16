@@ -2691,3 +2691,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Does anyone had an 3d printed small or medium size
 
+7/16/2017 12:05 AM
+
+ **bhargava2566302** :
+
+ >Openbci headset
+
