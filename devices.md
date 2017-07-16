@@ -2715,3 +2715,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >should i try 1000Hz??
 
+7/16/2017 8:41 AM
+
+ **mhough** :
+
+ >aj yes, yes you should:)
+
