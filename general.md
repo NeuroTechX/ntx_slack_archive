@@ -4836,3 +4836,9 @@ EEG101 2.0 is in open beta. Download it here and try it with any Muse headset! <
 
  >Neural oscillation: from an high-level perspective, so not looking for The Truth, is it correct to say that relaxation and light meditation correspond to an increase of alpha waves (and something of the tetha waves I have read). ? I know the topic is quite more advanced than this, I have researched a bit, but I'd like to have some more insight (I am using a Muse headset, so few sensors, and I am not looking to discover any new neuroscience thing, just analysing from the "software engineering" point of view for a thesis). Thanks!
 
+7/16/2017 9:21 AM
+
+ **alexandre.barachant** :
+
+ >jonas.chatel-goldman might have an answer for that
+
