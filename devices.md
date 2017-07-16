@@ -2697,3 +2697,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Openbci headset
 
+7/16/2017 7:56 AM
+
+ **aj** :
+
+ ><http://g.recordit.co/kbmf9UpU2x.gif>
+
