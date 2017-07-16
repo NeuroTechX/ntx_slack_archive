@@ -2709,3 +2709,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >250Hz 16 channels over wifi
 
+7/16/2017 7:57 AM
+
+ **aj** :
+
+ >should i try 1000Hz??
+
