@@ -1287,3 +1287,9 @@ Come join us!
 
  >Hey maviperu ! Yes! Happening at District 3 again :slightly_smiling_face: 6:30.  <!channel> join us
 
+7/17/2017 8:05 PM
+
+ **sydneyneurotechx** :
+
+ >NeurotechX won in spirit yannick . marley carried our team with a spectacular Corgi Frontal asymmetry  project
+
