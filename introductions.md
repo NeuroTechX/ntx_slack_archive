@@ -2304,3 +2304,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >salut Sylvain! au plaisir de te rencontrer un de ces jours
 
+7/17/2017 3:52 PM
+
+ **dano** :
+
+ >Working on using ML to classify cognitive performance EEG data in <#C4LSDAE95|neurodoro>
+
