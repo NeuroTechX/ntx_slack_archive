@@ -1899,3 +1899,9 @@ Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information 
 
  >Has anyone run into any new/interesting papers highlighting EEG use for disorders of consciousness? I'm currently looking for a few publications in that realm for school. Any suggestions would be helpful!
 
+7/17/2017 8:06 PM
+
+ **hailey** :
+
+ >Does anyone have recommendations/knowledge of any good PhD/Masters programs in New England (USA) for neuroscience &amp; technology? (I understand that most programs will be labeled as computational neuroscience)
+
