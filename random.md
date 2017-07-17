@@ -1893,3 +1893,9 @@ Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information 
 
  >samsagaz: you may also want to look at our icibici - see <http://icibici.github.io/site|icibici.github.io/site>.  We've just ordered a batch of new boards.
 
+7/17/2017 7:35 PM
+
+ **chrisabbott** :
+
+ >Has anyone run into any new/interesting papers highlighting EEG use for disorders of consciousness? I'm currently looking for a few publications in that realm for school. Any suggestions would be helpful!
+
