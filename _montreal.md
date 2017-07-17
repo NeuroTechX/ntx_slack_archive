@@ -1281,3 +1281,9 @@ Come join us!
 
  >Will there be hack night this Friday? I would like to bring a couple of friends!
 
+7/17/2017 8:03 PM
+
+ **sydneyneurotechx** :
+
+ >Hey maviperu ! Yes! Happening at District 3 again :slightly_smiling_face: 6:30.  <!channel> join us
+
