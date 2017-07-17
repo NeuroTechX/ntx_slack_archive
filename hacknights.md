@@ -312,3 +312,9 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >This would be fun to try and replicate.
 
+7/17/2017 8:00 PM
+
+ **aj** :
+
+ >NYC TOMORROW NIGHT 7-9pm!!
+
