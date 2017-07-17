@@ -1275,3 +1275,9 @@ Come join us!
 
  >:slightly_smiling_face:
 
+7/17/2017 7:08 PM
+
+ **maviperu** :
+
+ >Will there be hack night this Friday? I would like to bring a couple of friends!
+
