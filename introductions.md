@@ -2328,3 +2328,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome James and fellow Montrealer! As yannick  mentioned, we have lots of community members working on it. If you interested in the intersection of AI and BCI's I'd suggest alexandre.barachant  work with  Riemannian Geometry <http://alexandre.barachant.org/papers/>. Join us in the <#C0VFP9ST0|_montreal>  channel for local activities.
 
+7/17/2017 8:01 PM
+
+ **sydneyneurotechx** :
+
+ >Bienvenue hans!
+
