@@ -318,3 +318,9 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >NYC TOMORROW NIGHT 7-9pm!!
 
+7/17/2017 8:00 PM
+
+ **aj** :
+
+ >It's going down! Hackers from the five borough's unite @OpenBCI HQ!
+
