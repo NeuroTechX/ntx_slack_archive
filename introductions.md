@@ -2292,3 +2292,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >anyone else here working on AI?
 
+7/17/2017 2:58 AM
+
+ **yannick** :
+
+ >Hey bennaxos, lots of people here are working on machine learning related to neurotechnology.
+
