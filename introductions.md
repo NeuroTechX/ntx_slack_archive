@@ -2310,3 +2310,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Working on using ML to classify cognitive performance EEG data in <#C4LSDAE95|neurodoro>
 
+7/17/2017 6:41 PM
+
+ **hans** :
+
+ >hi all, iam a CS eng working actually on OpenBCI at the Coglab-fr with ML/DL interest too
+
