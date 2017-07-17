@@ -2763,3 +2763,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Haha, fair. I mean, it would be interesting done right
 
+7/17/2017 8:15 PM
+
+ **sydneyneurotechx** :
+
+ >andrewjsauer  if you are able to access this publication, I'd love to know the results of this study :smile: <http://onlinelibrary.wiley.com/doi/10.1111/j.1748-5827.1962.tb04189.x/full>
+
