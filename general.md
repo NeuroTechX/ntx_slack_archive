@@ -4842,3 +4842,15 @@ EEG101 2.0 is in open beta. Download it here and try it with any Muse headset! <
 
  >jonas.chatel-goldman might have an answer for that
 
+7/17/2017 6:12 AM
+
+ **stephen** :
+
+ >Hey firmware people!  
+
+> 
+Do any of you have experience with the TI CC2541 BLE v1.4.2 stack and firmware image file formats (Standard, OAD, SBL) for the CC2541?
+
+> 
+Theres a remote part-time or potential full-time opportunity for you with cool IoT /neurotech education startup in Santa Barbara!
+
