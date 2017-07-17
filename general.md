@@ -4854,3 +4854,9 @@ Do any of you have experience with the TI CC2541 BLE v1.4.2 stack and firmware i
 > 
 Theres a remote part-time or potential full-time opportunity for you with cool IoT /neurotech education startup in Santa Barbara!
 
+7/17/2017 6:54 AM
+
+ **jmhorschig** :
+
+ >francescacoo roughly speaking, yes. Alpha is higher though when being tired, so it's a bit questionable whether it's relaxation - the currently predominant hypothesis is that alpha represents inhibition of task irrelevant regions. That means, if you relax and do not require a certain brain region for that, you see an increase in alpha oscillations.
+
