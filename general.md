@@ -4860,3 +4860,24 @@ Theres a remote part-time or potential full-time opportunity for you with cool 
 
  >francescacoo roughly speaking, yes. Alpha is higher though when being tired, so it's a bit questionable whether it's relaxation - the currently predominant hypothesis is that alpha represents inhibition of task irrelevant regions. That means, if you relax and do not require a certain brain region for that, you see an increase in alpha oscillations.
 
+7/17/2017 9:20 AM
+
+ **jonas.chatel-goldman** :
+
+ >@ francescacoo:
+
+> 
+It really depends on how you define « relaxation » and « light mediation ». Tons of specific mediation practices exist that recruit different brain processes, its a bit like if we were discussing of a « light sport » activity without clarifying the type of exercice.
+
+> 
+
+
+> 
+If you think of relaxation as simply having a low cognitive charge, then you may expect higher central-parietal alpha (e.g., Pz) and lower central-frontal delta-theta (e.g., Fz). This theta Fz/alpha Pz is a common ratio (e.g., _Holm, A., Lukander, K., Korpela, J., Sallinen, M., &amp; Müller, K. M. (2009). Estimating brain load from the EEG. The Scientific World Journal, 9, 639-651.)_
+
+> 
+Also, if you associate relaxation to a state with decreased vigilance (somewhat contradicts the « light meditation ») you may expect an increase in global alpha and in central frontal theta band (related to diurnal sleepiness and first stage of sleep).
+
+> 
+_Strijkstra, A. M., Beersma, D. G., Drayer, B., Halbesma, N., &amp; Daan, S. (2003). Subjective sleepiness correlates negatively with global alpha (812 Hz) and positively with central frontal theta (48 Hz) frequencies in the human resting awake electroencephalogram. Neuroscience letters, 340(1), 17-20._
+
