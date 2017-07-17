@@ -4908,3 +4908,12 @@ If I call it "relaxation" more than meditation do you think it could be more app
 > 
 I will go and read some more on the topic, but any suggestion is absolutely welcome!
 
+7/17/2017 7:37 PM
+
+ **rouffi** :
+
+ >The first biannual Neuroadaptive Technology Conference, NAT'17, will be held in Berlin, 19th - 21st of July.
+
+> 
+<http://neuroadaptive.org/conference/2017>
+
