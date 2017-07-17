@@ -150,3 +150,9 @@
 
  >HACK NIGHT TOMORROW NIGHT AT OPENBCI
 
+7/17/2017 8:02 PM
+
+ **aj** :
+
+ >7-9pm
+
