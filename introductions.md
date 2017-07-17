@@ -2316,3 +2316,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >hi all, iam a CS eng working actually on OpenBCI at the Coglab-fr with ML/DL interest too
 
+7/17/2017 6:46 PM
+
+ **rouffi** :
+
+ >[Live] Its HackNight time right now in Paris, Im with hans ping yannick marion and <#C0VTD0ETW|_paris>
+
