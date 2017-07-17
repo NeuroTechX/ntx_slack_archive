@@ -2769,3 +2769,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >andrewjsauer  if you are able to access this publication, I'd love to know the results of this study :smile: <http://onlinelibrary.wiley.com/doi/10.1111/j.1748-5827.1962.tb04189.x/full>
 
+7/17/2017 8:47 PM
+
+ **andrewjsauer** :
+
+ >accessed. the procedure indicates they inserted the electrode under the skin using a needle. not sure if the market is ready to be inserting electrodes into their pets, yet..  :sunglasses:
+
