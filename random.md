@@ -1887,3 +1887,9 @@ Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information 
 
  >Looks awesome, but that pricing is exclusionarily high. Not for free-wheeling hackers like me. 
 
+7/17/2017 12:07 PM
+
+ **colin.rowat** :
+
+ >samsagaz: you may also want to look at our icibici - see <http://icibici.github.io/site|icibici.github.io/site>.  We've just ordered a batch of new boards.
+
