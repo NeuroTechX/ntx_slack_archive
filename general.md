@@ -4881,3 +4881,30 @@ Also, if you associate relaxation to a state with decreased vigilance (somewhat 
 > 
 _Strijkstra, A. M., Beersma, D. G., Drayer, B., Halbesma, N., &amp; Daan, S. (2003). Subjective sleepiness correlates negatively with global alpha (812 Hz) and positively with central frontal theta (48 Hz) frequencies in the human resting awake electroencephalogram. Neuroscience letters, 340(1), 17-20._
 
+7/17/2017 9:31 AM
+
+ **francescacoo** :
+
+ >Hi Jonas, thanks a lot.
+
+> 
+I do understand that the reality is more complex than I thought.
+
+> 
+From reading simple resources it looked like alpha were a good predictor for "relaxation".
+
+> 
+My "goal" would be to try and determine (without any goal of making a new scientific discovery), which relaxation technique would be more helpful between few (let's say a breath guided meditation, relaxing music, body-scan meditation and so on - for people not expert in meditation I mean). 
+
+> 
+This is project for a software engineering thesis, so again, not trying to demonstrate anything or to create a commercial product, but more to explore and experiment classification algorithms and analysis of data.
+
+> 
+I am aware that even commercial applications (as for example Muse), might use more complex analysis. 
+
+> 
+If I call it "relaxation" more than meditation do you think it could be more appropriate?
+
+> 
+I will go and read some more on the topic, but any suggestion is absolutely welcome!
+
