@@ -2745,3 +2745,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Ganglion following in at 1600Hz
 
+7/17/2017 8:05 PM
+
+ **andrewjsauer** :
+
+ ><!here|@here> Has anyone looked into / built a non-research EEG device for dogs? (minus the No More Woof spat) Looking into making one but with all the challenges to overcome I'm not sure if it's even feasible, curious if anyone here has an opinion on the matter.
+
