@@ -144,3 +144,9 @@
 
  ><!channel> next NYC hack night will be July 12th
 
+7/17/2017 8:01 PM
+
+ **aj** :
+
+ >HACK NIGHT TOMORROW NIGHT AT OPENBCI
+
