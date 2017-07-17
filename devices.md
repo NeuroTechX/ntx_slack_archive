@@ -2757,3 +2757,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Haha, maybe dog EEG should remain a cautionary tale
 
+7/17/2017 8:11 PM
+
+ **andrewjsauer** :
+
+ >Haha, fair. I mean, it would be interesting done right
+
