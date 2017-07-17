@@ -726,3 +726,12 @@ Check out the posting here: <https://angel.co/thinkmindset/jobs/211807-lead-elec
 
  ><http://www.eng.ox.ac.uk/jobs/current-vacancies/vacancy/129981-Postdoctoral-Research-Assistant-in-Smart-Brain-Monitoring>
 
+7/17/2017 5:39 AM
+
+ **stephen** :
+
+ >Does anyone here have experience with the TI CC2541 BLE v1.4.2 stack and firmware image file formats (Standard, OAD, SBL) for the CC2541?
+
+> 
+Theres a remote part-time or potential full-time opportunity for you with cool IoT /neurotech education startup in California!
+
