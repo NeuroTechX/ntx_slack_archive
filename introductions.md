@@ -2298,3 +2298,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey bennaxos, lots of people here are working on machine learning related to neurotechnology.
 
+7/17/2017 9:24 AM
+
+ **jonas.chatel-goldman** :
+
+ >salut Sylvain! au plaisir de te rencontrer un de ces jours
+
