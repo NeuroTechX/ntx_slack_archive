@@ -324,3 +324,9 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >It's going down! Hackers from the five borough's unite @OpenBCI HQ!
 
+7/17/2017 8:01 PM
+
+ **aj** :
+
+ >DM me for more details if needed!
+
