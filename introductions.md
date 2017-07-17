@@ -2322,3 +2322,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >[Live] Its HackNight time right now in Paris, Im with hans ping yannick marion and <#C0VTD0ETW|_paris>
 
+7/17/2017 8:00 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome James and fellow Montrealer! As yannick  mentioned, we have lots of community members working on it. If you interested in the intersection of AI and BCI's I'd suggest alexandre.barachant  work with  Riemannian Geometry <http://alexandre.barachant.org/papers/>. Join us in the <#C0VFP9ST0|_montreal>  channel for local activities.
+
