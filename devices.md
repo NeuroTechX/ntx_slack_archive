@@ -2787,3 +2787,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Dog fmri is awesome so canine EEG needs to catch up. Cool thing is that it's easy to get CTs of them
 
+7/18/2017 4:27 AM
+
+ **yannick** :
+
+ >I hope that you are not just teasing us with exciting EEG board images... But that you are gonna tell us more about it! :slightly_smiling_face:
+
