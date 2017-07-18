@@ -606,3 +606,9 @@ We can meet you in a few days
 
  >Hello! Thank you
 
+7/18/2017 7:50 PM
+
+ **rashi** :
+
+ >Is there an SF meetup happening soon?
+
