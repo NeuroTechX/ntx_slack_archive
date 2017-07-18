@@ -3654,3 +3654,9 @@ I would say, there is 3 school for this problem :
 
  >For ERP, i'm leaning toward the solution 1 at the moment, because i think we have a real shot for that as soon as we have enough data.
 
+7/18/2017 1:20 PM
+
+ **alexandre.barachant** :
+
+ >for neural oscillation/motor imagery, it might be harder because there is much more variability between individual. But for ERP, i found the patterns remarkably similar between subjects
+
