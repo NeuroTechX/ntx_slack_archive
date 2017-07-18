@@ -2358,3 +2358,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome Sam! Please connect with endoxaneuro . She is the lead over there.
 
+7/18/2017 2:21 PM
+
+ **sydneyneurotechx** :
+
+ >If you have any questions, feel free to ask them openly. We are all nice
+
