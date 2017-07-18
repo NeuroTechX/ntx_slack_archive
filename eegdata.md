@@ -3624,3 +3624,9 @@ I do see the alpha wave on screen (raw-eeg past values, when I open my eyes). Th
 
  >Any paper or method you can recommend?
 
+7/18/2017 1:00 PM
+
+ **mesca** :
+
+ >My intuition would be to ensemble many weak models in order to increase robustness, but I am wondering if there is a better/cleaner/simpler way to achieve this.
+
