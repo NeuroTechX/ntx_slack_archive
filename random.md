@@ -1947,3 +1947,9 @@ Sub-dermal EEG electrodes around F8 and P4, maybe?
 
  >Anyone else here participate in the Silicon Valley Health2.0 meetups at PnP?  I'll be there tonight.  Say hi if you are there.
 
+7/18/2017 7:52 PM
+
+ **yrenard** :
+
+ >karletzel cannot make it for this one but will definitely join a later instance ; are they generally taking place in Sunnyvale or is it moving around the bay area ?
+
