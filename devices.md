@@ -2817,3 +2817,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >great job dmitryneuro
 
+7/18/2017 7:15 PM
+
+ **andrewjsauer** :
+
+ >mhough oh good point! yeah, looking at transdermal long-term use as i think that'd be really interesting data. shaving a site for recordings is definitely an option, i'm wondering if it's possible without though :thinking_face:
+
