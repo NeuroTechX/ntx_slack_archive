@@ -3612,3 +3612,9 @@ I do see the alpha wave on screen (raw-eeg past values, when I open my eyes). Th
 
  >Hey everyone, what is the state of the art in zero-shot (binary) classification of ERP components?
 
+7/18/2017 12:59 PM
+
+ **mesca** :
+
+ >In other words, how to classify ERP from unknown subjects?
+
