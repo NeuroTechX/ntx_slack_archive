@@ -3672,3 +3672,9 @@ I would say, there is 3 school for this problem :
 
  >I trained a LSTM on 10 subjects (8000+ trials) and could not do better than regulated LDA.
 
+7/18/2017 2:40 PM
+
+ **alexandre.barachant** :
+
+ >does not surprise me
+
