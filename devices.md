@@ -2793,3 +2793,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >I hope that you are not just teasing us with exciting EEG board images... But that you are gonna tell us more about it! :slightly_smiling_face:
 
+7/18/2017 7:11 AM
+
+ **dmitryneuro** :
+
+ >It was assembled and now work as planned and even better. After some hacks needed to start it up, because some components was not tested completly in that configuration. Hacks was: USB connector pin 4 to 5, UART isolation power source from 5V to WIFI 3V3, WIFI RESET pin to EN pin, WIFI GPIO15 pin to GND. Changes will be commited in FreeEEG32 beta.
+
