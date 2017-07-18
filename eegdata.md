@@ -3618,3 +3618,9 @@ I do see the alpha wave on screen (raw-eeg past values, when I open my eyes). Th
 
  >In other words, how to classify ERP from unknown subjects?
 
+7/18/2017 12:59 PM
+
+ **mesca** :
+
+ >Any paper or method you can recommend?
+
