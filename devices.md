@@ -2781,3 +2781,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >andrewjsauer actually the market is:) meaning that for vets yes. Owners too in the sense that once you've seen your pet seize multiple times that doesn't seem so bad. It's how you do research EEG on non-human primates etc. Not sure what problems you are facing though. Does it need to have high-density? Does it need to be long-term? You can shave sites for recordings if you want to stay transdermal but the electrodes will still be pretty irritating. Dogs are going to try and take it off if not restrained. How did this thread get so weird;)
 
+7/18/2017 12:39 AM
+
+ **mhough** :
+
+ >Dog fmri is awesome so canine EEG needs to catch up. Cool thing is that it's easy to get CTs of them
+
