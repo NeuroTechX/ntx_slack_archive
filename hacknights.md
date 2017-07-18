@@ -336,3 +336,9 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >cbattista I love the fmri of phising and malware warnings hah
 
+7/18/2017 10:45 PM
+
+ **cbattista** :
+
+ >yeah that is some sweet blobology going on there
+
