@@ -1941,3 +1941,9 @@ Sub-dermal EEG electrodes around F8 and P4, maybe?
 > 
 <https://vignette1.wikia.nocookie.net/overwatch/images/5/58/Doomfist_portrait_oops.png/revision/latest?cb=20170706203019>
 
+7/18/2017 5:06 PM
+
+ **karletzel** :
+
+ >Anyone else here participate in the Silicon Valley Health2.0 meetups at PnP?  I'll be there tonight.  Say hi if you are there.
+
