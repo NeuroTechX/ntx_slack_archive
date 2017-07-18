@@ -1911,3 +1911,9 @@ Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information 
 
  >karinacosta I haven't been to their previous events but they are all pros. Like joeyo says it's a pretty strong line up. Question is whether there will be any new info really. Not a traditional venue to roll stuff out. dano there is too much commercial interest these days. How many advanced r&amp;d groups or spinoffs from advanced r&amp;d groups are represented there. This is pretty much a tech show. If there is something in particular of interest just let me know though.
 
+7/18/2017 1:03 AM
+
+ **dano** :
+
+ >Will you be going? mhough 
+
