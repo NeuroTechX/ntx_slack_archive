@@ -4935,3 +4935,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >Hey rouffi I'm going to NAT'17, are you? Anyone else from NTX?
 
+7/18/2017 12:07 PM
+
+ **rouffi** :
+
+ >Unfortunately no, I discovered this event last night #Serendipity
+
