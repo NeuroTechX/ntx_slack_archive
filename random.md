@@ -1917,3 +1917,9 @@ Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information 
 
  >Will you be going? mhough 
 
+7/18/2017 1:05 AM
+
+ **mhough** :
+
+ >Yeah unless something comes up. A chance to pin down the one interesting thing: openwater
+
