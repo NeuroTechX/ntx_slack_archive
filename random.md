@@ -1923,3 +1923,21 @@ Have a look at <https://github.com/NeuroTechX/awesome-bci> for more information 
 
  >Yeah unless something comes up. A chance to pin down the one interesting thing: openwater
 
+7/18/2017 4:30 PM
+
+ **dano** :
+
+ >Looks like the new Overwatch hero is wearing a BCI.
+
+> 
+
+
+> 
+Sub-dermal EEG electrodes around F8 and P4, maybe?
+
+> 
+
+
+> 
+<https://vignette1.wikia.nocookie.net/overwatch/images/5/58/Doomfist_portrait_oops.png/revision/latest?cb=20170706203019>
+
