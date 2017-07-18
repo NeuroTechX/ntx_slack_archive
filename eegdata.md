@@ -3606,3 +3606,9 @@ Yes. But CCA is not able to treat a resting-state class, contrary to Riemannian 
 > 
 I do see the alpha wave on screen (raw-eeg past values, when I open my eyes). The high p-value is likely due to the outliers seen in the histogram and small number of samples (N=14), which limits the robustness of the mean statistic. This is why I complemented with a test on the median. Thanks for the feedback.
 
+7/18/2017 12:59 PM
+
+ **mesca** :
+
+ >Hey everyone, what is the state of the art in zero-shot (binary) classification of ERP components?
+
