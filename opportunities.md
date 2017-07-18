@@ -735,3 +735,36 @@ Check out the posting here: <https://angel.co/thinkmindset/jobs/211807-lead-elec
 > 
 Theres a remote part-time or potential full-time opportunity for you with cool IoT /neurotech education startup in California!
 
+7/18/2017 12:37 AM
+
+ **eferdinand** :
+
+ >Web dev / data entry paid internship!
+
+> 
+We are looking for a motivated College or Undergraduate Student capable of handling WordPress content creation and help our community to successfully support its talent pool.
+
+> 
+The right candidate should fit the following criteria:
+
+> 
+-be legally admissible to work in Canada
+
+> 
+-was registered and intends to register as a student in a related field of study
+
+> 
+-is between 15 and 30 years of age
+
+> 
+-preferably living in Montreal
+
+> 
+-has some WordPress experience
+
+> 
+The internship is for 240hrs distributed over 6months and compensation is 11.25$/hr
+
+> 
+Interested candidates plz share your profiles with <mailto:ferdinand@neurotechx.com|ferdinand@neurotechx.com>
+
