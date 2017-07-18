@@ -3660,3 +3660,9 @@ I would say, there is 3 school for this problem :
 
  >for neural oscillation/motor imagery, it might be harder because there is much more variability between individual. But for ERP, i found the patterns remarkably similar between subjects
 
+7/18/2017 2:39 PM
+
+ **mesca** :
+
+ >Thanks alexandre.barachant
+
