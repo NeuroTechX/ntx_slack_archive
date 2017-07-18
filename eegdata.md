@@ -3648,3 +3648,9 @@ I would say, there is 3 school for this problem :
 > 
 - Ensembling and meta learning (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5032911/pdf/fnins-10-00430.pdf>)
 
+7/18/2017 1:18 PM
+
+ **alexandre.barachant** :
+
+ >For ERP, i'm leaning toward the solution 1 at the moment, because i think we have a real shot for that as soon as we have enough data.
+
