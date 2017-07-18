@@ -4917,3 +4917,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 > 
 <http://neuroadaptive.org/conference/2017>
 
+7/18/2017 12:41 AM
+
+ **mhough** :
+
+ >rouffi you mean tomorrow:) 
+
