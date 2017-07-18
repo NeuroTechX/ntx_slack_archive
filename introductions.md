@@ -2346,3 +2346,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome aswin_g 
 
+7/18/2017 10:02 AM
+
+ **sam** :
+
+ >Hey everyone I'm Samuel Bars, I'm 15, passionated about new technologies, fast-learning, and cognitive sciences. I'm looking for internships, but I don't have sellable skills yet, though I can aquire them very quickly. I'm a member of the Y-fablab (Yverdon-les-bains, Switzerland), and I'll propably go to the NeuroTechX meetups of Neuchatel.
+
