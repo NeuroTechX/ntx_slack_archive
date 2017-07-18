@@ -4923,3 +4923,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >rouffi you mean tomorrow:) 
 
+7/18/2017 12:46 AM
+
+ **mhough** :
+
+ >It's heavy on former Makeig people but that ain't bad. Tim Mullen is great. I only know Makato from the mailing list
+
