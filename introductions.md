@@ -2334,3 +2334,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Bienvenue hans!
 
+7/18/2017 1:05 AM
+
+ **dano** :
+
+ >Might be interested in this: <http://www.smartstones.co>
+
