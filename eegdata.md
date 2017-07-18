@@ -3630,3 +3630,21 @@ I do see the alpha wave on screen (raw-eeg past values, when I open my eyes). Th
 
  >My intuition would be to ensemble many weak models in order to increase robustness, but I am wondering if there is a better/cleaner/simpler way to achieve this.
 
+7/18/2017 1:10 PM
+
+ **alexandre.barachant** :
+
+ >it's actually an active area of research.
+
+> 
+I would say, there is 3 school for this problem :
+
+> 
+- learn a more generalizable model (by training on a very large number of subject and hope to learn invariance). This is generally the deep-learning road.
+
+> 
+- semi-supervised / unsupervised adaptation and transfert learning ( <https://arxiv.org/pdf/1409.0107.pdf>, <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102504>) 
+
+> 
+- Ensembling and meta learning (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5032911/pdf/fnins-10-00430.pdf>)
+
