@@ -3690,3 +3690,9 @@ I would say, there is 3 school for this problem :
 
  >Hello, does any know where I can find the specification of EGI file formats? I am using mne-python to read some raw data of that format and it is digitizing the signal incorrectly.
 
+7/19/2017 3:34 PM
+
+ **thoth** :
+
+ >Hi, How many electrodes are necessary for build an experiment of BCI.
+
