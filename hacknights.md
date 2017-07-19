@@ -348,3 +348,9 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >Is there a hacknight in sf happening soon?
 
+7/19/2017 4:00 PM
+
+ **w** :
+
+ >Yup, tonight. Mostly every Wednesday night. <!here> who's coming?
+
