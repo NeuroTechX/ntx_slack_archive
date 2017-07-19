@@ -4941,3 +4941,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >Unfortunately no, I discovered this event last night #Serendipity
 
+7/19/2017 6:03 AM
+
+ **mhough** :
+
+ >davidevaleriani love to hear about it after if you have a chance to share
+
