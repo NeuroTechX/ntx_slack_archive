@@ -3702,3 +3702,9 @@ I would say, there is 3 school for this problem :
 
  >thoth as many as you can unless you already have data or unless you know what type of brain activity you are aiming at detecting, in this case you can go down to 8 channel if they are well positioned
 
+7/19/2017 4:15 PM
+
+ **thoth** :
+
+ >alexandre.barachant  thanks you. What would happen if it is taking data only for Fp2, What would be it serve this raw.
+
