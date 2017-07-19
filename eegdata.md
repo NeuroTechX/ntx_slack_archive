@@ -3714,3 +3714,9 @@ I would say, there is 3 school for this problem :
 
  >thoth i can not really answer this. with FP2, you will get artifact related to eye movement and blinks, and some brain activity from the frontal lobe
 
+7/19/2017 4:23 PM
+
+ **thoth** :
+
+ >What are the activities of the frontal lobe?
+
