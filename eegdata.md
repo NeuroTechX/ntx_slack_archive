@@ -3684,3 +3684,9 @@ I would say, there is 3 school for this problem :
 
  >I will review the other papers this week.
 
+7/19/2017 8:56 AM
+
+ **dojeda** :
+
+ >Hello, does any know where I can find the specification of EGI file formats? I am using mne-python to read some raw data of that format and it is digitizing the signal incorrectly.
+
