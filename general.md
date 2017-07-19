@@ -4959,3 +4959,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >Hey everyone! Is anyone attending SIGGRAPH by any chance? My company, Neurable, will be showing/demoing our BCI publicly for the first time. Would love for any of you to come by and try it!
 
+7/19/2017 5:56 PM
+
+ **alexandre.barachant** :
+
+ >adamm_neurable : That's great. Out of curiosity, what EEG device are you using ?
+
