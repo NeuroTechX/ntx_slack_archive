@@ -3696,3 +3696,9 @@ I would say, there is 3 school for this problem :
 
  >Hi, How many electrodes are necessary for build an experiment of BCI.
 
+7/19/2017 3:37 PM
+
+ **alexandre.barachant** :
+
+ >thoth as many as you can unless you already have data or unless you know what type of brain activity you are aiming at detecting, in this case you can go down to 8 channel if they are well positioned
+
