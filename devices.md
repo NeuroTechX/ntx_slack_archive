@@ -2823,3 +2823,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >mhough oh good point! yeah, looking at transdermal long-term use as i think that'd be really interesting data. shaving a site for recordings is definitely an option, i'm wondering if it's possible without though :thinking_face:
 
+7/19/2017 6:41 AM
+
+ **mhough** :
+
+ >andrewjsauer it's certainly possible. If the coats pretty amenable, youve got a custom "cap" which is easy and some spiky electrodes. It's a common design choice for handling hair. Dry or wet. You would need a cone to protect them or a lot of pretraining to get them used to the equipment. 
+
