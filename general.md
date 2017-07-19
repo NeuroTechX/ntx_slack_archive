@@ -4965,3 +4965,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >adamm_neurable : That's great. Out of curiosity, what EEG device are you using ?
 
+7/19/2017 6:03 PM
+
+ **davidevaleriani** :
+
+ ><https://www.onlinebrainintensive.com/>
+
