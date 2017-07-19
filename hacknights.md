@@ -354,3 +354,9 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >Yup, tonight. Mostly every Wednesday night. <!here> who's coming?
 
+7/19/2017 4:01 PM
+
+ **rashi** :
+
+ >Where is it?
+
