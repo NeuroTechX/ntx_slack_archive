@@ -612,3 +612,9 @@ We can meet you in a few days
 
  >Is there an SF meetup happening soon?
 
+7/19/2017 4:01 PM
+
+ **w** :
+
+ >It's on tonight
+
