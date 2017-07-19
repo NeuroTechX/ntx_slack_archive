@@ -2829,3 +2829,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >andrewjsauer it's certainly possible. If the coats pretty amenable, youve got a custom "cap" which is easy and some spiky electrodes. It's a common design choice for handling hair. Dry or wet. You would need a cone to protect them or a lot of pretraining to get them used to the equipment. 
 
+7/19/2017 6:42 AM
+
+ **mhough** :
+
+ >Great work dmitryneuro 
+
