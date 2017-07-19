@@ -4953,3 +4953,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >Hey romy_lorenz, I saw you just started your postdoc, what will you be working on?
 
+7/19/2017 5:49 PM
+
+ **adamm_neurable** :
+
+ >Hey everyone! Is anyone attending SIGGRAPH by any chance? My company, Neurable, will be showing/demoing our BCI publicly for the first time. Would love for any of you to come by and try it!
+
