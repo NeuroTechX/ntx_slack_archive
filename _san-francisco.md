@@ -636,3 +636,9 @@ We can meet you in a few days
 
  >I'd love to come
 
+7/19/2017 4:02 PM
+
+ **amilenkovic** :
+
+ >I'll be there if we're having one
+
