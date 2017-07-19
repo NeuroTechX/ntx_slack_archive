@@ -4971,3 +4971,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  ><https://www.onlinebrainintensive.com/>
 
+7/19/2017 6:04 PM
+
+ **yrenard** :
+
+ >SIGGRAPH is a great conference adamm_neurable , you'll have a lot of people flowing around, it is very crowded ! congrats for being part of the event :slightly_smiling_face:
+
