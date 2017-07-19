@@ -342,3 +342,9 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >yeah that is some sweet blobology going on there
 
+7/19/2017 3:54 PM
+
+ **rashi** :
+
+ >Is there a hacknight in sf happening soon?
+
