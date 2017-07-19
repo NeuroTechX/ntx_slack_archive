@@ -3720,3 +3720,15 @@ I would say, there is 3 school for this problem :
 
  >What are the activities of the frontal lobe?
 
+7/19/2017 10:48 PM
+
+ **okbalefthanded** :
+
+ >On this study: <http://www.sciencedirect.com/science/article/pii/S0165027016302680>
+
+> 
+
+
+> 
+the authors used Compressed Sensing with an RBM to classify motion onset VEP (early ERPs), their approach had better accuracy on subject with low performance
+
