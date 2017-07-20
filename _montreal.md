@@ -1299,3 +1299,12 @@ Come join us!
 
  >I don't think it's legal to require an age range. Just saying.
 
+7/20/2017 3:02 PM
+
+ **yannick** :
+
+ >It is when these are the requirements of the government offering the salary. :wink:
+
+> 
+(Its an internship for younger people to get experience, sponsored by the gov.)
+
