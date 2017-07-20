@@ -2853,3 +2853,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Agreed, interesting / fun challenges indeed!
 
+7/20/2017 6:28 AM
+
+ **aj** :
+
+ >Where are you sourcing them from?? I can't find a good source. Tried getting a bunch off eBay (we had gotten 10 prior and all worked) and 4/4 random samples failed to boot.
+
