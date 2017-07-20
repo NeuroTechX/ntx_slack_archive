@@ -1308,3 +1308,9 @@ Come join us!
 > 
 (Its an internship for younger people to get experience, sponsored by the gov.)
 
+7/20/2017 7:34 PM
+
+ **maviperu** :
+
+ >In the end I won't be able to join this time :sweat:, but next Friday I am bringing 2 new people to the community :smile:
+
