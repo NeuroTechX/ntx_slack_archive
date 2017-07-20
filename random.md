@@ -1953,3 +1953,9 @@ Sub-dermal EEG electrodes around F8 and P4, maybe?
 
  >karletzel cannot make it for this one but will definitely join a later instance ; are they generally taking place in Sunnyvale or is it moving around the bay area ?
 
+7/20/2017 2:56 PM
+
+ **karletzel** :
+
+ >yrenard they are always at Plug n Play center in Sunnyvale
+
