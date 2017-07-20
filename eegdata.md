@@ -3732,3 +3732,9 @@ I would say, there is 3 school for this problem :
 > 
 the authors used Compressed Sensing with an RBM to classify motion onset VEP (early ERPs), their approach had better accuracy on subject with low performance
 
+7/20/2017 3:36 PM
+
+ **mesca** :
+
+ >Thanks okbalefthanded
+
