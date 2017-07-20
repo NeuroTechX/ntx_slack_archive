@@ -2847,3 +2847,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >super cool dmitryneuro
 
+7/20/2017 2:39 AM
+
+ **andrewjsauer** :
+
+ >Agreed, interesting / fun challenges indeed!
+
