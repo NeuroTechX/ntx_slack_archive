@@ -2865,3 +2865,24 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >The esp8266
 
+7/20/2017 7:49 AM
+
+ **dmitryneuro** :
+
+ >on aliexpress.
+
+> 
+
+
+> 
+have made broken parts by myself.
+
+> 
+as i remember,
+
+> 
+1) placing in reset mode on NodeNCU to get cp2102 work as only usb-uart for MCU&lt;-&gt;PC data transfer needs, make 3 esp8266 modules go to overheat and stop responding to anything. so now made reset and enable pins together, so as i learn from that 3, reset alone for a long time without enable pin switched with reset is the way to kill esp8266.
+
+> 
+2) in first design of FreeEEG32 board was no esp8266, so uart isolation with 5v power worked fine. but when i added esp8266, not made test, and appeared that esp8266 tx and rx not 5v tolerant, so now this esp8266 3 modules only load firmware but firmware failing somewhere, and leave light diode turn on on esp-12f after flashing
+
