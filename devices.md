@@ -2892,3 +2892,9 @@ as i remember,
 
  >Get esp8266 from Mouser! The adafruit 12s it's working so well!
 
+7/20/2017 7:40 PM
+
+ **aj** :
+
+ >But it's individually packaged :(
+
