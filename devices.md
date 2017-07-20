@@ -2859,3 +2859,9 @@ urish i'm looking for any name really. uninspired name with Open* and Free*  are
 
  >Where are you sourcing them from?? I can't find a good source. Tried getting a bunch off eBay (we had gotten 10 prior and all worked) and 4/4 random samples failed to boot.
 
+7/20/2017 6:31 AM
+
+ **aj** :
+
+ >The esp8266
+
