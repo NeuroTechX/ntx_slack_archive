@@ -2886,3 +2886,9 @@ as i remember,
 > 
 2) in first design of FreeEEG32 board was no esp8266, so uart isolation with 5v power worked fine. but when i added esp8266, not made test, and appeared that esp8266 tx and rx not 5v tolerant, so now this esp8266 3 modules only load firmware but firmware failing somewhere, and leave light diode turn on on esp-12f after flashing
 
+7/20/2017 7:39 PM
+
+ **aj** :
+
+ >Get esp8266 from Mouser! The adafruit 12s it's working so well!
+
