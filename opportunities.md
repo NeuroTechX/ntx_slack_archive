@@ -768,3 +768,33 @@ The internship is for 240hrs distributed over 6months and compensation is 11.25$
 > 
 Interested candidates plz share your profiles with <mailto:ferdinand@neurotechx.com|ferdinand@neurotechx.com>
 
+7/21/2017 1:35 PM
+
+ **dano** :
+
+ >Hey neurotechers,
+
+> 
+
+
+> 
+Mozilla has put out a call for applications to join the Mozilla Open Leaders cohort.  It's cool program where you'll be taught the best ways to manage multi-user GitHub projects and lead open-source and open-science initiatives.
+
+> 
+
+
+> 
+I took part last year and am grateful for all the awesome people I met and the momentum it gave to EEG 101
+
+> 
+
+
+> 
+The deadline for applications is August 1st, check it out!
+
+> 
+
+
+> 
+<https://mozilla.github.io/leadership-training/>
+
