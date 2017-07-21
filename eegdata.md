@@ -3774,3 +3774,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >fred-simard, sure, but even within that montage their are many degrees of freedom if you have only 8 electrodes
 
+7/21/2017 9:42 PM
+
+ **andyh616** :
+
+ >the question is about getting the most out of your data in a generalizable way given a fixed number of recording locations
+
