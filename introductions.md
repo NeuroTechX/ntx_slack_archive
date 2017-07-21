@@ -2376,3 +2376,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey nfc93, welcome to NTX. I also work on decision making, but mainly from a BCI perspective. Can you share a bit more information about your research (e.g., papers)?
 
+7/21/2017 10:56 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome Nevicia! You should connect with crocodoyle . He's organizing a hackathon in Montreal called Deep Brainhack
+
