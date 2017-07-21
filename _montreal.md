@@ -1314,3 +1314,9 @@ Come join us!
 
  >In the end I won't be able to join this time :sweat:, but next Friday I am bringing 2 new people to the community :smile:
 
+7/21/2017 9:28 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  Reminder. Hacknight at D3
+
