@@ -2898,3 +2898,9 @@ as i remember,
 
  >But it's individually packaged :(
 
+7/21/2017 1:43 PM
+
+ **alexandre.barachant** :
+
+ >just received my test board assembly. 8 channel
+
