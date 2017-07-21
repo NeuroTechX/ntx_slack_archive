@@ -3738,3 +3738,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >Thanks okbalefthanded
 
+7/21/2017 2:14 AM
+
+ **andyh616** :
+
+ >alexandre.barachant - and anybody who might be interested - if you could place 8 EEG channels anywhere, do you think there is an generalized optimal electrode configuration that is task-independent?
+
