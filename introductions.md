@@ -2370,3 +2370,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey there! I'm Nevicia. I'm a doctoral student in psychiatry at McGill University. I study the neuropsychology of human decision-making and its impact on risk-taking. I'm interested in learning more about neurotech and deep learning and how I can contribute my expertise to these and other similar fields!
 
+7/21/2017 3:56 PM
+
+ **davidevaleriani** :
+
+ >Hey nfc93, welcome to NTX. I also work on decision making, but mainly from a BCI perspective. Can you share a bit more information about your research (e.g., papers)?
+
