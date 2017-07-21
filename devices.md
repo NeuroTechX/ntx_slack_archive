@@ -2904,3 +2904,9 @@ as i remember,
 
  >just received my test board assembly. 8 channel
 
+7/21/2017 5:31 PM
+
+ **aj** :
+
+ >Sick!!
+
