@@ -3750,3 +3750,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >to maximize information / minimize redundancy
 
+7/21/2017 2:21 AM
+
+ **andyh616** :
+
+ >im thinking that you could take a resting state dataset with many electrodes (maybe 128+),  select 8 randomly, and then move around that space optimizing for most variance explained with 8 electrodes our of N electrodes using gradient descent or something more sophisticated
+
