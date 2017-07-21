@@ -3762,3 +3762,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >even if this worked in a task-dependent way, you could potentially figure out what the best configuration is and use that montage for whatever you are trying to clsassify
 
+7/21/2017 9:35 PM
+
+ **fred-simard** :
+
+ >andyh616 The 10/20 standard is a good place to start. 
+
