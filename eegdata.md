@@ -3768,3 +3768,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >andyh616 The 10/20 standard is a good place to start. 
 
+7/21/2017 9:41 PM
+
+ **andyh616** :
+
+ >fred-simard, sure, but even within that montage their are many degrees of freedom if you have only 8 electrodes
+
