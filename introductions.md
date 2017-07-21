@@ -2364,3 +2364,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >If you have any questions, feel free to ask them openly. We are all nice
 
+7/21/2017 1:59 PM
+
+ **nfc93** :
+
+ >Hey there! I'm Nevicia. I'm a doctoral student in psychiatry at McGill University. I study the neuropsychology of human decision-making and its impact on risk-taking. I'm interested in learning more about neurotech and deep learning and how I can contribute my expertise to these and other similar fields!
+
