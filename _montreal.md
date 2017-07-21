@@ -1326,3 +1326,9 @@ Come join us!
 
  >See you at 6:30
 
+7/21/2017 9:29 PM
+
+ **fred-simard** :
+
+ >unfortunately, i can't be there tonight, will try very much to show up next week.
+
