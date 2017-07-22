@@ -798,3 +798,9 @@ The deadline for applications is August 1st, check it out!
 > 
 <https://mozilla.github.io/leadership-training/>
 
+7/22/2017 12:54 PM
+
+ **mhough** :
+
+ >That sounds great dano
+
