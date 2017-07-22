@@ -4977,3 +4977,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >SIGGRAPH is a great conference adamm_neurable , you'll have a lot of people flowing around, it is very crowded ! congrats for being part of the event :slightly_smiling_face:
 
+7/22/2017 1:00 PM
+
+ **mhough** :
+
+ >adamm_neurable yrenard yeah siggraph is a hard core event where math is the product just as much as with cryptography. I'm planning to be there but it's right before ICON in Amsterdam.
+
