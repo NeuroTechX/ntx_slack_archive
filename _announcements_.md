@@ -1194,3 +1194,9 @@ Indeed, I'll see you guys in the next event lol
 
  >The Lima team will be there, erick.carranza  departed recently to South Korea
 
+7/22/2017 7:34 PM
+
+ **mrkrause** :
+
+ >jobs
+
