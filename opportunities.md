@@ -810,3 +810,9 @@ The deadline for applications is August 1st, check it out!
 
  >dano I really want to do this cause I could be so much better hahah
 
+7/22/2017 3:15 PM
+
+ **dano** :
+
+ >Yea, do it! AJ, you'd be a great candidate. It's not that big of a time commitment either
+
