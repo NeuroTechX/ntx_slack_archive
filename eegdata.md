@@ -3810,3 +3810,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >andyh616 alexandre.barachant just seeing this. Reminds me of Mark Pfliegers work when he was at neuroscan pre-95 maybe? Using information criteria to determine signal loss from low-density density systems. In his case structured decimation <tel:(256-128-64-32|(256-128-64-32>) but it would be even better to differentiate some of the dominate structured circuit sources for a more nuanced report of a devices sensitivity. I think that was just a poster that neuroscan had on it's website many moons ago. I'll try and find it as it relates to the use of InfoGAN.
 
+7/22/2017 3:36 PM
+
+ **mhough** :
+
+ >He's got something in 2000 on this but I can't find the original poster. Here's a great bunch of people together though:) <https://www.ncbi.nlm.nih.gov/pubmed/24478692>
+
