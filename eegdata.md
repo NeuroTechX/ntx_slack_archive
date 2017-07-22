@@ -3780,3 +3780,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >the question is about getting the most out of your data in a generalizable way given a fixed number of recording locations
 
+7/22/2017 12:53 AM
+
+ **fred-simard** :
+
+ >andyh616 generally speaking, I bet on the set {F3, F4, C3, Cz, C4, P3, Pz, P4}, all referenced at the mid-point between Cz and Pz or linked ear-lobes. It gives you a good coverage of the cortex and both hemisphere are potentially separable. For what I know, this is the most common 8 electrodes setup that you will find in the literature as well
+
