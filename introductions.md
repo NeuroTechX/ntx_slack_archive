@@ -2382,3 +2382,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome Nevicia! You should connect with crocodoyle . He's organizing a hackathon in Montreal called Deep Brainhack
 
+7/22/2017 9:26 PM
+
+ **keaton** :
+
+ >Hey Everyone! Im Keaton, based in Boston. My background is in neuroscience and biomedical engineering, and I did my masters work on motor neuroscience in a BMI lab. Very interested in this space, especially prosthetics and the intersection of ML and neuro. Working for a neuroscience startup now and would love to connect!
+
