@@ -816,3 +816,9 @@ The deadline for applications is August 1st, check it out!
 
  >Yea, do it! AJ, you'd be a great candidate. It's not that big of a time commitment either
 
+7/22/2017 4:03 PM
+
+ **aj** :
+
+ >dano should i propose `Decentralization` or `Open Innovation`? <https://mozillafestival.org/spaces>
+
