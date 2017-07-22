@@ -3792,3 +3792,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >:thumbsup: fred-simard you are probably right, but it would be neat to test empirically. some reasons that could be suboptimal: minimal coverage of visual cortex, redundant information along the midline, midline referencing subtracts out midline activity,  cortical folds distort direction of the signal, differences in redundancy of signal by region..
 
+7/22/2017 1:26 AM
+
+ **andyh616** :
+
+ >also, info coming from subcortical structures is likely not distributed uniformly
+
