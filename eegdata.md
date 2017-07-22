@@ -3816,3 +3816,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >He's got something in 2000 on this but I can't find the original poster. Here's a great bunch of people together though:) <https://www.ncbi.nlm.nih.gov/pubmed/24478692>
 
+7/22/2017 9:32 PM
+
+ **andyh616** :
+
+ >Awesome, thanks for the reference mhough !
+
