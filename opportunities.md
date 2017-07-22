@@ -822,3 +822,9 @@ The deadline for applications is August 1st, check it out!
 
  >dano should i propose `Decentralization` or `Open Innovation`? <https://mozillafestival.org/spaces>
 
+7/22/2017 4:19 PM
+
+ **aj** :
+
+ ><https://github.com/MozillaFoundation/mozfest-program-2017/issues/183>
+
