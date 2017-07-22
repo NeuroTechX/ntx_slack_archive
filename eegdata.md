@@ -3786,3 +3786,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >andyh616 generally speaking, I bet on the set {F3, F4, C3, Cz, C4, P3, Pz, P4}, all referenced at the mid-point between Cz and Pz or linked ear-lobes. It gives you a good coverage of the cortex and both hemisphere are potentially separable. For what I know, this is the most common 8 electrodes setup that you will find in the literature as well
 
+7/22/2017 1:24 AM
+
+ **andyh616** :
+
+ >:thumbsup: fred-simard you are probably right, but it would be neat to test empirically. some reasons that could be suboptimal: minimal coverage of visual cortex, redundant information along the midline, midline referencing subtracts out midline activity,  cortical folds distort direction of the signal, differences in redundancy of signal by region..
+
