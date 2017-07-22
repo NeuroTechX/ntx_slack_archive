@@ -2388,3 +2388,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey Everyone! Im Keaton, based in Boston. My background is in neuroscience and biomedical engineering, and I did my masters work on motor neuroscience in a BMI lab. Very interested in this space, especially prosthetics and the intersection of ML and neuro. Working for a neuroscience startup now and would love to connect!
 
+7/22/2017 9:51 PM
+
+ **andyh616** :
+
+ >Welcome keaton 
+
