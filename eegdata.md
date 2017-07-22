@@ -3798,3 +3798,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >also, info coming from subcortical structures is likely not distributed uniformly
 
+7/22/2017 8:23 AM
+
+ **alexandre.barachant** :
+
+ >andyh616 i would have proposed a very similar montage, with Oz instead of Pz
+
