@@ -4989,3 +4989,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >mhough do make sure to come through to Neurable's demo in VR Village!
 
+7/22/2017 10:09 PM
+
+ **aj** :
+
+ >adamm_neurable i wanna come! sneak me in!
+
