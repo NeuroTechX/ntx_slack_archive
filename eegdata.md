@@ -3828,3 +3828,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >Has anyone used the DREEM eeg device? Is it any good. Thought this talk was interesting: <https://www.youtube.com/watch?v=dResAPv_o6U&amp;feature=youtu.be>
 
+7/23/2017 3:12 PM
+
+ **yannick** :
+
+ >They did raise $22M for it.
+
