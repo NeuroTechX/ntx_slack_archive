@@ -2400,3 +2400,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome keaton! You don't happen to be working for iMotions do you?
 
+7/24/2017 12:09 AM
+
+ **tahiltonjr** :
+
+ >Hi Everyone, I'm Thomas and located in Mississippi. I'm a 56 year old self employed entrepreneur that has studied the mind, neuroscience, metaphysics, quantum physics and psychology from a personal point a view because of some amazing personal experiences. This has led me to become a clinical hypnotherapist back in 2014. I'm fascinated with the minds potential and have many theories I'm working on. My interest that led me here was the EEG 101 tutorial app. I have many questions concerning this app and it's use of stating it's an open source platform to use and create other products. I do have idea for such a product that could assist within my industry as well as many other applications I believe and would enjoy speaking to others about it. I'm fascinated with this site, and non profit company behind this. Can't wait to read and learn more about all of it. I've created a slack account for my own project idea and hopefully soon can begin on it as well.
+
