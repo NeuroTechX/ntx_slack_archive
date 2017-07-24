@@ -2922,3 +2922,9 @@ as i remember,
 
  >alexandre.barachant is that ESP32 you are using there?
 
+7/24/2017 8:34 AM
+
+ **alexandre.barachant** :
+
+ >yep.
+
