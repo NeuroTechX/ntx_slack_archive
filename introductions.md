@@ -2418,3 +2418,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey Thomas, Dano, the primary developer on EEG 101, here. I am so glad you were inspired by the app! Would love to hear more about your idea.
 
+7/24/2017 7:44 PM
+
+ **dano** :
+
+ >As you've noticed, EEG 101 is totally open source. That means you can use it for whatever you want, including build your own paid neurotech app.
+
