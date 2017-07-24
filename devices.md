@@ -2934,3 +2934,9 @@ as i remember,
 
  >i tried the board for the first time yesterday. Got some nice EEG :slightly_smiling_face:
 
+7/24/2017 3:22 PM
+
+ **alexandre.barachant** :
+
+ >some fresh EEG (alpha wave)
+
