@@ -2916,3 +2916,9 @@ as i remember,
 
  >Nice!
 
+7/24/2017 8:33 AM
+
+ **urish** :
+
+ >alexandre.barachant is that ESP32 you are using there?
+
