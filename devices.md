@@ -2928,3 +2928,9 @@ as i remember,
 
  >yep.
 
+7/24/2017 8:34 AM
+
+ **alexandre.barachant** :
+
+ >i tried the board for the first time yesterday. Got some nice EEG :slightly_smiling_face:
+
