@@ -2952,3 +2952,9 @@ as i remember,
 
  >which code are you running inside?
 
+7/24/2017 10:25 PM
+
+ **alexandre.barachant** :
+
+ >Arduino core. The esp takes care of configuring the ADC, data collection and transfer.
+
