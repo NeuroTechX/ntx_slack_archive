@@ -2958,3 +2958,9 @@ as i remember,
 
  >Arduino core. The esp takes care of configuring the ADC, data collection and transfer.
 
+7/24/2017 10:27 PM
+
+ **alexandre.barachant** :
+
+ >I'm using WiFi only so far. But the esp32 also do BLE.
+
