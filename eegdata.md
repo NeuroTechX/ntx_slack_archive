@@ -3834,3 +3834,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >They did raise $22M for it.
 
+7/24/2017 7:01 AM
+
+ **omer** :
+
+ >dojeda: Are you using NS5?
+
