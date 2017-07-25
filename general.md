@@ -5061,3 +5061,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >really appreciate your answer
 
+7/25/2017 6:38 PM
+
+ **dano** :
+
+ >In the <#C4LSDAE95|neurodoro> project, we're working on throwing together an open source classifier for attention and cognitive performance with Muse and TensorFlow. You might be interested in that.
+
