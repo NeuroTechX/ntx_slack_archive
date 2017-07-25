@@ -5001,3 +5001,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >working on new neurochatbot i will be updating the repo soon
 
+7/25/2017 6:20 PM
+
+ **lai_london** :
+
+ >is there any relative inexpensive technology that can be used to give a meaningful measure of executive function?
+
