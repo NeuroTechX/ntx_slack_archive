@@ -114,3 +114,9 @@
 
  >has anyone taken MRI data (DICOM NIFTI) into voxel data and put it in unity/unreal before?
 
+7/25/2017 10:11 PM
+
+ **dan** :
+
+ >I've been putting in a lot of hours in Unity and using physical sensors like ultrasonic sound ones to manipulate virtual objects. I'm curious if we'd be able to pass in eeg waves in a similar fashion.
+
