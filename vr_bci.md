@@ -126,3 +126,9 @@
 
  >Would be happy to collaborate if there's interest. My strengths are definitely more on the interaction design / VR side rather than BCI but I've been farting around with it. I think with the right team we could do some damage
 
+7/25/2017 10:43 PM
+
+ **dano** :
+
+ >What could you do with a scalar variable that changed over time, corresponding roughly to the user's concentration/relaxation/etc? That's the kind of thing we're getting with Muse right now
+
