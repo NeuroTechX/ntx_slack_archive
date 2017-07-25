@@ -5007,3 +5007,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >is there any relative inexpensive technology that can be used to give a meaningful measure of executive function?
 
+7/25/2017 6:20 PM
+
+ **lai_london** :
+
+ >just asking so I can learn more
+
