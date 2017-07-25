@@ -3858,3 +3858,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 > 
 The code for the EGI reader is here <https://github.com/mne-tools/mne-python/blob/master/mne/io/egi/egi.py>
 
+7/25/2017 5:42 PM
+
+ **dojeda** :
+
+ >omer asked me in a private message if I tried the NS5 software to read it but I don't have it (sorry Omer that I forgot to respond to your question)
+
