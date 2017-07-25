@@ -5049,3 +5049,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >lai_london EEG technology (like the Muse) is probably your best bet. However, you'll be measuring *correlates* of things like attention and cognitive load and not directly measuring those processes (presently we really have no clear idea of what "measuring" cognitive capacities would entail). There is a whole bunch of research that aims to identify EEG correlates of these types of things, so once you understand how EEG works and what it is measuring, you should start to dig into the nuances of that space.
 
+7/25/2017 6:37 PM
+
+ **lai_london** :
+
+ >thanks
+
