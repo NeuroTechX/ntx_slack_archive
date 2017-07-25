@@ -5031,3 +5031,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >I know thats very vague, I was wondering if someone here could shed more light on this for me. e.g like depending on your mood at different times of the day you are more efficient at cognitive tasks,
 
+7/25/2017 6:29 PM
+
+ **lai_london** :
+
+ >I just wanted to know if there was anything that could measure that in some meaningful way.
+
