@@ -2424,3 +2424,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >As you've noticed, EEG 101 is totally open source. That means you can use it for whatever you want, including build your own paid neurotech app.
 
+7/25/2017 3:57 PM
+
+ **endoxaneuro** :
+
+ >Hello Sam, please feel free to contact me endoxaneuro
+
