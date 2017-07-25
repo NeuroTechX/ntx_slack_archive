@@ -5019,3 +5019,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >lai_london what do you mean by 'measure of executive function'?
 
+7/25/2017 6:28 PM
+
+ **lai_london** :
+
+ >I feel like I will probably end up conflating several more basic processes, but when I mean in everyday terms, is like attention or cognitive efficiency?
+
