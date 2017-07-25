@@ -3864,3 +3864,9 @@ The code for the EGI reader is here <https://github.com/mne-tools/mne-python/blo
 
  >omer asked me in a private message if I tried the NS5 software to read it but I don't have it (sorry Omer that I forgot to respond to your question)
 
+7/25/2017 7:07 PM
+
+ **mhough** :
+
+ >dojeda ok. Thanks. So do you have the original recordings? If not, what was the processing chain applied that got you the file you have. Cals can be important but you can write a couple of different outputs into the same format with EGI raw files. Do you know the units of what's in there currently? Could some other tool have output the EGI file format with that missing field? Things to rule out. 
+
