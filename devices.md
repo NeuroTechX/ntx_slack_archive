@@ -2964,3 +2964,9 @@ as i remember,
 
  >I'm using WiFi only so far. But the esp32 also do BLE.
 
+7/25/2017 8:56 PM
+
+ **aj** :
+
+ >I just wrote my first medium article
+
