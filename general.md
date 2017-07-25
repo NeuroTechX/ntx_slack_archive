@@ -5073,3 +5073,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >thanks
 
+7/25/2017 6:39 PM
+
+ **lai_london** :
+
+ >sounds great, would be good to meet someone that has a muse headset
+
