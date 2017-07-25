@@ -2970,3 +2970,9 @@ as i remember,
 
  >I just wrote my first medium article
 
+7/25/2017 8:56 PM
+
+ **aj** :
+
+ ><https://medium.com/@pushtheworld_aj/how-i-write-stable-arduino-code-actual-exmaples-and-rational-63dd5def2db8>
+
