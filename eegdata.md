@@ -3846,3 +3846,15 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >dojeda sorry did you get an answer on the EGI question. I missed that earlier. I know Jeff Eriksen had some issues previously but it's certainly fixable and I need to do that too:) Where's the EGI reader code from in mne I wonder?
 
+7/25/2017 5:39 PM
+
+ **dojeda** :
+
+ >Well, my problem is just that I don't understand how the values are digitized. It seems that everything is loaded correctly and then multiplied by some values named "cals" that come from the EGI header entry named "value_range". In my case, the EGI header does not have such information, so the mne-tools uses the default, `1e-6`. I just wonder where that comes from and is it reasonable to multiply it by such value.
+
+> 
+
+
+> 
+The code for the EGI reader is here <https://github.com/mne-tools/mne-python/blob/master/mne/io/egi/egi.py>
+
