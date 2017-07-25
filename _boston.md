@@ -93,3 +93,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >Anything coming up in August or September?
 
+7/25/2017 8:21 PM
+
+ **amashal** :
+
+ >Hi! I don't my know if this is the appropriate place for this post, but I am able to volunteer a bit to help organize the next event (if that is still a need). 
+
