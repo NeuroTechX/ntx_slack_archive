@@ -3840,3 +3840,9 @@ the authors used Compressed Sensing with an RBM to classify motion onset VEP (ea
 
  >dojeda: Are you using NS5?
 
+7/25/2017 5:35 PM
+
+ **mhough** :
+
+ >dojeda sorry did you get an answer on the EGI question. I missed that earlier. I know Jeff Eriksen had some issues previously but it's certainly fixable and I need to do that too:) Where's the EGI reader code from in mne I wonder?
+
