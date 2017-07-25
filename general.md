@@ -5025,3 +5025,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >I feel like I will probably end up conflating several more basic processes, but when I mean in everyday terms, is like attention or cognitive efficiency?
 
+7/25/2017 6:29 PM
+
+ **lai_london** :
+
+ >I know thats very vague, I was wondering if someone here could shed more light on this for me. e.g like depending on your mood at different times of the day you are more efficient at cognitive tasks,
+
