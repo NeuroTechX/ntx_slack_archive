@@ -120,3 +120,9 @@
 
  >I've been putting in a lot of hours in Unity and using physical sensors like ultrasonic sound ones to manipulate virtual objects. I'm curious if we'd be able to pass in eeg waves in a similar fashion.
 
+7/25/2017 10:14 PM
+
+ **dan** :
+
+ >Would be happy to collaborate if there's interest. My strengths are definitely more on the interaction design / VR side rather than BCI but I've been farting around with it. I think with the right team we could do some damage
+
