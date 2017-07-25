@@ -5091,3 +5091,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >That's awesome dano 
 
+7/25/2017 10:13 PM
+
+ **hectordomorozco** :
+
+ >lai_london In terms of the kind of analysis you can do, people have been using Transfer Entropy as a cognitive measure. Problem is, you wouldnt be able to do that with a Muse. Youd need something like OpenBCI and at least (Id say) 8 electrodes
+
