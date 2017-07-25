@@ -5079,3 +5079,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >sounds great, would be good to meet someone that has a muse headset
 
+7/25/2017 6:39 PM
+
+ **lai_london** :
+
+ >I can think up some pretty interesting studies I would like to try out
+
