@@ -87,3 +87,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >This channel is the first to hear that we're planning an event for mid-late July. Stay tuned for details!
 
+7/25/2017 2:21 AM
+
+ **gio** :
+
+ >Anything coming up in August or September?
+
