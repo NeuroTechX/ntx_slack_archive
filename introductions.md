@@ -2430,3 +2430,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hello Sam, please feel free to contact me endoxaneuro
 
+7/26/2017 7:09 PM
+
+ **karinacosta** :
+
+ >Hi Sydney, thank you. awesome to hear. Sergio is awesome!
+
