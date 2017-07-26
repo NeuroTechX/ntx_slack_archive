@@ -111,3 +111,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >Hi amashal, yes it is! I'm in the process of rounding up more volunteers and will plan a meeting for all of us in August. Could you please email me at <mailto:alex@neurotechx.com|alex@neurotechx.com> so I have your email address?
 
+7/26/2017 8:13 PM
+
+ **keaton** :
+
+ >alex Im interested in getting involved as well! Ill send you an email
+
