@@ -174,3 +174,9 @@
 
  >Just seeing this
 
+7/26/2017 9:10 PM
+
+ **aj** :
+
+ >I forgot to head into Brooklyn
+
