@@ -5103,3 +5103,12 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 
  >In case you missed it (because apparently I did)... Last month, Philips bought EGI (EEG).
 
+7/26/2017 7:18 AM
+
+ **yannick** :
+
+ >After chriscrawford recently becoming Dr. Crawford, join me in congratulating marvinandujar in successfully defending his PhD. The world of BCI just welcomed 2 new great Dr.
+
+> 
+If you dont know them, but have heard about the Brain Drone Race, then you know them :stuck_out_tongue:
+
