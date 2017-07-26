@@ -117,3 +117,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >alex Im interested in getting involved as well! Ill send you an email
 
+7/26/2017 8:42 PM
+
+ **alex** :
+
+ >keaton That's great, looking forward to your email!
+
