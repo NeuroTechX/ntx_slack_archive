@@ -1965,3 +1965,9 @@ Sub-dermal EEG electrodes around F8 and P4, maybe?
 
  >A bit fluffy but oh well <https://futurism.com/neuroreality-the-new-reality-is-coming-and-its-a-brain-computer-interface/>
 
+7/26/2017 7:15 PM
+
+ **karinacosta** :
+
+ >mhough thank you. That's actually very helpful, I'm learning more about commercial applications of BCI as I run a Techstars accelerator program and I'm interested in the space. I just registered for it. Would love to connect there!
+
