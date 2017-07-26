@@ -2442,3 +2442,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Thanks dano, I am starting my own research team in hopes to conduct experiments that do tie in hypnosis with brainwave eeg recordings. I've completed a 30 minute self-hypnosis session while recording data using one app and the muse headset. My goals are to conduct experiments on various hypnosis techniques to help improve their performance by studying these eeg   readings closer. This will allow a clearer understanding of what all a custom app would detail. Just getting the slack started under Hypnosis Neuro Research name.
 
+7/26/2017 11:00 PM
+
+ **tahiltonjr** :
+
+ >Hi... meditation and hypnosis are quite similar in the approach of the breathing and body. I too am working on research in this area of hypnosis, using the Muse headband.
+
