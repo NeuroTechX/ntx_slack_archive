@@ -99,3 +99,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >Hi! I don't my know if this is the appropriate place for this post, but I am able to volunteer a bit to help organize the next event (if that is still a need). 
 
+7/26/2017 5:35 AM
+
+ **yannick** :
+
+ >Yes it is. :slightly_smiling_face: alex, rdesai ^
+
