@@ -2436,3 +2436,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi Sydney, thank you. awesome to hear. Sergio is awesome!
 
+7/26/2017 10:48 PM
+
+ **tahiltonjr** :
+
+ >Thanks dano, I am starting my own research team in hopes to conduct experiments that do tie in hypnosis with brainwave eeg recordings. I've completed a 30 minute self-hypnosis session while recording data using one app and the muse headset. My goals are to conduct experiments on various hypnosis techniques to help improve their performance by studying these eeg   readings closer. This will allow a clearer understanding of what all a custom app would detail. Just getting the slack started under Hypnosis Neuro Research name.
+
