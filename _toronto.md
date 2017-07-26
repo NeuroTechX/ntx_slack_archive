@@ -1488,3 +1488,21 @@ Those selected will be given a spot on stage at the AR+VR Industry Night for a f
 > 
 More details here on MobileSyrup or head on over to the AR+VR event page (hint: use WWTO for $10 off).
 
+7/26/2017 11:15 PM
+
+ **dano** :
+
+ >Hacknight this week is going down btw.
+
+> 
+
+
+> 
+Interaxon office, 511 King St w, Thursday 7-10pm.
+
+> 
+
+
+> 
+More details and cool ASCII text to come
+
