@@ -5112,3 +5112,9 @@ I will go and read some more on the topic, but any suggestion is absolutely welc
 > 
 If you dont know them, but have heard about the Brain Drone Race, then you know them :stuck_out_tongue:
 
+7/26/2017 11:42 AM
+
+ **okbalefthanded** :
+
+ >Congrats for both of you chriscrawford and marvinandujar , if you don't mind sharing your dissertations for curious readers like myself
+
