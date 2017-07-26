@@ -123,3 +123,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >keaton That's great, looking forward to your email!
 
+7/26/2017 8:46 PM
+
+ **alex** :
+
+ >If anyone else on this <!channel> is interested in volunteering (helping find sponsors, hosting hack nights, becoming school representatives, etc.), please email <mailto:alex@neurotechx.com|alex@neurotechx.com> with a little about yourself and your interests in volunteering. I'm looking to set up an introductory meeting (either online or in person) for mid-late August. Looking forward to hearing from you!
+
