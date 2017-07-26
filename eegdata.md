@@ -3900,3 +3900,9 @@ Concerning the recordings, I did not acquire these files myself, they were share
 > 
 On the other hand, I have found EGI example files used in mne-python (see issue <https://github.com/mne-tools/mne-python/issues/1687> ) have that have the same value_range (zero)... perhaps this is normal.
 
+7/26/2017 3:57 PM
+
+ **mhough** :
+
+ >If it's a recording session file then it should have gains and zeros with it and those could be separate files with a raw export. If it's an ERP written out then it should be microvolts and you don't need any cal values. 
+
