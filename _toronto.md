@@ -1458,3 +1458,33 @@ Toronto neurohackers assemble! We will be having another hacknight this Thursday
 
  >sweet count me in!
 
+7/26/2017 9:23 PM
+
+ **bryan_j** :
+
+ >From Tom Emrich of We Are Wearables: 
+
+> 
+
+
+> 
+We Are Wearables has partnered with MobileSyrup to kick off a hunt for Canadian ARKit developers. We want to help your demo get some attention!
+
+> 
+
+
+> 
+Submit your ARKit demo to myself at <mailto:tom@wearewearables.com|tom@wearewearables.com> or MobileSyrup Senior Editor Patrick O'Rourke at <mailto:patrick@mobilesyrup.com|patrick@mobilesyrup.com> by July 31.
+
+> 
+
+
+> 
+Those selected will be given a spot on stage at the AR+VR Industry Night for a five minute pitch and a chance to be highlighted on <http://MobileSyrup.com|MobileSyrup.com>.
+
+> 
+
+
+> 
+More details here on MobileSyrup or head on over to the AR+VR event page (hint: use WWTO for $10 off).
+
