@@ -5118,3 +5118,9 @@ If you dont know them, but have heard about the Brain Drone Race, then you know
 
  >Congrats for both of you chriscrawford and marvinandujar , if you don't mind sharing your dissertations for curious readers like myself
 
+7/26/2017 3:22 PM
+
+ **chriscrawford** :
+
+ >Thanks!!!! yannick 
+
