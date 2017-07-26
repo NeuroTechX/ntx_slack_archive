@@ -3876,3 +3876,27 @@ The code for the EGI reader is here <https://github.com/mne-tools/mne-python/blo
 
  >Is someone using timeseries database in ordre to stock EEG data ?
 
+7/26/2017 7:45 AM
+
+ **dojeda** :
+
+ >&gt; Where's the EGI reader code from in mne I wonder?
+
+> 
+
+
+> 
+Oh, I've just realized that you are asking the same question as I am... I do not know where that comes from but it seems that the mne-python developers were in contact with EGI. I am currently trying my luck with them as well. The git blame shows one developer that I know personally so I will try to ask him as well.
+
+> 
+
+
+> 
+Concerning the recordings, I did not acquire these files myself, they were shared to me as-is, and I believe they are the raw files without any preprocessing. I can't be 100% sure, though. I do not have information concerning the units.
+
+> 
+
+
+> 
+On the other hand, I have found EGI example files used in mne-python (see issue <https://github.com/mne-tools/mne-python/issues/1687> ) have that have the same value_range (zero)... perhaps this is normal.
+
