@@ -2448,3 +2448,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi... meditation and hypnosis are quite similar in the approach of the breathing and body. I too am working on research in this area of hypnosis, using the Muse headband.
 
+7/26/2017 11:02 PM
+
+ **tahiltonjr** :
+
+ >Hi, I work with Hypnosis and Sports Performance and currently starting research that will include techniques we use in the two.
+
