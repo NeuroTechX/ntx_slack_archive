@@ -1959,3 +1959,9 @@ Sub-dermal EEG electrodes around F8 and P4, maybe?
 
  >yrenard they are always at Plug n Play center in Sunnyvale
 
+7/26/2017 6:03 PM
+
+ **sc** :
+
+ >A bit fluffy but oh well <https://futurism.com/neuroreality-the-new-reality-is-coming-and-its-a-brain-computer-interface/>
+
