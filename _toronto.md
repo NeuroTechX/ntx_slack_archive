@@ -1506,3 +1506,54 @@ Interaxon office, 511 King St w, Thursday 7-10pm.
 > 
 More details and cool ASCII text to come
 
+7/27/2017 4:26 PM
+
+ **dano** :
+
+ >```
+
+> 
+ „  ˆ ˆˆ   „ˆ„    ˆ  ˆ€   „   „ˆ   „€   „  ˆ    „„„„€ 
+
+> 
+ˆ   ˆ ˆ ˆ  ˆ€ €„  ˆ„ˆ      ˆ  ˆˆ „€    ˆ   ˆ €€€ ˆ    
+
+> 
+ˆˆ€€ˆ ˆ„„ˆ ˆ   €  ˆ€„  ˆˆ   ˆ ˆˆ ˆ €„  ˆˆ€€ˆ     ˆ    
+
+> 
+ˆ   ˆ ˆ  ˆ ˆ„  „€ ˆ  ˆ ˆ ˆ  ˆ ˆ ˆ   ˆ ˆ   ˆ    ˆ     
+
+> 
+   ˆ     ˆ €ˆˆˆ€    ˆ  ˆ  ˆ ˆ    ˆˆˆ     ˆ    €      
+
+> 
+  €     ˆ          €   ˆ   ˆˆ            €            
+
+> 
+       €                                              
+
+> 
+
+
+> 
+```
+
+> 
+
+
+> 
+Hacknight tonight!
+
+> 
+
+
+> 
+7-10pm, Interaxon office, 511 King St W (non-descript entrance next to Spice Route)
+
+> 
+
+
+> 
+Come by to work on neurotech and pick up new skills. Tonight we're going to be reviewing the machine learning code at the heart of EEG 101's brain-computer interface, QA testing the app's bluetooth pairing code, and exploring the TensorFlow for Science library and it's applicability to time-series EEG data. And more!
+
