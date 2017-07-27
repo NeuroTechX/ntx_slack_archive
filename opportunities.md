@@ -852,3 +852,9 @@ We have an IMMEDIATE Android app project to begin asap. The app will integrate w
 > 
 thank you!
 
+7/27/2017 8:55 PM
+
+ **bciguy** :
+
+ >sc :slightly_smiling_face:
+
