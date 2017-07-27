@@ -3078,3 +3078,9 @@ as i remember,
 
  >you dont need RTC to sync, you just need a counter
 
+7/27/2017 4:59 PM
+
+ **alexandre.barachant** :
+
+ >but there is one RTC on the ESP32. it think there is even NTP sync
+
