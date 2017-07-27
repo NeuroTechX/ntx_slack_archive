@@ -870,3 +870,9 @@ thank you!
 
  >email is <mailto:sc@puzzlebox.io|sc@puzzlebox.io> 
 
+7/27/2017 9:58 PM
+
+ **stephen** :
+
+ >If you know any skilled marketing/storytelling people that would love writing articles/podcasts and hosting events around human intelligence enhancement&. <https://kernel.co/job-board/?gh_jid=728261>
+
