@@ -3042,3 +3042,9 @@ as i remember,
 
  >a rtc ?
 
+7/27/2017 4:55 PM
+
+ **alexandre.barachant** :
+
+ >there is one in the esp32 i think
+
