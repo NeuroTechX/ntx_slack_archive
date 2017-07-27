@@ -3036,3 +3036,9 @@ as i remember,
 
  >Next EEG I build will have one
 
+7/27/2017 4:55 PM
+
+ **alexandre.barachant** :
+
+ >a rtc ?
+
