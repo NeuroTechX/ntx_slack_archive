@@ -3048,3 +3048,9 @@ as i remember,
 
  >there is one in the esp32 i think
 
+7/27/2017 4:56 PM
+
+ **aj** :
+
+ >Yea an rtc
+
