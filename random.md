@@ -1971,3 +1971,21 @@ Sub-dermal EEG electrodes around F8 and P4, maybe?
 
  >mhough thank you. That's actually very helpful, I'm learning more about commercial applications of BCI as I run a Techstars accelerator program and I'm interested in the space. I just registered for it. Would love to connect there!
 
+7/27/2017 11:36 PM
+
+ **bryan_j** :
+
+ >Hi there NeuroTechX community, 
+
+> 
+I hope that you are well.
+
+> 
+I have a favour to ask  my friend Tyler is a PhD candidate at the University of Toronto who is working on batteries for wearables, sensors, and other hardware devices. He is in the process of building a company, and would like 15-20 minutes of your time to determine the exact needs of the end user and any potential real-world problems that are  and may be  experienced.
+
+> 
+This interaction could be a phone interview or a coffee in-person; whatever works best for you. If you are interested and would like to learn more, feel free to email Tyler at <mailto:tyler.brian.schon@gmail.com|tyler.brian.schon@gmail.com> to schedule a time to meet. 
+
+> 
+Thanks!
+
