@@ -3066,3 +3066,9 @@ as i remember,
 
  >Also I way for the EEG board to take a photo resistor and hook it up to the screen to verify time sync with stims
 
+7/27/2017 4:58 PM
+
+ **alexandre.barachant** :
+
+ >so that's a hardware trigger
+
