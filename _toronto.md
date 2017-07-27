@@ -1563,3 +1563,33 @@ Come by to work on neurotech and pick up new skills. Tonight we're going to be r
 
  >Its going to be a good one! Exciting stuff! 
 
+7/27/2017 11:49 PM
+
+ **bryan_j** :
+
+ >Hi there NeuroTechX community,
+
+> 
+
+
+> 
+I hope that you are well.
+
+> 
+
+
+> 
+I have a favour to ask  my friend Tyler is a PhD candidate at the University of Toronto who is working on batteries for wearables, sensors, and other hardware devices. He is in the process of building a company, and would like 15-20 minutes of your time to determine the exact needs of the end user and any potential real-world problems that are  and may be  experienced.
+
+> 
+
+
+> 
+This interaction could be a phone interview or a coffee in-person; whatever works best for you. If you are interested and would like to learn more, feel free to email Tyler at <mailto:tyler.brian.schon@gmail.com|tyler.brian.schon@gmail.com> to schedule a time to meet.
+
+> 
+
+
+> 
+Thanks!
+
