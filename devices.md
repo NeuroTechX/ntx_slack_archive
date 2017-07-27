@@ -2982,3 +2982,9 @@ as i remember,
 
  >what are the cool features you want to see on a EEG amplifier ?
 
+7/27/2017 4:45 PM
+
+ **aj** :
+
+ >One that does not rail
+
