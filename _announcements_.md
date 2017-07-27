@@ -1236,3 +1236,9 @@ Thanks!
 
  >Sure. Can it wait when I back in Montreal? My schedule is a little full in Japan right now with the time difference and all
 
+7/27/2017 11:47 PM
+
+ **bryan_j** :
+
+ >Of course! Feel free to contact Tyler directly at your leisure. Thanks Yannick!
+
