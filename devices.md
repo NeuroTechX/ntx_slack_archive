@@ -2994,3 +2994,9 @@ as i remember,
 
  >:slightly_smiling_face: i mean, beside being able to record EEG
 
+7/27/2017 4:46 PM
+
+ **aj** :
+
+ >But it's an EEG amplifier lol why else would I get it? Do you mean emg? Or like is setting gain important?
+
