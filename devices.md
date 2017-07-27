@@ -3024,3 +3024,9 @@ as i remember,
 
  >on board lipo charger
 
+7/27/2017 4:54 PM
+
+ **aj** :
+
+ >I real time clock
+
