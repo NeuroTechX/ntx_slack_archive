@@ -5145,3 +5145,9 @@ If you dont know them, but have heard about the Brain Drone Race, then you know
 > 
 Would love to get the link as well! Thanks :slightly_smiling_face:
 
+7/27/2017 4:47 PM
+
+ **tahiltonjr** :
+
+ >interested in communicating with anyone using hypnosis with eeg data or anyone interested in learning my research from the two
+
