@@ -1230,3 +1230,9 @@ This interaction could be a phone interview or a coffee in-person; whatever work
 > 
 Thanks!
 
+7/27/2017 11:44 PM
+
+ **yannick** :
+
+ >Sure. Can it wait when I back in Montreal? My schedule is a little full in Japan right now with the time difference and all
+
