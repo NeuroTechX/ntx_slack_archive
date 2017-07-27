@@ -3084,3 +3084,9 @@ as i remember,
 
  >but there is one RTC on the ESP32. it think there is even NTP sync
 
+7/27/2017 5:02 PM
+
+ **alexandre.barachant** :
+
+ >so aj say hardware triggers and RTC. anyone else ?
+
