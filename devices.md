@@ -3018,3 +3018,9 @@ as i remember,
 
  >like SD card, trigger channels, wired connection in addition to wifi, etc
 
+7/27/2017 4:49 PM
+
+ **alexandre.barachant** :
+
+ >on board lipo charger
+
