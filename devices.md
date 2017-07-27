@@ -3072,3 +3072,9 @@ as i remember,
 
  >so that's a hardware trigger
 
+7/27/2017 4:58 PM
+
+ **alexandre.barachant** :
+
+ >you dont need RTC to sync, you just need a counter
+
