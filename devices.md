@@ -3030,3 +3030,9 @@ as i remember,
 
  >I real time clock
 
+7/27/2017 4:54 PM
+
+ **aj** :
+
+ >Next EEG I build will have one
+
