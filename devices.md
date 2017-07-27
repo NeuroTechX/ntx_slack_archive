@@ -3054,3 +3054,9 @@ as i remember,
 
  >Yea an rtc
 
+7/27/2017 4:57 PM
+
+ **aj** :
+
+ >I think that could be the key to time syncing
+
