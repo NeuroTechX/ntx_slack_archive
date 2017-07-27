@@ -2988,3 +2988,9 @@ as i remember,
 
  >One that does not rail
 
+7/27/2017 4:45 PM
+
+ **alexandre.barachant** :
+
+ >:slightly_smiling_face: i mean, beside being able to record EEG
+
