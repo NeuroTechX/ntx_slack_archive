@@ -3000,3 +3000,9 @@ as i remember,
 
  >But it's an EEG amplifier lol why else would I get it? Do you mean emg? Or like is setting gain important?
 
+7/27/2017 4:46 PM
+
+ **alexandre.barachant** :
+
+ >oh, i mean if it rail, then you can't record EEG
+
