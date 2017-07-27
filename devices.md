@@ -3012,3 +3012,9 @@ as i remember,
 
  >i'm more interesting in knowing what kind of extra feature is important.
 
+7/27/2017 4:48 PM
+
+ **alexandre.barachant** :
+
+ >like SD card, trigger channels, wired connection in addition to wifi, etc
+
