@@ -3108,3 +3108,9 @@ as i remember,
 
  >That's the benefit
 
+7/27/2017 5:07 PM
+
+ **alexandre.barachant** :
+
+ >hum, i'm not sure about that. the drift is slower if the ocillator is good
+
