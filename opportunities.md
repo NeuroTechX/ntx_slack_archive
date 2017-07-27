@@ -840,3 +840,15 @@ The deadline for applications is August 1st, check it out!
 
  >i applied to everything lol
 
+7/27/2017 8:50 PM
+
+ **bciguy** :
+
+ >Are you an experienced Android Developer with BLE experience looking for an opportunity to BURST onto the BCI scene?
+
+> 
+We have an IMMEDIATE Android app project to begin asap. The app will integrate with our wearable EEG device. The ideal candidate will be able to display proficiency with: 1) the BLE stack, 2) custom data graphing capabilities and 3) Automated testing/ CI. The majority of our app requirements are very simple and have ALREADY been implemented in iOS, so this is a porting project. If you have extensive BLE experience this project will be a breeze for you. We have an existing partially functional java codebase which is up to the developer to decide to use or not. Can you do all of this quickly and for a flat fee? Then you may be an ideal candidate, please email me at <mailto:daniel@iwinks.org|daniel@iwinks.org>.
+
+> 
+thank you!
+
