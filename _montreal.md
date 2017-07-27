@@ -1332,3 +1332,9 @@ Come join us!
 
  >unfortunately, i can't be there tonight, will try very much to show up next week.
 
+7/27/2017 1:05 PM
+
+ **maviperu** :
+
+ >Hack night tomorrow night? I'm bringing 2 new girls to the community!
+
