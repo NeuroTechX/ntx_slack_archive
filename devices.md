@@ -3096,3 +3096,9 @@ as i remember,
 
  >The drift with an rtc is much slower
 
+7/27/2017 5:02 PM
+
+ **aj** :
+
+ >That's all
+
