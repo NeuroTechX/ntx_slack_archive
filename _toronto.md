@@ -1557,3 +1557,9 @@ Hacknight tonight!
 > 
 Come by to work on neurotech and pick up new skills. Tonight we're going to be reviewing the machine learning code at the heart of EEG 101's brain-computer interface, QA testing the app's bluetooth pairing code, and exploring the TensorFlow for Science library and it's applicability to time-series EEG data. And more!
 
+7/27/2017 9:13 PM
+
+ **bryan_j** :
+
+ >Its going to be a good one! Exciting stuff! 
+
