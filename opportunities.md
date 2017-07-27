@@ -858,3 +858,9 @@ thank you!
 
  >sc :slightly_smiling_face:
 
+7/27/2017 9:26 PM
+
+ **sc** :
+
+ >Ha, sure thing, hit me up
+
