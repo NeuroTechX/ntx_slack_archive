@@ -3060,3 +3060,9 @@ as i remember,
 
  >I think that could be the key to time syncing
 
+7/27/2017 4:57 PM
+
+ **aj** :
+
+ >Also I way for the EEG board to take a photo resistor and hook it up to the screen to verify time sync with stims
+
