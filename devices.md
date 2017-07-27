@@ -3006,3 +3006,9 @@ as i remember,
 
  >oh, i mean if it rail, then you can't record EEG
 
+7/27/2017 4:48 PM
+
+ **alexandre.barachant** :
+
+ >i'm more interesting in knowing what kind of extra feature is important.
+
