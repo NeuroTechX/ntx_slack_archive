@@ -2976,3 +2976,9 @@ as i remember,
 
  ><https://medium.com/@pushtheworld_aj/how-i-write-stable-arduino-code-actual-exmaples-and-rational-63dd5def2db8>
 
+7/27/2017 1:46 PM
+
+ **alexandre.barachant** :
+
+ >what are the cool features you want to see on a EEG amplifier ?
+
