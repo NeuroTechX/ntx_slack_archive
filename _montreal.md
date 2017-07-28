@@ -1353,3 +1353,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >fred-simard ^
 
+7/28/2017 1:26 AM
+
+ **fred-simard** :
+
+ >Hey guys,
+
