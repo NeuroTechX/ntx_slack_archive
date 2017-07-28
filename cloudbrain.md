@@ -36,3 +36,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >I pointed him to CloudBrain as being a potential solution for him (sounded like he was more of a sound designer/hacker than a backend dev)
 
+7/28/2017 3:11 PM
+
+ **dano** :
+
+ >Is anyone working on this right now? I'd love to get a roadmap so that if we find any interested devs in Toronto we can point them to the project to contribute
+
