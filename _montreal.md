@@ -1377,3 +1377,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >naoto Now that I've tested the Cognionics electrodes, I'm more confident in sharing them. I'll show you the cap, the electrode support I've made (3d print) and then you can decide if you still want to get a few for yourself. I know you are busy, don't worry if you can't be here tonight, it can be another day.
 
+7/28/2017 6:27 PM
+
+ **naoto** :
+
+ >thanks! I'm curious to try it. Unfortunately I'm still in Europe till Aug 23 so I will see you when I'm back!
+
