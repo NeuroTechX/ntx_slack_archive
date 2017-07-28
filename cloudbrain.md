@@ -42,3 +42,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >Is anyone working on this right now? I'd love to get a roadmap so that if we find any interested devs in Toronto we can point them to the project to contribute
 
+7/28/2017 7:09 PM
+
+ **aj** :
+
+ >There are for sure people working on this they just don't use this as a place to talk about it
+
