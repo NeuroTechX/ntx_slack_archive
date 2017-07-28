@@ -1995,3 +1995,9 @@ Thanks!
 
  >i'm in the area - does Tyler have a google scholar profile or something we can take a peek at?
 
+7/28/2017 3:13 PM
+
+ **dano** :
+
+ >Exciting
+
