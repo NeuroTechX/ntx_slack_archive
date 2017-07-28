@@ -2472,3 +2472,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >psychonaut Hello Jonathan and Welcome to our community
 
+7/28/2017 5:48 PM
+
+ **eferdinand** :
+
+ >We can talk in the general section about the Field in Australia and see if anyone is interested in starting a chapter over there
+
