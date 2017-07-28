@@ -1383,3 +1383,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >thanks! I'm curious to try it. Unfortunately I'm still in Europe till Aug 23 so I will see you when I'm back!
 
+7/28/2017 7:20 PM
+
+ **fred-simard** :
+
+ >Sure!
+
