@@ -1338,3 +1338,12 @@ Come join us!
 
  >Hack night tomorrow night? I'm bringing 2 new girls to the community!
 
+7/28/2017 12:07 AM
+
+ **eferdinand** :
+
+ >I don't think there's a hacknight tomorrow, unless there's someone to take the lead on this.
+
+> 
+Im super busy tomorrow, sydney is in vegas and yannick in Japan.
+
