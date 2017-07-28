@@ -54,3 +54,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >Ok
 
+7/28/2017 8:59 PM
+
+ **dano** :
+
+ >That kind of touches on another point I'm curious about: how open is CloudBrain at this point? I know some of it is being developed closed.
+
