@@ -3114,3 +3114,9 @@ as i remember,
 
  >hum, i'm not sure about that. the drift is slower if the ocillator is good
 
+7/28/2017 12:35 AM
+
+ **yrenard** :
+
+ >I second alexandre.barachant on that one :wink:
+
