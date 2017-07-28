@@ -2466,3 +2466,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Exactly... my thoughts for this project. Hypnosis relies on mostly visual clues while a lot is assumed when in fact, I believe it could benefit both the client and the hypnotherapist to know without a doubt the ultimate way to benefit the client through the knowledge behind the exact point the client is most available. I'll send you a link to join us if you like.
 
+7/28/2017 5:47 PM
+
+ **eferdinand** :
+
+ >psychonaut Hello Jonathan and Welcome to our community
+
