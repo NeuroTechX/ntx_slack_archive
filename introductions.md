@@ -2454,3 +2454,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi, I work with Hypnosis and Sports Performance and currently starting research that will include techniques we use in the two.
 
+7/28/2017 2:00 PM
+
+ **rashi** :
+
+ >tahiltonjr I'm interested in your project! I think hypnosis has untapped potential, I also see lots of untested claims about hypnosis too.
+
