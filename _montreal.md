@@ -1365,3 +1365,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I think maviperu will be interested in your DIY Dry Headcap. (I'll have to wait to be back before I can try it...)
 
+7/28/2017 1:29 PM
+
+ **maviperu** :
+
+ >awesome!! We will be there!
+
