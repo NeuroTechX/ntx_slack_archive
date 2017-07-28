@@ -5193,3 +5193,9 @@ Thanks!
 
  >Yep. getting that message too
 
+7/28/2017 8:58 PM
+
+ **dano** :
+
+ >I've done my part to delete some of my old files, but unfortunately I've found it really difficult through the Slack interface. Is there any way to delete multiple files at once?
+
