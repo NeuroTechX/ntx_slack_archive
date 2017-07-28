@@ -3906,3 +3906,9 @@ On the other hand, I have found EGI example files used in mne-python (see issue 
 
  >If it's a recording session file then it should have gains and zeros with it and those could be separate files with a raw export. If it's an ERP written out then it should be microvolts and you don't need any cal values. 
 
+7/28/2017 5:35 PM
+
+ **fred-simard** :
+
+ >nedack I built a python API to a mongodb database to store trial-based timeseries and related information. It works fairly well, but it lacks a few features and I'm spending my time on another project right now. Still, it provides a starting point if you want to adapt it for your own needs. Otherwise I suggest you use CSV files, that's the quick and dirty way.
+
