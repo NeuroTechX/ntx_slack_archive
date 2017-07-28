@@ -2460,3 +2460,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >tahiltonjr I'm interested in your project! I think hypnosis has untapped potential, I also see lots of untested claims about hypnosis too.
 
+7/28/2017 2:05 PM
+
+ **tahiltonjr** :
+
+ >Exactly... my thoughts for this project. Hypnosis relies on mostly visual clues while a lot is assumed when in fact, I believe it could benefit both the client and the hypnotherapist to know without a doubt the ultimate way to benefit the client through the knowledge behind the exact point the client is most available. I'll send you a link to join us if you like.
+
