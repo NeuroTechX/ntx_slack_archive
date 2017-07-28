@@ -1989,3 +1989,9 @@ This interaction could be a phone interview or a coffee in-person; whatever work
 > 
 Thanks!
 
+7/28/2017 1:47 AM
+
+ **kiret** :
+
+ >i'm in the area - does Tyler have a google scholar profile or something we can take a peek at?
+
