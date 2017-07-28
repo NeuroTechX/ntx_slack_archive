@@ -5187,3 +5187,9 @@ Thanks!
 
  >yannick I hate to be the bearer of bad news, but I can't upload any more documents. It tells me the slack storage is full... I'm posting it here, because I think part of the solution will need to come from the community.
 
+7/28/2017 8:58 PM
+
+ **dano** :
+
+ >Yep. getting that message too
+
