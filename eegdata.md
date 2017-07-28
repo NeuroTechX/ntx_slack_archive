@@ -3912,3 +3912,9 @@ On the other hand, I have found EGI example files used in mne-python (see issue 
 
  >nedack I built a python API to a mongodb database to store trial-based timeseries and related information. It works fairly well, but it lacks a few features and I'm spending my time on another project right now. Still, it provides a starting point if you want to adapt it for your own needs. Otherwise I suggest you use CSV files, that's the quick and dirty way.
 
+7/28/2017 5:41 PM
+
+ **fred-simard** :
+
+ >andreacoravos I'd be curious to know if this is scientifically proven. I talked with a PI specialized in sleep and EEG about two months ago and although he was aware of the concept, he didn't seemed convinced that using sounds to modulate sleep rythms would actually work. I'm sure you can elicit rythms in auditory areas (and see the effect in EEG), but it's a stretch to claim that you can have a direct effect on the sleep process. For science, all they provide is a white paper, but its not written at a scientific level and the results are quite evasive.
+
