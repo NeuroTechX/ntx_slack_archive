@@ -48,3 +48,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >There are for sure people working on this they just don't use this as a place to talk about it
 
+7/28/2017 8:58 PM
+
+ **dano** :
+
+ >Ok
+
