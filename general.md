@@ -5238,3 +5238,9 @@ Thanks :slightly_smiling_face:
 > 
 Here is how to check your files: <https://neurotechx.slack.com/files/>      (and go to My Files)
 
+7/29/2017 2:57 PM
+
+ **sc** :
+
+ >Any progress on getting a non-profit license for Slack?
+
