@@ -3918,3 +3918,12 @@ On the other hand, I have found EGI example files used in mne-python (see issue 
 
  >andreacoravos I'd be curious to know if this is scientifically proven. I talked with a PI specialized in sleep and EEG about two months ago and although he was aware of the concept, he didn't seemed convinced that using sounds to modulate sleep rythms would actually work. I'm sure you can elicit rythms in auditory areas (and see the effect in EEG), but it's a stretch to claim that you can have a direct effect on the sleep process. For science, all they provide is a white paper, but its not written at a scientific level and the results are quite evasive.
 
+7/29/2017 2:43 AM
+
+ **yannick** :
+
+ >They do have a patent on it (doesnt mean it works, but might interest some of you). They do cite other patents referring to Binaural Beats in their patent.
+
+> 
+<https://www.google.com/patents/WO2017021662A1>
+
