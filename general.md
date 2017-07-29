@@ -5244,3 +5244,9 @@ Here is how to check your files: <https://neurotechx.slack.com/files/>      (and
 
  >Any progress on getting a non-profit license for Slack?
 
+7/29/2017 2:57 PM
+
+ **sc** :
+
+ >(thats probably also why were werent in that directory listing posted awhile back)
+
