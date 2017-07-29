@@ -3927,3 +3927,18 @@ On the other hand, I have found EGI example files used in mne-python (see issue 
 > 
 <https://www.google.com/patents/WO2017021662A1>
 
+7/29/2017 2:59 AM
+
+ **nedack** :
+
+ >Being a Msc student and using different devices (Biopac,Biosemi and Brain Products) on plural projects, I'm thinking about my research workflow : how can i store the data and how can access to it easily and quickly with Matlab, Python or others. 
+
+> 
+I want to be able to work with this data in 1,2,X years without too many problems and find all the informations : sampling rate, experimental design etc...
+
+> 
+
+
+> 
+My supervisor keeps all the data in csv, as you propose, but I don't like it ! If I am not mistaken, you are working on intelliPi, have you implemented MongoDB on it ? And Why MongoDB ? I also find Mobbed (10.3389/fninf.2013.00020) based on PostgreSQL but it's only on Matlab and I'm trying to favor Python.
+
