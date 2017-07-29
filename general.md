@@ -5199,3 +5199,42 @@ Thanks!
 
  >I've done my part to delete some of my old files, but unfortunately I've found it really difficult through the Slack interface. Is there any way to delete multiple files at once?
 
+7/29/2017 4:06 AM
+
+ **yannick** :
+
+ >fred-simard thanks for letting me know! Im currently deleting my older files. 
+
+> 
+(stuff before 2017 that are not relevant anymore)
+
+> 
+
+
+> 
+But you are right in saying that the solution will come from the community. If everyone could quickly go check their files and delete the older ones that are not relevant anymore and/or upload the big videos on G-Drive and share the link, as opposed to uploading the video in here.
+
+> 
+I know that for some of you (aj, dano, alexandre.barachant, sydneyneurotechx, etc.) it might be more painful since youve transferred many files.
+
+> 
+
+
+> 
+Indeed the Slack Interface for deleting files is sh**. Most likely on purpose to drive sales, because it would be very easy for them to make it as nice and easy to use as everything else they do. 
+
+> 
+
+
+> 
+If we all take 5-10 minutes, well fix the problem in no time.
+
+> 
+Thanks :slightly_smiling_face:
+
+> 
+
+
+> 
+Here is how to check your files: <https://neurotechx.slack.com/files/>      (and go to My Files)
+
