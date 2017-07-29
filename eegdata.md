@@ -3948,3 +3948,27 @@ My supervisor keeps all the data in csv, as you propose, but I don't like it ! I
 
  >yannick andreacoravos Most of the claims are in the form, we stimulate with sounds and we measure an EEG response similar to that of deep sleep. This is a fair statement, I'm not challenging it. But so far, I haven't found the link between the EEG response they measure and the effect on deep sleep (I would expect some kind of psychometrics to support their claim), nor even a proof of the co-localisation of the effect they induce and sleep EEG pattern generators (source localisation study, using EEG and/or fMRI and/or MEG($$$)). I need to specify that I haven't reviewed the literature on the topic, only the few pieces of evidence thrown at me, so it might be out there. I honestly wish that it works, I think it's a great idea and works toward the general promise of EEG-based therapy to reduce reliance on drugs. Let's hope they did their science homework correctly.
 
+7/29/2017 3:19 PM
+
+ **fred-simard** :
+
+ >It's a similar line of thought that lead me to look into DBMS. 
+
+> 
+
+
+> 
+Funny you bring IntelliPi, I backed it up yesterday, I'm canning the project. Great idea, bad design, bad business model. I actually rebuilt the whole IntelliPi pipeline in Python over the last month, much better.
+
+> 
+
+
+> 
+CSV will always be supported, simple format, but the power of a DBMS cannot be neglected. In fact, the tool my mongoDB is missing is a CSV import/export function, that will allow for easier data management. I'm not a big data expert, but the reason I chose mongoDB is because it combines the power of SQL, while providing flexible schemas. In my opinion, the metadata around EEG can be standardized to a great extent, but there will always be a need to add fields on-the-fly for X or Y reasons and scientists don't want to always bother about restrictive schemas. MongoDB allows for that.
+
+> 
+
+
+> 
+I'm on vacation for 2 weeks, but right after, I want to start a git related to my work with EEG, I'll post my mongodb framework. It's incomplete, but it will give you an idea of what I had in mind.
+
