@@ -3942,3 +3942,9 @@ I want to be able to work with this data in 1,2,X years without too many problem
 > 
 My supervisor keeps all the data in csv, as you propose, but I don't like it ! If I am not mistaken, you are working on intelliPi, have you implemented MongoDB on it ? And Why MongoDB ? I also find Mobbed (10.3389/fninf.2013.00020) based on PostgreSQL but it's only on Matlab and I'm trying to favor Python.
 
+7/29/2017 3:11 PM
+
+ **fred-simard** :
+
+ >yannick andreacoravos Most of the claims are in the form, we stimulate with sounds and we measure an EEG response similar to that of deep sleep. This is a fair statement, I'm not challenging it. But so far, I haven't found the link between the EEG response they measure and the effect on deep sleep (I would expect some kind of psychometrics to support their claim), nor even a proof of the co-localisation of the effect they induce and sleep EEG pattern generators (source localisation study, using EEG and/or fMRI and/or MEG($$$)). I need to specify that I haven't reviewed the literature on the topic, only the few pieces of evidence thrown at me, so it might be out there. I honestly wish that it works, I think it's a great idea and works toward the general promise of EEG-based therapy to reduce reliance on drugs. Let's hope they did their science homework correctly.
+
