@@ -5250,3 +5250,9 @@ Here is how to check your files: <https://neurotechx.slack.com/files/>      (and
 
  >(thats probably also why were werent in that directory listing posted awhile back)
 
+7/29/2017 3:22 PM
+
+ **fred-simard** :
+
+ >yannick Thanks for the details. I'll review my way of publishing my documents. I'll host them somewhere else and post the links instead. It should actually turn out a better solution overall anyway.
+
