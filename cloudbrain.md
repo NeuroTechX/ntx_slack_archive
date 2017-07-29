@@ -60,3 +60,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >That kind of touches on another point I'm curious about: how open is CloudBrain at this point? I know some of it is being developed closed.
 
+7/29/2017 2:46 AM
+
+ **yannick** :
+
+ >You should talk with marion &amp; w to have the latest status and direction of the project.
+
