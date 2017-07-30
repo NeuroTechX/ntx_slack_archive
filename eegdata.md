@@ -3990,3 +3990,9 @@ I'm on vacation for 2 weeks, but right after, I want to start a git related to m
 
  >I think a direct caregiver might be able to answer more precisely, but when it comes to ALS, the window between which single-finger joystick interactions has closed, and a gaze tracker is no longer useful (where they are truly fully locked in) and the statistical average end of life is so narrow that I think you
 
+7/30/2017 5:40 PM
+
+ **sc** :
+
+ >The main benefit in that instance might be the cost savings between an Insight/EPOC and a medical/research-grade EEG, but honestly with all of the other costs related to someone with the needs of late-stage ALS, I think the difference is not as great as it may initially sound. I might suspect that a higher-end system might be covered under healthcare anyway.
+
