@@ -5262,3 +5262,9 @@ Here is how to check your files: <https://neurotechx.slack.com/files/>      (and
 
  >LOL
 
+7/30/2017 7:58 PM
+
+ **kiret** :
+
+ >i mean... it kinda IS a pain-inducing torture device if you're the researcher
+
