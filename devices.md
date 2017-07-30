@@ -3126,3 +3126,9 @@ as i remember,
 
  >alexandre.barachant heres a riff on Yannicks name suggestion: abcdEEG & it kinda rolls off the tongue to native English speakers. Could stand for nothing (just mean to be simple as ABCs) or an acronym like A Better C Device .. or Alexandre Barachats C Device etc. & not sure what the C stands for & Connect? Computer? Cu-ality? (c:
 
+7/30/2017 3:24 PM
+
+ **alexandre.barachant** :
+
+ >sc thanks :slightly_smiling_face:
+
