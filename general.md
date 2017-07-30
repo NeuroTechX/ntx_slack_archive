@@ -5256,3 +5256,9 @@ Here is how to check your files: <https://neurotechx.slack.com/files/>      (and
 
  >yannick Thanks for the details. I'll review my way of publishing my documents. I'll host them somewhere else and post the links instead. It should actually turn out a better solution overall anyway.
 
+7/30/2017 6:00 PM
+
+ **yrenard** :
+
+ >LOL
+
