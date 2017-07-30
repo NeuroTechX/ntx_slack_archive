@@ -3984,3 +3984,9 @@ I'm on vacation for 2 weeks, but right after, I want to start a git related to m
 
  >Thanks a lot sc!  Why don't you think it could work that well with locked in subjects?
 
+7/30/2017 5:34 PM
+
+ **sc** :
+
+ >I think a direct caregiver might be able to answer more precisely, but when it comes to ALS, the window between which single-finger joystick interactions has closed, and a gaze tracker is no longer useful (where they are truly fully locked in) and the statistical average end of life is so narrow that I think you
+
