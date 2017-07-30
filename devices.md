@@ -3132,3 +3132,9 @@ as i remember,
 
  >sc thanks :slightly_smiling_face:
 
+7/30/2017 3:25 PM
+
+ **sc** :
+
+ >Alex Bs Cool Device!
+
