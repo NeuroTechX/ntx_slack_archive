@@ -3972,3 +3972,9 @@ CSV will always be supported, simple format, but the power of a DBMS cannot be n
 > 
 I'm on vacation for 2 weeks, but right after, I want to start a git related to my work with EEG, I'll post my mongodb framework. It's incomplete, but it will give you an idea of what I had in mind.
 
+7/30/2017 4:18 PM
+
+ **sc** :
+
+ >Ive worked extensively with Emotivs Cognitiv mental commands suite, and the answer to your question is going to be simple but unfortunately unsatisfying - their algorithm is completely proprietary, so no one outside of the company can tell you exactly what is going on, and anyone inside the company is prevented from doing so by NDA. All of that said, yes it will generally work well with first time users, but only for steering in a single direction, once you try to train it for more than on (ergo left versus right) it tends to have trouble distinguishing. There are several examples on their website and social media of the EPOC being used successfully with certain individuals with special needs, but no I dont think it would be a suitable replacement for motor imagery for someone who is locked in.
+
