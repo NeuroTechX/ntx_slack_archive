@@ -4005,3 +4005,9 @@ I'm on vacation for 2 weeks, but right after, I want to start a git related to m
 > 
 The problem is that sometimes patients cannot elicit MI responses (BCI illiteracy). Forgive me for asking: when you said that MI is more "reliable, reproducible" than Emotiv mental commands, did you mean that it would not be possible to always get a clean (even binary "yes/no") signal in locked in patients? I must admit that I am not a very big fan of evoked potentials such as P300. 
 
+7/30/2017 7:25 PM
+
+ **sc** :
+
+ >Well put it this way, if you have a patient with whom you want to work directly, then by all means it would be worth experimenting with an Emotiv headset. But you should try one out directly yourself first and evaluate how well youre able to control the single direction (yes) versus neutral (no) at will. My guess is youll end up training something like concentration versus no concentration, which is considerably harder to modulate at will versus (say) squeezing a tennis ball with your right hand versus squeezing a tennis ball with your left. What happens when someone asks a question and you need to concentrate to answer? What if the system isnt working for you and youre concentrating on getting it to work, only to keep producing yes responses? Lets say you get around that. Now take off the headset and come back in six hours. Put it back on. Did you get the fit exactly the same? Is the angle a little bit forward or backward? Without an EEG cap and measuring tape how will you align to the same position each time? Say you cant. Now you end up needed to re-train your data each time you put the headset on. But your patient is completely locked in. How easy is it going to be to *reproduce* those same responses each time? Want to check how well it is work? Its a proprietary algorithm, you dont have access to the data to see. And so on.
+
