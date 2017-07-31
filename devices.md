@@ -3174,3 +3174,12 @@ as i remember,
 
  >Great design guys (adamm_neurable, pharo et al.)
 
+7/31/2017 3:20 PM
+
+ **benjamindeleener** :
+
+ >Announcing the worlds first brain-computer interface for virtual reality
+
+> 
+<https://medium.com/neurable/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607>
+
