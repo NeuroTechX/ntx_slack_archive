@@ -3201,3 +3201,9 @@ as i remember,
 
  >Its been a few years since I reviewed the lit but I believe the P300 is still the BCI modality with highest ITR (info transfer rate)
 
+7/31/2017 7:29 PM
+
+ **bciguy** :
+
+ >hence its widespread adoption as the Go-To BCI modality
+
