@@ -3207,3 +3207,36 @@ as i remember,
 
  >hence its widespread adoption as the Go-To BCI modality
 
+7/31/2017 8:31 PM
+
+ **alexandre.barachant** :
+
+ >Don't get me wrong here, I think P300 is great. For locked in and patients, it's one of the best modality.
+
+> 
+
+
+> 
+But for healthy user, P300 is just a BCI gimmick. It's a glorified eye tracker without the accuracy. It does not provide any sense of "brain control". It allow you to select the item you are focusing your attention on.
+
+> 
+
+
+> 
+I did my fair share of work about P300, (a post doc of almost 2 years) developing the algorithms of Brain invaders, one of the first P300 BCI video game.
+
+> 
+For a first time user, what is fun is the novelty, but after 10 minutes there is just no interest left.
+
+> 
+
+
+> 
+So P300 is generally a gateway BCI, but the real $$$ are not on stimulation based BCI. For me it's a bit surprising that the neurable headset is only covering the visual cortex. i would have expected more coverage in order to be able to move on and extend they offers as soon as they get traction (and being able to deliver what they claim)
+
+> 
+
+
+> 
+The design of this headset is great, and i'm sure they will end up with a great P300 BCI.
+
