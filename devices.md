@@ -3240,3 +3240,9 @@ So P300 is generally a gateway BCI, but the real $$$ are not on stimulation base
 > 
 The design of this headset is great, and i'm sure they will end up with a great P300 BCI.
 
+7/31/2017 8:41 PM
+
+ **aj** :
+
+ >The articles coming from demos are "damn it worked well" and "was shocked how well it worked"
+
