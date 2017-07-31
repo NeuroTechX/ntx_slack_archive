@@ -3168,3 +3168,9 @@ as i remember,
 
  >but the article is overselling the tech way too much :astonished:
 
+7/31/2017 5:29 AM
+
+ **yannick** :
+
+ >Great design guys (adamm_neurable, pharo et al.)
+
