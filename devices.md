@@ -3138,3 +3138,9 @@ as i remember,
 
  >Alex Bs Cool Device!
 
+7/31/2017 5:19 AM
+
+ **aj** :
+
+ ><https://medium.com/neurable/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607>
+
