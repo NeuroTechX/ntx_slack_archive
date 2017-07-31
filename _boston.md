@@ -135,3 +135,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >Hey alex, I'll email you too. I won't be around Boston until mid-October, but I will be looking to get involved at that point :slightly_smiling_face:
 
+7/31/2017 8:05 PM
+
+ **alex** :
+
+ >Hey Channel, here is the link to the first talk of last week's Meetup in case anyone missed it: <https://www.youtube.com/watch?v=mn7YhnfzrO8>
+
