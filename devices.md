@@ -3144,3 +3144,9 @@ as i remember,
 
  ><https://medium.com/neurable/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607>
 
+7/31/2017 5:19 AM
+
+ **aj** :
+
+ >Sickkkk
+
