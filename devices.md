@@ -3189,3 +3189,9 @@ as i remember,
 
  >Oooo
 
+7/31/2017 4:45 PM
+
+ **dano** :
+
+ >alexandre.barachant, I think you're right. They say the Awakenings game that they released operates entirely without handheld controllers. With state-of-the-art active or reactive BCIs, I can't imagine that being anything but *frustrating*
+
