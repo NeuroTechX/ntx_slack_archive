@@ -5268,3 +5268,9 @@ Here is how to check your files: <https://neurotechx.slack.com/files/>      (and
 
  >i mean... it kinda IS a pain-inducing torture device if you're the researcher
 
+7/31/2017 10:25 AM
+
+ **yannick** :
+
+ >LOL& Ep~i~oc.
+
