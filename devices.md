@@ -3162,3 +3162,9 @@ as i remember,
 
  >The headset is nice ! Built by wearable sensing i guess
 
+7/31/2017 5:23 AM
+
+ **alexandre.barachant** :
+
+ >but the article is overselling the tech way too much :astonished:
+
