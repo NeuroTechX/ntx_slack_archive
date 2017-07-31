@@ -3246,3 +3246,9 @@ The design of this headset is great, and i'm sure they will end up with a great 
 
  >The articles coming from demos are "damn it worked well" and "was shocked how well it worked"
 
+7/31/2017 8:44 PM
+
+ **alexandre.barachant** :
+
+ ><https://www.youtube.com/watch?v=47WHqDNckI8>
+
