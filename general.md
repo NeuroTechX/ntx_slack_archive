@@ -5274,3 +5274,15 @@ Here is how to check your files: <https://neurotechx.slack.com/files/>      (and
 
  >LOL& Ep~i~oc.
 
+7/31/2017 11:43 PM
+
+ **yannick** :
+
+ >Hey bciguy, youve probably seen the article from elizastrickland in IEEE Spectrum 2 weeks ago about Lucid Dreaming Technologies.
+
+> 
+<http://spectrum.ieee.org/the-human-os/biomedical/devices/tech-for-lucid-dreaming-takes-off-but-will-any-of-it-work>
+
+> 
+With Dreem raising $22M (just for sleep, not for Lucid Dreaming), Im quite curious about the evolution of the Sleep Wearable Devices.
+
