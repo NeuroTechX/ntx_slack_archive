@@ -3195,3 +3195,9 @@ as i remember,
 
  >alexandre.barachant, I think you're right. They say the Awakenings game that they released operates entirely without handheld controllers. With state-of-the-art active or reactive BCIs, I can't imagine that being anything but *frustrating*
 
+7/31/2017 7:29 PM
+
+ **bciguy** :
+
+ >Its been a few years since I reviewed the lit but I believe the P300 is still the BCI modality with highest ITR (info transfer rate)
+
