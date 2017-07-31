@@ -3252,3 +3252,15 @@ The design of this headset is great, and i'm sure they will end up with a great 
 
  ><https://www.youtube.com/watch?v=47WHqDNckI8>
 
+7/31/2017 9:03 PM
+
+ **alexandre.barachant** :
+
+ >aj for sure it works :slightly_smiling_face: my point is not here, and I don't want to sound negative at all, this is a great piece of works. 
+
+> 
+What i'm saying is that there is a "wow, you can guess what i'm thinking" effect, but if you play it for the 10th time you quickly end up with "give me the mouse, it's faster to select what i want". 
+
+> 
+It's a cool gimmick, but i'm still a little bit puzzled about the long term vision
+
