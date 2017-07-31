@@ -3156,3 +3156,9 @@ as i remember,
 
  >Props to neurable for making it happen!
 
+7/31/2017 5:21 AM
+
+ **alexandre.barachant** :
+
+ >The headset is nice ! Built by wearable sensing i guess
+
