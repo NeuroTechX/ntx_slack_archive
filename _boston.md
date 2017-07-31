@@ -129,3 +129,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >If anyone else on this <!channel> is interested in volunteering (helping find sponsors, hosting hack nights, becoming school representatives, etc.), please email <mailto:alex@neurotechx.com|alex@neurotechx.com> with a little about yourself and your interests in volunteering. I'm looking to set up an introductory meeting (either online or in person) for mid-late August. Looking forward to hearing from you!
 
+7/31/2017 6:19 PM
+
+ **wronk** :
+
+ >Hey alex, I'll email you too. I won't be around Boston until mid-October, but I will be looking to get involved at that point :slightly_smiling_face:
+
