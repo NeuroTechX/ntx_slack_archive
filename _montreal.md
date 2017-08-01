@@ -1389,3 +1389,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Sure!
 
+8/1/2017 6:06 PM
+
+ **crocodoyle** :
+
+ >Hey hackers, if anyone is interested in deep learning I'm organizing a Deep Brainhack at the end of the month. Check it out: <https://brainhack101.github.io/deepbrainhack2017/>
+
