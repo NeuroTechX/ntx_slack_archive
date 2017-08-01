@@ -2484,3 +2484,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi everyone ! I'm Stanislas, and I am based in Paris, France. I am a PhD Candidate in machine learning and my work mainly focuses on processing EEG with deep neural networks. I'm looking forward to learning new things about neurotech, brain signal processing and sharing my experience !
 
+8/1/2017 1:49 PM
+
+ **alexandre.barachant** :
+
+ >slasnista welcome here
+
