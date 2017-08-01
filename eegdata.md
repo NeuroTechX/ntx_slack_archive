@@ -4023,3 +4023,9 @@ The problem is that sometimes patients cannot elicit MI responses (BCI illiterac
 
  >Can you share the chart here?
 
+8/1/2017 10:25 PM
+
+ **tahiltonjr** :
+
+ >Yes.... and I also just uploaded a pdf showing all three in a new channel... <#C6GTL3W9K|eeg_via_hypnosis>
+
