@@ -876,3 +876,9 @@ thank you!
 
  >If you know any skilled marketing/storytelling people that would love writing articles/podcasts and hosting events around human intelligence enhancement&. <https://kernel.co/job-board/?gh_jid=728261>
 
+8/1/2017 12:48 AM
+
+ **bhargava2566302** :
+
+ >Ha ya sure give me reply at <mailto:bhargavaganthi@gmail.com|bhargavaganthi@gmail.com> 
+
