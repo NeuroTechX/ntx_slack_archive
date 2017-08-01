@@ -2496,3 +2496,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >thx ! done :wink:
 
+8/1/2017 3:46 PM
+
+ **dano** :
+
+ >Welcome Stanislas!
+
