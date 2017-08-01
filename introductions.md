@@ -2502,3 +2502,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome Stanislas!
 
+8/1/2017 5:40 PM
+
+ **fritzo** :
+
+ >Hi Everyone, I'm Fritz at UC Berkeley. I'm an engineer on a team building a probabilistic programming package for R (<https://R-nimble.org>). We're trying to make it easier to build hierarchical models that smoothly transition from population-level guesses to personalized predictions as sensors collect data on a new user. I'm excited to hear about new types of personal medical sensing.
+
