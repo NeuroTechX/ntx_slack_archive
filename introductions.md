@@ -2514,3 +2514,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Check it out! <https://brainhack101.github.io/deepbrainhack2017/>
 
+8/1/2017 9:49 PM
+
+ **tahiltonjr** :
+
+ >Welcome slasnista and fritzo
+
