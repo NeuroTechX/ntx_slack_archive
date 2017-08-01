@@ -4017,3 +4017,9 @@ The problem is that sometimes patients cannot elicit MI responses (BCI illiterac
 
  >I could use assistance from anyone to help me read and interpret a 3 chart comparison of brainwaves from the muse headset and uploaded the data to produce graphs from within Excel.....
 
+8/1/2017 10:04 PM
+
+ **yannick** :
+
+ >Can you share the chart here?
+
