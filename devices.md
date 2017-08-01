@@ -3264,3 +3264,12 @@ What i'm saying is that there is a "wow, you can guess what i'm thinking" effect
 > 
 It's a cool gimmick, but i'm still a little bit puzzled about the long term vision
 
+8/1/2017 4:55 PM
+
+ **eferdinand** :
+
+ >I heared about those guys when they first started, anyone is connected to them?
+
+> 
+<http://Smartcaptech.com|Smartcaptech.com>
+
