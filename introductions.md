@@ -2478,3 +2478,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >We can talk in the general section about the Field in Australia and see if anyone is interested in starting a chapter over there
 
+8/1/2017 1:45 PM
+
+ **slasnista** :
+
+ >Hi everyone ! I'm Stanislas, and I am based in Paris, France. I am a PhD Candidate in machine learning and my work mainly focuses on processing EEG with deep neural networks. I'm looking forward to learning new things about neurotech, brain signal processing and sharing my experience !
+
