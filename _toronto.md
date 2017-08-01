@@ -1593,3 +1593,9 @@ This interaction could be a phone interview or a coffee in-person; whatever work
 > 
 Thanks!
 
+8/1/2017 5:16 PM
+
+ **graeme** :
+
+ >bryan_j Tyler should come in and talk to the hardware team at Muse. Please put him in touch.
+
