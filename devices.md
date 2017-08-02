@@ -3285,3 +3285,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >I did some business thinking about the idea of a hand-free BCI button selector and tried the HTC Vive. I concluded that the "laser" pointer and conventional controllers are well suited in many situations. I wish them the best thought, and yes it is a P300 speller.
 
+8/2/2017 7:40 PM
+
+ **bciguy** :
+
+ >alexandre.barachant agreed, and I piloted numerous P300 studies during my doctoral studies. One specific study integrated more than one modality: for example we used SSVEP in addition to the p300 speller to improve accuracy, though only trivially  ( i think i still have the matlab  + psychophys. toolbox code if anyones interested..). The challenge with all of these modalities is still a low ITR compared to conventional control methods. I dont think anyone disagrees with you that current BCIs for healthy subjects dont offer better control - in any measure - beyond whats available via conventional HCI methods.
+
