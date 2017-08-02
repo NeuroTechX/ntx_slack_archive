@@ -5286,3 +5286,9 @@ Here is how to check your files: <https://neurotechx.slack.com/files/>      (and
 > 
 With Dreem raising $22M (just for sleep, not for Lucid Dreaming), Im quite curious about the evolution of the Sleep Wearable Devices.
 
+8/2/2017 7:04 PM
+
+ **bciguy** :
+
+ >Hey yannick and yes, it DOES feel good to be copied :slightly_smiling_face: in my opinion EEG is going to make the biggest consumer impact most quickly in the sleep space first. This is partially because the sleep EEG signals exhibit such high SNR but also because the modern world needs better solutions for energy management. For all intents and purposes, lucid dreaming is still an industry in its infancy (see my comments above) with many open questions yet to be addressed. Im pleased today to share with the nTX community (before anyone else!) that our platform was designed from the ground-up to provide answers to such questions as posed in the above article. You can read our new update here: <https://www.kickstarter.com/projects/iwinks/the-aurora-dream-enhancing-headband/posts/1938439>
+
