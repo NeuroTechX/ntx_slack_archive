@@ -1401,3 +1401,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  ><!channel>  Who can come on Friday?
 
+8/2/2017 11:19 PM
+
+ **fred-simard** :
+
+ >I'm on vacation, taking a leave until Aug. 13th
+
