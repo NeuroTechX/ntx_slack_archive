@@ -1395,3 +1395,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Hey hackers, if anyone is interested in deep learning I'm organizing a Deep Brainhack at the end of the month. Check it out: <https://brainhack101.github.io/deepbrainhack2017/>
 
+8/2/2017 11:18 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  Who can come on Friday?
+
