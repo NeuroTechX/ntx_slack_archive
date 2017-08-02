@@ -3273,3 +3273,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 > 
 <http://Smartcaptech.com|Smartcaptech.com>
 
+8/2/2017 1:57 AM
+
+ **jk** :
+
+ >True. None of so-called bci demos has impressed me. I have yet to see one that is self-evident.
+
