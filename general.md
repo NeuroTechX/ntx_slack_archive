@@ -5292,3 +5292,9 @@ With Dreem raising $22M (just for sleep, not for Lucid Dreaming), Im quite curi
 
  >Hey yannick and yes, it DOES feel good to be copied :slightly_smiling_face: in my opinion EEG is going to make the biggest consumer impact most quickly in the sleep space first. This is partially because the sleep EEG signals exhibit such high SNR but also because the modern world needs better solutions for energy management. For all intents and purposes, lucid dreaming is still an industry in its infancy (see my comments above) with many open questions yet to be addressed. Im pleased today to share with the nTX community (before anyone else!) that our platform was designed from the ground-up to provide answers to such questions as posed in the above article. You can read our new update here: <https://www.kickstarter.com/projects/iwinks/the-aurora-dream-enhancing-headband/posts/1938439>
 
+8/2/2017 7:04 PM
+
+ **bciguy** :
+
+ >Yes she brings up good points about the LD space in the title, but then goes on to assume lucid dreams are a commodity (which they are not.. yet) and that the Aurora offering is in last place, (when in reality Aurora is the only product mentioned, the others are **campaigns** ) Hers would be a fair expectation if the other groups highlighted in her article **didnt have a track record of abandoning** campaign promises. The truth is that were the only team who has remained 100% committed to the challenge of a safe lucid dream induction method as well as seeking real scientific evidence to prove its efficacy. For these reasons this was a difficult read, especially considering all that the Aurora team has fought for over the last 4 years.
+
