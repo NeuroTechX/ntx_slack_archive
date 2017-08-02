@@ -3279,3 +3279,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >True. None of so-called bci demos has impressed me. I have yet to see one that is self-evident.
 
+8/2/2017 3:47 AM
+
+ **fred-simard** :
+
+ >I did some business thinking about the idea of a hand-free BCI button selector and tried the HTC Vive. I concluded that the "laser" pointer and conventional controllers are well suited in many situations. I wish them the best thought, and yes it is a P300 speller.
+
