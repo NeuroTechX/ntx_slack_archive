@@ -5304,3 +5304,9 @@ With Dreem raising $22M (just for sleep, not for Lucid Dreaming), Im quite curi
 
  ><http://www.pressconnects.com/story/news/local/2017/08/01/cornell-receives-9-m-start-neurotech-research-hub/529009001/>
 
+8/3/2017 12:10 PM
+
+ **eferdinand** :
+
+ >For who didn't read about upcoming hackathons <http://www.br41n.io/>
+
