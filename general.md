@@ -5298,3 +5298,9 @@ With Dreem raising $22M (just for sleep, not for Lucid Dreaming), Im quite curi
 
  >Yes she brings up good points about the LD space in the title, but then goes on to assume lucid dreams are a commodity (which they are not.. yet) and that the Aurora offering is in last place, (when in reality Aurora is the only product mentioned, the others are **campaigns** ) Hers would be a fair expectation if the other groups highlighted in her article **didnt have a track record of abandoning** campaign promises. The truth is that were the only team who has remained 100% committed to the challenge of a safe lucid dream induction method as well as seeking real scientific evidence to prove its efficacy. For these reasons this was a difficult read, especially considering all that the Aurora team has fought for over the last 4 years.
 
+8/3/2017 1:58 AM
+
+ **andreacoravos** :
+
+ ><http://www.pressconnects.com/story/news/local/2017/08/01/cornell-receives-9-m-start-neurotech-research-hub/529009001/>
+
