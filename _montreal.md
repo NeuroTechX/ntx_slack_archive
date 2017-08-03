@@ -1413,3 +1413,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Hi Sydney, I cannot come this week, but I will come the week after
 
+8/3/2017 1:32 AM
+
+ **armin** :
+
+ >Wow! That's great. I will participate.
+
