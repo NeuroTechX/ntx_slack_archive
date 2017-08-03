@@ -1599,3 +1599,9 @@ Thanks!
 
  >bryan_j Tyler should come in and talk to the hardware team at Muse. Please put him in touch.
 
+8/3/2017 10:23 PM
+
+ **bryan_j** :
+
+ >That's great graeme - I will connect him with you guys. Thanks very much. 
+
