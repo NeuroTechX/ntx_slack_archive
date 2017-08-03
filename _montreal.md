@@ -1407,3 +1407,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I'm on vacation, taking a leave until Aug. 13th
 
+8/3/2017 1:27 AM
+
+ **armin** :
+
+ >Hi Sydney, I cannot come this week, but I will come the week after
+
