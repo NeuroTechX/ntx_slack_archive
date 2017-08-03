@@ -882,3 +882,9 @@ thank you!
 
  >Ha ya sure give me reply at <mailto:bhargavaganthi@gmail.com|bhargavaganthi@gmail.com> 
 
+8/3/2017 7:37 PM
+
+ **falk** :
+
+ >Hi guys... we have a PhD position opening up in the MuSAE Lab (INRS-EMT, Montreal,Canada) in partnership with USC (in LA) in the domain of affective body-machine interfaces. If interested, please send CV, transcripts and copy of publications to <mailto:falk@emt.inrs.ca|falk@emt.inrs.ca>. Thanks!
+
