@@ -888,3 +888,9 @@ thank you!
 
  >Hi guys... we have a PhD position opening up in the MuSAE Lab (INRS-EMT, Montreal,Canada) in partnership with USC (in LA) in the domain of affective body-machine interfaces. If interested, please send CV, transcripts and copy of publications to <mailto:falk@emt.inrs.ca|falk@emt.inrs.ca>. Thanks!
 
+8/3/2017 9:29 PM
+
+ **sydneyneurotechx** :
+
+ >I applied for NeuroTechX as well. Let's see if we can merge the two applications
+
