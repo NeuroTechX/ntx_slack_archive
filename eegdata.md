@@ -4029,3 +4029,9 @@ The problem is that sometimes patients cannot elicit MI responses (BCI illiterac
 
  >Yes.... and I also just uploaded a pdf showing all three in a new channel... <#C6GTL3W9K|eeg_via_hypnosis>
 
+8/3/2017 11:37 AM
+
+ **timopheym** :
+
+ >Hey, is anyone has OpenVibe ready dataset for P300 (training and evalution purpose) (they have an example there with Cz, O1 and O2). I wanna test they LDA algorithm and only EEG device i have access to is broken now(
+
