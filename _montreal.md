@@ -1419,3 +1419,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Wow! That's great. I will participate.
 
+8/3/2017 9:45 PM
+
+ **sidksv** :
+
+ >I can.
+
