@@ -5310,3 +5310,21 @@ With Dreem raising $22M (just for sleep, not for Lucid Dreaming), Im quite curi
 
  >For who didn't read about upcoming hackathons <http://www.br41n.io/>
 
+8/4/2017 7:27 PM
+
+ **danielao** :
+
+ >Hi all, I don't know which channel I should ask this so I figured I'd ask here. 
+
+> 
+
+
+> 
+I haven't been that active on this slack but I'm currently looking at getting into basing work around mobile EEG. I want to integrate mobile EEG with self-reported data and eye-tracking to develop a profile on the engagement of a user on product (something that I know people are doing already in different capacities). I was wondering if anyone had any recommendations on headsets they enjoy using that work well with eye-tracking and are fairly intuitive with how the data and software work to produce usable results.
+
+> 
+
+
+> 
+For background, I have used research EEG (the Brain Vision Suite) for an MSc thesis so I'm familiar with that process. Sorry for the long winded message. If this needs more clarifying, let me know. Thanks!
+
