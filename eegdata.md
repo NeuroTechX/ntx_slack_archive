@@ -4047,3 +4047,9 @@ The problem is that sometimes patients cannot elicit MI responses (BCI illiterac
 
  >It would have been nice if they deprecated support instead of removing it entirely
 
+8/4/2017 11:51 PM
+
+ **pat** :
+
+ >I was trying, but was unable to reimplement even the raw_fft values where the algorithm is described, so stopped there
+
