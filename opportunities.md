@@ -894,3 +894,9 @@ thank you!
 
  >I applied for NeuroTechX as well. Let's see if we can merge the two applications
 
+8/4/2017 7:07 PM
+
+ **yrenard** :
+
+ >Interesting projet : <https://angel.co/luciding/jobs>
+
