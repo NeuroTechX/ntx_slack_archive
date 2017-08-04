@@ -1437,3 +1437,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Yup! I'll be ther
 
+8/4/2017 9:04 PM
+
+ **sydneyneurotechx** :
+
+ >I'll be around at 6:30
+
