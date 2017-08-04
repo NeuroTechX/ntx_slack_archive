@@ -4035,3 +4035,9 @@ The problem is that sometimes patients cannot elicit MI responses (BCI illiterac
 
  >Hey, is anyone has OpenVibe ready dataset for P300 (training and evalution purpose) (they have an example there with Cz, O1 and O2). I wanna test they LDA algorithm and only EEG device i have access to is broken now(
 
+8/4/2017 4:39 PM
+
+ **psoulos** :
+
+ >Is there an open-source reimplementation of the 'concentration' and 'mellow' data that the Muse SDK used to support? The processing they used was from _My Virtual Dream_ <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130129>
+
