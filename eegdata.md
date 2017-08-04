@@ -4041,3 +4041,9 @@ The problem is that sometimes patients cannot elicit MI responses (BCI illiterac
 
  >Is there an open-source reimplementation of the 'concentration' and 'mellow' data that the Muse SDK used to support? The processing they used was from _My Virtual Dream_ <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130129>
 
+8/4/2017 4:39 PM
+
+ **psoulos** :
+
+ >It would have been nice if they deprecated support instead of removing it entirely
+
