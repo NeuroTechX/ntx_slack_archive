@@ -1425,3 +1425,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I can.
 
+8/4/2017 6:57 PM
+
+ **sidksv** :
+
+ >sydneyneurotechx will you be at D3 today?
+
