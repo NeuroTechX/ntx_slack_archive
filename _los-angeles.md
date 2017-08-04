@@ -96,3 +96,27 @@ survey: <https://goo.gl/forms/JbGt0XhqlHmbLIe53>
 
  ><!here|@here> gentle reminder. if you haven't taken the survey, please take a moment. thank you to those who have! <https://goo.gl/forms/JbGt0XhqlHmbLIe53>
 
+8/4/2017 10:23 PM
+
+ **andrewjsauer** :
+
+ ><!here|@here> thank you to those who participated in the survey! the results are in and we are moving forward.
+
+> 
+
+
+> 
+the date is this month on the 21st at 6:30 PM in Pasadena. 
+
+> 
+
+
+> 
+if you have any equipment to show and tell, or are interested in talking about any research you are doing, let me know. would be cool to get those in the field to do a 'this is what i'm up too and what i've learned thus far' quick talk. more details to come though on the format.
+
+> 
+
+
+> 
+meetUp event: <https://www.meetup.com/NeuroTechLA/events/242295393/>
+
