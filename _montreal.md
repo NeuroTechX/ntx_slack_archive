@@ -1431,3 +1431,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >sydneyneurotechx will you be at D3 today?
 
+8/4/2017 7:01 PM
+
+ **sydneyneurotechx** :
+
+ >Yup! I'll be ther
+
