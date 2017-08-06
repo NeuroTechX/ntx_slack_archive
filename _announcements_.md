@@ -1248,3 +1248,9 @@ Thanks!
 
  >Hi everyone. As you are likely aware, the IEEE Systems, Man and Cybernetics Society is hosting the Brain Hackathon in October in Banff, AB. Projects can be submitted or participants can join existing projects (see <http://www.br41n.io/Banff-2017>). There are US$5000 in prizes and much more in hardware to be won! At this point, we need help advertising the Hackathon to students, researchers, and BCI enthusiasts in nearby towns, especially Calgary, Edmonton and even perhaps our NeuroTechVANers! If possible, can you please spread the work to your contacts, and if you live in nearby cities, please print out flyers (<https://documents.epfl.ch/users/c/ch/chavarri/www/smc2017/files/IEEE_SMC2017_BMI_Brain_Hackathon.pdf>) and help spread them around campus. And, of course, please consider signing up yourselves! Last years hackathon attracted over 200 people and we are hoping to come close to that (if not surpass) this year! Participation can be remote, as we will have a 100Mb/s internet link for the event set up. Many thanks in advance for your collaboration!
 
+8/6/2017 5:44 PM
+
+ **mhough** :
+
+ >falk that looks great
+
