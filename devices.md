@@ -3309,3 +3309,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >i made a small design error, so the noise is a little bit higer than expected, but i should fix it on the next iteration
 
+8/6/2017 9:23 PM
+
+ **perrotta** :
+
+ >I want to record eeg data on myself during the day for several days. Has anyone ever worn an eeg device out and about all day? Any thoughts on devices that wont fall off my head and also hopefully dont become too uncomfortable?
+
