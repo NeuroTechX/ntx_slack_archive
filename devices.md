@@ -3303,3 +3303,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >a new board, 16 channels. more compact, and cheaper
 
+8/6/2017 2:03 PM
+
+ **alexandre.barachant** :
+
+ >i made a small design error, so the noise is a little bit higer than expected, but i should fix it on the next iteration
+
