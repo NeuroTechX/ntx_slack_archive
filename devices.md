@@ -3297,3 +3297,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >They have some hold release functionality that is more interactive then P300
 
+8/6/2017 2:01 PM
+
+ **alexandre.barachant** :
+
+ >a new board, 16 channels. more compact, and cheaper
+
