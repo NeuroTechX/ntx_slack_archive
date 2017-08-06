@@ -3315,3 +3315,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >I want to record eeg data on myself during the day for several days. Has anyone ever worn an eeg device out and about all day? Any thoughts on devices that wont fall off my head and also hopefully dont become too uncomfortable?
 
+8/6/2017 10:32 PM
+
+ **ntremblay** :
+
+ >Hello perrotta, take a look at <http://www.neuroservo.com|www.neuroservo.com>, this may be interesting for you.. 
+
