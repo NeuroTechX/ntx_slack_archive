@@ -5328,3 +5328,24 @@ I haven't been that active on this slack but I'm currently looking at getting in
 > 
 For background, I have used research EEG (the Brain Vision Suite) for an MSc thesis so I'm familiar with that process. Sorry for the long winded message. If this needs more clarifying, let me know. Thanks!
 
+8/6/2017 3:26 PM
+
+ **eferdinand** :
+
+ >danielao the abm b-alert live x10 is a good device easily integrates with the tobii.
+
+> 
+I've been using both for quite a while now.
+
+> 
+
+
+> 
+With some additional coding if not in real time you can do offline synchronization and analysis.
+
+> 
+
+
+> 
+Let me know if you need more information via direct message or by email
+
