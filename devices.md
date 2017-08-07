@@ -3339,3 +3339,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >thanks yrenard. Ive worn one before but never for an extended amount of time. Anyone have thoughts on the Emotiv Insight?
 
+8/7/2017 5:10 PM
+
+ **yrenard** :
+
+ >less sensors, so depends what you are looking at and what you expect to capture. If sensors are well located given what you search, that might be a very good be
+
