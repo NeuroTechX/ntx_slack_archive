@@ -3327,3 +3327,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >Thanks ntremblay! Ill check it out. Any others?
 
+8/7/2017 4:30 AM
+
+ **yrenard** :
+
+ >Emotiv Epoc could be fine for 8h recording. Does not have SD so will need a bit of hacking to dump data on a mobile device
+
