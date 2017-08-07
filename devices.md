@@ -3333,3 +3333,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >Emotiv Epoc could be fine for 8h recording. Does not have SD so will need a bit of hacking to dump data on a mobile device
 
+8/7/2017 4:33 PM
+
+ **perrotta** :
+
+ >thanks yrenard. Ive worn one before but never for an extended amount of time. Anyone have thoughts on the Emotiv Insight?
+
