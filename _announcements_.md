@@ -1254,3 +1254,9 @@ Thanks!
 
  >falk that looks great
 
+8/7/2017 4:14 PM
+
+ **dano** :
+
+ >Ooo, remote participation? Maybe we'll put together a team here in Toronto
+
