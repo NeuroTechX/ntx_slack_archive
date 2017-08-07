@@ -660,3 +660,9 @@ We can meet you in a few days
 
  >hey! whens the next SF hack night. would lvoe to join
 
+8/7/2017 6:59 AM
+
+ **marion** :
+
+ >teon is supposed to run the next one this Wednesday but you should get in touch with him directly to make sure. I am traveling and will not be able to attend this one 
+
