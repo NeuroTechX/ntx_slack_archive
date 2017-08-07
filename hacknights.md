@@ -360,3 +360,63 @@ If you've been to our hacknights before or if you're brand new, come see what we
 
  >Where is it?
 
+8/7/2017 5:34 PM
+
+ **dano** :
+
+ >```
+
+> 
+
+
+> 
+8   8                                              
+
+> 
+8   8 eeeee eeee e   e  eeeee e  eeeee e   e eeeee 
+
+> 
+8eee8 8   8 8  8 8   8  8   8 8  8   8 8   8   8   
+
+> 
+88  8 8eee8 8e   8eee8e 8e  8 8e 8e    8eee8   8e  
+
+> 
+88  8 88  8 88   88   8 88  8 88 88 "8 88  8   88  
+
+> 
+88  8 88  8 88e8 88   8 88  8 88 88ee8 88  8   88  
+
+> 
+                                                   
+
+> 
+```
+
+> 
+
+
+> 
+The NeuroTechTO community hacks again this Thursday at the VarageSale office, 111 Peter St, Toronto, from 7pm onwards
+
+> 
+
+
+> 
+On the agenda this week:
+
+> 
+- Machine learning! How well does a classifier trained on one person's Muse data perform on someone else? How about the same person 30 minutes later?
+
+> 
+- Setting up our new Ganglion. Which cute animal video elicits the greatest correlated brain firing between participants?
+
+> 
+- Experimenting with Muse's new research tools
+
+> 
+
+
+> 
+All are welcome. Hope to see you there!
+
