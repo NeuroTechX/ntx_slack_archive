@@ -168,3 +168,9 @@ Documentation : <https://coglab.hackpad.com/Projet-OpenBCIA-LNdWg4xq0P8>
 > 
 Bienvenue sur Slack ! :slightly_smiling_face:
 
+8/7/2017 10:02 AM
+
+ **qbarthelemy** :
+
+ >Hé, salut Sylvain!
+
