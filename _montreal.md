@@ -1449,3 +1449,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >ayyy. Who's down for Hacknight this week?
 
+8/7/2017 5:53 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> . yannick  is back, so he has no excuse to miss :slightly_smiling_face:
+
