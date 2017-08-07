@@ -4053,3 +4053,9 @@ The problem is that sometimes patients cannot elicit MI responses (BCI illiterac
 
  >I was trying, but was unable to reimplement even the raw_fft values where the algorithm is described, so stopped there
 
+8/7/2017 5:52 PM
+
+ **sydneyneurotechx** :
+
+ >There is the MOABB Project that alexandre.barachant  is working on. The goal is to create BCI benchmarks and concentration/mellow could eventually be included. What do you think alexandre.barachant ?
+
