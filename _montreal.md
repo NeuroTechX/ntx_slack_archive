@@ -1455,3 +1455,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  ><!channel> . yannick  is back, so he has no excuse to miss :slightly_smiling_face:
 
+8/7/2017 6:26 PM
+
+ **eferdinand** :
+
+ >Ill come
+
