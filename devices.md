@@ -3321,3 +3321,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >Hello perrotta, take a look at <http://www.neuroservo.com|www.neuroservo.com>, this may be interesting for you.. 
 
+8/7/2017 4:09 AM
+
+ **perrotta** :
+
+ >Thanks ntremblay! Ill check it out. Any others?
+
