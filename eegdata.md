@@ -4065,3 +4065,24 @@ The problem is that sometimes patients cannot elicit MI responses (BCI illiterac
 
  ><https://github.com/NeuroTechX/moabb>
 
+8/8/2017 6:48 PM
+
+ **agustnr64** :
+
+ >Hi channel. My name is agustin and i am a  biomedical engineering student.
+
+> 
+I am starting with my thesis which is related with BCI.
+
+> 
+I want built a classifier algorithm using EEG feature in order to move a robotic arm or other divice.
+
+> 
+At the moment i focus in find a good low cost adquisition system that allow me processing EEG in real time(online analysis).
+
+> 
+I saw systems as OpenBci or Emotive but i do not which is better.
+
+> 
+Could you advise on the devices for the acquisition of eeg with which you can do an online processing?
+
