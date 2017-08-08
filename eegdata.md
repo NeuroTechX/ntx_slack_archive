@@ -4134,3 +4134,9 @@ If you want to maximize your learning on how to build BCI's. Get the OpenBCI. Al
 
  >I see the difference between both systems and i think i will get the OpenBci.  It seems to me that it has more advantage and also i account with time
 
+8/8/2017 11:02 PM
+
+ **aj** :
+
+ >agustnr64 great idea! The OpenBCI system is getting really good
+
