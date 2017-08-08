@@ -5367,3 +5367,9 @@ Let me know if you need more information via direct message or by email
 
  >Hi all, thought you might be interested in my Q&amp;A with Neurable's CEO about the EEG-controlled VR game the company unveiled at SIGGRAPH last week. Thanks to adamm_neurable for making the connection.    <http://spectrum.ieee.org/the-human-os/biomedical/bionics/brainy-startup-neurable-unveils-the-worlds-first-braincontrolled-vr-game>
 
+8/8/2017 3:38 PM
+
+ **adamm_neurable** :
+
+ >And thanks to elizastrickland for the wonderful piece!
+
