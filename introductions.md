@@ -2532,3 +2532,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi everyone, Nice to meet you guys. My name is Anjali. I'm 16, from Montreal, I work as an intern at TandemLaunch, which you can read more about here: <http://www.tandemlaunch.com/>  . I'm super interested in neurotech , ai, machine learning and all of that good stuff :upside_down_face: .  I'm excited to join the community! I plan to attend the meetups. Feel free to message me if you would like. sam We are the same age! kinda lol. maviperu just found out that there was a slack community.
 
+8/8/2017 6:45 PM
+
+ **maviperu** :
+
+ >Yes! So glad you have slack! Great to have you here!
+
