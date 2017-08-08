@@ -4122,3 +4122,9 @@ If you want to maximize your learning on how to build BCI's. Get the OpenBCI. Al
 
  >Also Check out this reference: hey agustnr64. The answer will depend on your financial situation, coding experience, as well as the eeg paradigm you want to you.
 
+8/8/2017 10:16 PM
+
+ **agustnr64** :
+
+ >hi sydneyneurotechx. That you for your replay. it was so fast and useful.
+
