@@ -4128,3 +4128,9 @@ If you want to maximize your learning on how to build BCI's. Get the OpenBCI. Al
 
  >hi sydneyneurotechx. That you for your replay. it was so fast and useful.
 
+8/8/2017 10:18 PM
+
+ **agustnr64** :
+
+ >I see the difference between both systems and i think i will get the OpenBci.  It seems to me that it has more advantage and also i account with time
+
