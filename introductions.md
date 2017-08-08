@@ -2544,3 +2544,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome Anjali! Feel free to join the <#C0VFP9ST0|_montreal>  channel. We do hacknights on Friday at District 3 (at 6:30).  <http://d3center.ca/en/contact/> Feel free to join us!
 
+8/8/2017 8:31 PM
+
+ **sydneyneurotechx** :
+
+ >welcome Fritz! I love the idea behind Nimble. What type of sensors have you tried so far?
+
