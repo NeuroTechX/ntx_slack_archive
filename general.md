@@ -5349,3 +5349,9 @@ With some additional coding if not in real time you can do offline synchronizati
 > 
 Let me know if you need more information via direct message or by email
 
+8/8/2017 10:48 AM
+
+ **kamitor** :
+
+ >Hello Everyone! :slightly_smiling_face: Happy to be here. My name is Kamitor! or Christiaan Verhoef. I'm based in the Netherlands and I'm here to help make this project boom ! :+1::grin: Super excited
+
