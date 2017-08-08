@@ -4086,3 +4086,9 @@ I saw systems as OpenBci or Emotive but i do not which is better.
 > 
 Could you advise on the devices for the acquisition of eeg with which you can do an online processing?
 
+8/8/2017 8:38 PM
+
+ **sydneyneurotechx** :
+
+ >hey agustnr64. The answer will depend on your financial situation, coding experience, as well as the eeg paradigm you want to use. The advantages of the OpenBCI is that it allows for you to flexibly build your system and try different areas of the brain. The Emotiv has a rigid form factor which allows for easier data acquisition, and they provide some algorithms as well. Emotiv though is more expensive per session as you have to pay to access the raw data. Therefore when prototyping, it's usually not worth it. There will be a higher learning curve with OpenBCI, but at the advantage of being more flexible.
+
