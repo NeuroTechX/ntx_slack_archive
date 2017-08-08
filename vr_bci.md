@@ -132,3 +132,9 @@
 
  >What could you do with a scalar variable that changed over time, corresponding roughly to the user's concentration/relaxation/etc? That's the kind of thing we're getting with Muse right now
 
+8/8/2017 12:47 AM
+
+ **dan** :
+
+ >Anything
+
