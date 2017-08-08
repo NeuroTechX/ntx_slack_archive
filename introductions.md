@@ -2538,3 +2538,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Yes! So glad you have slack! Great to have you here!
 
+8/8/2017 8:28 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome Anjali! Feel free to join the <#C0VFP9ST0|_montreal>  channel. We do hacknights on Friday at District 3 (at 6:30).  <http://d3center.ca/en/contact/> Feel free to join us!
+
