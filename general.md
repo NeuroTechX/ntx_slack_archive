@@ -5355,3 +5355,9 @@ Let me know if you need more information via direct message or by email
 
  >Hello Everyone! :slightly_smiling_face: Happy to be here. My name is Kamitor! or Christiaan Verhoef. I'm based in the Netherlands and I'm here to help make this project boom ! :+1::grin: Super excited
 
+8/8/2017 12:35 PM
+
+ **jmhorschig** :
+
+ >Welkom! What project? Neurotechx?
+
