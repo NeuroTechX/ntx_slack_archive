@@ -138,3 +138,9 @@
 
  >Anything
 
+8/8/2017 5:07 PM
+
+ **dano** :
+
+ >I'm putting in an application to Neurable to get a development kit for AR/VR
+
