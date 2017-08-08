@@ -4116,3 +4116,9 @@ If you have more time and short on Money, get the OpenBCI.
 > 
 If you want to maximize your learning on how to build BCI's. Get the OpenBCI. All the code and schematics are open source, so you can always check them out
 
+8/8/2017 8:39 PM
+
+ **sydneyneurotechx** :
+
+ >Also Check out this reference: hey agustnr64. The answer will depend on your financial situation, coding experience, as well as the eeg paradigm you want to you.
+
