@@ -1473,3 +1473,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I'll join too!
 
+8/9/2017 3:16 PM
+
+ **eamon** :
+
+ >I'm planning to be there
+
