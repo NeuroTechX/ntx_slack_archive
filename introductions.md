@@ -2550,3 +2550,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >welcome Fritz! I love the idea behind Nimble. What type of sensors have you tried so far?
 
+8/9/2017 2:46 PM
+
+ **anjali_bhar** :
+
+ >Thank you maviperu . Will do :slightly_smiling_face: sydneyneurotechx
+
