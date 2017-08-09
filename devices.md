@@ -3363,3 +3363,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >And what's the expected net price?
 
+8/9/2017 8:36 PM
+
+ **alexandre.barachant** :
+
+ >I don't know, this is too early to tell, i'm still thinking about adding different feature that might increase the BOM
+
