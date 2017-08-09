@@ -144,3 +144,9 @@
 
  >I'm putting in an application to Neurable to get a development kit for AR/VR
 
+8/9/2017 12:44 PM
+
+ **dan** :
+
+ >Excellent
+
