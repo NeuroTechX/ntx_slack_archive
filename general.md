@@ -5385,3 +5385,9 @@ Let me know if you need more information via direct message or by email
 
  >Wow! Thats exactly what this needs too :smile:
 
+8/9/2017 4:45 PM
+
+ **timopheym** :
+
+ >hey all, we are here in Moscow also playing with VR and EEG, and now we wanna to mix them, for BCI we are wanna use FreeEEG32 (<https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography>) and for VR we have HTC vive, is anyone can suggest some suitable cap? Corse the openbci cortex that we was used before cannot be combined with vive =(
+
