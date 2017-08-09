@@ -3351,3 +3351,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >alexandre.barachant looks cool, what rate? Is it open design?
 
+8/9/2017 8:19 PM
+
+ **alexandre.barachant** :
+
+ >timopheym this design is running at 1000Hz, 16 channels, over wifi. The design will be open, but is not yet
+
