@@ -1485,3 +1485,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >benjamindeleener te joins-tu à nous Vendredi?
 
+8/9/2017 4:54 PM
+
+ **benjamindeleener** :
+
+ >Malheureusement non, je serais en dehors de Montréal pour le weekend
+
