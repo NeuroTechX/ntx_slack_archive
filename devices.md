@@ -3345,3 +3345,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >less sensors, so depends what you are looking at and what you expect to capture. If sensors are well located given what you search, that might be a very good be
 
+8/9/2017 8:16 PM
+
+ **timopheym** :
+
+ >alexandre.barachant looks cool, what rate? Is it open design?
+
