@@ -3357,3 +3357,9 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >timopheym this design is running at 1000Hz, 16 channels, over wifi. The design will be open, but is not yet
 
+8/9/2017 8:21 PM
+
+ **timopheym** :
+
+ >And what's the expected net price?
+
