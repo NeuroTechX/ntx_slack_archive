@@ -1479,3 +1479,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I'm planning to be there
 
+8/9/2017 4:26 PM
+
+ **yannick** :
+
+ >benjamindeleener te joins-tu à nous Vendredi?
+
