@@ -5391,3 +5391,9 @@ Let me know if you need more information via direct message or by email
 
  >hey all, we are here in Moscow also playing with VR and EEG, and now we wanna to mix them, for BCI we are wanna use FreeEEG32 (<https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography>) and for VR we have HTC vive, is anyone can suggest some suitable cap? Corse the openbci cortex that we was used before cannot be combined with vive =(
 
+8/10/2017 4:00 AM
+
+ **sc** :
+
+ >timopheym You can get a replacement strap for you Vive from about $20. Why not hack one of those to use electrodes with OpenBCI? Use a tape measure for accurate 10-20 placement on your head.
+
