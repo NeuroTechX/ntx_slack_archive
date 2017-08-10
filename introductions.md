@@ -2562,3 +2562,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi everyone, I'm Maxence. I'm a data science engineer based in Paris. I'm very into BCIs
 
+8/10/2017 6:18 PM
+
+ **sydneyneurotechx** :
+
+ >Bienvenue Maxcence!
+
