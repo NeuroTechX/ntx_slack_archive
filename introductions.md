@@ -2556,3 +2556,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Thank you maviperu . Will do :slightly_smiling_face: sydneyneurotechx
 
+8/10/2017 5:41 AM
+
+ **maxenced** :
+
+ >Hi everyone, I'm Maxence. I'm a data science engineer based in Paris. I'm very into BCIs
+
