@@ -5397,3 +5397,9 @@ Let me know if you need more information via direct message or by email
 
  >timopheym You can get a replacement strap for you Vive from about $20. Why not hack one of those to use electrodes with OpenBCI? Use a tape measure for accurate 10-20 placement on your head.
 
+8/10/2017 7:23 AM
+
+ **timopheym** :
+
+ >sc For our clients we need something that can be placed fast enough,  in term of minutes.
+
