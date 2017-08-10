@@ -4140,3 +4140,9 @@ If you want to maximize your learning on how to build BCI's. Get the OpenBCI. Al
 
  >agustnr64 great idea! The OpenBCI system is getting really good
 
+8/10/2017 7:55 PM
+
+ **psoulos** :
+
+ >That looks interesting. alexandre.barachant do you have plans to include concentration and mellow? I could reimplement the algorithm in 'My Virtual Dream' which uses relative alpha and gamma waves to detect changes in calmness and concentration. 
+
