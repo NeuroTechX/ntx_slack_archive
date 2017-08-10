@@ -174,3 +174,9 @@ Bienvenue sur Slack ! :slightly_smiling_face:
 
  >Hé, salut Sylvain!
 
+8/10/2017 2:05 PM
+
+ **yrenard** :
+
+ >maxenced 
+
