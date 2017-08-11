@@ -1665,3 +1665,9 @@ On the agenda this week:
 > 
 All are welcome. Hope to see you there!
 
+8/11/2017 6:22 PM
+
+ **yannick** :
+
+ >How was the HackNight?
+
