@@ -1671,3 +1671,9 @@ All are welcome. Hope to see you there!
 
  >How was the HackNight?
 
+8/11/2017 6:49 PM
+
+ **joshuad** :
+
+ >Pretty great! The talk was quite neat and now dano and I are working on using the pyRiemann package on data for Neurodoro...
+
