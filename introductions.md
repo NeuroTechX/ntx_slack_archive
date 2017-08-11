@@ -2580,3 +2580,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi everyone.  My name is Matt and I work at Dopamine Labs (<http://usedopamine.com>) we use Neuroscience and Artificial Intelligence to make apps and software more addicting.  We also make an app called SPACE (<http://youjustneedspace.com|youjustneedspace.com>) which helps break addictions to time wasting apps :slightly_smiling_face: - We are a small team in Venice Beach, CA with backgrounds in neuro-informatics (masters), neuro-economics (phd), and humanoid robotics (phd).  Our interests lie in behavior design, habit forming products, neuroscience, AI/ML, and persuasive technology.  Im really looking forward to connecting with the group and hope to meet some of you soon :tada:
 
+8/11/2017 11:41 PM
+
+ **aj** :
+
+ >Welcome!!
+
