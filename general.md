@@ -5403,3 +5403,9 @@ Let me know if you need more information via direct message or by email
 
  >sc For our clients we need something that can be placed fast enough,  in term of minutes.
 
+8/11/2017 5:10 PM
+
+ **spit** :
+
+ >Hi guys. I read about the icibici (<https://icibici.github.io/site/>). Is it possible to order the kit somewhere?
+
