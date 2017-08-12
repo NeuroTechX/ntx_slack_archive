@@ -2610,3 +2610,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Not sure if you are good or evil :stuck_out_tongue:
 
+8/12/2017 8:02 PM
+
+ **aj** :
+
+ >dano lol
+
