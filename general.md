@@ -5415,3 +5415,9 @@ Let me know if you need more information via direct message or by email
 
  >Hey @split, check <#C1G552DD4|smartphone-bci> for that.
 
+8/12/2017 10:54 AM
+
+ **spit** :
+
+ >Thanks :slightly_smiling_face:
+
