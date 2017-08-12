@@ -5409,3 +5409,9 @@ Let me know if you need more information via direct message or by email
 
  >Hi guys. I read about the icibici (<https://icibici.github.io/site/>). Is it possible to order the kit somewhere?
 
+8/12/2017 10:34 AM
+
+ **davidevaleriani** :
+
+ >Hey @split, check <#C1G552DD4|smartphone-bci> for that.
+
