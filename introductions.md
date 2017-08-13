@@ -2622,3 +2622,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >We are double good :slightly_smiling_face: - we can help you build a habit around exercising and also break a habit from using Instagram
 
+8/13/2017 3:36 AM
+
+ **aj** :
+
+ >Cool!!
+
