@@ -1260,3 +1260,9 @@ Thanks!
 
  >Ooo, remote participation? Maybe we'll put together a team here in Toronto
 
+8/13/2017 4:43 AM
+
+ **a.tech** :
+
+ >falk We will be happy to share this with our channels at NeuroTechVan!
+
