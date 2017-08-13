@@ -426,3 +426,9 @@ All are welcome. Hope to see you there!
 
  >The NeuroTechAU <#C44MX942K|_australia> community hack is on the 19th August at TAFE campus in Townsville. This is our first regional outreach hack (most meetups have been in my lab on the Sunshine Coast). If you know of anyone in Aus who is keen on BCI, please invite them to join the <#C44MX942K|_australia> channel.
 
+8/13/2017 9:31 PM
+
+ **dan** :
+
+ >Approaching .80 !
+
