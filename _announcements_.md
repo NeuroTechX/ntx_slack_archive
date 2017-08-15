@@ -1266,3 +1266,9 @@ Thanks!
 
  >falk We will be happy to share this with our channels at NeuroTechVan!
 
+8/15/2017 4:02 AM
+
+ **falk** :
+
+ >thanks! we need all the help from "locals" as possible! Both for advertising as well we registering for the event! Many thanks!
+
