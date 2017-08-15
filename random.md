@@ -2022,3 +2022,9 @@ Thanks!
 > 
 (the blue line represent the daily posting users, which is obviously lower than the active ones - which also include people just showing up and/or reading)
 
+8/15/2017 5:00 PM
+
+ **yrenard** :
+
+ >can definitely see a pattern here :wink:
+
