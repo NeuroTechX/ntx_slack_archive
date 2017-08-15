@@ -2046,3 +2046,9 @@ Thanks!
 
  >#NormalBrain
 
+8/15/2017 7:01 PM
+
+ **dano** :
+
+ >So interesting about the high amount of direct messages. I guess that says something about the kind of network we are
+
