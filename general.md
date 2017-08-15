@@ -5421,3 +5421,15 @@ Let me know if you need more information via direct message or by email
 
  >Thanks :slightly_smiling_face:
 
+8/15/2017 9:00 PM
+
+ **kim** :
+
+ >Hi everyone!
+
+> 
+Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting all of you to our office to try it out! See how a pair of sunglasses can help you build focus :smile:
+
+> 
+<https://www.meetup.com/Muse-Meditation-Meetup/events/242570232/>
+
