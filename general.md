@@ -5439,3 +5439,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >oh probably should mention that these sun glasses detect EEG
 
+8/15/2017 10:57 PM
+
+ **aj** :
+
+ >So stoked for these
+
