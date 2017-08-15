@@ -132,3 +132,21 @@ meetUp event: <https://www.meetup.com/NeuroTechLA/events/242295393/>
 > 
 <https://www.meetup.com/NeuroTechLA/events/242295393/>
 
+8/15/2017 8:42 PM
+
+ **andrewjsauer** :
+
+ ><!here|@here> heads up, if any of you are interested in doing a talk at the subsidiary of where we are being hosted at, <http://hackADay.io|hackADay.io>, they are having their annual talk called Hackaday Superconference and are making a call for proposals! get involved!
+
+> 
+
+
+> 
+site: <https://hackaday.io/superconference/>
+
+> 
+
+
+> 
+signup: <https://docs.google.com/forms/d/e/1FAIpQLSfcq-ZWoK0Jj-xY_Lcx15oT_zmWwCF-eCX9BbpnvaZAp4bpEw/viewform>
+
