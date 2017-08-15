@@ -1272,3 +1272,39 @@ Thanks!
 
  >thanks! we need all the help from "locals" as possible! Both for advertising as well we registering for the event! Many thanks!
 
+8/15/2017 10:51 PM
+
+ **a.tech** :
+
+ >Hi everyone, check out this video that our <#C0VTMQ5CH|_vancouver> chapter has produced. 
+
+> 
+
+
+> 
+The first half presents an intro to the limitations of mathematical logic via godel's incompleteness theorem. It also presents a crash course into key concepts in modern quantum physics. 
+
+> 
+
+
+> 
+The second half of the talk digs into how these quantum physical laws may play a role in the human mind. The focus is on how current experimental research in  biology suggests that quantum information processing may be occurring in the human mind in sub-neuronal structures called micro-tubules. 
+
+> 
+
+
+> 
+Please join our <#C5RB2U1MW|quantum_systems> channel if you are interested in how non-classical phenomenon _might_ affect our current theory of mind. 
+
+> 
+
+
+> 
+Enjoy and debate! :slightly_smiling_face:
+
+> 
+
+
+> 
+<https://youtu.be/5qbRBT_WjH4>
+
