@@ -5433,3 +5433,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 > 
 <https://www.meetup.com/Muse-Meditation-Meetup/events/242570232/>
 
+8/15/2017 9:36 PM
+
+ **kim** :
+
+ >oh probably should mention that these sun glasses detect EEG
+
