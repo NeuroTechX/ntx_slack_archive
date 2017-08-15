@@ -2052,3 +2052,9 @@ Thanks!
 
  >So interesting about the high amount of direct messages. I guess that says something about the kind of network we are
 
+8/15/2017 7:01 PM
+
+ **dano** :
+
+ >Peer-to-peer vs hub and spoke based? something like that probably
+
