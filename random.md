@@ -2007,3 +2007,9 @@ Thanks!
 
  >the last message I got in any channel is from Friday - is something wrong with Slack? Or is it just really, really quiet?
 
+8/15/2017 3:26 PM
+
+ **yannick** :
+
+ >A little bit more quiet during late summer, just before the back to school and all. And weekend are always a little less active. (especially during summer)
+
