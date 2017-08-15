@@ -2040,3 +2040,9 @@ Thanks!
 
  >Well, you did the feature extraction job yannick, I was only fed with a perfectly clean dataset, whereas I did not notice that much of a trend on the raw data (understand my reading of Slack) - that must be because I am totally involved in that trend myself :wink:
 
+8/15/2017 5:24 PM
+
+ **yrenard** :
+
+ >#NormalBrain
+
