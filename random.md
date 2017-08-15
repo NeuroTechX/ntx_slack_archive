@@ -2028,3 +2028,9 @@ Thanks!
 
  >can definitely see a pattern here :wink:
 
+8/15/2017 5:19 PM
+
+ **yannick** :
+
+ >With no AI? #EnhancedBrain
+
