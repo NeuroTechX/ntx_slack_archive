@@ -120,3 +120,15 @@ if you have any equipment to show and tell, or are interested in talking about a
 > 
 meetUp event: <https://www.meetup.com/NeuroTechLA/events/242295393/>
 
+8/15/2017 4:18 PM
+
+ **andrewjsauer** :
+
+ ><!channel> don't forget, this upcoming Monday we are getting together for a soft launch of the LA chapter, hope to see you guys there! 
+
+> 
+
+
+> 
+<https://www.meetup.com/NeuroTechLA/events/242295393/>
+
