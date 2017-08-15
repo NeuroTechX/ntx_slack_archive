@@ -2013,3 +2013,12 @@ Thanks!
 
  >A little bit more quiet during late summer, just before the back to school and all. And weekend are always a little less active. (especially during summer)
 
+8/15/2017 3:30 PM
+
+ **yannick** :
+
+ >The green line represent the daily active users. The lower points are Sundays.
+
+> 
+(the blue line represent the daily posting users, which is obviously lower than the active ones - which also include people just showing up and/or reading)
+
