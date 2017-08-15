@@ -2001,3 +2001,9 @@ Thanks!
 
  >Exciting
 
+8/15/2017 3:07 PM
+
+ **jmhorschig** :
+
+ >the last message I got in any channel is from Friday - is something wrong with Slack? Or is it just really, really quiet?
+
