@@ -756,3 +756,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Hey a.tech Planning on reseting everything for September, so I'll be reaching out soon :slightly_smiling_face:
 
+8/16/2017 3:15 PM
+
+ **sydneyneurotechx** :
+
+ >actually might as well do this now.
+
