@@ -3435,3 +3435,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >Yea but electrical shock is a thing and electrodes on brains
 
+8/16/2017 11:10 AM
+
+ **aj** :
+
+ >So I worry about that
+
