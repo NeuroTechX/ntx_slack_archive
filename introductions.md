@@ -2673,3 +2673,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >yannick  and I are both based out of Montreal. If you ever make the trip to Montreal, let us know
 
+8/16/2017 4:21 PM
+
+ **dano** :
+
+ >Hey Jae, you should drop by one of our meetups in Toronto and drop some knowledge! We'd love to hear more about your BCI paradigm
+
