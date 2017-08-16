@@ -2646,3 +2646,12 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey jamoonie94, welcome on board! You mean explaining a little more the idea behind a text synthesis paradigm that is swift and intuitive? Im curious!
 
+8/16/2017 3:22 PM
+
+ **jamoonie94** :
+
+ >It's an elaboration on auditory p300 with some custominsed phoneme-based ngram algorithms. I'm only beginning the blue print phase. I will keep you updated! :)
+
+> 
+
+
