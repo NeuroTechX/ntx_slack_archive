@@ -3387,3 +3387,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >more specifically, use multiple SPI interface, buffer the ocilllator output, add another regulator, switch to a wired data interface
 
+8/16/2017 9:47 AM
+
+ **aj** :
+
+ >I think we can get 32 over wifi
+
