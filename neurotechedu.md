@@ -780,3 +780,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >sydneyneurotechx Im happy to help and have a pretty good availability at the moment. Im only away for 2 weeks in Sept and probably a few weeks around Christmas.
 
+8/16/2017 4:11 PM
+
+ **benjamindeleener** :
+
+ >I would be happy to help, also as a student club point-of-view
+
