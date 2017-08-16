@@ -2655,3 +2655,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 > 
 
 
+8/16/2017 3:22 PM
+
+ **jamoonie94** :
+
+ >Can you tell me a bit about yourself/what you do?
+
