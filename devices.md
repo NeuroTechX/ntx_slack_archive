@@ -3399,3 +3399,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >I'm testing 24 soon and I'm not nervous about it, 16 streams fine
 
+8/16/2017 9:48 AM
+
+ **aj** :
+
+ >Actually I could sim 32 and see if there are issues
+
