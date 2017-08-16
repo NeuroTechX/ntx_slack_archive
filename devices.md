@@ -3447,3 +3447,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >you can isolate the connexion
 
+8/16/2017 3:05 PM
+
+ **sydneyneurotechx** :
+
+ >Anyone have any experience with this device? They are going for a headphone design (dry electrodes) and doing neurofeedback. Based on the pricing probably targeting a more professional market (military etc). <https://getversus.com/>
+
