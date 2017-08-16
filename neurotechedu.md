@@ -744,3 +744,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >For those interested, OHBM put together some material's around eeg and MRI. Pretty cool find <https://www.humanbrainmapping.org/m/pages.cfm?pageID=3814>
 
+8/16/2017 3:21 AM
+
+ **a.tech** :
+
+ >Sry should have extended this before... but if you guys need any help with copy writing, I'd be more then happy to lend a hand
+
