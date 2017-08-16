@@ -786,3 +786,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >I would be happy to help, also as a student club point-of-view
 
+8/16/2017 9:12 PM
+
+ **francescacoo** :
+
+ >I am available as well! (I will be bit busy with work+university but I would be happy to help!)
+
