@@ -2667,3 +2667,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome Jae! Is Holland Bloorview Research Institute associated with Sick Kids?
 
+8/16/2017 3:29 PM
+
+ **sydneyneurotechx** :
+
+ >yannick  and I are both based out of Montreal. If you ever make the trip to Montreal, let us know
+
