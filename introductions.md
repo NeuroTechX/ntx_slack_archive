@@ -2685,3 +2685,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >meetups are announced in the <#C0VTC19DW|_toronto> channel. We're having one next week at Interaxon's office
 
+8/16/2017 11:26 PM
+
+ **jamoonie94** :
+
+ >Will do! And will subscribe!
+
