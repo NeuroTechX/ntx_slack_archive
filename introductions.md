@@ -2628,3 +2628,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Cool!!
 
+8/16/2017 3:41 AM
+
+ **t0nyyet** :
+
+ >hi everyone, my name is Tony, I am based in Guangzhou, China. been recently introduced to the magical world of eeg and neurofeedback, love to learn from the community, and if anyone is in China, love to meet up :slightly_smiling_face:
+
