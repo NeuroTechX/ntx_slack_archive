@@ -750,3 +750,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Sry should have extended this before... but if you guys need any help with copy writing, I'd be more then happy to lend a hand
 
+8/16/2017 3:14 PM
+
+ **sydneyneurotechx** :
+
+ >Hey a.tech Planning on reseting everything for September, so I'll be reaching out soon :slightly_smiling_face:
+
