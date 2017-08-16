@@ -3411,3 +3411,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >I think the connector needs to change after 16
 
+8/16/2017 9:50 AM
+
+ **aj** :
+
+ >Using a 2.54 mm pitch header with differential input quickly turns into 66+ pins with after ref and bias and such
+
