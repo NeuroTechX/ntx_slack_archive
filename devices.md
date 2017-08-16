@@ -3369,3 +3369,15 @@ It's a cool gimmick, but i'm still a little bit puzzled about the long term visi
 
  >I don't know, this is too early to tell, i'm still thinking about adding different feature that might increase the BOM
 
+8/16/2017 8:46 AM
+
+ **alexandre.barachant** :
+
+ >harris how many channels are you thinking of ?
+
+> 
+there is 8 channels per ADC, and you can daisy-chain them.
+
+> 
+I'm thinking it should be possible to extend them to 32 channels without changing the design. After that you might need to rethink a few things.
+
