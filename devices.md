@@ -3441,3 +3441,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >So I worry about that
 
+8/16/2017 11:12 AM
+
+ **alexandre.barachant** :
+
+ >you can isolate the connexion
+
