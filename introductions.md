@@ -2661,3 +2661,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Can you tell me a bit about yourself/what you do?
 
+8/16/2017 3:27 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome Jae! Is Holland Bloorview Research Institute associated with Sick Kids?
+
