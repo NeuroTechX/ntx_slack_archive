@@ -3453,3 +3453,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >Anyone have any experience with this device? They are going for a headphone design (dry electrodes) and doing neurofeedback. Based on the pricing probably targeting a more professional market (military etc). <https://getversus.com/>
 
+8/16/2017 3:18 PM
+
+ **aj** :
+
+ >5 channel over Bluetooth is niceee
+
