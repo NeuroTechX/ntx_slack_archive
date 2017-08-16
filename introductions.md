@@ -2679,3 +2679,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey Jae, you should drop by one of our meetups in Toronto and drop some knowledge! We'd love to hear more about your BCI paradigm
 
+8/16/2017 4:21 PM
+
+ **dano** :
+
+ >meetups are announced in the <#C0VTC19DW|_toronto> channel. We're having one next week at Interaxon's office
+
