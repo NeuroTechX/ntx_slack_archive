@@ -3423,3 +3423,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >That's a lot of area
 
+8/16/2017 10:03 AM
+
+ **alexandre.barachant** :
+
+ >i'm not really worried about the wifi. 32 channels at 1kHz should works, it's more that if you want more, and want reliability, wired is better
+
