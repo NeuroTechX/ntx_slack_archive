@@ -3405,3 +3405,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >Actually I could sim 32 and see if there are issues
 
+8/16/2017 9:49 AM
+
+ **aj** :
+
+ >I think the connector needs to change after 16
+
