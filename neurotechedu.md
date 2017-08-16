@@ -768,3 +768,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  ><!channel>  Apologies for the radio silence. Things got busy with other project, but I'm back at it. I'm looking for people who are interested in playing a bit more of a role in the vision/logistic side of NeuroTechEDU. If you have some availability over the next 4 months (nowish till about December) and want to help shape the future of the project I'd love to hear from you :slightly_smiling_face:.
 
+8/16/2017 3:17 PM
+
+ **graeme** :
+
+ >I can help
+
