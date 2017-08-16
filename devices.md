@@ -3381,3 +3381,9 @@ there is 8 channels per ADC, and you can daisy-chain them.
 > 
 I'm thinking it should be possible to extend them to 32 channels without changing the design. After that you might need to rethink a few things.
 
+8/16/2017 8:47 AM
+
+ **alexandre.barachant** :
+
+ >more specifically, use multiple SPI interface, buffer the ocilllator output, add another regulator, switch to a wired data interface
+
