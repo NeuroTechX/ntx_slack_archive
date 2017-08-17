@@ -2697,3 +2697,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hello :wave: I'm Sidney - I was at <http://SHA2017.org|SHA2017.org> and participated in a icibici workshop. I'm very curious about what I build there and want to learn more -  I program for iOS and macOS and want to see if i can write some code related to this workshop
 
+8/17/2017 10:53 AM
+
+ **davidevaleriani** :
+
+ >Hey sidney, welcome here. Make sure you join the <#C1G552DD4|smartphone-bci> channel, which is focused on icibici.
+
