@@ -1527,3 +1527,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >C'est àquelle heure?
 
+8/17/2017 1:35 AM
+
+ **yannick** :
+
+ >18h30, District 3
+
