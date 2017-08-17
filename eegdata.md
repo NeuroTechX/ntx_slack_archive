@@ -4158,3 +4158,9 @@ If you want to maximize your learning on how to build BCI's. Get the OpenBCI. Al
 
  >psoulos the basic recipe is posted below. It's important to note that this was an experimental algorithm that accidentally snuck out the door in our SDK, but we never intended it to. There are some very important caveats, notably: While Muse produces reliable gamma for post-hoc analysis, real-time gamma in any system is very hard to do because of the influence of EMG overlapping the gamma range. It's especially hard to do real-time gamma with Muse, because the Muse reference is close to the frontalis muscle. What we found was that people were using the concentration metric to produce BCIs that worked primarily on EMG and not EEG, and consequently making bad applications.
 
+8/17/2017 6:17 PM
+
+ **graeme** :
+
+ >The mellow metric is much more robust because it runs on alpha. You could use beta more reliably than gamma for cognitive workload, but you'd still want to really validate this before you start using and sharing it.
+
