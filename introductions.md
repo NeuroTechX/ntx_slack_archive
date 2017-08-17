@@ -2691,3 +2691,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Will do! And will subscribe!
 
+8/17/2017 9:01 AM
+
+ **sidney** :
+
+ >Hello :wave: I'm Sidney - I was at <http://SHA2017.org|SHA2017.org> and participated in a icibici workshop. I'm very curious about what I build there and want to learn more -  I program for iOS and macOS and want to see if i can write some code related to this workshop
+
