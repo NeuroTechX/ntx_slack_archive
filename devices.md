@@ -3594,3 +3594,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >I was able to stream a reasonable amount of data using HID-over-Gatt
 
+8/17/2017 5:15 PM
+
+ **aj** :
+
+ >I didn't try to compress yet, some EEG applications don't need the compression but yes if we implemented a simple delta compression like on ganglion we can get four although that can for sure be lossy 
+
