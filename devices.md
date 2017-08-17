@@ -3525,3 +3525,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >alexandre.barachant: Did you use the ADS1299, I thought your design was based on the MCP analog front-end?
 
+8/17/2017 4:33 AM
+
+ **alexandre.barachant** :
+
+ >you are not mistaken, wifi has the theoretical bandwith to let much more than that. But on a microcontroller, there are other bottleneck than just the wifi bandwidth. Just a quick example, but if you have a single core uC, when it's busy with TCP stuff, it can not do anything else and may miss some samples comming from the ADC.
+
