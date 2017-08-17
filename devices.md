@@ -3606,3 +3606,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >We have two of the Versus in our office. There's no stock software app for raw data, so you'd have to try a alexandre.barachant style bluetooth sniffing hack. I'm not sure if they're encrypted. Nonetheless, the big downside we found was that you have to use Ten20 gel - the polymer electrodes don't really work without that, and it comes with little tubes of Ten20 (called 'electrode conditioner' in their marketing) that they were selling on their website.
 
+8/17/2017 6:39 PM
+
+ **graeme** :
+
+ >Also, it was not a comfortable headset in any way.
+
