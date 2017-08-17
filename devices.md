@@ -3489,3 +3489,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >aj: Good question. I think so, given that they ship their device with an android phone. I don't remember reading any restrictions in the manual.
 
+8/17/2017 2:09 AM
+
+ **aj** :
+
+ >Hmm that's amazing why I'd OpenBCI not doing that I wonder
+
