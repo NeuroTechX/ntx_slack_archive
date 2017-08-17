@@ -3564,3 +3564,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >Joel days the spec was not around when he made the first boards
 
+8/17/2017 4:52 AM
+
+ **aj** :
+
+ >I'm trying to get two full channels and that's even pushing ble 
+
