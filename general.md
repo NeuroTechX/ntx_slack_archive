@@ -5475,3 +5475,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >I'm going to this event! Apparently my lab has a collaboration with Interaxon. Supposedly P300s can be detected with muse though I haven't looked into the tech yet 
 
+8/17/2017 7:24 PM
+
+ **travjav** :
+
+ >Does anyone have any information on how to map the Microvolts for the Ganglion? I need to display the information accurately on a line graph with live data from a socket(s) thanks in advance !
+
