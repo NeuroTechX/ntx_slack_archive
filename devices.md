@@ -3531,3 +3531,18 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >you are not mistaken, wifi has the theoretical bandwith to let much more than that. But on a microcontroller, there are other bottleneck than just the wifi bandwidth. Just a quick example, but if you have a single core uC, when it's busy with TCP stuff, it can not do anything else and may miss some samples comming from the ADC.
 
+8/17/2017 4:37 AM
+
+ **alexandre.barachant** :
+
+ >there is a lot of EEG device that use classic bluetooth for eeg :
+
+> 
+- Wearable sensing : 24 channels x 300Hz
+
+> 
+- Neuroelectrics : 32 channels x 500 Hz
+
+> 
+- Cognonics : 20 channels x 500 Hz
+
