@@ -1497,3 +1497,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  ><!channel> Qui.vient ce vendredi?
 
+8/17/2017 12:57 AM
+
+ **sidksv** :
+
+ >fred-simard Je serai
+
