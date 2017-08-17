@@ -1491,3 +1491,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Malheureusement non, je serais en dehors de Montréal pour le weekend
 
+8/17/2017 12:55 AM
+
+ **fred-simard** :
+
+ ><!channel> Qui.vient ce vendredi?
+
