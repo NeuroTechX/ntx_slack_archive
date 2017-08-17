@@ -3513,3 +3513,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >I always wondered why they made that choice. Maybe they thought they would consume less power, but even BLE consumes its fair share of power when streaming a full data rate. BLE is mostly built for passive advertisement (ibeacon). Maybe to save on the cost?
 
+8/17/2017 2:14 AM
+
+ **fred-simard** :
+
+ >Rfduino is on top of BLE
+
