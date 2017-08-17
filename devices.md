@@ -3570,3 +3570,21 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >I'm trying to get two full channels and that's even pushing ble 
 
+8/17/2017 4:14 PM
+
+ **fred-simard** :
+
+ >Are you compressing your data? I implemented the &lt;2016 Muse decompression algo: <https://github.com/AtlantsEmbedded/atlants-DATA_interface/blob/master/data-daemon/src/supported_hardware/muse_pack_parser.c>
+
+> 
+
+
+> 
+I think several others did, and I think the Ganglion use a similar encoding scheme.
+
+> 
+
+
+> 
+I never measured the rate of compression, but it seemed like a smart way to go about the problem. The rate of compression increase with the number of channels, so I don't know how you score with 2.
+
