@@ -3459,3 +3459,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >5 channel over Bluetooth is niceee
 
+8/17/2017 1:03 AM
+
+ **fred-simard** :
+
+ >alexandre.barachant: Unless I'm mistaken, WiFi offers and throughput 2 or 3 order of magnitudes above what is required by 32x1k EEG... And if you use TCP, you don't need to worry about reliabilty. Witg WiFi you are good to go for a while. How about battery consumption?
+
