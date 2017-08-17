@@ -2703,3 +2703,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hey sidney, welcome here. Make sure you join the <#C1G552DD4|smartphone-bci> channel, which is focused on icibici.
 
+8/17/2017 10:54 AM
+
+ **sidney** :
+
+ >Thanks! Will do!
+
