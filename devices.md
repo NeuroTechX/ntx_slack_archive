@@ -3552,3 +3552,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >BLE is much harder, but muse managed 5 channels at 256Hz
 
+8/17/2017 4:38 AM
+
+ **alexandre.barachant** :
+
+ >it all depends on the number of bits you encode your data. muse is 12 bits ...
+
