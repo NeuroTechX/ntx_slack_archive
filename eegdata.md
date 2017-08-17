@@ -4188,3 +4188,9 @@ Concentrate
 > 
 Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called RSPb. RSPb uses Relative Band Powers from the Muse SDK called gamma_relative whose values range between 0 and 1. These values are sent out every 100 ms so we recommend taking a moving average of the last 20 values. Note that the My Virtual Dream paper mentioned above used the beta band instead of the gamma band.
 
+8/17/2017 6:19 PM
+
+ **graeme** :
+
+ >You can make this more robust with some basic machine learning, by creating a band power distribution for the individual user over 30s or so and then scoring relative to that distribution, linearly or non-linearly as you prefer.
+
