@@ -5457,3 +5457,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >can't wait to try!
 
+8/17/2017 1:58 AM
+
+ **sydneyneurotechx** :
+
+ >Set up a test location in Montreal :slightly_smiling_face:
+
