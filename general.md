@@ -5469,3 +5469,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  ><http://www.nature.com/news/china-launches-brain-imaging-factory-1.22456>
 
+8/17/2017 3:30 PM
+
+ **jamoonie94** :
+
+ >I'm going to this event! Apparently my lab has a collaboration with Interaxon. Supposedly P300s can be detected with muse though I haven't looked into the tech yet 
+
