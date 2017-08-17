@@ -5463,3 +5463,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Set up a test location in Montreal :slightly_smiling_face:
 
+8/17/2017 5:27 AM
+
+ **bechir** :
+
+ ><http://www.nature.com/news/china-launches-brain-imaging-factory-1.22456>
+
