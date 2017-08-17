@@ -3519,3 +3519,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >Rfduino is on top of BLE
 
+8/17/2017 2:20 AM
+
+ **fred-simard** :
+
+ >alexandre.barachant: Did you use the ADS1299, I thought your design was based on the MCP analog front-end?
+
