@@ -3501,3 +3501,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >They used an RFDuino which uses a Nordic gazell stack that doesn't go to iPhones and such
 
+8/17/2017 2:09 AM
+
+ **aj** :
+
+ >And can only get 16chan at 125hz
+
