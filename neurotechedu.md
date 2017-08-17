@@ -792,3 +792,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >I am available as well! (I will be bit busy with work+university but I would be happy to help!)
 
+8/17/2017 6:27 PM
+
+ **sydneyneurotechx** :
+
+ >woooo
+
