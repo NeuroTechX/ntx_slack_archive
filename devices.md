@@ -3558,3 +3558,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >it all depends on the number of bits you encode your data. muse is 12 bits ...
 
+8/17/2017 4:51 AM
+
+ **aj** :
+
+ >Joel days the spec was not around when he made the first boards
+
