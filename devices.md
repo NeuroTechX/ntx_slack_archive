@@ -3471,3 +3471,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >aj: Unless you refer to BLE, Smarting does 24 chan at 500hz over bluetooth classic. I don't know if they compress the data, but they stream over RFCOMM
 
+8/17/2017 2:05 AM
+
+ **aj** :
+
+ >I didn't know that!
+
