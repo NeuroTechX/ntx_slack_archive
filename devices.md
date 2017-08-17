@@ -3477,3 +3477,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >I didn't know that!
 
+8/17/2017 2:05 AM
+
+ **aj** :
+
+ >And that goes to iphone and Android?
+
