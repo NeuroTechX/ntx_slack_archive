@@ -3600,3 +3600,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >I didn't try to compress yet, some EEG applications don't need the compression but yes if we implemented a simple delta compression like on ganglion we can get four although that can for sure be lossy 
 
+8/17/2017 6:38 PM
+
+ **graeme** :
+
+ >We have two of the Versus in our office. There's no stock software app for raw data, so you'd have to try a alexandre.barachant style bluetooth sniffing hack. I'm not sure if they're encrypted. Nonetheless, the big downside we found was that you have to use Ten20 gel - the polymer electrodes don't really work without that, and it comes with little tubes of Ten20 (called 'electrode conditioner' in their marketing) that they were selling on their website.
+
