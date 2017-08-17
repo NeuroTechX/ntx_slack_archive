@@ -3546,3 +3546,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 > 
 - Cognonics : 20 channels x 500 Hz
 
+8/17/2017 4:38 AM
+
+ **alexandre.barachant** :
+
+ >BLE is much harder, but muse managed 5 channels at 256Hz
+
