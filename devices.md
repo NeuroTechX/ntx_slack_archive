@@ -3465,3 +3465,9 @@ I'm thinking it should be possible to extend them to 32 channels without changin
 
  >alexandre.barachant: Unless I'm mistaken, WiFi offers and throughput 2 or 3 order of magnitudes above what is required by 32x1k EEG... And if you use TCP, you don't need to worry about reliabilty. Witg WiFi you are good to go for a while. How about battery consumption?
 
+8/17/2017 1:05 AM
+
+ **fred-simard** :
+
+ >aj: Unless you refer to BLE, Smarting does 24 chan at 500hz over bluetooth classic. I don't know if they compress the data, but they stream over RFCOMM
+
