@@ -4146,3 +4146,9 @@ If you want to maximize your learning on how to build BCI's. Get the OpenBCI. Al
 
  >That looks interesting. alexandre.barachant do you have plans to include concentration and mellow? I could reimplement the algorithm in 'My Virtual Dream' which uses relative alpha and gamma waves to detect changes in calmness and concentration. 
 
+8/17/2017 2:06 AM
+
+ **fred-simard** :
+
+ >psoulos I believe they use Beta and Alpha Rythm
+
