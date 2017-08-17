@@ -3588,3 +3588,9 @@ I think several others did, and I think the Ganglion use a similar encoding sche
 > 
 I never measured the rate of compression, but it seemed like a smart way to go about the problem. The rate of compression increase with the number of channels, so I don't know how you score with 2.
 
+8/17/2017 4:15 PM
+
+ **fred-simard** :
+
+ >I was able to stream a reasonable amount of data using HID-over-Gatt
+
