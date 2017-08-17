@@ -4164,3 +4164,27 @@ If you want to maximize your learning on how to build BCI's. Get the OpenBCI. Al
 
  >The mellow metric is much more robust because it runs on alpha. You could use beta more reliably than gamma for cognitive workload, but you'd still want to really validate this before you start using and sharing it.
 
+8/17/2017 6:17 PM
+
+ **graeme** :
+
+ >In any case, here's the recipe: 
+
+> 
+
+
+> 
+Mellow 
+
+> 
+Mellow is based on the relative spectral power of alpha (7.5 - 13 Hz) called RSPa. RSPa uses Relative Band Powers from the Muse SDK called alpha_relative whose values range between 0 and 1. These values are sent out every 100 ms so we recommend taking a moving average of the last 20 values.
+
+> 
+
+
+> 
+Concentrate
+
+> 
+Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called RSPb. RSPb uses Relative Band Powers from the Muse SDK called gamma_relative whose values range between 0 and 1. These values are sent out every 100 ms so we recommend taking a moving average of the last 20 values. Note that the My Virtual Dream paper mentioned above used the beta band instead of the gamma band.
+
