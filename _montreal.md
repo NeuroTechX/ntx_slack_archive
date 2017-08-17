@@ -1515,3 +1515,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I will be there :slightly_smiling_face:
 
+8/17/2017 1:32 AM
+
+ **crocodoyle** :
+
+ >Moi je considère venir pour ma première fois!
+
