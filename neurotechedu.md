@@ -798,3 +798,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >woooo
 
+8/17/2017 6:28 PM
+
+ **sydneyneurotechx** :
+
+ >awesome. Thanks for the support
+
