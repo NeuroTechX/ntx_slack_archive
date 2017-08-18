@@ -1539,3 +1539,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >oui oui
 
+8/18/2017 10:30 PM
+
+ **yannick** :
+
+ >crocodoyle are you joining us tonight?
+
