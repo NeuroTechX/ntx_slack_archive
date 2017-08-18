@@ -4200,3 +4200,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >anybody know where I can get an open EEG/MEG dataset of multiple subjects watching the same movie?
 
+8/18/2017 12:40 PM
+
+ **andyh616** :
+
+ >looking to run a quick analysis for a grant :flushed:
+
