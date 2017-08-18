@@ -4224,3 +4224,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >trying to show intersubject functional connectivity varies over time using movie stimuli, ill check HCP, thanks!
 
+8/18/2017 2:00 PM
+
+ **andyh616** :
+
+ >*intersubject correlation -&gt; timeseries of average pairwise (across-subject) correlation of raw electrode values using a sliding window
+
