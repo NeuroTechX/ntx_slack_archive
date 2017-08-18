@@ -2058,3 +2058,9 @@ Thanks!
 
  >Peer-to-peer vs hub and spoke based? something like that probably
 
+8/18/2017 12:54 AM
+
+ **sc** :
+
+ ><https://www.statnews.com/2017/08/17/brain-machine-interface-paradromics/>
+
