@@ -3612,3 +3612,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >Also, it was not a comfortable headset in any way.
 
+8/18/2017 4:45 PM
+
+ **graeme** :
+
+ ><http://brain-duino.com/>
+
