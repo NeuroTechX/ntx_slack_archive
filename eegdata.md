@@ -4194,3 +4194,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >You can make this more robust with some basic machine learning, by creating a band power distribution for the individual user over 30s or so and then scoring relative to that distribution, linearly or non-linearly as you prefer.
 
+8/18/2017 12:34 PM
+
+ **andyh616** :
+
+ >anybody know where I can get an open EEG/MEG dataset of multiple subjects watching the same movie?
+
