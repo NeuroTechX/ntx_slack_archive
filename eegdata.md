@@ -4206,3 +4206,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >looking to run a quick analysis for a grant :flushed:
 
+8/18/2017 12:41 PM
+
+ **alexandre.barachant** :
+
+ >trying to do some alignement ?*
+
