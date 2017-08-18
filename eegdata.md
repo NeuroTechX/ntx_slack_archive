@@ -4212,3 +4212,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >trying to do some alignement ?*
 
+8/18/2017 12:43 PM
+
+ **alexandre.barachant** :
+
+ >I don't have a dataset in mind. it's possible that they did that in the HCP
+
