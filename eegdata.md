@@ -4218,3 +4218,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >I don't have a dataset in mind. it's possible that they did that in the HCP
 
+8/18/2017 1:50 PM
+
+ **andyh616** :
+
+ >trying to show intersubject functional connectivity varies over time using movie stimuli, ill check HCP, thanks!
+
