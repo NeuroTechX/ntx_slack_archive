@@ -5487,3 +5487,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >This is a good story on research into EEG in sports performance featuring portable headsets: <http://www.cbc.ca/amp/1.4229868>
 
+8/19/2017 4:21 PM
+
+ **dano** :
+
+ >Cool stuff
+
