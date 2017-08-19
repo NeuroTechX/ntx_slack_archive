@@ -4254,3 +4254,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Phenomenal stuff is good enough to make the cut for the Awesome list :stuck_out_tongue:
 
+8/19/2017 1:03 PM
+
+ **andyh616** :
+
+ >:slightly_smiling_face: id have to agree
+
