@@ -810,3 +810,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >I'll arrange a call with everyone so that we can move forward with this :slightly_smiling_face:
 
+8/19/2017 4:58 PM
+
+ **sheida** :
+
+ >I'm going into a heavy semester and don't want to over commit, but I'd love to help out as much as I can and be more involved once some of my schoolwork is done!  
+
