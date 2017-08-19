@@ -4236,3 +4236,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >found a phenomenal open EEG dataset, check it out: <http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/index.html>
 
+8/19/2017 12:53 PM
+
+ **yannick** :
+
+ >You should add it to the Awesome BCI List :slightly_smiling_face:
+
