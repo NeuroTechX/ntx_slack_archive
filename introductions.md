@@ -2709,3 +2709,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Thanks! Will do!
 
+8/19/2017 3:25 PM
+
+ **athul** :
+
+ >Hi all, I'm Athul, from Texas. I'm a masters student in Computational Neuroscience.
+
