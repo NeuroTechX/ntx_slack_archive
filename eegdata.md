@@ -4230,3 +4230,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >*intersubject correlation -&gt; timeseries of average pairwise (across-subject) correlation of raw electrode values using a sliding window
 
+8/19/2017 12:51 PM
+
+ **andyh616** :
+
+ >found a phenomenal open EEG dataset, check it out: <http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/index.html>
+
