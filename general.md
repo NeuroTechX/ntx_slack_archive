@@ -5481,3 +5481,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Does anyone have any information on how to map the Microvolts for the Ganglion? I need to display the information accurately on a line graph with live data from a socket(s) thanks in advance !
 
+8/19/2017 3:57 PM
+
+ **graeme** :
+
+ >This is a good story on research into EEG in sports performance featuring portable headsets: <http://www.cbc.ca/amp/1.4229868>
+
