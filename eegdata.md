@@ -4242,3 +4242,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >You should add it to the Awesome BCI List :slightly_smiling_face:
 
+8/19/2017 1:00 PM
+
+ **andyh616** :
+
+ >good call! will do
+
