@@ -3636,3 +3636,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >Trying to see if I should put this into production
 
+8/20/2017 6:13 PM
+
+ **aj** :
+
+ >Price would be &lt; $200 for sure
+
