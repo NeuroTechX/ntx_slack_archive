@@ -3624,3 +3624,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >Are those guys still around?
 
+8/20/2017 6:11 PM
+
+ **aj** :
+
+ >Is anyone interested in a thumb sized 8chan EEG that hooks up to Arduinos/raspberry pi and is powered by 3v3 and can be Daisy chained together?
+
