@@ -3642,3 +3642,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >Price would be &lt; $200 for sure
 
+8/21/2017 12:21 AM
+
+ **benjamindeleener** :
+
+ >I am sure many people will be interested. Not speaking for all but I bet many student clubs would find that very useful
+
