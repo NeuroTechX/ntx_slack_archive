@@ -5499,3 +5499,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Woah. Batters up :+1: 
 
+8/21/2017 11:54 AM
+
+ **timopheym** :
+
+ >Hey guys! Is there someone who has develop openbci device? We did broken ours, and tried to change controller so there is some troubles, with changing firmware. Thanks and love!
+
