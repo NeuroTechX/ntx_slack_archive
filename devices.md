@@ -3660,3 +3660,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >Sweet!
 
+8/21/2017 7:50 PM
+
+ **aj** :
+
+ >Cool! I'll launch a beta in the coming months
+
