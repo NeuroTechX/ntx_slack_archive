@@ -1767,3 +1767,9 @@ Hope to see you all there! DM me for more info or deets if needed
 
  ><!channel> If you are eager to try out the new EEG sunglasses or cant make it to the hacknight, InteraXon is also hosting a Meetup tomorrow evening: <https://www.meetup.com/Muse-Meditation-Meetup/events/242570232/> Join us tomorrow evening to try out the sunglasses experience and a chance to win a pair when they launch!
 
+8/21/2017 9:02 PM
+
+ **a.tech** :
+
+ >Awesome, wish we could join! 
+
