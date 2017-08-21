@@ -432,3 +432,78 @@ All are welcome. Hope to see you there!
 
  >Approaching .80 !
 
+8/21/2017 4:47 PM
+
+ **dano** :
+
+ >```
+
+> 
+                  _          __           _     _   
+
+> 
+  /\  /\__ _  ___| | __   /\ \ \__ _  ___| |__ | |_ 
+
+> 
+ / /_/ / _` |/ __| |/ /  /  \/ / _` |/ __| '_ \| __|
+
+> 
+/ __  / (_| | (__|   &lt;  / /\  / (_| | (__| | | | |_ 
+
+> 
+\/ /_/ \__,_|\___|_|\_\ \_\ \/ \__,_|\___|_| |_|\__|
+
+> 
+                                                    
+
+> 
+```
+
+> 
+
+
+> 
+Alas, another NeuroTechTO hacknight is upon this in Toronto. We're moving to Friday this week to switch things up a bit. Hopefully, it works better for some of your schedules. 
+
+> 
+
+
+> 
+On the agenda:
+
+> 
+- Visualizing ML feature importance with Victory Native
+
+> 
+- Experimenting with the Braindecode deep learning toolbox for EEG
+
+> 
+- Designing an approachable introduction to Muse neurohacking for our upcoming event
+
+> 
+- Whatever you guys wanna do!
+
+> 
+
+
+> 
+Location:
+
+> 
+Interaxon Office, 511 King St, 3rd floor
+
+> 
+
+
+> 
+Time:
+
+> 
+Friday, 6-10pm-ish
+
+> 
+
+
+> 
+Hope to see you all there! DM me for more info or deets if needed
+
