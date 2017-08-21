@@ -150,3 +150,27 @@ site: <https://hackaday.io/superconference/>
 > 
 signup: <https://docs.google.com/forms/d/e/1FAIpQLSfcq-ZWoK0Jj-xY_Lcx15oT_zmWwCF-eCX9BbpnvaZAp4bpEw/viewform>
 
+8/21/2017 12:25 AM
+
+ **andrewjsauer** :
+
+ ><!here|@here> reminder, we are having our kickoff event tomorrow. format is meet n' greet, mess around with some consumer devices (2x Muse headsets, 1x OpenBCI Ganglion Board, 1x NeuroSky headset, 1x Melon headset and 1x Emotiv EPOC) i will be bringing and then having a discussion of the current neuroTech landscape. 
+
+> 
+
+
+> 
+no food, so feel free to bring food, drinks, whatever! i'm providing Starbucks coffee, water and randomly, bananas. 
+
+> 
+
+
+> 
+see you tomorrow!
+
+> 
+
+
+> 
+<https://www.meetup.com/NeuroTechLA/>
+
