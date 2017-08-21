@@ -3666,3 +3666,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >Cool! I'll launch a beta in the coming months
 
+8/21/2017 9:02 PM
+
+ **a.tech** :
+
+ >Likewise 
+
