@@ -3648,3 +3648,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >I am sure many people will be interested. Not speaking for all but I bet many student clubs would find that very useful
 
+8/21/2017 3:22 AM
+
+ **fred-simard** :
+
+ >aj: I'm using the ads1299eeg-fe for that purpose, but it's big. I would buy your stick.
+
