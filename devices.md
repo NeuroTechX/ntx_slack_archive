@@ -3654,3 +3654,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >aj: I'm using the ads1299eeg-fe for that purpose, but it's big. I would buy your stick.
 
+8/21/2017 11:49 AM
+
+ **aj** :
+
+ >Sweet!
+
