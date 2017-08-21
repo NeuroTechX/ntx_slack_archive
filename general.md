@@ -5517,3 +5517,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Please direct message me
 
+8/21/2017 12:55 PM
+
+ **aj** :
+
+ >If it's a bug we can open an issue or make a forum post
+
