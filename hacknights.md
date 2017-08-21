@@ -507,3 +507,9 @@ Friday, 6-10pm-ish
 > 
 Hope to see you all there! DM me for more info or deets if needed
 
+8/21/2017 8:49 PM
+
+ **joshuad** :
+
+ >Will there be an underlying german theme? :wink:
+
