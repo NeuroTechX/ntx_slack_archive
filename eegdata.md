@@ -4278,3 +4278,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  ><https://www.darmiyan.com/>
 
+8/22/2017 10:51 PM
+
+ **aj** :
+
+ >Wow
+
