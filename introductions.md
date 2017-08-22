@@ -2715,3 +2715,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi all, I'm Athul, from Texas. I'm a masters student in Computational Neuroscience.
 
+8/22/2017 6:01 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome Athul! Where are you doing your studies? In Houston?
+
