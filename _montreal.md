@@ -1551,3 +1551,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >No something came up, sorry.
 
+8/22/2017 8:53 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  We will be doing Hacknight this Thursday instead of Friday at Deep BrainHack happening at Notman House. Between 17:30- 23:00 h. Hope to see you there!
+
