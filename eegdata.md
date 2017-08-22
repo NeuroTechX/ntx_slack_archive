@@ -4272,3 +4272,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Apparently this company that just went through YC can predict Alzheimer's 15 years before symptoms
 
+8/22/2017 6:06 AM
+
+ **sydneyneurotechx** :
+
+ ><https://www.darmiyan.com/>
+
