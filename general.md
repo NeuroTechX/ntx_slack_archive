@@ -5547,3 +5547,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >yup! It's possible jamoonie94 . Check out alexandre.barachant 's blog post on it.
 
+8/23/2017 1:51 PM
+
+ **jamoonie94** :
+
+ >Thanks! This is helpful. What are your thoughts on it's signal acquisition and quality?  I read in one of the papers that ~5min use was the maximum due to varying head shapes. Something I am also concerned with is the delay and jitter due to Bluetooth.
+
