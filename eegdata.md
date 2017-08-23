@@ -4332,3 +4332,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >If you know of any python code that would be even better :slightly_smiling_face:
 
+8/23/2017 5:17 PM
+
+ **nuno** :
+
+ >thanks
+
