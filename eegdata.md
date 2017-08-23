@@ -4386,3 +4386,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >dano isn't this essentially for data collection ? it does no detection, right ?
 
+8/23/2017 6:04 PM
+
+ **dano** :
+
+ >Yea, mostly. He has a notebook with his P300 analysis code in it though
+
