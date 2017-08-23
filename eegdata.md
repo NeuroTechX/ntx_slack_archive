@@ -4356,3 +4356,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >btw, P300 covers a wide range of requirements from acquisition synchronisation to actual modeling of the signal, be sure to not look only at code but also understand the background
 
+8/23/2017 5:22 PM
+
+ **nuno** :
+
+ >thanks! I'll have a look at OpenVibe and what they already have implemented
+
