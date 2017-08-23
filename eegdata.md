@@ -4374,3 +4374,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >alexandre.barachant's muse-lsl repo has python scripts for doing P300 experiments <https://github.com/alexandrebarachant/muse-lsl>
 
+8/23/2017 5:53 PM
+
+ **nuno** :
+
+ >Thanks dano!
+
