@@ -4314,3 +4314,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Holy schnitzel! Damn benjamindeleener that is an interesting article. Thanks
 
+8/23/2017 5:16 PM
+
+ **nuno** :
+
+ >Hi everyone, is there any P300 open-source code you recommend?
+
