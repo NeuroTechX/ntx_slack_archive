@@ -3672,3 +3672,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >Likewise 
 
+8/23/2017 2:26 AM
+
+ **aj** :
+
+ >People are using the new OpenBCI cyton firmware with opto isolated UART to usb to get 500Hz steady at 460800 buad over wired connection 
+
