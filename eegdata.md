@@ -4380,3 +4380,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Thanks dano!
 
+8/23/2017 6:01 PM
+
+ **yrenard** :
+
+ >dano isn't this essentially for data collection ? it does no detection, right ?
+
