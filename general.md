@@ -5577,3 +5577,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >your main concern with the muse should be more about the channel location with respect to the activity you want to probe.
 
+8/23/2017 5:31 PM
+
+ **dano** :
+
+ >Relevant to my interests. Does this have to do with the electron build of openexp? I think there's a fundamental issue using a web-designed bundler for a desktop app
+
