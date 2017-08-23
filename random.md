@@ -2064,3 +2064,9 @@ Thanks!
 
  ><https://www.statnews.com/2017/08/17/brain-machine-interface-paradromics/>
 
+8/23/2017 4:14 AM
+
+ **joshuad** :
+
+ ><http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4399.html?foxtrotcallback=true> I'm wondering how they capture neural data.
+
