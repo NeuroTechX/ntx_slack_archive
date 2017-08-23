@@ -5571,3 +5571,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >i would say it is as consistent and stable as any other EEG
 
+8/23/2017 4:17 PM
+
+ **alexandre.barachant** :
+
+ >your main concern with the muse should be more about the channel location with respect to the activity you want to probe.
+
