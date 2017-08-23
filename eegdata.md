@@ -4344,3 +4344,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >alexandre.barachant do you have any suggestions? :wink:
 
+8/23/2017 5:20 PM
+
+ **yrenard** :
+
+ >have you looked at OpenViBE ?
+
