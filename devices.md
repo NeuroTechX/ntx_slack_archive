@@ -3690,3 +3690,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >All you have to do is hook up tx (d11) and rx (d12) and ground and then instead of calling `board.begin()` like normal in setup function you call `board.beginDebug(460800)`
 
+8/23/2017 2:30 AM
+
+ **aj** :
+
+ >Sooo easy a cave person could do it!
+
