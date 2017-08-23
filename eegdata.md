@@ -4290,3 +4290,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Any ideas of how they do their analysis?
 
+8/23/2017 12:59 AM
+
+ **benjamindeleener** :
+
+ >sydneyneurotechx seems like they applied this theory on diffusion MRI: <https://www.ncbi.nlm.nih.gov/pubmed/27739821?otool=nynyumlib&amp;myncbishare=nynyumlib>
+
