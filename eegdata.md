@@ -4404,3 +4404,12 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >It does the analysis too, and builds a classifier. And hubertjb
 
+8/23/2017 6:31 PM
+
+ **alexandre.barachant** :
+
+ >my P300 experiment is more about an oddball paradigm than an P300 BCI.
+
+> 
+@numo, if you are looking for a P300 BCI, openvibe is your best guess. If you are more interested in reproducing a classical neuroscience experiement, then mine is simpler
+
