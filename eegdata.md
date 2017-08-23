@@ -4296,3 +4296,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >sydneyneurotechx seems like they applied this theory on diffusion MRI: <https://www.ncbi.nlm.nih.gov/pubmed/27739821?otool=nynyumlib&amp;myncbishare=nynyumlib>
 
+8/23/2017 1:00 AM
+
+ **benjamindeleener** :
+
+ >Not an expert in Alzheimers disease so I cannot say if it promising or even real
+
