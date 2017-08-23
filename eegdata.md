@@ -4302,3 +4302,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Not an expert in Alzheimers disease so I cannot say if it promising or even real
 
+8/23/2017 3:38 AM
+
+ **mhough** :
+
+ >andyh616 yes, it is isn't it:)
+
