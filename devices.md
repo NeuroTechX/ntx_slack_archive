@@ -3684,3 +3684,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  ><https://github.com/OpenBCI/OpenBCI_32bit_Library/releases/tag/v3.0.0-rc5>
 
+8/23/2017 2:30 AM
+
+ **aj** :
+
+ >All you have to do is hook up tx (d11) and rx (d12) and ground and then instead of calling `board.begin()` like normal in setup function you call `board.beginDebug(460800)`
+
