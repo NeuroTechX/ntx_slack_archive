@@ -4320,3 +4320,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Hi everyone, is there any P300 open-source code you recommend?
 
+8/23/2017 5:16 PM
+
+ **nuno** :
+
+ >I'd like to play around a bit for an application we are preparing but would be great if I could jump some of the steps of setting up the paradigm.
+
