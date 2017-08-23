@@ -4392,3 +4392,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Yea, mostly. He has a notebook with his P300 analysis code in it though
 
+8/23/2017 6:05 PM
+
+ **yrenard** :
+
+ >ah gotcha
+
