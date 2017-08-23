@@ -5583,3 +5583,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Relevant to my interests. Does this have to do with the electron build of openexp? I think there's a fundamental issue using a web-designed bundler for a desktop app
 
+8/23/2017 5:37 PM
+
+ **dano** :
+
+ >Maybe Electron Forge instead? <https://electronforge.io/>
+
