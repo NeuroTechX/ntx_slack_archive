@@ -5535,3 +5535,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >What's the problem?
 
+8/23/2017 12:39 AM
+
+ **aj** :
+
+ >Is it from the openexp?
+
