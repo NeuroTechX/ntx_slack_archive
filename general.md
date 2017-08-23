@@ -5565,3 +5565,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >In the sense that electrode contact is inconsistent within and between individuals 
 
+8/23/2017 4:15 PM
+
+ **alexandre.barachant** :
+
+ >i would say it is as consistent and stable as any other EEG
+
