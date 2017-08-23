@@ -5553,3 +5553,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Thanks! This is helpful. What are your thoughts on it's signal acquisition and quality?  I read in one of the papers that ~5min use was the maximum due to varying head shapes. Something I am also concerned with is the delay and jitter due to Bluetooth.
 
+8/23/2017 2:15 PM
+
+ **alexandre.barachant** :
+
+ >jamoonie94 i'm not sure i understand the "maximum use due to varying head shapes" ? do you mean it hurt after 5 minutes ?
+
