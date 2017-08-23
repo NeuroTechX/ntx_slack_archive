@@ -5541,3 +5541,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Is it from the openexp?
 
+8/23/2017 3:45 AM
+
+ **sydneyneurotechx** :
+
+ >yup! It's possible jamoonie94 . Check out alexandre.barachant 's blog post on it.
+
