@@ -5559,3 +5559,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >jamoonie94 i'm not sure i understand the "maximum use due to varying head shapes" ? do you mean it hurt after 5 minutes ?
 
+8/23/2017 3:52 PM
+
+ **jamoonie94** :
+
+ >In the sense that electrode contact is inconsistent within and between individuals 
+
