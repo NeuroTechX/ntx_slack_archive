@@ -1587,3 +1587,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I'll be there soon. Just picked up the devices
 
+8/24/2017 9:40 PM
+
+ **sydneyneurotechx** :
+
+ >armin no, Nothing in particular :)
+
