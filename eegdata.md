@@ -4413,3 +4413,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 > 
 @numo, if you are looking for a P300 BCI, openvibe is your best guess. If you are more interested in reproducing a classical neuroscience experiement, then mine is simpler
 
+8/24/2017 12:46 AM
+
+ **sc** :
+
+ >Hey all, looking to dive into ML a bit, thinking about a TensorFlow Lite application, training attention versus neutral in the cloud, then being able to execute the trained set on Android in realtime, even when offline. Just looking to keep it simple at first, to get my feet wet with ML and TF. Thought I might use a NeuroSky and compare my results to their eSense attention algorithm. Any pointer on background material to read up, or algoirthms/toolkits to apply once in TF land? (And yes, similar to <#C4LSDAE95|neurodoro> type stuff)
+
