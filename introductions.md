@@ -2736,3 +2736,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 > 
 What kind of optical imaging do you do?
 
+8/24/2017 8:12 PM
+
+ **mikhail.sintsov** :
+
+ >Nowadays, I do optical intrinsic signal imaging (diy), Laser doppler flowmetry, laser speckle contrast imaging (diy) and FADH2 fluorescence (diy too)
+
