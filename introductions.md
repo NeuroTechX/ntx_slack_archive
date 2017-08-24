@@ -2727,3 +2727,12 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Hi, all. I'm Mike from Russia. I do optical and electrophysiological registration of the neuronal activity in vivo in rats. I also do ML/CS/DL stuff.
 
+8/24/2017 8:02 PM
+
+ **yannick** :
+
+ >Hi Mike! Welcome on board.
+
+> 
+What kind of optical imaging do you do?
+
