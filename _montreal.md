@@ -1569,3 +1569,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >:+1: 
 
+8/24/2017 8:30 PM
+
+ **armin** :
+
+ >Hi Sydney, will we focus on specific study?
+
