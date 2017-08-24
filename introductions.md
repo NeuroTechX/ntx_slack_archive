@@ -2721,3 +2721,9 @@ If you don't feel comfortable contributing just yet, there are also some channel
 
  >Welcome Athul! Where are you doing your studies? In Houston?
 
+8/24/2017 7:59 PM
+
+ **mikhail.sintsov** :
+
+ >Hi, all. I'm Mike from Russia. I do optical and electrophysiological registration of the neuronal activity in vivo in rats. I also do ML/CS/DL stuff.
+
