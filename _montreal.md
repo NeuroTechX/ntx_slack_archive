@@ -1575,3 +1575,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Hi Sydney, will we focus on specific study?
 
+8/24/2017 9:04 PM
+
+ **yannick** :
+
+ >I wont be able to make it tonight. Ill be there next week for sure!
+
