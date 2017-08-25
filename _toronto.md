@@ -1779,3 +1779,9 @@ Hope to see you all there! DM me for more info or deets if needed
 
  >Does anyone coming to hack night have a USB-c laptop charger? Just found out my laptop is running at 42% battery.
 
+8/25/2017 8:16 PM
+
+ **hubertjb** :
+
+ >jee I'll have one!
+
