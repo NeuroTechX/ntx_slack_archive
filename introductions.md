@@ -2754,3 +2754,9 @@ What kind of optical imaging do you do?
 
  >Hi everyone. I'm so glad you have created this great community. I look forward to contributing somehow. As background, we're commercializing a thought-to-speech solution that combines BCI with a mobile speech augmentation app for people with disabilities.
 
+8/25/2017 6:30 PM
+
+ **yannick** :
+
+ >Hey Andreas, welcome on board!
+
