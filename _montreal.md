@@ -1599,3 +1599,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I'm back in town but totally forgot about the hacknight... I will come next week for sure
 
+8/25/2017 3:19 PM
+
+ **fred-simard** :
+
+ >I couldn't be there on Thursday
+
