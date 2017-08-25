@@ -2094,3 +2094,9 @@ Thanks!
 
  >it also dependes what type of job you're looking for (in what country, and if it is academia or industry)
 
+8/25/2017 5:39 PM
+
+ **andreasforsland** :
+
+ >If you want to get into more strategic/advisory work (academic or industry), recommend finishing it. We have a theoretical neuroscientist on our advisory board, but when hiring, would only really look for applied neuroscience folks with hands on perspective and experience working with technologists/engineers.  If you had a double CS+Neuroscience background, it makes you quite attractive for a job.
+
