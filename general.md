@@ -5595,3 +5595,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >I believe these people are part of the network: <http://getcloudbrain.com/>, I would like to get into a quick chat with them, to hear the what and how of their platform and discuss further matter.
 
+8/25/2017 3:11 PM
+
+ **fred-simard** :
+
+ >thanks!
+
