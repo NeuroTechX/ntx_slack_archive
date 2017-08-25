@@ -2088,3 +2088,9 @@ Thanks!
 
  >Are far along are you in your PhD? In the long run a PhD will certainly open more doors than no PhD, but it is not mandatory, depending on the skillset you bring to the table.
 
+8/25/2017 4:07 PM
+
+ **yrenard** :
+
+ >it also dependes what type of job you're looking for (in what country, and if it is academia or industry)
+
