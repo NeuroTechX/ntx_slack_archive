@@ -5589,3 +5589,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Maybe Electron Forge instead? <https://electronforge.io/>
 
+8/25/2017 3:03 PM
+
+ **fred-simard** :
+
+ >I believe these people are part of the network: <http://getcloudbrain.com/>, I would like to get into a quick chat with them, to hear the what and how of their platform and discuss further matter.
+
