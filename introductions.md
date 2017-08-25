@@ -2766,3 +2766,9 @@ What kind of optical imaging do you do?
 
  >Welcome Andreas
 
+8/25/2017 9:12 PM
+
+ **dano** :
+
+ >Come say hi to us in Toronto! Hacknights every two weeks
+
