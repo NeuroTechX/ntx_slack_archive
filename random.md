@@ -2070,3 +2070,9 @@ Thanks!
 
  ><http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4399.html?foxtrotcallback=true> I'm wondering how they capture neural data.
 
+8/25/2017 3:04 AM
+
+ **sc** :
+
+ ><https://futurism.com/new-mini-antennae-could-pave-the-way-for-brain-computer-interfaces/>
+
