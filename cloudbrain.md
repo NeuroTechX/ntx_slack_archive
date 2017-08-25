@@ -72,3 +72,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >marion w Hey guys, you have a fantastic project. I'm convinced that a cloud-based data infrastructure is the present and future for EEG in general. I worked on the premise of a MongoDB server myself, but I have to focus on my other endeavors. Can you tell us more about the services you guys are providing and how you are providing them. I could ask privately, but I believe many will be interested by the answer.
 
+8/25/2017 3:56 PM
+
+ **aj** :
+
+ >I'm pretty sure they are traveling but they offer data injestion through your own account and are working on modules to do black box physiology data.
+
