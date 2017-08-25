@@ -78,3 +78,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >I'm pretty sure they are traveling but they offer data injestion through your own account and are working on modules to do black box physiology data.
 
+8/25/2017 4:24 PM
+
+ **fred-simard** :
+
+ >ah ok, so the data analytics takes place in a black box.
+
