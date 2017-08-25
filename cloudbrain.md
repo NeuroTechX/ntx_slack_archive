@@ -84,3 +84,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >ah ok, so the data analytics takes place in a black box.
 
+8/25/2017 4:25 PM
+
+ **fred-simard** :
+
+ >Does the user keep ownership of the data? Can a user data be used to train algorithmic tools that will then be used with other clients?
+
