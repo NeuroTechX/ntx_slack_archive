@@ -2082,3 +2082,9 @@ Thanks!
 
  >Guys, how do you think, is Ph.D. in neuroscience necessary to have a good position in neurohack industry? Should I spend some more year to finish it, or just go straight away looking for a job now?
 
+8/25/2017 3:20 PM
+
+ **yannick** :
+
+ >Are far along are you in your PhD? In the long run a PhD will certainly open more doors than no PhD, but it is not mandatory, depending on the skillset you bring to the table.
+
