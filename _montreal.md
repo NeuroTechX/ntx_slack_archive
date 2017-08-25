@@ -1593,3 +1593,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >armin no, Nothing in particular :)
 
+8/25/2017 1:08 AM
+
+ **naoto** :
+
+ >I'm back in town but totally forgot about the hacknight... I will come next week for sure
+
