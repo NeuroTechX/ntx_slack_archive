@@ -90,3 +90,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >Does the user keep ownership of the data? Can a user data be used to train algorithmic tools that will then be used with other clients?
 
+8/25/2017 4:26 PM
+
+ **fred-simard** :
+
+ >And if not too much asking, what is the business model?
+
