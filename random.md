@@ -2076,3 +2076,9 @@ Thanks!
 
  ><https://futurism.com/new-mini-antennae-could-pave-the-way-for-brain-computer-interfaces/>
 
+8/25/2017 3:12 PM
+
+ **mikhail.sintsov** :
+
+ >Guys, how do you think, is Ph.D. in neuroscience necessary to have a good position in neurohack industry? Should I spend some more year to finish it, or just go straight away looking for a job now?
+
