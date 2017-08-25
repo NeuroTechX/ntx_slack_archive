@@ -1791,3 +1791,9 @@ Hope to see you all there! DM me for more info or deets if needed
 
  >Sweet! Hubert to the rescue!
 
+8/25/2017 11:08 PM
+
+ **simonguozirui** :
+
+ ><https://github.com/urish/muse-lsl>
+
