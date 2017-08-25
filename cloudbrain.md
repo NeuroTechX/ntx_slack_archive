@@ -66,3 +66,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >You should talk with marion &amp; w to have the latest status and direction of the project.
 
+8/25/2017 3:14 PM
+
+ **fred-simard** :
+
+ >marion w Hey guys, you have a fantastic project. I'm convinced that a cloud-based data infrastructure is the present and future for EEG in general. I worked on the premise of a MongoDB server myself, but I have to focus on my other endeavors. Can you tell us more about the services you guys are providing and how you are providing them. I could ask privately, but I believe many will be interested by the answer.
+
