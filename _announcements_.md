@@ -1314,3 +1314,9 @@ Enjoy and debate! :slightly_smiling_face:
 
  >That's great a.tech
 
+8/25/2017 2:57 PM
+
+ **aisha.habli** :
+
+ >slackbot go to <#C08QEC5H7|introductions>
+
