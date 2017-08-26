@@ -2121,3 +2121,9 @@ Thanks!
 > 
 (as mentioned at the end of the article)
 
+8/26/2017 1:09 AM
+
+ **aj** :
+
+ >they are not raising VC i think
+
