@@ -2127,3 +2127,9 @@ Thanks!
 
  >they are not raising VC i think
 
+8/26/2017 1:09 AM
+
+ **aj** :
+
+ >just a casual 27 mil
+
