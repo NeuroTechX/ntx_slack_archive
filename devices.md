@@ -3750,3 +3750,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >you'll be free to select the features you want to include
 
+8/26/2017 6:07 PM
+
+ **fred-simard** :
+
+ >the openbci ganglion has a pretty slick design as well and slightly cheaper, just saying.
+
