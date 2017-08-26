@@ -2139,3 +2139,9 @@ Thanks!
 
  >So weird
 
+8/26/2017 1:18 AM
+
+ **aj** :
+
+ >I think he is talking in the present
+
