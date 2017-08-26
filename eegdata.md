@@ -4431,3 +4431,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >The values used to be included directly as an experimental value in the Muse SDK but were removed
 
+8/26/2017 3:48 PM
+
+ **sc** :
+
+ >Very nice psoulos! I used those values at the Exploratorium exhibit for the Blooms with the rest of the crew (who eventually led into co-forming NeuroTechX with the Montreal  and NY folks). Looks like some good background info here. Ill have to chase up the referenced articles too.
+
