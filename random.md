@@ -2157,3 +2157,9 @@ Thanks!
 
  >I'm in my last year, however, the results are poor
 
+8/26/2017 10:06 AM
+
+ **mikhail.sintsov** :
+
+ >I'm in my last year, however, what is frustrating, the results are poor. I'm considering starting from a scratch, but it takes time too.
+
