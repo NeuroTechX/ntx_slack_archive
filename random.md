@@ -2181,3 +2181,9 @@ My 2 cents.
 
  >what is the main project of Neuralink? The last time I checked it looked like they were trying to create invasive BCIs, but I havent really followed up on it
 
+8/26/2017 12:25 PM
+
+ **alexandre.barachant** :
+
+ >yep, it's invasive BCI. The end goal is a "whole brain" BCI
+
