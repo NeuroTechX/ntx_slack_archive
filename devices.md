@@ -3756,3 +3756,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >the openbci ganglion has a pretty slick design as well and slightly cheaper, just saying.
 
+8/26/2017 6:07 PM
+
+ **fred-simard** :
+
+ >it would be a matter of scaling up to 8 electrodes
+
