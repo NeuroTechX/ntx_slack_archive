@@ -3696,3 +3696,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >Sooo easy a cave person could do it!
 
+8/26/2017 4:33 PM
+
+ **aj** :
+
+ >Hey <#C08T2SENQ|devices> question! Joel (openbci joel) and i were talking about the mini eeg and he says it should be battery powered so people can't have the opportunity to hook an arduino/raspberry pi up to the wall, be hooked up to the device, and an electrical surge hit and electrocute their heads. it's why the openbci is battery powered. should this stick be battery powered?
+
