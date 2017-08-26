@@ -3708,3 +3708,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >Here is a sweet gif of the mini board as of today, it's powered by a 3V3 input pin <http://g.recordit.co/Q0xsLgfqvI.gif>
 
+8/26/2017 4:35 PM
+
+ **aj** :
+
+ >i'm also looking for different connectors if anyone has suggestions1
+
