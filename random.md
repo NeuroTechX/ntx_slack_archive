@@ -2175,3 +2175,9 @@ Quitting your PhD to apply to an ok job, only to get out of your PhD if you fe
 > 
 My 2 cents.
 
+8/26/2017 12:23 PM
+
+ **jamoonie94** :
+
+ >what is the main project of Neuralink? The last time I checked it looked like they were trying to create invasive BCIs, but I havent really followed up on it
+
