@@ -3792,3 +3792,9 @@ Cool chip so far man!!
 
  >i also the EMI is worse on the ganglion then the ADS1299
 
+8/26/2017 11:55 PM
+
+ **fred-simard** :
+
+ >My MCU is already battery operated, but if it comes with a battery connector, i'll simply remove and hook my own wires.
+
