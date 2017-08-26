@@ -2163,3 +2163,15 @@ Thanks!
 
  >I'm in my last year, however, what is frustrating, the results are poor. I'm considering starting from a scratch, but it takes time too.
 
+8/26/2017 12:08 PM
+
+ **yannick** :
+
+ >My suggestion would be to do both at the same time. While aiming to finish your PhD and focusing primarily on that, nothing prevents you from spending 30-60 min / day looking for opportunities. If your dream job comes knocking at the door, then youll know that to do when you see it.
+
+> 
+Quitting your PhD to apply to an ok job, only to get out of your PhD if you feel like you are in an impasse, would not be the best idea in the long run. The field of NeuroTech is just getting started and with major brain initiatives around the world, chances are that opportunities will continue to increase in years / decades to come. Having a PhD might serve you well in that field. (as opposed to CS related fields like Deep Learning for example)
+
+> 
+My 2 cents.
+
