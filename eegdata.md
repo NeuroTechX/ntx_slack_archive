@@ -4437,3 +4437,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Very nice psoulos! I used those values at the Exploratorium exhibit for the Blooms with the rest of the crew (who eventually led into co-forming NeuroTechX with the Montreal  and NY folks). Looks like some good background info here. Ill have to chase up the referenced articles too.
 
+8/26/2017 4:52 PM
+
+ **aj** :
+
+ >hope over to <#C08T2SENQ|devices> for specs and discussion of specs of a new 1 inch 8 chan eeg for arduino and raspberry pi <http://g.recordit.co/Q0xsLgfqvI.gif>
+
