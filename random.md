@@ -2151,3 +2151,9 @@ Thanks!
 
  >Because he already raised it
 
+8/26/2017 10:04 AM
+
+ **mikhail.sintsov** :
+
+ >I'm in my last year, however, the results are poor
+
