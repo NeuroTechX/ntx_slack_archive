@@ -3786,3 +3786,9 @@ Cool chip so far man!!
 
  >I've made a hulk ganglion (8 channel) and it's like 4"x2" for all the parts! Plus the SNR is worse.
 
+8/26/2017 8:03 PM
+
+ **aj** :
+
+ >i also the EMI is worse on the ganglion then the ADS1299
+
