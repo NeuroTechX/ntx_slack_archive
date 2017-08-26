@@ -2187,3 +2187,9 @@ My 2 cents.
 
  >yep, it's invasive BCI. The end goal is a "whole brain" BCI
 
+8/26/2017 3:25 PM
+
+ **dano** :
+
+ >I'd say the most valuable upcoming neuroscience PhDs will be 'tech-related' (e.x. BCIs, stimulation), 'tools-related'  (e.x. developing new optogenetics methods), and computational.
+
