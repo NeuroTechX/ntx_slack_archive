@@ -2112,3 +2112,12 @@ Thanks!
 
  ><http://mashable.com/2017/08/25/neuralink-elon-musk-raised-27-million/>
 
+8/26/2017 1:09 AM
+
+ **yannick** :
+
+ >There seems to be some confusion around the question is Neuralink raising money?. Elon Musk retweeted saying that Neuralink is not raising money. 
+
+> 
+(as mentioned at the end of the article)
+
