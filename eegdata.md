@@ -4425,3 +4425,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Hey sc, you should take a look at My Virtual Dream. It was an art project that used the Muse headset to detect "calm" and "concentrated"
 
+8/26/2017 5:04 AM
+
+ **psoulos** :
+
+ >The values used to be included directly as an experimental value in the Muse SDK but were removed
+
