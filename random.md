@@ -2145,3 +2145,9 @@ Thanks!
 
  >I think he is talking in the present
 
+8/26/2017 1:18 AM
+
+ **aj** :
+
+ >Because he already raised it
+
