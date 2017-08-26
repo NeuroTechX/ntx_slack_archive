@@ -3744,3 +3744,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >That's so great! Thank you so much!
 
+8/26/2017 6:06 PM
+
+ **fred-simard** :
+
+ >you'll be free to select the features you want to include
+
