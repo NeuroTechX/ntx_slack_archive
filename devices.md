@@ -3714,3 +3714,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >i'm also looking for different connectors if anyone has suggestions1
 
+8/26/2017 4:47 PM
+
+ **aj** :
+
+ >fred-simard a.tech that's huge!!! this device is 1.11" by 1.29"
+
