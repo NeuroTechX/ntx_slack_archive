@@ -3726,3 +3726,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >if i get smaller connectors i can go smaller
 
+8/26/2017 4:48 PM
+
+ **aj** :
+
+ >what connectors do you want?
+
