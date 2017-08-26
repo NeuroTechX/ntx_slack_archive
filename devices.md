@@ -3780,3 +3780,9 @@ Maybe a tiny rechargable Li polymer with microusb or one of those tiny disposabl
 > 
 Cool chip so far man!!
 
+8/26/2017 7:59 PM
+
+ **aj** :
+
+ >I've made a hulk ganglion (8 channel) and it's like 4"x2" for all the parts! Plus the SNR is worse.
+
