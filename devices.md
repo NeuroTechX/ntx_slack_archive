@@ -3762,3 +3762,21 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >it would be a matter of scaling up to 8 electrodes
 
+8/26/2017 6:31 PM
+
+ **a.tech** :
+
+ >On board battery would make it easier to use but I can imagine it would increase the size of the overall design as well if you use AA or AAA batteries...
+
+> 
+
+
+> 
+Maybe a tiny rechargable Li polymer with microusb or one of those tiny disposable watch batteries could keep design compact? 
+
+> 
+
+
+> 
+Cool chip so far man!!
+
