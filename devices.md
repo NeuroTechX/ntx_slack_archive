@@ -3720,3 +3720,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >fred-simard a.tech that's huge!!! this device is 1.11" by 1.29"
 
+8/26/2017 4:48 PM
+
+ **aj** :
+
+ >if i get smaller connectors i can go smaller
+
