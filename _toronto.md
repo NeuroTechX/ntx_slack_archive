@@ -1797,3 +1797,9 @@ Hope to see you all there! DM me for more info or deets if needed
 
  ><https://github.com/urish/muse-lsl>
 
+8/26/2017 3:01 AM
+
+ **simonguozirui** :
+
+ >guys, for lsl, use python3 and node latest version
+
