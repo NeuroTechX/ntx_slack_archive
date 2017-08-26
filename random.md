@@ -2106,3 +2106,9 @@ Thanks!
 
  >somewhat related and just curious, but if you (anybody here) were to start a PhD (or Master's?) in neuroscience today with all that's happening within the industry of neuroTech, what branch of neuroscience would you bet on being highly sought (needed) 10 years from now?
 
+8/26/2017 12:55 AM
+
+ **sc** :
+
+ ><http://mashable.com/2017/08/25/neuralink-elon-musk-raised-27-million/>
+
