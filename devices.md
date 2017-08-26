@@ -3738,3 +3738,9 @@ I never measured the rate of compression, but it seemed like a smart way to go a
 
  >aj: aj huge indeed. Personnally, I like stackable similar to raspberry pi/arduino, one or two rows. I'm making use of the bias_drv, and the ads1299eeg-fe has an unpopulated active shielding circuit pads I would really like to try this out. I'll write a short document that explains my ideal ads1299 configuration tomorrow and i'll send it to you.
 
+8/26/2017 6:06 PM
+
+ **aj** :
+
+ >That's so great! Thank you so much!
+
