@@ -2199,3 +2199,9 @@ My 2 cents.
 
  >oh interesting, yeah that was my intuition but always a good idea to ask around
 
+8/27/2017 1:57 PM
+
+ **keaton** :
+
+ >Completely agree with dano here. Were definitely in a tool-building stage atm so computational neuroscience / data science will be needed 10 years out to handle the increasingly large data sets around recording and mapping
+
