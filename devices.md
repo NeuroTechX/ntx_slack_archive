@@ -3798,3 +3798,9 @@ Cool chip so far man!!
 
  >My MCU is already battery operated, but if it comes with a battery connector, i'll simply remove and hook my own wires.
 
+8/27/2017 12:06 AM
+
+ **fred-simard** :
+
+ >you might want to expose the ads1299 gpios (through hole). I don't use them, but some might want it and it doesn't cost much to do it
+
