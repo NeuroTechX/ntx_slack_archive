@@ -3810,3 +3810,9 @@ Cool chip so far man!!
 
  >correct me if i'm wrong, but apparently you are only exposing the (+) electrodes. While the unipolar configuration is the most popular, I would lime to have the possibility to use as multi-polar.
 
+8/27/2017 12:14 AM
+
+ **fred-simard** :
+
+ >*like
+
