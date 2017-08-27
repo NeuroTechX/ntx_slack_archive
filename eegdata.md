@@ -4443,3 +4443,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >hope over to <#C08T2SENQ|devices> for specs and discussion of specs of a new 1 inch 8 chan eeg for arduino and raspberry pi <http://g.recordit.co/Q0xsLgfqvI.gif>
 
+8/27/2017 2:33 AM
+
+ **travjav** :
+
+ >Hey Community! Has anyone successfully applied machine learning to their data recently with the Ganglion ? What tech stack did you use? Hardware, Language, libraries etc.  I just created a pretty cool application with a React.js front end displaying the array of objects ( microvolts) by having the server running on my local machine and was using sockets to push the data to the front. I would like to make the site live connect the local backend with the server and display live data on the net!
+
