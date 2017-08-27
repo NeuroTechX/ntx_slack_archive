@@ -2778,3 +2778,9 @@ What kind of optical imaging do you do?
 
  >Hi everyone, I'm Maya and I'm based on Montreal.  I have a Master's in Neuroscience where I studied GABA/glutamate transmission in the hippocampus. During my Master's, I founded a strategic management consulting firm, and have worked with all sorts of companies across industries (retail, energy, pharma, hospitality, community centres ... ). However, my passion will always be the brain, and I'm hoping to get involved with NTX and help on the process side.  The sustainability, actionability, and strategic spread of neurotechnology is a big driver for me.  Thrilled to get to know you!
 
+8/27/2017 5:53 PM
+
+ **yrenard** :
+
+ >welcome maya , I am amazed how many NeuroTechX folks are in Canada, yannick do you have numbers about the possible trend ?
+
