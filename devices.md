@@ -3816,3 +3816,9 @@ Cool chip so far man!!
 
  >*like
 
+8/27/2017 12:15 AM
+
+ **fred-simard** :
+
+ >and from your gift, I don't see the START pin on the connector, is there a reason for that?
+
