@@ -3837,3 +3837,9 @@ Cool chip so far man!!
 > 
 Nicolas.
 
+8/27/2017 6:18 PM
+
+ **fred-simard** :
+
+ >aj, I was only suggesting, I'm using unipolar so multi-polar option is only to keep the door open to experiment with it. OpenBCI cython is a good system, but I was aiming at saving on the costs and size, by dropping the RFduino. Thanks for considering my opinion.
+
