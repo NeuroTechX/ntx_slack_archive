@@ -2193,3 +2193,9 @@ My 2 cents.
 
  >I'd say the most valuable upcoming neuroscience PhDs will be 'tech-related' (e.x. BCIs, stimulation), 'tools-related'  (e.x. developing new optogenetics methods), and computational.
 
+8/27/2017 6:01 AM
+
+ **andrewjsauer** :
+
+ >oh interesting, yeah that was my intuition but always a good idea to ask around
+
