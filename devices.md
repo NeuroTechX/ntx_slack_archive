@@ -3822,3 +3822,9 @@ Cool chip so far man!!
 
  >and from your gift, I don't see the START pin on the connector, is there a reason for that?
 
+8/27/2017 9:00 AM
+
+ **aj** :
+
+ >I only exposed the negative side, I wanted to make the headers small, if you want all the pins for differential and what not, then just get the OpenBCI, but if you want a tiny embeddable EEG... If I could get a better connector on it then maybe I could for it all
+
