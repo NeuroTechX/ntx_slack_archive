@@ -3828,3 +3828,12 @@ Cool chip so far man!!
 
  >I only exposed the negative side, I wanted to make the headers small, if you want all the pins for differential and what not, then just get the OpenBCI, but if you want a tiny embeddable EEG... If I could get a better connector on it then maybe I could for it all
 
+8/27/2017 1:08 PM
+
+ **ntremblay** :
+
+ >hello aj, a lot of headers are available. If its only matter of finding the right one, I could help you if you need. 1.27mm pitch with dual rows may fit well for your project I think and you can find them right angle also. let me know if you need!
+
+> 
+Nicolas.
+
