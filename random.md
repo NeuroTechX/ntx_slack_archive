@@ -2205,3 +2205,9 @@ My 2 cents.
 
  >Completely agree with dano here. Were definitely in a tool-building stage atm so computational neuroscience / data science will be needed 10 years out to handle the increasingly large data sets around recording and mapping
 
+8/27/2017 3:21 PM
+
+ **andrewjsauer** :
+
+ >going to start studying some computational neuroscience now :brain:
+
