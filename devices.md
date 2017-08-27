@@ -3804,3 +3804,9 @@ Cool chip so far man!!
 
  >you might want to expose the ads1299 gpios (through hole). I don't use them, but some might want it and it doesn't cost much to do it
 
+8/27/2017 12:13 AM
+
+ **fred-simard** :
+
+ >correct me if i'm wrong, but apparently you are only exposing the (+) electrodes. While the unipolar configuration is the most popular, I would lime to have the possibility to use as multi-polar.
+
