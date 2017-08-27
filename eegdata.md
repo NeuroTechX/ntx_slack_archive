@@ -4449,3 +4449,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >Hey Community! Has anyone successfully applied machine learning to their data recently with the Ganglion ? What tech stack did you use? Hardware, Language, libraries etc.  I just created a pretty cool application with a React.js front end displaying the array of objects ( microvolts) by having the server running on my local machine and was using sockets to push the data to the front. I would like to make the site live connect the local backend with the server and display live data on the net!
 
+8/27/2017 6:07 PM
+
+ **gabe.ibagon** :
+
+ >heya - I do a lot of work with TF and EEG data. Some good papers to look at:<https://arxiv.org/abs/1703.05051>
+
