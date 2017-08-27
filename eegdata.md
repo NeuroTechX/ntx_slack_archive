@@ -4455,3 +4455,30 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 
  >heya - I do a lot of work with TF and EEG data. Some good papers to look at:<https://arxiv.org/abs/1703.05051>
 
+8/27/2017 6:16 PM
+
+ **gabe.ibagon** :
+
+ >heya - I've done some work with TF and EEG data. Some good papers to start with:
+
+> 
+
+
+> 
+<https://arxiv.org/abs/1703.05051>
+
+> 
+<https://arxiv.org/abs/1611.08024>
+
+> 
+<https://arxiv.org/abs/1511.06448>
+
+> 
+<https://arxiv.org/pdf/1511.04306>
+
+> 
+
+
+> 
+All of these papers aren't too tricky to implement in TF or Keras (I recommend to use Keras until you need to construct more complex architectures, at which point you can use both Keras and pure TF). Feel free to message if you have any q's.
+
