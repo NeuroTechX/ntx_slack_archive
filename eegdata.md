@@ -4482,3 +4482,9 @@ Concentrate is based on the relative spectral power of gamma(30 - 44 Hz) called 
 > 
 All of these papers aren't too tricky to implement in TF or Keras (I recommend to use Keras until you need to construct more complex architectures, at which point you can use both Keras and pure TF). Feel free to message if you have any q's.
 
+8/27/2017 11:43 PM
+
+ **dano** :
+
+ >Thanks Gabe!
+
