@@ -2790,3 +2790,9 @@ What kind of optical imaging do you do?
 
  >What do you mean? Stats on people joining NTX being from Canada vs the World?
 
+8/27/2017 9:40 PM
+
+ **yrenard** :
+
+ >not necessarily 'the rest of the world' altogether, but geographic distribution of folks - it bumped to me that there is a huge lot happening in Toronto
+
