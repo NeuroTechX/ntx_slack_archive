@@ -2784,3 +2784,9 @@ What kind of optical imaging do you do?
 
  >welcome maya , I am amazed how many NeuroTechX folks are in Canada, yannick do you have numbers about the possible trend ?
 
+8/27/2017 5:57 PM
+
+ **yannick** :
+
+ >What do you mean? Stats on people joining NTX being from Canada vs the World?
+
