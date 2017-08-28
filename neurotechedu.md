@@ -816,3 +816,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >I'm going into a heavy semester and don't want to over commit, but I'd love to help out as much as I can and be more involved once some of my schoolwork is done!  
 
+8/28/2017 10:31 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Hello neurotekkies! For those interested in joining for the next cohort of EDU, please provide your availabilities in the Doodle attached. <https://doodle.com/poll/66k2tdypfcakqsus>
+
