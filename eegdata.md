@@ -4524,3 +4524,9 @@ All of these papers aren't too tricky to implement in TF or Keras (I recommend t
 
  >Joel was setting up a headset to test these on Friday but I didn't verify the data, if you want to wait, I can ask Joel to email me the data he collects and post here
 
+8/28/2017 11:45 AM
+
+ **omer** :
+
+ >Thanks aj , that''s very helpful, If you can ask him that would be great, did you connect to to open BCI?
+
