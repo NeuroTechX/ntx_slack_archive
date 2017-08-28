@@ -3867,3 +3867,9 @@ Nicolas.
 
  >yup! jamoonie94, check out this link. <http://learn.neurotechedu.com/headsets/>
 
+8/28/2017 6:35 PM
+
+ **sydneyneurotechx** :
+
+ >If you have a question that isn't there, I don't mind answering it :slightly_smiling_face:
+
