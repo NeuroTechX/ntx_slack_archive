@@ -3855,3 +3855,9 @@ Nicolas.
 
  >Hey everyone, could someone give a concise comparison of various consumer eeg devices? 
 
+8/28/2017 6:08 PM
+
+ **yannick** :
+
+ >sydneyneurotechx didnt you guys put something together on this?
+
