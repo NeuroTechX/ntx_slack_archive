@@ -912,3 +912,12 @@ thank you!
 
  >sorry, my keyboard focus was in the wrong text box
 
+8/28/2017 8:26 PM
+
+ **sheida** :
+
+ >Hi everyone, 
+
+> 
+California-based startup Stoke Brain Inc. (<http://www.stokebrain.com|www.stokebrain.com>) is looking for additional founding members with proficiency in programming. Preference for people with experience in signal processing, Javascript, and React + Redux. PM me or contact <mailto:info@stokebrain.com|info@stokebrain.com> for more details!
+
