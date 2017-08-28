@@ -2217,3 +2217,9 @@ My 2 cents.
 
  >Guys, I have a question. In my lab, I have elaborated a design of a cheap an affordable optical imager of the brain activity in rats in vivo. It is made of diodes, an arduino controller and a camera with some software. The whole setup costs less than 100 bucks. I don't think the novelty is enough for a peer review article. But what other sources should I consider to publish my device?
 
+8/28/2017 12:54 PM
+
+ **mvdoc** :
+
+ >mixhomx you can definitely consider putting a preprint up. from what youre describing, biorxiv (<http://www.biorxiv.org/>) could be a good place.
+
