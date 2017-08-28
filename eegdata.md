@@ -4530,3 +4530,9 @@ All of these papers aren't too tricky to implement in TF or Keras (I recommend t
 
  >Thanks aj , that''s very helpful, If you can ask him that would be great, did you connect to to open BCI?
 
+8/28/2017 11:50 AM
+
+ **aj** :
+
+ >Cool I'll post here soon! Yea I've written large portions of the Cyton firmware, Cyton and ganglion nodejs drivers and GUI code. Plus made the new wifi shield launching next month. If you ever have questions DM me. 
+
