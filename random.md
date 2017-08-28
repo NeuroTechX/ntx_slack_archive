@@ -2235,3 +2235,9 @@ My 2 cents.
 
  >Emotiv has launched their "EmotivPRO" cloud/subscription-based neuroscience research service <https://www.emotiv.com/emotivpro/>
 
+8/28/2017 3:50 PM
+
+ **alexandre.barachant** :
+
+ >interesting
+
