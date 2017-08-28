@@ -2796,3 +2796,51 @@ What kind of optical imaging do you do?
 
  >not necessarily 'the rest of the world' altogether, but geographic distribution of folks - it bumped to me that there is a huge lot happening in Toronto
 
+8/28/2017 5:05 PM
+
+ **hackr** :
+
+ >Hi all,
+
+> 
+
+
+> 
+Im an EEG enthusiast and user of the OpenBCI Ganglion board and Backyard Brains Arduino spiker shield.
+
+> 
+
+
+> 
+For anyone who is interested, theres a BCI Stack Exchange proposal going on. If you would like to support it you can use the link below to follow the proposal and submit sample questions.
+
+> 
+
+
+> 
+<https://area51.stackexchange.com/proposals/113408/brain-computer-interfaces?referrer=GUkAb_00B-qrq5QQ5NKU4g2>
+
+> 
+
+
+> 
+For those who are not aware, a Stack Exchange site is something very different from a forum (and in no way would replace the role of any forum). Its for highly structured questions and answers and provides a central place for experts from the many different platform-specific forums to share knowledge. We just started the proposal last night, so its in its infancy and can use some support.
+
+> 
+
+
+> 
+Cheers,
+
+> 
+
+
+> 
+Jason
+
+> 
+
+
+> 
+PS The Area 51 Stack Exchange is where they develop future SE sites. It has nothing to do with aliens :wink:
+
