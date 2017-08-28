@@ -2229,3 +2229,9 @@ My 2 cents.
 
  >biorxiv is indexed and appears on google scholar
 
+8/28/2017 3:46 PM
+
+ **sc** :
+
+ >Emotiv has launched their "EmotivPRO" cloud/subscription-based neuroscience research service <https://www.emotiv.com/emotivpro/>
+
