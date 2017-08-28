@@ -5613,3 +5613,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Hey! We (Neurable) had a pretty cool feature today - <https://www.nytimes.com/2017/08/27/technology/thought-control-virtual-reality.html?smid=tw-share> Check us out!
 
+8/28/2017 5:57 PM
+
+ **maya** :
+
+ >super cool adamm_neurable!
+
