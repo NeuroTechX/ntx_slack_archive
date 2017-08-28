@@ -822,3 +822,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  ><!channel> Hello neurotekkies! For those interested in joining for the next cohort of EDU, please provide your availabilities in the Doodle attached. <https://doodle.com/poll/66k2tdypfcakqsus>
 
+8/28/2017 10:54 PM
+
+ **francescacoo** :
+
+ >Which is the timezone in the poll? 
+
