@@ -4512,3 +4512,9 @@ All of these papers aren't too tricky to implement in TF or Keras (I recommend t
 
  >going through hair 
 
+8/28/2017 11:17 AM
+
+ **aj** :
+
+ ><https://fri-fl-shop.com/product/new-longer-5mm-spike-disposable-reusable-dry-eeg-electrode-tde-210/>
+
