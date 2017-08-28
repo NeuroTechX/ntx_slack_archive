@@ -2241,3 +2241,12 @@ My 2 cents.
 
  >interesting
 
+8/28/2017 5:42 PM
+
+ **yannick** :
+
+ >BBC just discovered Neurosky and they seem (overly) excited about it&
+
+> 
+<https://www.facebook.com/futurism/videos/839299802915887/?hc_ref=ARSK96XSHUtY4xCArKrfMBhZ8blpdrMRP5ak6wUoa8hPhMseuq-Et58e-aD7DgnL0Wo>
+
