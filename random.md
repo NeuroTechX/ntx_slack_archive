@@ -2211,3 +2211,9 @@ My 2 cents.
 
  >going to start studying some computational neuroscience now :brain:
 
+8/28/2017 12:29 PM
+
+ **mikhail.sintsov** :
+
+ >Guys, I have a question. In my lab, I have elaborated a design of a cheap an affordable optical imager of the brain activity in rats in vivo. It is made of diodes, an arduino controller and a camera with some software. The whole setup costs less than 100 bucks. I don't think the novelty is enough for a peer review article. But what other sources should I consider to publish my device?
+
