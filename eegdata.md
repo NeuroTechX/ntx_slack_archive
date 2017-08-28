@@ -4500,3 +4500,9 @@ All of these papers aren't too tricky to implement in TF or Keras (I recommend t
 
  >Fri just made bigger electrodes!!!
 
+8/28/2017 11:15 AM
+
+ **aj** :
+
+ >They are sooooo much better
+
