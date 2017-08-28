@@ -96,3 +96,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >And if not too much asking, what is the business model?
 
+8/28/2017 4:03 PM
+
+ **marion** :
+
+ >Hey Fred. Yes, we were traveling (I'm still in France). For the alpha release of cloudbrain you'll be able to create an account and securely send data to the cloud platform. At this point you can use our hosted analytics modules or make one of your own by just reinjecting the data into the module you created. Re analytics : Actually, not all analytics modules are black boxed.  You can find the open source ones on github (eye blinks / muscle artifact filtering, notch filter, FFT, basic classifier, etc.) The user keeps ownership in the data in the sense that we do not give anyone access to this data. However, it is hosted in our database. About the business model... I am working on that and don't have a definite answer yet. We're thinking subscriptions based (depending on the amount of data you want to store, and the more advanced analytics modules). I'm happy to talk more. PM me. 
+
