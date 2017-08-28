@@ -3849,3 +3849,9 @@ Nicolas.
 
  >fred-simard I think you are right and I'm updating with both rows. Thanks!!
 
+8/28/2017 5:50 PM
+
+ **jamoonie94** :
+
+ >Hey everyone, could someone give a concise comparison of various consumer eeg devices? 
+
