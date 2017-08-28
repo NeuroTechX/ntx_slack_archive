@@ -3861,3 +3861,9 @@ Nicolas.
 
  >sydneyneurotechx didnt you guys put something together on this?
 
+8/28/2017 6:35 PM
+
+ **sydneyneurotechx** :
+
+ >yup! jamoonie94, check out this link. <http://learn.neurotechedu.com/headsets/>
+
