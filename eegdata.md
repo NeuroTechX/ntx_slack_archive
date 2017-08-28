@@ -4488,3 +4488,9 @@ All of these papers aren't too tricky to implement in TF or Keras (I recommend t
 
  >Thanks Gabe!
 
+8/28/2017 7:41 AM
+
+ **omer** :
+
+ >Hey all, Do anyone has experience with reliable dry EEG electrodes that are not wireless or part of product such as Muse, best if they work with openBCI, but wer'e open to anything... Thanks!
+
