@@ -2223,3 +2223,9 @@ My 2 cents.
 
  >mixhomx you can definitely consider putting a preprint up. from what youre describing, biorxiv (<http://www.biorxiv.org/>) could be a good place.
 
+8/28/2017 2:58 PM
+
+ **mvdoc** :
+
+ >biorxiv is indexed and appears on google scholar
+
