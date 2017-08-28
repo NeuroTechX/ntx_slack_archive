@@ -828,3 +828,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Which is the timezone in the poll? 
 
+8/28/2017 11:36 PM
+
+ **sydneyneurotechx** :
+
+ >Ah right. Eastern Standard Time
+
