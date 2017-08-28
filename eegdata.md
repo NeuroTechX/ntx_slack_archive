@@ -4506,3 +4506,9 @@ All of these papers aren't too tricky to implement in TF or Keras (I recommend t
 
  >They are sooooo much better
 
+8/28/2017 11:16 AM
+
+ **aj** :
+
+ >going through hair 
+
