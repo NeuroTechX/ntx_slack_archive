@@ -4518,3 +4518,9 @@ All of these papers aren't too tricky to implement in TF or Keras (I recommend t
 
  ><https://fri-fl-shop.com/product/new-longer-5mm-spike-disposable-reusable-dry-eeg-electrode-tde-210/>
 
+8/28/2017 11:18 AM
+
+ **aj** :
+
+ >Joel was setting up a headset to test these on Friday but I didn't verify the data, if you want to wait, I can ask Joel to email me the data he collects and post here
+
