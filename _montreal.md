@@ -1623,3 +1623,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I will.
 
+8/29/2017 11:53 PM
+
+ **naoto** :
+
+ >hopefully
+
