@@ -1803,3 +1803,9 @@ Hope to see you all there! DM me for more info or deets if needed
 
  >guys, for lsl, use python3 and node latest version
 
+8/29/2017 8:46 PM
+
+ **dano** :
+
+ >```
+
