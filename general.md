@@ -5775,3 +5775,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >walking like a patient or walking in the park?
 
+8/29/2017 5:58 PM
+
+ **yrenard** :
+
+ >what should I understand as the difference ?
+
