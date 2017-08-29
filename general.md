@@ -5661,3 +5661,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >How it is even possibile to get reliable EEG during sport e.g running. I'm skeptical, have anyone recorded anything like that that was usable?
 
+8/29/2017 5:48 PM
+
+ **yrenard** :
+
+ >omer these are pretty old but might be interesting :
+
