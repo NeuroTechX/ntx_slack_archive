@@ -4587,3 +4587,9 @@ see especially the 2013 and 2014 publications
 
  >But in general I'd say the mixed results from the literature suggest that there might be something there for some people. We know that neurofeedback does work to change spectral power if you train it long enough - it's just a question of whether it's universally effective in all cases of ADHD. (Probably not.)
 
+8/29/2017 4:11 PM
+
+ **graeme** :
+
+ >Important to remember that any improvement without psychotropic medicines is a pretty big deal.
+
