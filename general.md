@@ -5763,3 +5763,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >I haven't seen Wearable Device being used for running, and because it is dry electrodes, I would be worried that the hit to the ground creates motion artifacts that can not be recovered
 
+8/29/2017 5:57 PM
+
+ **yrenard** :
+
+ >but for walking, it is very good
+
