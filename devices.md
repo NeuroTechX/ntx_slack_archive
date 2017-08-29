@@ -3879,3 +3879,9 @@ Nicolas.
 
  >Awesome. Thank you!
 
+8/29/2017 5:10 PM
+
+ **fred-simard** :
+
+ >The ADS1299 is expensive, but it's a SoC, you pay for what you get. The Ganglion is a good alternative design, great work from the guys, but whereas you save $ you loose quality (and you need to support more parts)
+
