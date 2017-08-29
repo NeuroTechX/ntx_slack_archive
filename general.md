@@ -5751,3 +5751,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >while runnnig?
 
+8/29/2017 5:56 PM
+
+ **yrenard** :
+
+ >_moving around_ was more walking
+
