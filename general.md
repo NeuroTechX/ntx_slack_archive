@@ -5619,3 +5619,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >super cool adamm_neurable!
 
+8/29/2017 3:53 AM
+
+ **sydneyneurotechx** :
+
+ >BCI and Virtual Avatar being used to help treat Gait disabilities  - <http://newspublicist.com/virtual-avatar-help-people-with-gait-disabilities/>
+
