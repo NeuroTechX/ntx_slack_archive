@@ -5667,3 +5667,15 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >omer these are pretty old but might be interesting :
 
+8/29/2017 5:49 PM
+
+ **yrenard** :
+
+ ><http://www.brainproducts.com/files/public/products/brochures_material/pr_articles/0901_eXtremeEEG_TT_PB.pdf>
+
+> 
+<http://www.brainproducts.com/files/public/products/brochures_material/pr_articles/0903_extremeEEG-Rollercoaster_MJMS.pdf>
+
+> 
+<http://www.brainproducts.com/files/public/products/brochures_material/pr_articles/1002_eXtremeEEG-Bike_DK.pdf>
+
