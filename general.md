@@ -5733,3 +5733,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >fair
 
+8/29/2017 5:55 PM
+
+ **omer** :
+
+ >I take your word, what kind of data?
+
