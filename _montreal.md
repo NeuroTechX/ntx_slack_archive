@@ -1617,3 +1617,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >On Friday, 6:30 at D3
 
+8/29/2017 9:53 PM
+
+ **sidksv** :
+
+ >I will.
+
