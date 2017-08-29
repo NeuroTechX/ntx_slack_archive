@@ -4566,3 +4566,12 @@ Some readings:
 > 
 <http://www.ipeg-society.org/userfiles/files/IPEG%202016-.pdf#page=55>
 
+8/29/2017 6:54 AM
+
+ **jmhorschig** :
+
+ >also check out her research (former colleague of mine): <https://www.researchgate.net/profile/Madelon_Vollebregt/publications>
+
+> 
+see especially the 2013 and 2014 publications
+
