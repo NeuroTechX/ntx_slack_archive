@@ -4536,3 +4536,33 @@ All of these papers aren't too tricky to implement in TF or Keras (I recommend t
 
  >Cool I'll post here soon! Yea I've written large portions of the Cyton firmware, Cyton and ganglion nodejs drivers and GUI code. Plus made the new wifi shield launching next month. If you ever have questions DM me. 
 
+8/29/2017 3:42 AM
+
+ **sydneyneurotechx** :
+
+ >I've been doing a bit of a dive into Neurofeedback (NF) for ADHD as an alternative to a phamaceutical treatment. Based on my research, it seems that is that for the most part EEG NF is not an effective method of treatment or at best, provides a minor improvement. I was wondering if anyone has done their own research on the matter. 
+
+> 
+
+
+> 
+Some readings: 
+
+> 
+
+
+> 
+<http://www.sciencedirect.com/science/article/pii/S0890856716300958>
+
+> 
+<https://link.springer.com/article/10.1007/s00787-016-0902-x>
+
+> 
+<http://journals.sagepub.com/doi/abs/10.1177/1087054717693371>
+
+> 
+<https://lirias.kuleuven.be/bitstream/123456789/580196/1/The+European+ADHD+Guidelines+Group+replies.pdf>
+
+> 
+<http://www.ipeg-society.org/userfiles/files/IPEG%202016-.pdf#page=55>
+
