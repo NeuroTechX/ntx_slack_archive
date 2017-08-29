@@ -5637,3 +5637,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Hey danielao, jamoonie94 recently asked a similar question in <#C08T2SENQ|devices>. You might want to have a look.
 
+8/29/2017 3:23 PM
+
+ **alexandre.barachant** :
+
+ >danielao this is a tricky question, because most commercial EEG don't really offer analysis. Theoritically speaking they are very capable, but in practice there is not a lot of usefull metric that are exploitable out of the box
+
