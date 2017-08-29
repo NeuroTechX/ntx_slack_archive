@@ -5697,3 +5697,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >I'm wondering if anyone could quote a reliable paper doing any EEG measurement while heavy sweating or while moving a lot...
 
+8/29/2017 5:54 PM
+
+ **yrenard** :
+
+ >that is the best I can quote without searching :wink:
+
