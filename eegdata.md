@@ -4575,3 +4575,9 @@ Some readings:
 > 
 see especially the 2013 and 2014 publications
 
+8/29/2017 4:09 PM
+
+ **graeme** :
+
+ >Some people I've talked to think that the theta-beta ratio effect that's targeted by most ADHD NFB protocols is actually an artifact of age-related changes at the cusp of theta and alpha that result in the alpha peak, and that there's not much to target there.
+
