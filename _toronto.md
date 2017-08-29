@@ -1809,3 +1809,63 @@ Hope to see you all there! DM me for more info or deets if needed
 
  >```
 
+8/29/2017 8:52 PM
+
+ **dano** :
+
+ >```
+
+> 
+
+
+> 
+  ___ ___                __      _______  .__       .__     __   
+
+> 
+ /   |   \_____    ____ |  | __  \      \ |__| ____ |  |___/  |_ 
+
+> 
+/    ~    \__  \ _/ ___\|  |/ /  /   |   \|  |/ ___\|  |  \   __\
+
+> 
+\    Y    // __ \\  \___|    &lt;  /    |    \  / /_/  &gt;   Y  \  |  
+
+> 
+ \___|_  /(____  /\___  &gt;__|_ \ \____|__  /__\___  /|___|  /__|  
+
+> 
+       \/      \/     \/     \/         \/  /_____/      \/      
+
+> 
+```
+
+> 
+
+
+> 
+As some of you may know, next week we are trying to go bigger and better than ever with our hacknight! We'll be marketing the event to a much wider audience, holding an intro to BCI development workshop for noobs, and providing food.
+
+> 
+
+
+> 
+Details:
+
+> 
+Tuesday, September 5th, 6-10pm
+
+> 
+Location: secret (for now)
+
+> 
+
+
+> 
+If you're interested in attending, please fill out this quick registration form <https://goo.gl/forms/NSVHsO03f6y3z3In1>.
+
+> 
+
+
+> 
+ It's mostly for limiting the number of people who want to take the workshop and filtering out disruptive neuro-hypers. Anyone who's come to a hacknight before is welcome to come.
+
