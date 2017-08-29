@@ -2250,3 +2250,9 @@ My 2 cents.
 > 
 <https://www.facebook.com/futurism/videos/839299802915887/?hc_ref=ARSK96XSHUtY4xCArKrfMBhZ8blpdrMRP5ak6wUoa8hPhMseuq-Et58e-aD7DgnL0Wo>
 
+8/29/2017 3:00 PM
+
+ **hectordomorozco** :
+
+ >Lol, my first approach to EEG was also Neurosky and this feels like Hector back in 2014 :joy:
+
