@@ -5787,3 +5787,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >like they way you walk for lunch comparing the way you 89 grandma walk
 
+8/29/2017 6:02 PM
+
+ **omer** :
+
+ >also, in the brainproduct add of the bicycle it actually says:
+
