@@ -5823,3 +5823,18 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >With a bit of luck, walking/running artifacts might be removable with ICA. You might benefit from adding an accelerometer to the setup and feed it to the ICA as well, but that's hindsight.
 
+8/29/2017 6:45 PM
+
+ **yannick** :
+
+ >Thats the kind of things that MoBILab is trying to facilitate (<https://sccn.ucsd.edu/wiki/MoBILAB>)
+
+> 
+Here are 2 cool videos of real-time artifacts removal. 
+
+> 
+<https://www.youtube.com/watch?v=qYC_3SUxE-M>
+
+> 
+<https://www.youtube.com/watch?v=wESFVDKHRBE>
+
