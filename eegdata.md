@@ -4581,3 +4581,9 @@ see especially the 2013 and 2014 publications
 
  >Some people I've talked to think that the theta-beta ratio effect that's targeted by most ADHD NFB protocols is actually an artifact of age-related changes at the cusp of theta and alpha that result in the alpha peak, and that there's not much to target there.
 
+8/29/2017 4:10 PM
+
+ **graeme** :
+
+ >But in general I'd say the mixed results from the literature suggest that there might be something there for some people. We know that neurofeedback does work to change spectral power if you train it long enough - it's just a question of whether it's universally effective in all cases of ADHD. (Probably not.)
+
