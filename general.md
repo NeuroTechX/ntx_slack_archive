@@ -5643,3 +5643,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >danielao this is a tricky question, because most commercial EEG don't really offer analysis. Theoritically speaking they are very capable, but in practice there is not a lot of usefull metric that are exploitable out of the box
 
+8/29/2017 4:20 PM
+
+ **danielao** :
+
+ >Hey yannick. Thanks for the heads up. But alexandre.barachant touched upon what I was getting at. The descriptions under Muse and Emotiv say any paradigm that needs that amount of electrodes or less but I am looking for the translatable insights such as engagement, concentration, etc that can reliably be seen.
+
