@@ -5745,3 +5745,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >raw EEG
 
+8/29/2017 5:56 PM
+
+ **omer** :
+
+ >while runnnig?
+
