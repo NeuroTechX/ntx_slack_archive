@@ -5625,3 +5625,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >BCI and Virtual Avatar being used to help treat Gait disabilities  - <http://newspublicist.com/virtual-avatar-help-people-with-gait-disabilities/>
 
+8/29/2017 2:53 PM
+
+ **danielao** :
+
+ >Even though I've done some investigating myself, I was wondering if anyone is aware of a source that says what different commercial EEGs are actually capable of reading or analysing (not just what marketing or news articles)?
+
