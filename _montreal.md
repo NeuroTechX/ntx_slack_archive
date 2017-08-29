@@ -1605,3 +1605,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I couldn't be there on Thursday
 
+8/29/2017 9:26 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  Who's coming this week?
+
