@@ -5817,3 +5817,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Anyway, if anyone has manage to recorded and analyze while heavy sweating and/or running I'm very curious to what extent the data is usable..
 
+8/29/2017 6:37 PM
+
+ **fred-simard** :
+
+ >With a bit of luck, walking/running artifacts might be removable with ICA. You might benefit from adding an accelerometer to the setup and feed it to the ICA as well, but that's hindsight.
+
