@@ -5685,3 +5685,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Also Wearable Sensing devices deliver outstanding measurements when moving around
 
+8/29/2017 5:53 PM
+
+ **omer** :
+
+ >I doubt that. I see why hardware companies will claim that and try to market such specific products. Roller coaster is not sport, if you sit still this might be possible, but I'm skeptical for the ping pong, as for spinning, I guess you could be trained not to move while cycling, but what about the sweat. What makes you say that last sentence?
+
