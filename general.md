@@ -5649,3 +5649,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Hey yannick. Thanks for the heads up. But alexandre.barachant touched upon what I was getting at. The descriptions under Muse and Emotiv say any paradigm that needs that amount of electrodes or less but I am looking for the translatable insights such as engagement, concentration, etc that can reliably be seen.
 
+8/29/2017 4:23 PM
+
+ **danielao** :
+
+ >Or I suppose at a basic level it comes down to where in the cortex is the point of interest and are there at least on or two electrodes that are mapped on or near that area but it would be nice to not have to figure that out in reverse from papers.
+
