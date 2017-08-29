@@ -5769,3 +5769,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >but for walking, it is very good
 
+8/29/2017 5:58 PM
+
+ **omer** :
+
+ >walking like a patient or walking in the park?
+
