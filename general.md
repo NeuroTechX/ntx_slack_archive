@@ -5631,3 +5631,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Even though I've done some investigating myself, I was wondering if anyone is aware of a source that says what different commercial EEGs are actually capable of reading or analysing (not just what marketing or news articles)?
 
+8/29/2017 2:58 PM
+
+ **yannick** :
+
+ >Hey danielao, jamoonie94 recently asked a similar question in <#C08T2SENQ|devices>. You might want to have a look.
+
