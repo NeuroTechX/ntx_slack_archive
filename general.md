@@ -5655,3 +5655,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >Or I suppose at a basic level it comes down to where in the cortex is the point of interest and are there at least on or two electrodes that are mapped on or near that area but it would be nice to not have to figure that out in reverse from papers.
 
+8/29/2017 5:45 PM
+
+ **omer** :
+
+ >How it is even possibile to get reliable EEG during sport e.g running. I'm skeptical, have anyone recorded anything like that that was usable?
+
