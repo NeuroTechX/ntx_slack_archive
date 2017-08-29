@@ -921,3 +921,9 @@ thank you!
 > 
 California-based startup Stoke Brain Inc. (<http://www.stokebrain.com|www.stokebrain.com>) is looking for additional founding members with proficiency in programming. Preference for people with experience in signal processing, Javascript, and React + Redux. PM me or contact <mailto:info@stokebrain.com|info@stokebrain.com> for more details!
 
+8/29/2017 7:14 PM
+
+ **dano** :
+
+ >Sweet, that's the hack project I really wanted to do last year. EEG REM detection + tDCS
+
