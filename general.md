@@ -5739,3 +5739,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >I take your word, what kind of data?
 
+8/29/2017 5:55 PM
+
+ **yrenard** :
+
+ >raw EEG
+
