@@ -5799,3 +5799,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >it was more about how I walk to go lunch
 
+8/29/2017 6:02 PM
+
+ **yrenard** :
+
+ >though sometimes I may run :wink:
+
