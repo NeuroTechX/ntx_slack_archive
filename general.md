@@ -5811,3 +5811,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >:slightly_smiling_face:
 
+8/29/2017 6:04 PM
+
+ **omer** :
+
+ >Anyway, if anyone has manage to recorded and analyze while heavy sweating and/or running I'm very curious to what extent the data is usable..
+
