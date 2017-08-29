@@ -5679,3 +5679,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 > 
 <http://www.brainproducts.com/files/public/products/brochures_material/pr_articles/1002_eXtremeEEG-Bike_DK.pdf>
 
+8/29/2017 5:50 PM
+
+ **yrenard** :
+
+ >Also Wearable Sensing devices deliver outstanding measurements when moving around
+
