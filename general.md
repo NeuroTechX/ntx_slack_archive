@@ -5781,3 +5781,9 @@ Interaxon is launching the new *SMITH Lowdown Focus* soon, and were inviting al
 
  >what should I understand as the difference ?
 
+8/29/2017 6:01 PM
+
+ **omer** :
+
+ >like they way you walk for lunch comparing the way you 89 grandma walk
+
