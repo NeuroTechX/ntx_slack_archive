@@ -834,3 +834,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Ah right. Eastern Standard Time
 
+8/29/2017 2:05 PM
+
+ **ryanlintott** :
+
+ >Ill be away in Norway for all of that time but if you send me the meeting invite after youve picked a time Ill see if I can possibly make it.
+
