@@ -2256,3 +2256,9 @@ My 2 cents.
 
  >Lol, my first approach to EEG was also Neurosky and this feels like Hector back in 2014 :joy:
 
+8/30/2017 11:44 AM
+
+ **irene.viguix** :
+
+ >Hey! Have you ever heard about "Bioserenity"? What do you think about this French company? <http://bioserenity.com/en/>
+
