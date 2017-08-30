@@ -5838,3 +5838,9 @@ Here are 2 cool videos of real-time artifacts removal.
 > 
 <https://www.youtube.com/watch?v=wESFVDKHRBE>
 
+8/30/2017 2:06 PM
+
+ **omer** :
+
+ >Thanks yannick ! that enlightening... Do you know if the algorithm in the videos is out there or they keep it private?
+
