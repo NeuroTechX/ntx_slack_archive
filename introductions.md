@@ -2856,3 +2856,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >Hey! Here is my recent article <https://www.weforum.org/agenda/2017/08/ai-and-human-stupidity> 
 
+8/30/2017 4:26 PM
+
+ **aj** :
+
+ >erin cool! I would love to come see your fNIRS lab setup one day!
+
