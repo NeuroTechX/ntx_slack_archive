@@ -2268,3 +2268,9 @@ My 2 cents.
 
  >I assume, this is one of telemedical startups. iot for human healthcare. I wonder which fabric they use. Is it suitable for sports? Because for predictive monitoring in rest there are already technologies from big companies.
 
+8/30/2017 2:49 PM
+
+ **endoxaneuro** :
+
+ ><https://www.weforum.org/agenda/2017/08/ai-and-human-stupidity> endoxaneuro 
+
