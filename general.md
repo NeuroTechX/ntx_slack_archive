@@ -5844,3 +5844,9 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >Thanks yannick ! that enlightening... Do you know if the algorithm in the videos is out there or they keep it private?
 
+8/30/2017 2:47 PM
+
+ **endoxaneuro** :
+
+ >Hello all, could you please read and if you like it :wink: please share my recent article <https://www.weforum.org/agenda/2017/08/ai-and-human-stupidity> 
+
