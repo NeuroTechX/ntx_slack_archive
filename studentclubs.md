@@ -594,3 +594,9 @@ If this sounds like something youd be interested in, please contact me on Slack
 > 
 Racing boats with the Muse. I love it. Cant wait to check it out tomorrow.
 
+8/30/2017 2:56 PM
+
+ **endoxaneuro** :
+
+ >Hello all, here is my recent article please read :wink:&amp; share <https://www.weforum.org/agenda/2017/08/ai-and-human-stupidity> 
+
