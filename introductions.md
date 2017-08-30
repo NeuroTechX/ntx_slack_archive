@@ -2868,3 +2868,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >Welcome to the community erin!  Can you give some examples of fNIRS BCI's that you are working on?
 
+8/30/2017 5:44 PM
+
+ **erin** :
+
+ >Sure - if you are ever in Philly, let me know!
+
