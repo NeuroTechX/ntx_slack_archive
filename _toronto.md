@@ -1869,3 +1869,12 @@ If you're interested in attending, please fill out this quick registration form 
 > 
  It's mostly for limiting the number of people who want to take the workshop and filtering out disruptive neuro-hypers. Anyone who's come to a hacknight before is welcome to come.
 
+8/30/2017 12:23 PM
+
+ **yannick** :
+
+ >Toronto will soon have 1000 members on Meetup :slightly_smiling_face: Nice Milestone!
+
+> 
+<https://www.meetup.com/NeuroTechTO/>
+
