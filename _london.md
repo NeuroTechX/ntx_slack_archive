@@ -435,3 +435,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >I am in San Francisco but thanks for the info
 
+8/30/2017 11:42 AM
+
+ **danielao** :
+
+ >Hi London based Neurotech folk. I am hosting a talk in November about the use of EEG in industry and I was wondering if anyone was open to being on the panel on the side of industry or current industry applications. This includes anything from neuromarketing to usability and product design. Thanks.
+
