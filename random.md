@@ -2262,3 +2262,9 @@ My 2 cents.
 
  >Hey! Have you ever heard about "Bioserenity"? What do you think about this French company? <http://bioserenity.com/en/>
 
+8/30/2017 12:02 PM
+
+ **mikhail.sintsov** :
+
+ >I assume, this is one of telemedical startups. iot for human healthcare. I wonder which fabric they use. Is it suitable for sports? Because for predictive monitoring in rest there are already technologies from big companies.
+
