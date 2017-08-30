@@ -2862,3 +2862,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >erin cool! I would love to come see your fNIRS lab setup one day!
 
+8/30/2017 5:43 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome to the community erin!  Can you give some examples of fNIRS BCI's that you are working on?
+
