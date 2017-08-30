@@ -1320,3 +1320,9 @@ Enjoy and debate! :slightly_smiling_face:
 
  >slackbot go to <#C08QEC5H7|introductions>
 
+8/30/2017 3:10 PM
+
+ **marissaf** :
+
+ >falk do you know if there's any word of a NeuroTechX chapter getting started in Edmonton?
+
