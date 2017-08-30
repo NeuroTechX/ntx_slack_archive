@@ -1326,3 +1326,9 @@ Enjoy and debate! :slightly_smiling_face:
 
  >falk do you know if there's any word of a NeuroTechX chapter getting started in Edmonton?
 
+8/30/2017 5:42 PM
+
+ **sydneyneurotechx** :
+
+ >marissaf  I believe there are a few people in Edmonton interested, but nothing formally has been established. We take a very organic approach to chapter creation. You can  reach out to yannick  for more details.
+
