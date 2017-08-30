@@ -2274,3 +2274,9 @@ My 2 cents.
 
  ><https://www.weforum.org/agenda/2017/08/ai-and-human-stupidity> endoxaneuro 
 
+8/30/2017 9:08 PM
+
+ **sydneyneurotechx** :
+
+ >What are with the shoulder pads? It seems like the vest is just for EKG. I wonder how accurate their system is compared to other textile wearables like Om Signal and Hexoskin
+
