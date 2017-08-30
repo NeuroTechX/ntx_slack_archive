@@ -2850,3 +2850,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >Hi, I am Erin Solovey. I am based in Philadelphia and Boston.  I am a professor of computer science at Drexel University in Philly (<http://cci.drexel.edu/faculty/esolovey/>) and I direct the Advanced Interaction Research lab (<https://www.drexelairlab.com/>) there, where we conduct research on BCIs, mainly focused on fNIRS, but we have also used EEG and other physiological sensors.
 
+8/30/2017 2:48 PM
+
+ **endoxaneuro** :
+
+ >Hey! Here is my recent article <https://www.weforum.org/agenda/2017/08/ai-and-human-stupidity> 
+
