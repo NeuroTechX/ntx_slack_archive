@@ -4707,3 +4707,9 @@ see especially the 2013 and 2014 publications
 
  >I see, i'm not entirely sure ecog will not impact the devellopment of the brain, but thats another question :slightly_smiling_face: it could be quite interesting in rat since you will get whole brain recording. you can look at connectivity and this kind of thing. but its very different than spikes recording, and the data analysis is much more involving
 
+8/31/2017 5:35 PM
+
+ **joeyo** :
+
+ >For what it's worth, Buzsáki has a paper claiming to record spikes from uECoG
+
