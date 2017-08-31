@@ -4677,3 +4677,9 @@ see especially the 2013 and 2014 publications
 
  >yep, it is still recording the combined activity of a neuron population, but the spatial resolution is way better than EEG
 
+8/31/2017 9:11 AM
+
+ **alexandre.barachant** :
+
+ >ECoG has a much higher information content than EEG. However, it's invasive and therefore you rarely have a large coverage of the brain. Still, it has a way better coverage than the spikes recording that a re limited to a few mm of cortex at best.
+
