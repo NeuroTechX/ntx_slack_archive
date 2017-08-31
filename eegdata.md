@@ -4605,3 +4605,9 @@ see especially the 2013 and 2014 publications
 
  >mikhail.sintsov : here <https://purl.stanford.edu/xd109qh3109> . it's recording for a classical face versus house ERP paradigm
 
+8/31/2017 8:58 AM
+
+ **alexandre.barachant** :
+
+ >here i have some code to analyse the data : <https://github.com/alexandrebarachant/decoding-brain-challenge-2016>
+
