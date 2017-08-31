@@ -4695,3 +4695,9 @@ see especially the 2013 and 2014 publications
 
  >i don't know how to answer your question properly. For me they serve different purpose. If you know exactly where your region of interest is, then use spike recording. if you want to record brain activity on a larger spatial scale or don't know where it is, ECoG is your best guess
 
+8/31/2017 9:24 AM
+
+ **mikhail.sintsov** :
+
+ >ok, to be short. imagine a developing brain, which matures and grows in size. there is no convinient way to chronically record the neuronal activity with intracortical electrodes as it impairs natural development. an idea was to use ecog like here in rats (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5193146/>). but the question was, if its resolution is suitable for our purposes. therefore I wanted to have a glance on its data before moving there.
+
