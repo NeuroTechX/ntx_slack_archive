@@ -4635,3 +4635,9 @@ see especially the 2013 and 2014 publications
 
  >I think it existe a few very popular ECOG dataset where you can partially decode speech
 
+8/31/2017 9:04 AM
+
+ **mikhail.sintsov** :
+
+ >I'm willing to assess its possibilities. I had seen a competition on epilepsy prediction, however, there were no task specific recordings. In terms of spatial and temporal resolution, could you, please, give your personal optinion what place ECOG takes between scalp EEG and intracranial LFP?
+
