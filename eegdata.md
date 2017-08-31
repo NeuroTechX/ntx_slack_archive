@@ -4719,3 +4719,9 @@ see especially the 2013 and 2014 publications
 
  ><https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4308485/>
 
+8/31/2017 5:49 PM
+
+ **alexandre.barachant** :
+
+ >yep, if you get a high enough temporal resolution (sampling frequency), then it's a deconvolution issues
+
