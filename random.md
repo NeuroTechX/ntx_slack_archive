@@ -2280,3 +2280,12 @@ My 2 cents.
 
  >What are with the shoulder pads? It seems like the vest is just for EKG. I wonder how accurate their system is compared to other textile wearables like Om Signal and Hexoskin
 
+8/31/2017 12:43 PM
+
+ **yannick** :
+
+ >Nerve Stim for Fat Loss?
+
+> 
+<https://www.indiegogo.com/projects/modius-groundbreaking-fat-reduction-technology-fitness-health#/>
+
