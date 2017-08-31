@@ -2880,3 +2880,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >Brother in arms :smiley:. I'm currently working in optical intrinsic signal registration. However, since Hitachi I have seldom seen bci applications using fnirs. Could you suggest a review?
 
+8/31/2017 8:30 AM
+
+ **mikhail.sintsov** :
+
+ >I'm interested because, to my mind fnirs, which uses hemodynamic responses, is too slow for real world bci applications. What are the advantages?
+
