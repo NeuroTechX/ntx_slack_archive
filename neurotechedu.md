@@ -840,3 +840,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Ill be away in Norway for all of that time but if you send me the meeting invite after youve picked a time Ill see if I can possibly make it.
 
+8/31/2017 12:53 PM
+
+ **mikhail.sintsov** :
+
+ >Hi, during my phd, I dived into the functional optical neuroimaging. Optical intrinsic imaging (hemodynamics and scattering), laser speckle contrast imaging, laser doppler and fluorescence. I could make a short review with links to original works and diy setups. Do you need any of these?
+
