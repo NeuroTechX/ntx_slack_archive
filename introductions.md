@@ -2874,3 +2874,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >Sure - if you are ever in Philly, let me know!
 
+8/31/2017 8:19 AM
+
+ **mikhail.sintsov** :
+
+ >Brother in arms :smiley:. I'm currently working in optical intrinsic signal registration. However, since Hitachi I have seldom seen bci applications using fnirs. Could you suggest a review?
+
