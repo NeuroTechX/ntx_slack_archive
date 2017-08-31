@@ -4713,3 +4713,9 @@ see especially the 2013 and 2014 publications
 
  >For what it's worth, Buzsáki has a paper claiming to record spikes from uECoG
 
+8/31/2017 5:35 PM
+
+ **joeyo** :
+
+ ><https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4308485/>
+
