@@ -4653,3 +4653,9 @@ see especially the 2013 and 2014 publications
 
  >well, in terms of signal it looks like EEG, but the main difference is access to higher frequency
 
+8/31/2017 9:07 AM
+
+ **alexandre.barachant** :
+
+ >and that makes a lot of difference, because there is a lot more information caried in the high gamma band
+
