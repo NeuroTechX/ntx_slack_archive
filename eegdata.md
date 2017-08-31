@@ -4593,3 +4593,9 @@ see especially the 2013 and 2014 publications
 
  >Important to remember that any improvement without psychotropic medicines is a pretty big deal.
 
+8/31/2017 8:34 AM
+
+ **mikhail.sintsov** :
+
+ >Guys, have you ever seen online data repos for ECOG recordings? I have been working with intracranial LFP and scalp EEG recordings and I want to assess the ECOG abilities. ECOG have really good advantages.
+
