@@ -4629,3 +4629,9 @@ see especially the 2013 and 2014 publications
 
  >do you have a more specific paradigm in mind
 
+8/31/2017 9:01 AM
+
+ **alexandre.barachant** :
+
+ >I think it existe a few very popular ECOG dataset where you can partially decode speech
+
