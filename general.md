@@ -5856,3 +5856,12 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >That artefact removal is insane
 
+8/31/2017 1:39 AM
+
+ **yannick** :
+
+ >Do we have people going and/or interested in going to BrainFutures?
+
+> 
+<https://www.brainfutures.org/>
+
