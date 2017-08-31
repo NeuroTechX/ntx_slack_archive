@@ -579,3 +579,9 @@ If you're interested in attending, please fill out this quick registration form 
 > 
  It's mostly for limiting the number of people who want to take the workshop and filtering out disruptive neuro-hypers. Anyone who's come to a hacknight before is welcome to come.
 
+8/31/2017 8:21 AM
+
+ **mikhail.sintsov** :
+
+ >Guys, a little OT for now. Are there competitions or remote hackatons going nowadays in neurohack?
+
