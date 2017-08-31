@@ -4659,3 +4659,9 @@ see especially the 2013 and 2014 publications
 
  >and that makes a lot of difference, because there is a lot more information caried in the high gamma band
 
+8/31/2017 9:07 AM
+
+ **mikhail.sintsov** :
+
+ >Yes, I heard, that it is basically up to 500 Hz, but it is not enough for spikes
+
