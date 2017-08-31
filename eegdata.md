@@ -4701,3 +4701,9 @@ see especially the 2013 and 2014 publications
 
  >ok, to be short. imagine a developing brain, which matures and grows in size. there is no convinient way to chronically record the neuronal activity with intracortical electrodes as it impairs natural development. an idea was to use ecog like here in rats (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5193146/>). but the question was, if its resolution is suitable for our purposes. therefore I wanted to have a glance on its data before moving there.
 
+8/31/2017 9:31 AM
+
+ **alexandre.barachant** :
+
+ >I see, i'm not entirely sure ecog will not impact the devellopment of the brain, but thats another question :slightly_smiling_face: it could be quite interesting in rat since you will get whole brain recording. you can look at connectivity and this kind of thing. but its very different than spikes recording, and the data analysis is much more involving
+
