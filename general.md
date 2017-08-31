@@ -5850,3 +5850,9 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >Hello all, could you please read and if you like it :wink: please share my recent article <https://www.weforum.org/agenda/2017/08/ai-and-human-stupidity> 
 
+8/31/2017 1:09 AM
+
+ **dano** :
+
+ >That artefact removal is insane
+
