@@ -4599,3 +4599,9 @@ see especially the 2013 and 2014 publications
 
  >Guys, have you ever seen online data repos for ECOG recordings? I have been working with intracranial LFP and scalp EEG recordings and I want to assess the ECOG abilities. ECOG have really good advantages.
 
+8/31/2017 8:57 AM
+
+ **alexandre.barachant** :
+
+ >mikhail.sintsov : here <https://purl.stanford.edu/xd109qh3109> . it's recording for a classical face versus house ERP paradigm
+
