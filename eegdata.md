@@ -4671,3 +4671,9 @@ see especially the 2013 and 2014 publications
 
  >There were a possible spike registration from L1-2 at max, but not L4 which is more crucial
 
+8/31/2017 9:08 AM
+
+ **alexandre.barachant** :
+
+ >yep, it is still recording the combined activity of a neuron population, but the spatial resolution is way better than EEG
+
