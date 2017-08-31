@@ -4611,3 +4611,9 @@ see especially the 2013 and 2014 publications
 
  >here i have some code to analyse the data : <https://github.com/alexandrebarachant/decoding-brain-challenge-2016>
 
+8/31/2017 8:59 AM
+
+ **mikhail.sintsov** :
+
+ >great, thanks a lot!
+
