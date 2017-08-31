@@ -4665,3 +4665,9 @@ see especially the 2013 and 2014 publications
 
  >Yes, I heard, that it is basically up to 500 Hz, but it is not enough for spikes
 
+8/31/2017 9:07 AM
+
+ **mikhail.sintsov** :
+
+ >There were a possible spike registration from L1-2 at max, but not L4 which is more crucial
+
