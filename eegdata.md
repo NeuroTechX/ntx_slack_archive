@@ -4647,3 +4647,9 @@ see especially the 2013 and 2014 publications
 
  >it's closer to LFP than EEG.
 
+8/31/2017 9:06 AM
+
+ **alexandre.barachant** :
+
+ >well, in terms of signal it looks like EEG, but the main difference is access to higher frequency
+
