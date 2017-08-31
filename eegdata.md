@@ -4689,3 +4689,9 @@ see especially the 2013 and 2014 publications
 
  >Good, thank you for the council :smiley:
 
+8/31/2017 9:15 AM
+
+ **alexandre.barachant** :
+
+ >i don't know how to answer your question properly. For me they serve different purpose. If you know exactly where your region of interest is, then use spike recording. if you want to record brain activity on a larger spatial scale or don't know where it is, ECoG is your best guess
+
