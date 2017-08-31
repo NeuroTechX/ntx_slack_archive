@@ -4683,3 +4683,9 @@ see especially the 2013 and 2014 publications
 
  >ECoG has a much higher information content than EEG. However, it's invasive and therefore you rarely have a large coverage of the brain. Still, it has a way better coverage than the spikes recording that a re limited to a few mm of cortex at best.
 
+8/31/2017 9:13 AM
+
+ **mikhail.sintsov** :
+
+ >Good, thank you for the council :smiley:
+
