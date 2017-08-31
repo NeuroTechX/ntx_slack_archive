@@ -4641,3 +4641,9 @@ see especially the 2013 and 2014 publications
 
  >I'm willing to assess its possibilities. I had seen a competition on epilepsy prediction, however, there were no task specific recordings. In terms of spatial and temporal resolution, could you, please, give your personal optinion what place ECOG takes between scalp EEG and intracranial LFP?
 
+8/31/2017 9:05 AM
+
+ **alexandre.barachant** :
+
+ >it's closer to LFP than EEG.
+
