@@ -846,3 +846,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Hi, during my phd, I dived into the functional optical neuroimaging. Optical intrinsic imaging (hemodynamics and scattering), laser speckle contrast imaging, laser doppler and fluorescence. I could make a short review with links to original works and diy setups. Do you need any of these?
 
+8/31/2017 5:15 PM
+
+ **sheida** :
+
+ >I think it's a really interesting field with lots of  practical uses (eg <https://www.israel21c.org/look-into-my-eyes-do-you-see-early-signs-of-alzheimers/>)
+
