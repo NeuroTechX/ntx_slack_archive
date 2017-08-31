@@ -4617,3 +4617,9 @@ see especially the 2013 and 2014 publications
 
  >great, thanks a lot!
 
+8/31/2017 9:00 AM
+
+ **alexandre.barachant** :
+
+ >there is plenty of ECOG data online, but it's not really easy to find them. they are usually released with paper and hosted on obsure university website
+
