@@ -2304,3 +2304,9 @@ My 2 cents.
 > 
 I dont know much about that kind of science (nerve-triggered fat loss), so I cant really comment on it, but it did put my gimmick alert system in the red zone as well.
 
+9/1/2017 4:47 PM
+
+ **aj** :
+
+ >For real.
+
