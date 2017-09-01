@@ -5877,3 +5877,9 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >Hey all, benjamindeleener, yannick, myself and others have been working diligently to get the NeuroTechX Student Clubs Initiative up and running and we're proud to announce that the first Q&amp;A with PolyCortex has been published! <https://medium.com/neurotechx/brain-powered-boat-race-q-a-with-polycortex-a5bd3e345f99>
 
+9/1/2017 9:22 PM
+
+ **mattherich** :
+
+ >Stay tuned, we'll be publishing new Q&amp;As with student clubs every other week on Fridays along with other NeuroTechX Initiatives in the future!
+
