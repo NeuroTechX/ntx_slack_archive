@@ -2289,3 +2289,9 @@ My 2 cents.
 > 
 <https://www.indiegogo.com/projects/modius-groundbreaking-fat-reduction-technology-fitness-health#/>
 
+9/1/2017 1:46 PM
+
+ **maya** :
+
+ >yannick But it real or some people with PhDs who hired a fantastic marketing team?  Weight loss puts my "gimmick alert" system in the red zone.
+
