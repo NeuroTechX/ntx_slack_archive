@@ -5865,3 +5865,9 @@ Here are 2 cool videos of real-time artifacts removal.
 > 
 <https://www.brainfutures.org/>
 
+9/1/2017 6:19 AM
+
+ **zachb** :
+
+ >Any developers with Muse experience interested in some extra work? Please PM me if you are interested. Thanks!
+
