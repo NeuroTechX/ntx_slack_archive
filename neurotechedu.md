@@ -852,3 +852,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >I think it's a really interesting field with lots of  practical uses (eg <https://www.israel21c.org/look-into-my-eyes-do-you-see-early-signs-of-alzheimers/>)
 
+9/1/2017 1:27 AM
+
+ **sydneyneurotechx** :
+
+ >Hey mikhail.sintsov  That would be awesome
+
