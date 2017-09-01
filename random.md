@@ -2295,3 +2295,12 @@ My 2 cents.
 
  >yannick But it real or some people with PhDs who hired a fantastic marketing team?  Weight loss puts my "gimmick alert" system in the red zone.
 
+9/1/2017 1:51 PM
+
+ **yannick** :
+
+ >As it should.
+
+> 
+I dont know much about that kind of science (nerve-triggered fat loss), so I cant really comment on it, but it did put my gimmick alert system in the red zone as well.
+
