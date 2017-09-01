@@ -600,3 +600,9 @@ Racing boats with the Muse. I love it. Cant wait to check it out tomorrow.
 
  >Hello all, here is my recent article please read :wink:&amp; share <https://www.weforum.org/agenda/2017/08/ai-and-human-stupidity> 
 
+9/1/2017 9:25 PM
+
+ **mattherich** :
+
+ >The writeup and Q&amp;A with PolyCortex regarding the event above has been published: <http://bit.ly/ntxsc-polycortex1>
+
