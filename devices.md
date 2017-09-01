@@ -3897,3 +3897,9 @@ Nicolas.
 > 
 <https://imotions.com/portfolio-items/abm-b-alert-x24-eeg/>
 
+9/1/2017 7:39 PM
+
+ **yannick** :
+
+ >Yes, there small eBooks on many subjects (EEG, Eye Tracking, etc.) are pretty nice.
+
