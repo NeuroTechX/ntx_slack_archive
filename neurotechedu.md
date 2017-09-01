@@ -870,3 +870,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >what are the timezone there, in doodle?
 
+9/1/2017 6:15 PM
+
+ **sydneyneurotechx** :
+
+ >eastern :slightly_smiling_face:
+
