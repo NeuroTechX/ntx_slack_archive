@@ -882,3 +882,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  ><!channel>  I'll be making the selection of the date on Sunday. If you haven't yet, please fill out the doodle by then.
 
+9/1/2017 7:25 PM
+
+ **mikhail.sintsov** :
+
+ >with this timezone, it barely works for me
+
