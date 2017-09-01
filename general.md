@@ -5871,3 +5871,9 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >Any developers with Muse experience interested in some extra work? Please PM me if you are interested. Thanks!
 
+9/1/2017 9:21 PM
+
+ **mattherich** :
+
+ >Hey all, benjamindeleener, yannick, myself and others have been working diligently to get the NeuroTechX Student Clubs Initiative up and running and we're proud to announce that the first Q&amp;A with PolyCortex has been published! <https://medium.com/neurotechx/brain-powered-boat-race-q-a-with-polycortex-a5bd3e345f99>
+
