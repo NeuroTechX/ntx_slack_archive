@@ -858,3 +858,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Hey mikhail.sintsov  That would be awesome
 
+9/1/2017 1:27 AM
+
+ **sydneyneurotechx** :
+
+ >Sign up to the doodle
+
