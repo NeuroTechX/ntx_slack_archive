@@ -864,3 +864,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Sign up to the doodle
 
+9/1/2017 9:59 AM
+
+ **mikhail.sintsov** :
+
+ >what are the timezone there, in doodle?
+
