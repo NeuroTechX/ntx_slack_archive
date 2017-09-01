@@ -2886,3 +2886,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >I'm interested because, to my mind fnirs, which uses hemodynamic responses, is too slow for real world bci applications. What are the advantages?
 
+9/1/2017 10:33 AM
+
+ **jmhorschig** :
+
+ >Welcome, Erin! Artinis representer here ;) mikhail.sintsov imho, especially 'state of mind' and passive BCIs are interesting using fNIRS. And as an additional signal for non-responders and/or to improve SNR with other modalities, see e.g. the fairly recent hype on fNIRS-EEG in ALS patients (Chaudhary et al., 2017). Interested to hear Erin's take on this, though!
+
