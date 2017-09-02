@@ -5883,3 +5883,9 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >Stay tuned, we'll be publishing new Q&amp;As with student clubs every other week on Fridays along with other NeuroTechX Initiatives in the future!
 
+9/2/2017 10:57 AM
+
+ **mikhail.sintsov** :
+
+ >I don't know if you've seen it or not, but still <http://ncase.me/neurons/>
+
