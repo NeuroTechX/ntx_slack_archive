@@ -4749,3 +4749,9 @@ see especially the 2013 and 2014 publications
 
  >also can read from analog or digital ports on the top of the board with a simple command now
 
+9/2/2017 3:22 AM
+
+ **aj** :
+
+ >so no longer do you have to change the firmware just to read from a button
+
