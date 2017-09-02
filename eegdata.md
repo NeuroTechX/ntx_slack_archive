@@ -4731,3 +4731,9 @@ see especially the 2013 and 2014 publications
 
  >Thats great stuff thanks Gabe!
 
+9/2/2017 3:20 AM
+
+ **aj** :
+
+ >check out the amazing feature list on the new v3.0.0 firmware for OpenBCI <https://github.com/OpenBCI/OpenBCI_32bit_Library/releases/tag/v3.0.0>
+
