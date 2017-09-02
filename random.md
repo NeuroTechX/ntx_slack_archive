@@ -2310,3 +2310,12 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >For real.
 
+9/2/2017 12:43 PM
+
+ **yannick** :
+
+ >I havent listened to it yet, but will do sometime over the weekend&
+
+> 
+<https://www.youtube.com/watch?v=MT9dFhH7e3c>
+
