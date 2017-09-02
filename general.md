@@ -5889,3 +5889,9 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >I don't know if you've seen it or not, but still <http://ncase.me/neurons/>
 
+9/2/2017 10:12 PM
+
+ **graeme** :
+
+ >Hey Yannick I'm on a panel at BrainFutures. Should be a good (if small) conference. Last year's speakers were very good and this year's look even better.
+
