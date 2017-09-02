@@ -4743,3 +4743,9 @@ see especially the 2013 and 2014 publications
 
  >hello wifi, variable sample rates (research speeds 1kHz+) and you can read directly from the external serial port with a simple function call allowing you to get up to 1000Hz over hard wired serial.
 
+9/2/2017 3:22 AM
+
+ **aj** :
+
+ >also can read from analog or digital ports on the top of the board with a simple command now
+
