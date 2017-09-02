@@ -2892,3 +2892,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >Welcome, Erin! Artinis representer here ;) mikhail.sintsov imho, especially 'state of mind' and passive BCIs are interesting using fNIRS. And as an additional signal for non-responders and/or to improve SNR with other modalities, see e.g. the fairly recent hype on fNIRS-EEG in ALS patients (Chaudhary et al., 2017). Interested to hear Erin's take on this, though!
 
+9/2/2017 6:06 PM
+
+ **ambrosiobing** :
+
+ >maya Hi I am Ambrosio, a space physicist turned to neuro technologist, currently based in Switzerland and I am interested to get to know you more and would accept your help to process a NTX idea into a useable NTX gadget via an biotech accelerator based in Geneva. Let us get acquainted!
+
