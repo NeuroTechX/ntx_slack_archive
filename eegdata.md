@@ -4737,3 +4737,9 @@ see especially the 2013 and 2014 publications
 
  >check out the amazing feature list on the new v3.0.0 firmware for OpenBCI <https://github.com/OpenBCI/OpenBCI_32bit_Library/releases/tag/v3.0.0>
 
+9/2/2017 3:22 AM
+
+ **aj** :
+
+ >hello wifi, variable sample rates (research speeds 1kHz+) and you can read directly from the external serial port with a simple function call allowing you to get up to 1000Hz over hard wired serial.
+
