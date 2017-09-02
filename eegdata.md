@@ -4725,3 +4725,9 @@ see especially the 2013 and 2014 publications
 
  >yep, if you get a high enough temporal resolution (sampling frequency), then it's a deconvolution issues
 
+9/2/2017 1:38 AM
+
+ **travjav** :
+
+ >Thats great stuff thanks Gabe!
+
