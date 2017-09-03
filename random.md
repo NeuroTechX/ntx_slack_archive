@@ -2319,3 +2319,12 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 > 
 <https://www.youtube.com/watch?v=MT9dFhH7e3c>
 
+9/3/2017 8:49 PM
+
+ **yannick** :
+
+ >For people into sleep &amp; dream EEG recording.
+
+> 
+<http://dreamsessions.org/101nights.html>
+
