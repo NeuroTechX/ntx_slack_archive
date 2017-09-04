@@ -2382,3 +2382,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >awesome, no matter what i do that little button stays to the left
 
+9/4/2017 10:11 PM
+
+ **w** :
+
+ >aj: took a look. Add back the `margin: 0 auto` and also add `display: block` to the button
+
