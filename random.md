@@ -2334,3 +2334,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >or myabe NTXs slack is an outstanding peer to peer networking platform
 
+9/4/2017 5:52 PM
+
+ **yannick** :
+
+ >That, it sure is!
+
