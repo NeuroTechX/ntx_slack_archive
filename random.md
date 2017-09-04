@@ -2328,3 +2328,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 > 
 <http://dreamsessions.org/101nights.html>
 
+9/4/2017 5:37 PM
+
+ **yrenard** :
+
+ >or myabe NTXs slack is an outstanding peer to peer networking platform
+
