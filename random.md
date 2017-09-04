@@ -2352,3 +2352,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >the code is here <https://github.com/aj-ptw/OpenBCI_Ganglion_Electron/blob/development/app/index.html>
 
+9/4/2017 10:05 PM
+
+ **w** :
+
+ >I bet the outer div doesn't have a width set
+
