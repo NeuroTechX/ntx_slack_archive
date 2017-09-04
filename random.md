@@ -2388,3 +2388,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >aj: took a look. Add back the `margin: 0 auto` and also add `display: block` to the button
 
+9/4/2017 10:12 PM
+
+ **w** :
+
+ >but a better practice might be to have a wrapping div around the button
+
