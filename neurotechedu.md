@@ -888,3 +888,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >with this timezone, it barely works for me
 
+9/4/2017 7:09 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> : Invites have been sent. See you all on the 13th :slightly_smiling_face:
+
