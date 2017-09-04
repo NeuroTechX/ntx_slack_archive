@@ -585,3 +585,9 @@ If you're interested in attending, please fill out this quick registration form 
 
  >Guys, a little OT for now. Are there competitions or remote hackatons going nowadays in neurohack?
 
+9/4/2017 10:05 PM
+
+ **jamoonie94** :
+
+ >any updates on where the hacknight will take place?
+
