@@ -2442,3 +2442,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >#yolo
 
+9/4/2017 10:17 PM
+
+ **aj** :
+
+ >okay i put another div in and created a class thanks will!
+
