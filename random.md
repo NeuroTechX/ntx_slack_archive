@@ -2400,3 +2400,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >w i owe you a beer
 
+9/4/2017 10:12 PM
+
+ **w** :
+
+ >also, add class names otherwise all your buttons will be centered
+
