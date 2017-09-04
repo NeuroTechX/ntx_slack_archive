@@ -5895,3 +5895,12 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >Hey Yannick I'm on a panel at BrainFutures. Should be a good (if small) conference. Last year's speakers were very good and this year's look even better.
 
+9/4/2017 1:13 AM
+
+ **yannick** :
+
+ >Hey omer regarding our recent discussion on EEG while walking/running& this might be interesting: <http://www.sciencedirect.com/science/article/pii/S1053811917305815>
+
+> 
+( havent read it yet, but clearly added it to my ReadMe list :slightly_smiling_face: ) /CC yrenard
+
