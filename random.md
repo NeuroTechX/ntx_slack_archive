@@ -2406,3 +2406,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >also, add class names otherwise all your buttons will be centered
 
+9/4/2017 10:13 PM
+
+ **aj** :
+
+ >all i needed was a quit button
+
