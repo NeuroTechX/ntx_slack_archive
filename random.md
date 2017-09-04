@@ -2346,3 +2346,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >can some one advise on why this dang button will not center?
 
+9/4/2017 10:05 PM
+
+ **aj** :
+
+ >the code is here <https://github.com/aj-ptw/OpenBCI_Ganglion_Electron/blob/development/app/index.html>
+
