@@ -2430,3 +2430,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >#goodEnough
 
+9/4/2017 10:13 PM
+
+ **aj** :
+
+ >i should make classes htough
+
