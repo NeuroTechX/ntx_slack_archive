@@ -1641,3 +1641,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >poll
 
+9/5/2017 6:56 PM
+
+ **eferdinand** :
+
+ >Who's coming this week? are we doing a hacknight?
+
