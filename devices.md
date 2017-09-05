@@ -3903,3 +3903,9 @@ Nicolas.
 
  >Yes, there small eBooks on many subjects (EEG, Eye Tracking, etc.) are pretty nice.
 
+9/5/2017 3:49 PM
+
+ **hailey** :
+
+ >jamoonie94 Yes I use iMotions on a daily basis. What are you looking to use it for?
+
