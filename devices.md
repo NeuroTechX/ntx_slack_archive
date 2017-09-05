@@ -3915,3 +3915,9 @@ Nicolas.
 
  >I want to use it for my Masters project and also a BCI+VR gaming project. For the former I essentially just need auditory P300s and for the latter I want to implement some more complex functions for the game beyond just using alpha/etc waves
 
+9/5/2017 4:42 PM
+
+ **hailey** :
+
+ >iMotions is a great tool, but cost is still very high (~$20k). Ive used it mainly to display stimuli with integrated eye tracking &amp; ECG, so I cant speak to how well it would work for your needs. Their support staff are fairly helpful if youre looking for more answers/guidancde
+
