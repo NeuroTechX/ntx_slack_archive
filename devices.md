@@ -3921,3 +3921,9 @@ Nicolas.
 
  >iMotions is a great tool, but cost is still very high (~$20k). Ive used it mainly to display stimuli with integrated eye tracking &amp; ECG, so I cant speak to how well it would work for your needs. Their support staff are fairly helpful if youre looking for more answers/guidancde
 
+9/5/2017 4:43 PM
+
+ **yannick** :
+
+ >In what context did you use it hailey? User Experience? Neuromarketing? else?
+
