@@ -5910,3 +5910,9 @@ Here are 2 cool videos of real-time artifacts removal.
 
  ><http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005268&amp;type=printable>
 
+9/5/2017 8:49 AM
+
+ **mikhail.sintsov** :
+
+ >I would suggest reading this at first, <https://bml.bioe.uic.edu/BML/Stuff/Stuff_files/biologist%20fix%20radio.pdf>
+
