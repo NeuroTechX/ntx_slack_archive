@@ -5922,3 +5922,9 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >There is already a reference though
 
+9/5/2017 4:25 PM
+
+ **yrenard** :
+
+ >brilliant, I love it
+
