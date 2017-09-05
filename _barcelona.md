@@ -108,3 +108,9 @@
 
  >hola paul
 
+9/5/2017 1:31 PM
+
+ **firassafieddine** :
+
+ >my spanish is worse, so ill speak in english
+
