@@ -3945,3 +3945,9 @@ Nicolas.
 
  >jamoonie94 how many channels do you want?
 
+9/5/2017 9:37 PM
+
+ **jamoonie94** :
+
+ >Im not exactly sure at this point. Depends on the project I suppose. Although there is another side project I want to pursue which is to decode covert speech& Id probably want relatively more channels
+
