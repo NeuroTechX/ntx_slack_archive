@@ -2466,3 +2466,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >It's a fixed window electron tray pop-up window so it's essentially a tiny chrome window
 
+9/5/2017 11:20 AM
+
+ **aj** :
+
+ >What else would I have to use with display:flex? I did try that one!
+
