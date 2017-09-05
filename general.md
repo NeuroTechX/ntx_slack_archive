@@ -5916,3 +5916,9 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >I would suggest reading this at first, <https://bml.bioe.uic.edu/BML/Stuff/Stuff_files/biologist%20fix%20radio.pdf>
 
+9/5/2017 9:35 AM
+
+ **mikhail.sintsov** :
+
+ >There is already a reference though
+
