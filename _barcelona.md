@@ -114,3 +114,9 @@
 
  >my spanish is worse, so ill speak in english
 
+9/5/2017 2:36 PM
+
+ **paulsukhanov** :
+
+ >hi firassafieddine ! Do you know anything about scheduled meetps? I didn't see anything on the meetup page...
+
