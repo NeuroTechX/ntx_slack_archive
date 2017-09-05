@@ -3939,3 +3939,9 @@ Nicolas.
 
  >20k for what exactly? 
 
+9/5/2017 9:18 PM
+
+ **aj** :
+
+ >jamoonie94 how many channels do you want?
+
