@@ -5904,3 +5904,9 @@ Here are 2 cool videos of real-time artifacts removal.
 > 
 ( havent read it yet, but clearly added it to my ReadMe list :slightly_smiling_face: ) /CC yrenard
 
+9/5/2017 5:02 AM
+
+ **joshuad** :
+
+ ><http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005268&amp;type=printable>
+
