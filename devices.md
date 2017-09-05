@@ -3927,3 +3927,9 @@ Nicolas.
 
  >In what context did you use it hailey? User Experience? Neuromarketing? else?
 
+9/5/2017 4:44 PM
+
+ **hailey** :
+
+ >Testing efficacy &amp; safety of a neuro-tech product
+
