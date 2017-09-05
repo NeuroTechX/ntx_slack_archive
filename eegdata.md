@@ -4755,3 +4755,9 @@ see especially the 2013 and 2014 publications
 
  >so no longer do you have to change the firmware just to read from a button
 
+9/5/2017 2:34 AM
+
+ **fred-simard** :
+
+ >Hello everyone, I dare asking: as anybody successfully measured the Beta wave, using a self-made electrode placement? This is a very common signal, leveraged by many consumer grade systems: Muse, Neurosky, Axio Headband, Neuroservo headcap and more. The standard setup is simple, ref in the middle of forehead and the signal is bilateral at Fp1, Fp2. I was able to measure it once, using ref at linked-earlobes and Fp1, Fp2, but I'm having a hard time measuring it reliably. Experimentally, I compare mind wandering vs. backward count by step of 3. Does anyone has any general suggestions to make, I'm a bit puzzled, because this is such a standard paradigm...
+
