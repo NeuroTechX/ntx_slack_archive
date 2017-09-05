@@ -2448,3 +2448,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >okay i put another div in and created a class thanks will!
 
+9/5/2017 12:12 AM
+
+ **pat** :
+
+ >If it helps: depending on what set of browsers you want to supprt, display:flex solves a lot of layout problems
+
