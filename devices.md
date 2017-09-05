@@ -3909,3 +3909,9 @@ Nicolas.
 
  >jamoonie94 Yes I use iMotions on a daily basis. What are you looking to use it for?
 
+9/5/2017 4:18 PM
+
+ **jamoonie94** :
+
+ >I want to use it for my Masters project and also a BCI+VR gaming project. For the former I essentially just need auditory P300s and for the latter I want to implement some more complex functions for the game beyond just using alpha/etc waves
+
