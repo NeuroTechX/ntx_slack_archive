@@ -2454,3 +2454,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >If it helps: depending on what set of browsers you want to supprt, display:flex solves a lot of layout problems
 
+9/5/2017 12:14 AM
+
+ **pat** :
+
+ >Although it is a bit of a mental shift for those used to the normal block layout
+
