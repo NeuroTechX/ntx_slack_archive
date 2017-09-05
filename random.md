@@ -2460,3 +2460,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >Although it is a bit of a mental shift for those used to the normal block layout
 
+9/5/2017 11:20 AM
+
+ **aj** :
+
+ >It's a fixed window electron tray pop-up window so it's essentially a tiny chrome window
+
