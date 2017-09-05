@@ -1878,3 +1878,9 @@ If you're interested in attending, please fill out this quick registration form 
 > 
 <https://www.meetup.com/NeuroTechTO/>
 
+9/5/2017 9:08 PM
+
+ **dano** :
+
+ >We're getting pizza tonight :pizza: :)
+
