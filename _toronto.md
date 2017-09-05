@@ -1890,3 +1890,9 @@ If you're interested in attending, please fill out this quick registration form 
 
  >woot
 
+9/5/2017 11:01 PM
+
+ **bryan_j** :
+
+ >Yay! Would be great to plan something fun for this. I mean aside from all of the other fun things we are doing ;)
+
