@@ -96,3 +96,9 @@
 
  ><!channel> Hacéis meetings en Barcelona de NeuroTechX? :ntxblue:
 
+9/5/2017 1:07 PM
+
+ **paulsukhanov** :
+
+ ><!channel> Hola! Me llamo Paul - yo soy un programador de computadores (Web-Fullstack/iOS) desde 5 anos y estoy muy interesado in tecnologia de BCI y otras cosas relacionadas con la neurociencia. Me quedare in Barcelona unas meses y quiero saber si alguien en este grupo esta haciendo meetings regulares, o si no, si queiren empezar. :slightly_smiling_face: Also, my real life Spanish pretty much sucks, but I'm don't mind trying to speak and get better! Cheers
+
