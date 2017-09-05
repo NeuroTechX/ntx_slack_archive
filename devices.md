@@ -3933,3 +3933,9 @@ Nicolas.
 
  >Testing efficacy &amp; safety of a neuro-tech product
 
+9/5/2017 4:45 PM
+
+ **jamoonie94** :
+
+ >20k for what exactly? 
+
