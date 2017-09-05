@@ -591,3 +591,9 @@ If you're interested in attending, please fill out this quick registration form 
 
  >any updates on where the hacknight will take place?
 
+9/5/2017 1:55 AM
+
+ **dano** :
+
+ >You should have just gotten an email
+
