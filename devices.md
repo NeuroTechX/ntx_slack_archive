@@ -3987,3 +3987,9 @@ Has anyone had a similr problem ramping up?
 
  >aj Is it reasonable to expect spikes when the applicable electrode is touched with finger?
 
+9/6/2017 7:38 PM
+
+ **aj** :
+
+ >That looks like good EEG!
+
