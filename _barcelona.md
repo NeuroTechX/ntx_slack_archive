@@ -126,3 +126,9 @@
 
  >not really, but lets setup something, we are 24 people here, we could start doing some meetups if there is not ones already
 
+9/6/2017 3:35 PM
+
+ **yannick** :
+
+ >Hey guys, Barcelona had an event a while ago, spearheading by people from NeuroElectrics. But they stepped down as chapter organizers. Id love to have a call with you (and those interested in organizing a Meetup in Barcelona).
+
