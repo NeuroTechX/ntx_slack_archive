@@ -4767,3 +4767,9 @@ see especially the 2013 and 2014 publications
 
  >I only tried with myself by the way. I will be trying with someone shortly to at least rule this factor out.
 
+9/6/2017 7:40 PM
+
+ **aj** :
+
+ >The openbci wifi shield is now on sale! <https://shop.openbci.com/collections/frontpage/products/wifi-shield?variant=44534009550>
+
