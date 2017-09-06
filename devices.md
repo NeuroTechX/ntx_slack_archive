@@ -3975,3 +3975,9 @@ I plugged electrodes from the headset to 1-8 channels (N1P-N8P) on the bottom pi
 > 
 Has anyone had a similr problem ramping up?
 
+9/6/2017 3:33 PM
+
+ **aj** :
+
+ >touching wires while recording should produce noise, i try to keep my cables as still as possible to limit noise. I also think your SRB pin should be on the bottom row for the default setup with OpenBCI.
+
