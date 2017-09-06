@@ -120,3 +120,9 @@
 
  >hi firassafieddine ! Do you know anything about scheduled meetps? I didn't see anything on the meetup page...
 
+9/6/2017 3:30 PM
+
+ **firassafieddine** :
+
+ >not really, but lets setup something, we are 24 people here, we could start doing some meetups if there is not ones already
+
