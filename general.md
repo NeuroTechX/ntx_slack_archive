@@ -5946,3 +5946,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 > 
 (and cancelling this weeks meeting, because he had a PhD defense& #FindOtherExcusesPlease)
 
+9/6/2017 1:59 AM
+
+ **benjamindeleener** :
+
+ >Thank you yannick! I promise you I will find other nice excuses to skip our weekly meetings :-D
+
