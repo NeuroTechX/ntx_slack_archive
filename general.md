@@ -5934,3 +5934,15 @@ Here are 2 cool videos of real-time artifacts removal.
 
  >Ah yes, the original, thanks for the link mikhail.sintsov
 
+9/6/2017 1:56 AM
+
+ **yannick** :
+
+ >Congratulations to benjamindeleener who defended his PhD today! :champagne::tada::metal:
+
+> 
+Benjamin has been an active member of NTX community, specially in Montreal and hes been leading the Student Club Initiative for 2017.
+
+> 
+(and cancelling this weeks meeting, because he had a PhD defense& #FindOtherExcusesPlease)
+
