@@ -3993,3 +3993,9 @@ Has anyone had a similr problem ramping up?
 
  >That looks like good EEG!
 
+9/6/2017 7:39 PM
+
+ **aj** :
+
+ >Yea the jump is fine
+
