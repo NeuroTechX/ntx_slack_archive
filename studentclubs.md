@@ -606,3 +606,27 @@ Racing boats with the Muse. I love it. Cant wait to check it out tomorrow.
 
  >The writeup and Q&amp;A with PolyCortex regarding the event above has been published: <http://bit.ly/ntxsc-polycortex1>
 
+9/6/2017 3:15 PM
+
+ **benjamindeleener** :
+
+ >Message to all students on this <!channel>:
+
+> 
+
+
+> 
+We need your feedback on the competition date!
+
+> 
+As you know, this year, the NeuroTechX competition will be online with an open challenge and a fixed challenge, and we are very excited about it!
+
+> 
+But we also understand the struggle of getting a club started on a new academic year and we are wondering what would be the best time for the competition to happen.
+
+> 
+We would like your feedback on this, so please fill the following survey to let us know about the dates that would be best for your club.
+
+> 
+Link to the survey: <https://goo.gl/forms/3ChGZgsxOS3FNeKn2>
+
