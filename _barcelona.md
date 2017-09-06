@@ -132,3 +132,9 @@
 
  >Hey guys, Barcelona had an event a while ago, spearheading by people from NeuroElectrics. But they stepped down as chapter organizers. Id love to have a call with you (and those interested in organizing a Meetup in Barcelona).
 
+9/6/2017 3:42 PM
+
+ **paulsukhanov** :
+
+ >Thanks for the info yannick! I'm definitely interested, although I will most likely only be here for a few months. Let me know if we have an opportunity for a call. Thanks
+
