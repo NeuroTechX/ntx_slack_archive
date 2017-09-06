@@ -144,3 +144,9 @@
 
  >What are you doing in Barcelona by the way? SF wasnt treating you well?
 
+9/6/2017 7:09 PM
+
+ **paulsukhanov** :
+
+ >Haha, good memory yannick :wink: SF is great but we wanted a change of pace for awhile.. enjoying the long siestas this side of the Atlantic :slightly_smiling_face:
+
