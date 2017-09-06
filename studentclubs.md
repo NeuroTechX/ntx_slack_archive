@@ -654,3 +654,9 @@ Link to the survey: <https://goo.gl/forms/3ChGZgsxOS3FNeKn2>
 
  >oh a completely unrelated note <!channel> . Please help me in congratulating benjamindeleener  in successfully defending his PHD
 
+9/6/2017 8:54 PM
+
+ **benjamindeleener** :
+
+ >yannick sydneyneurotechx Thank you :smile: I feel like an expert now. Totally different than before
+
