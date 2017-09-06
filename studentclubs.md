@@ -642,3 +642,9 @@ Link to the survey: <https://goo.gl/forms/3ChGZgsxOS3FNeKn2>
 
  >sayan_faraz It would be nice to have your feedback by the end of September, and ideally before September 23
 
+9/6/2017 4:22 PM
+
+ **hectordomorozco** :
+
+ >I will share this with MACtion potential people. Thanks for doing this, Ben!
+
