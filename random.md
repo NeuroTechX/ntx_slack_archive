@@ -2478,3 +2478,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >aj: it depends on how your parent divs are set out. e.g. if you have one parent, and then a child span for the text and a child div for the button, you can make the parent flex-direction:column and align-items: center to make all children go downwards in the middle
 
+9/6/2017 4:26 PM
+
+ **pat** :
+
+ >This is a really good summary: <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
+
