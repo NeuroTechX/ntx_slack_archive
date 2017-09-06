@@ -2472,3 +2472,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >What else would I have to use with display:flex? I did try that one!
 
+9/6/2017 4:25 PM
+
+ **pat** :
+
+ >aj: it depends on how your parent divs are set out. e.g. if you have one parent, and then a child span for the text and a child div for the button, you can make the parent flex-direction:column and align-items: center to make all children go downwards in the middle
+
