@@ -138,3 +138,9 @@
 
  >Thanks for the info yannick! I'm definitely interested, although I will most likely only be here for a few months. Let me know if we have an opportunity for a call. Thanks
 
+9/6/2017 3:43 PM
+
+ **yannick** :
+
+ >What are you doing in Barcelona by the way? SF wasnt treating you well?
+
