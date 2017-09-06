@@ -5952,3 +5952,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Thank you yannick! I promise you I will find other nice excuses to skip our weekly meetings :-D
 
+9/6/2017 4:01 AM
+
+ **davidevaleriani** :
+
+ >Congrats!!! :tada:
+
