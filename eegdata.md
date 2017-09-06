@@ -4773,3 +4773,9 @@ see especially the 2013 and 2014 publications
 
  >The openbci wifi shield is now on sale! <https://shop.openbci.com/collections/frontpage/products/wifi-shield?variant=44534009550>
 
+9/6/2017 7:41 PM
+
+ **aj** :
+
+ >I really set out to make getting data from the openbci dead simple. Finally you can get 500hz json data with nano volts and timestamps! No more serial port!!
+
