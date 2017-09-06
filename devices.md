@@ -3957,3 +3957,21 @@ Nicolas.
 
  >It was $20k for the cost of the software, but this also including the Tobii eye tracker, so I suppose the software alone is slightly cheaper.
 
+9/6/2017 2:39 PM
+
+ **jee** :
+
+ >Hi all, I'm setting up OpenBCI 8-channel Cyton board with Mark IV headframe, following tutorials and OpenBCI's forum discussions and had no luck. I seem to be getting noises whenever I touch the batteries or other wires on the headset. I expected signals from a single channel if I touched a specific spiky electrode on the headset but it would show signals on other channel/s or sometimes nothing at all. Then another time most channels were showing 'Railed' label. 
+
+> 
+
+
+> 
+I plugged electrodes from the headset to 1-8 channels (N1P-N8P) on the bottom pins of Cyton board, and two ear clips on SRB top pin and BIAS top pin. Bottom pin meaning closer to the board, and top pin away from the board. 
+
+> 
+
+
+> 
+Has anyone had a similr problem ramping up?
+
