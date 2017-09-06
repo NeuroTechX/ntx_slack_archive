@@ -630,3 +630,9 @@ We would like your feedback on this, so please fill the following survey to let 
 > 
 Link to the survey: <https://goo.gl/forms/3ChGZgsxOS3FNeKn2>
 
+9/6/2017 3:18 PM
+
+ **sayan_faraz** :
+
+ >When should we respond to this by? I will consult my exec team about this.
+
