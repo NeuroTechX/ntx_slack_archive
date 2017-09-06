@@ -648,3 +648,9 @@ Link to the survey: <https://goo.gl/forms/3ChGZgsxOS3FNeKn2>
 
  >I will share this with MACtion potential people. Thanks for doing this, Ben!
 
+9/6/2017 8:49 PM
+
+ **sydneyneurotechx** :
+
+ >oh a completely unrelated note <!channel> . Please help me in congratulating benjamindeleener  in successfully defending his PHD
+
