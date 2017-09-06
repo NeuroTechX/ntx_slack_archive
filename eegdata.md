@@ -4779,3 +4779,9 @@ see especially the 2013 and 2014 publications
 
  >I really set out to make getting data from the openbci dead simple. Finally you can get 500hz json data with nano volts and timestamps! No more serial port!!
 
+9/6/2017 9:52 PM
+
+ **aj** :
+
+ >and you can control it with http commands :slightly_smiling_face: <https://app.swaggerhub.com/apis/pushtheworld/openbci-wifi-server/1.3.0>
+
