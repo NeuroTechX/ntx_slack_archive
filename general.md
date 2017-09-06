@@ -5964,3 +5964,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Congrats dudie!
 
+9/6/2017 3:52 PM
+
+ **elizastrickland** :
+
+ >Hi everyone -- here's an article written by the team that won the BCI race in last year's Cybathlon. It talks about how they chose the brain signals for their BCI and how the racers trained with it. <https://spectrum.ieee.org/biomedical/bionics/how-we-won-gold-in-the-cyborg-olympics-brain-race>
+
