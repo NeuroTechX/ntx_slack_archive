@@ -3951,3 +3951,9 @@ Nicolas.
 
  >Im not exactly sure at this point. Depends on the project I suppose. Although there is another side project I want to pursue which is to decode covert speech& Id probably want relatively more channels
 
+9/6/2017 1:52 PM
+
+ **hailey** :
+
+ >It was $20k for the cost of the software, but this also including the Tobii eye tracker, so I suppose the software alone is slightly cheaper.
+
