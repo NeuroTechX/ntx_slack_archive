@@ -3981,3 +3981,9 @@ Has anyone had a similr problem ramping up?
 
  >touching wires while recording should produce noise, i try to keep my cables as still as possible to limit noise. I also think your SRB pin should be on the bottom row for the default setup with OpenBCI.
 
+9/6/2017 4:42 PM
+
+ **jee** :
+
+ >aj Is it reasonable to expect spikes when the applicable electrode is touched with finger?
+
