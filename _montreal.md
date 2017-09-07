@@ -1653,3 +1653,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >We be always hacking. Same Place and Location (6:30 PM, District 3) <!channel>
 
+9/7/2017 1:53 AM
+
+ **fred-simard** :
+
+ >I'm skipping this week, but i'll see you soon
+
