@@ -906,3 +906,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Hi, what is the schedule for the meeting?
 
+9/7/2017 8:16 PM
+
+ **sheida** :
+
+ >Sorry I was just asked to join another meeting at 11am Wednesday, maybe I could get a summary after or join the next meeting?
+
