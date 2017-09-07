@@ -4017,3 +4017,9 @@ Has anyone had a similr problem ramping up?
 
  >Hi there, I have an open BCI cap with the ultracortex MARKIV / 8 channels cyton board and I had a question concerning the ear clips. I think I've wired them properly by putting them on the SRB and BIAS pin, but I wasn't sure if I had to have both of then clipped on when recording EEG. The signal is radically different wether I have one or the other or both of them on!
 
+9/7/2017 9:39 PM
+
+ **aj** :
+
+ >Have both on for sure!
+
