@@ -900,3 +900,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Howdy <!channel> . I'll be moving the call from hangout to Zoom. Much better conferencing platform. I'll update the invites
 
+9/7/2017 8:31 AM
+
+ **mikhail.sintsov** :
+
+ >Hi, what is the schedule for the meeting?
+
