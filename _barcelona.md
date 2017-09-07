@@ -150,3 +150,9 @@
 
  >Haha, good memory yannick :wink: SF is great but we wanted a change of pace for awhile.. enjoying the long siestas this side of the Atlantic :slightly_smiling_face:
 
+9/7/2017 7:02 AM
+
+ **firassafieddine** :
+
+ >yannick nice, I am much interested as well
+
