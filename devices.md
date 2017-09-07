@@ -4011,3 +4011,9 @@ Has anyone had a similr problem ramping up?
 
  >jee i think that's a good idea, but an alternative idea is to leave the electrodes on the headset and power down the channels that are not in use by clicking the colored number on the left hand side for each channel on the _Time Series_ widget you wish to turn off.
 
+9/7/2017 9:33 PM
+
+ **yacine.mahdid** :
+
+ >Hi there, I have an open BCI cap with the ultracortex MARKIV / 8 channels cyton board and I had a question concerning the ear clips. I think I've wired them properly by putting them on the SRB and BIAS pin, but I wasn't sure if I had to have both of then clipped on when recording EEG. The signal is radically different wether I have one or the other or both of them on!
+
