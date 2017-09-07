@@ -1647,3 +1647,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Who's coming this week? are we doing a hacknight?
 
+9/7/2017 1:34 AM
+
+ **sydneyneurotechx** :
+
+ >We be always hacking. Same Place and Location (6:30 PM, District 3) <!channel>
+
