@@ -4005,3 +4005,9 @@ Has anyone had a similr problem ramping up?
 
  >Awesome, thanks aj! I'm going to remove the unused electrodes to simplify things..
 
+9/7/2017 4:39 PM
+
+ **aj** :
+
+ >jee i think that's a good idea, but an alternative idea is to leave the electrodes on the headset and power down the channels that are not in use by clicking the colored number on the left hand side for each channel on the _Time Series_ widget you wish to turn off.
+
