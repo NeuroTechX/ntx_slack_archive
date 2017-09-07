@@ -894,3 +894,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  ><!channel> : Invites have been sent. See you all on the 13th :slightly_smiling_face:
 
+9/7/2017 1:32 AM
+
+ **sydneyneurotechx** :
+
+ >Howdy <!channel> . I'll be moving the call from hangout to Zoom. Much better conferencing platform. I'll update the invites
+
