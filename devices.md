@@ -3999,3 +3999,9 @@ Has anyone had a similr problem ramping up?
 
  >Yea the jump is fine
 
+9/7/2017 3:52 PM
+
+ **jee** :
+
+ >Awesome, thanks aj! I'm going to remove the unused electrodes to simplify things..
+
