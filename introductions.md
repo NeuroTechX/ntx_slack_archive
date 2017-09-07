@@ -2898,3 +2898,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >maya Hi I am Ambrosio, a space physicist turned to neuro technologist, currently based in Switzerland and I am interested to get to know you more and would accept your help to process a NTX idea into a useable NTX gadget via an biotech accelerator based in Geneva. Let us get acquainted!
 
+9/7/2017 7:52 PM
+
+ **liam_c** :
+
+ >Hi all, I'm Liam Crapper (yes actually), I'm at the tail end of my PhD in neuroscience at McGill where i modeled rare developmental disease in induced pluripotenet stem cells and and examined the effects as I differentiated them into neurons. Outside the lab, I work with maya helping companies with their communications strategies, help run a science policy and advocacy non-profit (<http://www.sp-exchange.ca|www.sp-exchange.ca>), and am an all-round science communications enthusiast. And I'd be happy to talk to anyone about any of those things!
+
