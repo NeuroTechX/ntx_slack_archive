@@ -186,3 +186,9 @@
 
  >Anyone available in the Brooklyn area, im going tomorrow and have sometime to meet you guys and get to know you. I can also pass by OpenBCI offices if available on Saturday
 
+9/8/2017 11:49 PM
+
+ **jee** :
+
+ >eferdinand Dang. I'm visiting next weekend. 
+
