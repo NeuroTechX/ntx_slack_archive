@@ -1683,3 +1683,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Ill be there next week for sure! Ill probably be using HackNights to dive a little more in Deep Learning for EEG. Leveraging existing datasets and all. If other people are interested in joining me, let me know :slightly_smiling_face:
 
+9/8/2017 7:12 PM
+
+ **ray_cassani** :
+
+ >It won't be possible, Fridays are sort of difficult days for me
+
