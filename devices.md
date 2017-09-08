@@ -4086,3 +4086,9 @@ We are planning on recording with open BCI soon to test the signal quality. I he
 
  >Yes make perfect sense, thanks aj!
 
+9/8/2017 11:51 PM
+
+ **jee** :
+
+ >I am also shooting tutorial videos! Once I finish learning the details of setting up!
+
