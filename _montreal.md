@@ -1665,3 +1665,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >who'll be there tonight? <!channel> ?
 
+9/8/2017 7:06 PM
+
+ **sydneyneurotechx** :
+
+ >I know Fred and Yannick are out
+
