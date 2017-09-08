@@ -2484,3 +2484,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >This is a really good summary: <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
 
+9/8/2017 5:19 PM
+
+ **jcsoriano** :
+
+ >Here's a fee resource on Flexbox, really fun to use
+
