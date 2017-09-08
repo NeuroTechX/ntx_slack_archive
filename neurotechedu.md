@@ -912,3 +912,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Sorry I was just asked to join another meeting at 11am Wednesday, maybe I could get a summary after or join the next meeting?
 
+9/8/2017 1:02 PM
+
+ **mikhail.sintsov** :
+
+ >sydneyneurotechx ?
+
