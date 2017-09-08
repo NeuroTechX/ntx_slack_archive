@@ -1701,3 +1701,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  ><!channel>  Please fill out :slightly_smiling_face:
 
+9/8/2017 7:25 PM
+
+ **sydneyneurotechx** :
+
+ >I guess for tonight. We will cancel hack night
+
