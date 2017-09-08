@@ -924,3 +924,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >hey mikhail.sintsov . I'll send it over the weekend. However, we will likely be doing the following: quick recap of what is EDU, Debrief of the last cohort, next steps and how to contribute
 
+9/8/2017 2:30 PM
+
+ **mikhail.sintsov** :
+
+ >ah, ok :smiley:
+
