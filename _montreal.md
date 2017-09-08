@@ -1695,3 +1695,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Should we move days to Thursday?
 
+9/8/2017 7:24 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  Please fill out :slightly_smiling_face:
+
