@@ -4074,3 +4074,9 @@ We are planning on recording with open BCI soon to test the signal quality. I he
 
  >^ yacine.mahdid does that make sense?
 
+9/8/2017 5:34 PM
+
+ **aj** :
+
+ >The wifi shield that just got released solves the dropped packet issue for real time processing <https://shop.openbci.com/collections/frontpage/products/wifi-shield?variant=44534009550>
+
