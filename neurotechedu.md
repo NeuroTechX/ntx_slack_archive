@@ -918,3 +918,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >sydneyneurotechx ?
 
+9/8/2017 2:28 PM
+
+ **sydneyneurotechx** :
+
+ >hey mikhail.sintsov . I'll send it over the weekend. However, we will likely be doing the following: quick recap of what is EDU, Debrief of the last cohort, next steps and how to contribute
+
