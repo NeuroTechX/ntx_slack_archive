@@ -4041,3 +4041,9 @@ Has anyone had a similr problem ramping up?
 
  >aj Ohh thanks for the tip! Awesome!
 
+9/8/2017 1:46 PM
+
+ **aj** :
+
+ >i'm gonna make some tutorial videos soon, will be sure to cover these!
+
