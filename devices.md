@@ -4056,3 +4056,9 @@ Has anyone had a similr problem ramping up?
 > 
 We are planning on recording with open BCI soon to test the signal quality. I heard from one of our collaborator that the quality of the signal is way better when recording on the sd cars. I was wondering if there is a particular card that you would recommend? (thanks for all the help by the way!)
 
+9/8/2017 5:31 PM
+
+ **aj** :
+
+ >You need a class 10. I also think saving to an sd has the benefit of not dropping packets. 
+
