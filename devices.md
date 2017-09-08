@@ -4068,3 +4068,9 @@ We are planning on recording with open BCI soon to test the signal quality. I he
 
  >Same data but with Bluetooth some packets cab get dropped 
 
+9/8/2017 5:33 PM
+
+ **aj** :
+
+ >^ yacine.mahdid does that make sense?
+
