@@ -4062,3 +4062,9 @@ We are planning on recording with open BCI soon to test the signal quality. I he
 
  >You need a class 10. I also think saving to an sd has the benefit of not dropping packets. 
 
+9/8/2017 5:31 PM
+
+ **aj** :
+
+ >Same data but with Bluetooth some packets cab get dropped 
+
