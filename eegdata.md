@@ -4797,3 +4797,9 @@ see especially the 2013 and 2014 publications
 
  >Any advice for settings the ADS1299 Shouod have to pull this off?
 
+9/10/2017 2:09 PM
+
+ **aj** :
+
+ >Can also put a pulse sensor on too!
+
