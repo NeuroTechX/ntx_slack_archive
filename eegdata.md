@@ -4785,3 +4785,9 @@ see especially the 2013 and 2014 publications
 
  >and you can control it with http commands :slightly_smiling_face: <https://app.swaggerhub.com/apis/pushtheworld/openbci-wifi-server/1.3.0>
 
+9/10/2017 2:09 PM
+
+ **aj** :
+
+ >Hey! I want to make an example for Open BCI wifi capabilities and make a mobile EMT/Ambulance prototype. Hook up one channel to EKG, Hook up another for EMG for chest respiratory compressions, and 4 channels for EEG, wet electrode to temples with reference with wet electrode too. Could bundle a tiny pack together for so cheap and boom!
+
