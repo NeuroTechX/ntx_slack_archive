@@ -4791,3 +4791,9 @@ see especially the 2013 and 2014 publications
 
  >Hey! I want to make an example for Open BCI wifi capabilities and make a mobile EMT/Ambulance prototype. Hook up one channel to EKG, Hook up another for EMG for chest respiratory compressions, and 4 channels for EEG, wet electrode to temples with reference with wet electrode too. Could bundle a tiny pack together for so cheap and boom!
 
+9/10/2017 2:09 PM
+
+ **aj** :
+
+ >Any advice for settings the ADS1299 Shouod have to pull this off?
+
