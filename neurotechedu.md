@@ -930,3 +930,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >ah, ok :smiley:
 
+9/10/2017 9:25 AM
+
+ **vasilisa** :
+
+ >Hi guys. I was busy here with research and saw only now your messages. I would like to contribute as well :slightly_smiling_face:
+
