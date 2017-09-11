@@ -948,3 +948,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Sure! I'll send you a summary
 
+9/11/2017 4:31 AM
+
+ **sydneyneurotechx** :
+
+ ><!channel>  Here's the link to the agenda.  <https://docs.google.com/a/neurotechx.com/document/d/1YiAdLMQhN_PRA7nugKXBK-7zajE4SDDhvJroRz3R5LA/edit?usp=sharing>
+
