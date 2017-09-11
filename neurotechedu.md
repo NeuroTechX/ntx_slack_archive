@@ -936,3 +936,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Hi guys. I was busy here with research and saw only now your messages. I would like to contribute as well :slightly_smiling_face:
 
+9/11/2017 4:31 AM
+
+ **sydneyneurotechx** :
+
+ >Great! Can you make the call?
+
