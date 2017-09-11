@@ -954,3 +954,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  ><!channel>  Here's the link to the agenda.  <https://docs.google.com/a/neurotechx.com/document/d/1YiAdLMQhN_PRA7nugKXBK-7zajE4SDDhvJroRz3R5LA/edit?usp=sharing>
 
+9/11/2017 6:32 AM
+
+ **vasilisa** :
+
+ >yes, I will try to not fall asleep :slightly_smiling_face:
+
