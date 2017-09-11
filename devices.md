@@ -4092,3 +4092,9 @@ We are planning on recording with open BCI soon to test the signal quality. I he
 
  >I am also shooting tutorial videos! Once I finish learning the details of setting up!
 
+9/11/2017 11:05 PM
+
+ **sydneyneurotechx** :
+
+ >Oh look. Another Neurofeedback device coming to Kickstarter. <https://producthype.co/neuroplus/>
+
