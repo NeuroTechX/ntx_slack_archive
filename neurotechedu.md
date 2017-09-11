@@ -960,3 +960,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >yes, I will try to not fall asleep :slightly_smiling_face:
 
+9/11/2017 8:44 AM
+
+ **mikhail.sintsov** :
+
+ >Hi, sydneyneurotechx, have you sent Zoom invitations? I didn't get any
+
