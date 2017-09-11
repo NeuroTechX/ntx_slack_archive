@@ -4104,3 +4104,15 @@ We are planning on recording with open BCI soon to test the signal quality. I he
 
  >Looks like the cogniotics electrode with the Neurosky ear clip
 
+9/11/2017 11:21 PM
+
+ **yannick** :
+
+ >But at least the guy behind it is not a new comer to the field trying to make few quick bucks.
+
+> 
+He started working with Emotiv years ago, then Muse, now apparently making his own device.
+
+> 
+(I cant speak about the science or the quality. Im just saying that hes not a new comer to the field)
+
