@@ -174,3 +174,9 @@ see you tomorrow!
 > 
 <https://www.meetup.com/NeuroTechLA/>
 
+9/11/2017 10:42 PM
+
+ **andrewjsauer** :
+
+ ><!here|@here> anyone have any recommendations on meetUp space on the West side? i am going to do my best to switch off between the Santa Monica area and Pasadena
+
