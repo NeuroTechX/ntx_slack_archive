@@ -942,3 +942,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Great! Can you make the call?
 
+9/11/2017 4:31 AM
+
+ **sydneyneurotechx** :
+
+ >Sure! I'll send you a summary
+
