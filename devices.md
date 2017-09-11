@@ -4098,3 +4098,9 @@ We are planning on recording with open BCI soon to test the signal quality. I he
 
  >Oh look. Another Neurofeedback device coming to Kickstarter. <https://producthype.co/neuroplus/>
 
+9/11/2017 11:06 PM
+
+ **sydneyneurotechx** :
+
+ >Looks like the cogniotics electrode with the Neurosky ear clip
+
