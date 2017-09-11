@@ -966,3 +966,9 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >Hi, sydneyneurotechx, have you sent Zoom invitations? I didn't get any
 
+9/11/2017 5:35 PM
+
+ **sydneyneurotechx** :
+
+ >mikhail.sintsov I updated the Google Calendar invite to include the Zoom information. Let me know if you received it
+
