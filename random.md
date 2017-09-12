@@ -2511,3 +2511,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >lol dano i can't decide if that's my nightmare or not
 
+9/12/2017 7:19 PM
+
+ **sc** :
+
+ ><https://motherboard.vice.com/en_us/article/ywwyv5/how-well-eventually-control-everything-with-our-minds>
+
