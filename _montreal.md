@@ -1713,3 +1713,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >fred-simard What are the paradigms you are looking at? Still SSVEP?
 
+9/12/2017 8:19 PM
+
+ **fred-simard** :
+
+ >No SSVEP is mastered. I can't give too many details since this is related to my business work, but it's lying somewhere in the mental effort/focus/attention spectrum.
+
