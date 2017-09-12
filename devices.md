@@ -4134,3 +4134,18 @@ He started working with Emotiv years ago, then Muse, now apparently making his o
 
  >Well, even with one electrodes, if you could find something meaningful to influence the brain game or cognitive training, it would qualify as such, but the question is what and how are you using the Cz signal.
 
+9/12/2017 5:23 PM
+
+ **yannick** :
+
+ >To comment on your point dano, it is not fair to say brain training games = no work. It would be like saying tDCS doesnt work and/or neurofeedback doesnt work. In these 3 fields positive results have been published, but have been quite hard to reproduce. I dont think we can say it doesnt work, but we cant say we fully master it. Many studies have been published comparing gamers vs non-gamers for different cognitive functions such as reaction time, contrast sensibility, attention (different types of attention), etc. and in some areas (mainly visual/visuomotor), gamers have indeed shown greater skills. Intuitively, doing a task for thousands of hours would indeed have an impact on related cognitive function (given what we now know on brain plasticity), but we havent necessarily yet figured out how to master the mechanics to optimize such brain training to avoid playing for 4 years to notice that indeed you gained few ms in reaction time.
+
+> 
+I think that it is fair to say that there is something there, but we dont master it. Also, I think that when it comes to the brain, given our current understanding and resolutions, one-size-fits-all approaches dont always work (e.g. tDCS with same montage on 2 different people wont stimulate the exact same cortical regions / neurons / networks). 
+
+> 
+Im looking forward for the Clinical Trials from l (with Akili) to see if they will get their FDA approval for therapeutic usage. (Yes, that would mean prescribing a specific video game for ADHD)
+
+> 
+My 2 cents&
+
