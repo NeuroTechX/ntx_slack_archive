@@ -2904,3 +2904,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >Hi all, I'm Liam Crapper (yes actually), I'm at the tail end of my PhD in neuroscience at McGill where i modeled rare developmental disease in induced pluripotenet stem cells and and examined the effects as I differentiated them into neurons. Outside the lab, I work with maya helping companies with their communications strategies, help run a science policy and advocacy non-profit (<http://www.sp-exchange.ca|www.sp-exchange.ca>), and am an all-round science communications enthusiast. And I'd be happy to talk to anyone about any of those things!
 
+9/12/2017 1:04 AM
+
+ **sydneyneurotechx** :
+
+ >welcome liam_c  Feel Free to join us in the <#C0VFP9ST0|_montreal> channel
+
