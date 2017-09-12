@@ -4116,3 +4116,9 @@ He started working with Emotiv years ago, then Muse, now apparently making his o
 > 
 (I cant speak about the science or the quality. Im just saying that hes not a new comer to the field)
 
+9/12/2017 2:10 AM
+
+ **dano** :
+
+ >Hmmmm, so from the lit I think we can safely say brain training games = no work. Brain training games + EEG = ? :neutral_face:
+
