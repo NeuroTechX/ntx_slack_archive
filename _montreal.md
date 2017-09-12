@@ -1707,3 +1707,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I guess for tonight. We will cancel hack night
 
+9/12/2017 7:37 PM
+
+ **sydneyneurotechx** :
+
+ >fred-simard What are the paradigms you are looking at? Still SSVEP?
+
