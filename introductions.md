@@ -2910,3 +2910,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >welcome liam_c  Feel Free to join us in the <#C0VFP9ST0|_montreal> channel
 
+9/12/2017 1:06 AM
+
+ **sydneyneurotechx** :
+
+ >Also I love the idea of sp-exchange. Great initiative!
+
