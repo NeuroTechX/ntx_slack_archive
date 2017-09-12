@@ -4809,3 +4809,9 @@ see especially the 2013 and 2014 publications
 
  >aj I recommend you plan to use differential lines (you can still short together all the EEG negative together externally for unipolar configuration) and you might want to set a different gain for each channel, depending on what they are used for.
 
+9/12/2017 10:14 AM
+
+ **aj** :
+
+ >Ah good idea okay thanks Fred!
+
