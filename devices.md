@@ -4122,3 +4122,9 @@ He started working with Emotiv years ago, then Muse, now apparently making his o
 
  >Hmmmm, so from the lit I think we can safely say brain training games = no work. Brain training games + EEG = ? :neutral_face:
 
+9/12/2017 4:28 AM
+
+ **yrenard** :
+
+ >Does Cz-only training fall in the bucket of Brain Training games + EEG anyway ? If the electrode had been mobile enough so that every other day, one could have train the left-artistic brain, and every other other day, train the right more rational brain, that would have been in that bucket for sure... but one electrode... i'm not sure :stuck_out_tongue:
+
