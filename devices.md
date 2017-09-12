@@ -4128,3 +4128,9 @@ He started working with Emotiv years ago, then Muse, now apparently making his o
 
  >Does Cz-only training fall in the bucket of Brain Training games + EEG anyway ? If the electrode had been mobile enough so that every other day, one could have train the left-artistic brain, and every other other day, train the right more rational brain, that would have been in that bucket for sure... but one electrode... i'm not sure :stuck_out_tongue:
 
+9/12/2017 4:45 PM
+
+ **yannick** :
+
+ >Well, even with one electrodes, if you could find something meaningful to influence the brain game or cognitive training, it would qualify as such, but the question is what and how are you using the Cz signal.
+
