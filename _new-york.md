@@ -204,3 +204,9 @@
 
  >I'll actually be there the week after! September 23rd-24th
 
+9/13/2017 8:47 PM
+
+ **francescacoo** :
+
+ >hey new-york! I will be on holidays in NY in November (1-10). I'll be going around with a group, but if you have any event planned I would love to join!
+
