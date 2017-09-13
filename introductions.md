@@ -2937,3 +2937,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 > 
 What software did you use for VR dev?
 
+9/13/2017 4:09 PM
+
+ **pouyanfard** :
+
+ >Thanks Dano, it was a small prototype for a university project but I used OGRE3D which is an open source engine.
+
