@@ -4149,3 +4149,9 @@ Im looking forward for the Clinical Trials from l (with Akili) to see if they w
 > 
 My 2 cents&
 
+9/13/2017 10:17 AM
+
+ **mikhail.sintsov** :
+
+ >Hi, could you please give me some links and keywords to the State of the Art systems for human scalp EEG recordings?
+
