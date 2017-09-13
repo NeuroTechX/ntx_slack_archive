@@ -198,3 +198,9 @@
 
  ><!channel> if anyone is available this Saturday we will be having public Neurable demos at VR World NYC in Midtown (more information is available here: <https://vrworldnyc.com/fall-2017-lineup/neurable/> ). Let me know if you'd like to come, we'd love for you to experience Neurable's brain-computer interface!
 
+9/13/2017 8:28 PM
+
+ **jee** :
+
+ >I'll actually be there the week after! September 23rd-24th
+
