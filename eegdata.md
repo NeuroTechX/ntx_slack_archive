@@ -4815,3 +4815,9 @@ see especially the 2013 and 2014 publications
 
  >Ah good idea okay thanks Fred!
 
+9/13/2017 8:10 PM
+
+ **aj** :
+
+ >Native Python driver for OpenBCI Wifi Shield written in 5 hours with new http commands and using the wifi shield to convert raw data to json. Check it out, would love feedback and contributions! <https://github.com/OpenBCI/OpenBCI_Python/pull/54>
+
