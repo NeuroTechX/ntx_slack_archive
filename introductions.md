@@ -2922,3 +2922,9 @@ PS The Area 51 Stack Exchange is where they develop future SE sites. It has no
 
  >Thanks!
 
+9/13/2017 2:28 PM
+
+ **pouyanfard** :
+
+ >Hi all, My name is Pouyan R. Fard and I am doing my final year of PhD in computational neuroscience at TU Dresden. I am truly interested in neurotechnology and already have some research experience with that (VR/motioncapture for motor learning, BCI, biofeedback, eye tracking). I am looking forward to develop my career in that area and would to get to know like-minded people especially in Germany and across Europe. feel free to drop me a message or connect me on Linkedin if you are interested in a discussion: <https://www.linkedin.com/in/pouyanrfard/>
+
