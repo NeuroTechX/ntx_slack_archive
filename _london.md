@@ -447,3 +447,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >hey <!channel> I'll be in London for Mozfest for October 27-29. Anyone from the Smartphone BCI want to demo their work? :slightly_smiling_face: <https://mozillafestival.org/>
 
+9/13/2017 8:06 PM
+
+ **colin.rowat** :
+
+ >thanks sydneyneurotechx: I'm out of the country until the Monday.  javi_neuralcubes, ryanlintott?
+
