@@ -1743,3 +1743,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I'll be there.
 
+9/13/2017 1:18 PM
+
+ **ray_cassani** :
+
+ >Sounds good to me, I'd go
+
