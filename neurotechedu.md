@@ -1068,3 +1068,9 @@ I am sorry about that but in theory and should be working :smile: (and I work in
 
  >Thanks everyone for the call today! I'm excited to have many of you back working on this and some new faces as well :slightly_smiling_face:. Some good news francescacoo  helped to debug the problem and now Jekyll functions well again :slightly_smiling_face:
 
+9/13/2017 8:41 PM
+
+ **ryanlintott** :
+
+ >Sorry I couldn't make it. I'm still in Norway until the 20th but I'll be happy to help out again once I'm back.
+
