@@ -1035,3 +1035,9 @@ Or Telephone
 
  >I'll join but might be a few mins late, running a subject now and it's going a bit slower than usual 
 
+9/13/2017 2:43 PM
+
+ **sydneyneurotechx** :
+
+ >There should also be a number if you prefer to call in :slightly_smiling_face:
+
