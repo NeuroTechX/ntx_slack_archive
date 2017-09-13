@@ -972,3 +972,48 @@ I also think you guys should check out the Medical Neuroscience Course from Duke
 
  >mikhail.sintsov I updated the Google Calendar invite to include the Zoom information. Let me know if you received it
 
+9/13/2017 1:56 AM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Reminder. Call tomorrow. Apparently I didn't update the invite to include the Zoom details. I just updated it. Here it is just in case you didn't receive it. 
+
+> 
+
+
+> 
+Hi, 
+
+> 
+Sydney is inviting you to a scheduled Zoom meeting. 
+
+> 
+
+
+> 
+Join from PC, Mac, Linux, iOS or Android: <https://zoom.us/j/356938584>
+
+> 
+
+
+> 
+Or iPhone one-tap :
+
+> 
+    US: +14086380968,,356938584#  or +16468769923,,356938584# 
+
+> 
+Or Telephone
+
+> 
+    Dial(for higher quality, dial a number based on your current location)
+
+> 
+        US: +1 408 638 0968  or +1 646 876 9923  or +1 669 900 6833 
+
+> 
+    Meeting ID: 356 938 584
+
+> 
+    International numbers available: <https://zoom.us/zoomconference?m=3aXS9ka1N1mIh-HQkT_Vjc0nU8MYS4Y0>
+
