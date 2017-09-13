@@ -1029,3 +1029,9 @@ Or Telephone
 
  >I will be in the car outside of my company because it's during office hour  :smile: but in theory I should have good wifi connection + headset ..
 
+9/13/2017 1:50 PM
+
+ **sheida** :
+
+ >I'll join but might be a few mins late, running a subject now and it's going a bit slower than usual 
+
