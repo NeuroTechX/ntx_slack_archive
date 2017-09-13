@@ -2517,3 +2517,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  ><https://motherboard.vice.com/en_us/article/ywwyv5/how-well-eventually-control-everything-with-our-minds>
 
+9/13/2017 1:39 AM
+
+ **aj** :
+
+ >Random but ah anyone know anything about drones here?
+
