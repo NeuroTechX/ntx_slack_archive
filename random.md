@@ -2523,3 +2523,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >Random but ah anyone know anything about drones here?
 
+9/13/2017 1:49 AM
+
+ **quispiam** :
+
+ >aj not a huge amount, but i've dabbled.. What are you trying to do?
+
