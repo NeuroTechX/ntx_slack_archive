@@ -2553,3 +2553,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >okay i will find it thanks!
 
+9/13/2017 2:19 AM
+
+ **aj** :
+
+ >quispiam found and joined, will send a message tomorrow. Thanks
+
