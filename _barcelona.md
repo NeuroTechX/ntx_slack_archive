@@ -162,3 +162,9 @@
 
  >Hello! So, lets get something going
 
+9/13/2017 1:36 PM
+
+ **paulsukhanov** :
+
+ >yannick firassafieddine what time's good for you guys to have a call to discuss this more? I can usually make time during the day (GMT+2) with advance notice. <!channel> if there's anyone else who is interested in joining, please feel welcome
+
