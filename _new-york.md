@@ -216,3 +216,9 @@
 
  >adamm_neurable im down~
 
+9/13/2017 10:42 PM
+
+ **adamm_neurable** :
+
+ >aj For sure! If you come by let me know, I think you still have my e-mail.
+
