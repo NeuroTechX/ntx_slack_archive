@@ -186,3 +186,9 @@
 
  >Cool! I'm not sure what timezone he's in though. Should we try to do the call tomorrow evening?
 
+9/13/2017 6:49 PM
+
+ **paulsukhanov** :
+
+ >Forgot to say, in general I can also meet weekends just not this weekend (and occasionally I have travel plans)
+
