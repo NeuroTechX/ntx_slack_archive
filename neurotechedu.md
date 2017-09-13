@@ -1047,3 +1047,12 @@ Or Telephone
 
  >(although it might be long distance)
 
+9/13/2017 2:50 PM
+
+ **francescacoo** :
+
+ >Actually I have to stay at my desk.. I will join on zoom, I will be able to listen but just answer in chat..
+
+> 
+I am sorry about that but in theory and should be working :smile: (and I work in a big multinational, people are nice, but you know...)
+
