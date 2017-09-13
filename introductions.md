@@ -2943,3 +2943,9 @@ What software did you use for VR dev?
 
  >Thanks Dano, it was a small prototype for a university project but I used OGRE3D which is an open source engine.
 
+9/13/2017 6:04 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome Pouyan!
+
