@@ -174,3 +174,9 @@
 
  >I could do after 19:00 on a weekday as long as I know when :slightly_smiling_face: , although I sometimes have meetings in the evening on Tue, Wed, and Fri. If we're both nearby, we could also meet in person firassafieddine and skype together with Yannick and whoever else is interested
 
+9/13/2017 1:46 PM
+
+ **firassafieddine** :
+
+ >yeah that sounds good for me
+
