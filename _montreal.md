@@ -1719,3 +1719,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >No SSVEP is mastered. I can't give too many details since this is related to my business work, but it's lying somewhere in the mental effort/focus/attention spectrum.
 
+9/13/2017 1:31 AM
+
+ **sydneyneurotechx** :
+
+ >gotcha.
+
