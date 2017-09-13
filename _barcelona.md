@@ -180,3 +180,9 @@
 
  >yeah that sounds good for me
 
+9/13/2017 1:48 PM
+
+ **paulsukhanov** :
+
+ >Cool! I'm not sure what timezone he's in though. Should we try to do the call tomorrow evening?
+
