@@ -2529,3 +2529,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >aj not a huge amount, but i've dabbled.. What are you trying to do?
 
+9/13/2017 1:52 AM
+
+ **aj** :
+
+ >quispiam i'm looking to use a raspberry pi with a flight controller using a pichawk with pymavlink
+
