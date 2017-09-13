@@ -4155,3 +4155,9 @@ My 2 cents&
 
  >Hi, could you please give me some links and keywords to the State of the Art systems for human scalp EEG recordings?
 
+9/13/2017 10:19 AM
+
+ **mikhail.sintsov** :
+
+ >My lab is going to build or buy an eeg device.
+
