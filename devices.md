@@ -4167,3 +4167,9 @@ My 2 cents&
 
  >I feel like its a rather broad question. Would you be more interested in the application side of things (i.e. what are people doing with EEG) or the hardware side of things (i.e. what kind of EEG system do people buy/build)?
 
+9/13/2017 3:27 PM
+
+ **yannick** :
+
+ >I feel like its a rather broad question. Would you be more interested in the application side of things (i.e. what are people doing with EEG) or the hardware side of things (i.e. what kind of EEG system do people buy/build)?
+
