@@ -210,3 +210,9 @@
 
  >hey new-york! I will be on holidays in NY in November (1-10). I'll be going around with a group, but if you have any event planned I would love to join!
 
+9/13/2017 10:21 PM
+
+ **aj** :
+
+ >adamm_neurable im down~
+
