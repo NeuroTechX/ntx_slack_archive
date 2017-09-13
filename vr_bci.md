@@ -150,3 +150,9 @@
 
  >Excellent
 
+9/13/2017 8:25 PM
+
+ **adamm_neurable** :
+
+ ><!channel> Neurable is having its first public event in NYC where you can control an entire VR experience with our BCI. Real-time selections manifest in this game by allowing you to grab objects, throw them, transform lasers, teleport and more! More information is available here: <https://vrworldnyc.com/fall-2017-lineup/neurable/>
+
