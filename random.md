@@ -2565,3 +2565,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  ><https://www.wired.com/story/brain-machine-interface-isnt-sci-fi-anymore>
 
+9/13/2017 10:10 PM
+
+ **alexandre.barachant** :
+
+ >what do you think ? (full disclosure, i'm joining them soon)
+
