@@ -1017,3 +1017,9 @@ Or Telephone
 > 
     International numbers available: <https://zoom.us/zoomconference?m=3aXS9ka1N1mIh-HQkT_Vjc0nU8MYS4Y0>
 
+9/13/2017 12:18 PM
+
+ **jamoonie94** :
+
+ >I can't make it this time. My course schedule switched around.
+
