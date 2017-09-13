@@ -1023,3 +1023,9 @@ Or Telephone
 
  >I can't make it this time. My course schedule switched around.
 
+9/13/2017 1:26 PM
+
+ **francescacoo** :
+
+ >I will be in the car outside of my company because it's during office hour  :smile: but in theory I should have good wifi connection + headset ..
+
