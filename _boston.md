@@ -141,3 +141,9 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >Hey Channel, here is the link to the first talk of last week's Meetup in case anyone missed it: <https://www.youtube.com/watch?v=mn7YhnfzrO8>
 
+9/13/2017 3:56 AM
+
+ **alex** :
+
+ >Hello Boston Neurohackers! We just had  our first admin meeting of the season. We hope to have our next event later this year and will keep you updated!
+
