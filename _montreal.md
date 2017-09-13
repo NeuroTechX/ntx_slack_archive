@@ -1731,3 +1731,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >If we do Hacknights this Thursday who can attend? <!channel>?
 
+9/13/2017 3:02 AM
+
+ **naoto** :
+
+ >probably I'll pass by
+
