@@ -2559,3 +2559,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >quispiam found and joined, will send a message tomorrow. Thanks
 
+9/13/2017 3:53 PM
+
+ **sc** :
+
+ ><https://www.wired.com/story/brain-machine-interface-isnt-sci-fi-anymore>
+
