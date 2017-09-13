@@ -441,3 +441,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >Hi London based Neurotech folk. I am hosting a talk in November about the use of EEG in industry and I was wondering if anyone was open to being on the panel on the side of industry or current industry applications. This includes anything from neuromarketing to usability and product design. Thanks.
 
+9/13/2017 8:04 PM
+
+ **sydneyneurotechx** :
+
+ >hey <!channel> I'll be in London for Mozfest for October 27-29. Anyone from the Smartphone BCI want to demo their work? :slightly_smiling_face: <https://mozillafestival.org/>
+
