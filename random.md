@@ -2535,3 +2535,9 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >quispiam i'm looking to use a raspberry pi with a flight controller using a pichawk with pymavlink
 
+9/13/2017 2:03 AM
+
+ **quispiam** :
+
+ >That's a little beyond my experience, but I know a couple of the guys from CanberraUAV and i'd highly recommend jumping on their mailing list and asking there. They may not have experience with the exact setup you're using, but a couple of the main devs for ardupilot/mavlink are on there so they should be able to point you in the right direction!
+
