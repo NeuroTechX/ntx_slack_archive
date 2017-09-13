@@ -1725,3 +1725,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >gotcha.
 
+9/13/2017 2:28 AM
+
+ **sydneyneurotechx** :
+
+ >If we do Hacknights this Thursday who can attend? <!channel>?
+
