@@ -2586,3 +2586,9 @@ My aim is to print a number from 0-9 by extracting it from EEG signal.
 > 
 Please help me!
 
+9/14/2017 5:14 PM
+
+ **vermanikhil96** :
+
+ >Is there anyone working on the same?
+
