@@ -5970,3 +5970,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Hi everyone -- here's an article written by the team that won the BCI race in last year's Cybathlon. It talks about how they chose the brain signals for their BCI and how the racers trained with it. <https://spectrum.ieee.org/biomedical/bionics/how-we-won-gold-in-the-cyborg-olympics-brain-race>
 
+9/14/2017 6:36 PM
+
+ **psoulos** :
+
+ >Does anyone know if developers will be able to interface with the Muse X Smith sunglasses through the Muse SDK? <http://www.smithoptics.com/us/lowdownfocus>
+
