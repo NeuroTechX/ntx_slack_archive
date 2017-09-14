@@ -4179,3 +4179,9 @@ My 2 cents&
 
  >looks like cognionics electrodes
 
+9/14/2017 9:20 AM
+
+ **mikhail.sintsov** :
+
+ >I meant, the hardware. In sense of spatial resolution and SNR.
+
