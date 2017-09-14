@@ -1923,3 +1923,9 @@ I would like to point the Toronto community and friends of the community to the 
 > 
 It was a great experience for me! So anyone in that space should think about it.
 
+9/14/2017 9:52 PM
+
+ **joshuad** :
+
+ >To everyone heading to the event tonight, I'm sure it will be a great one! I would like to be able to make it, but, duty calls... happy networking everyone :slightly_smiling_face:
+
