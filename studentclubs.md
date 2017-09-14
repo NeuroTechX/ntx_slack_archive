@@ -696,3 +696,9 @@ I am currently working on Brain Computer Interface. My aim is to print a number 
 
  >Just YouTube P300 Speller BCI and you will find many cool examples.
 
+9/14/2017 7:29 PM
+
+ **vermanikhil96** :
+
+ >Thanks a lot :slightly_smiling_face:
+
