@@ -2571,3 +2571,18 @@ I dont know much about that kind of science (nerve-triggered fat loss), so I ca
 
  >what do you think ? (full disclosure, i'm joining them soon)
 
+9/14/2017 5:14 PM
+
+ **vermanikhil96** :
+
+ >Hello everyone,
+
+> 
+This is Nikhil Verma, a Biomedical undergraduate from India.
+
+> 
+My aim is to print a number from 0-9 by extracting it from EEG signal. 
+
+> 
+Please help me!
+
