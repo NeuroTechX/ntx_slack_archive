@@ -4191,3 +4191,9 @@ My 2 cents&
 
  >Does anyone have experience with Thync? Just heard of it today and I don't really dabble in neuromodulation at the moment.
 
+9/14/2017 6:40 PM
+
+ **hailey** :
+
+ >Ive had some experience with them. Any questions you have in particular?
+
