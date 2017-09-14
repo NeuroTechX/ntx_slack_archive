@@ -690,3 +690,9 @@ I am currently working on Brain Computer Interface. My aim is to print a number 
 
  >Hey vermanikhil96, you can look at P300 Spellers. That would give you 1 way of doing it.
 
+9/14/2017 7:27 PM
+
+ **yannick** :
+
+ >Just YouTube P300 Speller BCI and you will find many cool examples.
+
