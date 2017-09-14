@@ -1773,3 +1773,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >This week I am very busy
 
+9/14/2017 12:22 AM
+
+ **sydneyneurotechx** :
+
+ >woot woot. I've book the conference room at D3. We'll do it out of there.
+
