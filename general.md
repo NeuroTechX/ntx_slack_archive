@@ -5976,3 +5976,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Does anyone know if developers will be able to interface with the Muse X Smith sunglasses through the Muse SDK? <http://www.smithoptics.com/us/lowdownfocus>
 
+9/14/2017 6:43 PM
+
+ **yannick** :
+
+ >hubertjb ^ ?
+
