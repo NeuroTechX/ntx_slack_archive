@@ -684,3 +684,9 @@ I am currently working on Brain Computer Interface. My aim is to print a number 
 
  >Is there anyone who is working on the same?
 
+9/14/2017 7:26 PM
+
+ **yannick** :
+
+ >Hey vermanikhil96, you can look at P300 Spellers. That would give you 1 way of doing it.
+
