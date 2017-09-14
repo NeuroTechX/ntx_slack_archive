@@ -1779,3 +1779,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >woot woot. I've book the conference room at D3. We'll do it out of there.
 
+9/14/2017 3:21 PM
+
+ **sydneyneurotechx** :
+
+ >I've booked the room for 6:30 <!channel> . We'll be in the window conference room
+
