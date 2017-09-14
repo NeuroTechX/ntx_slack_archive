@@ -4185,3 +4185,9 @@ My 2 cents&
 
  >I meant, the hardware. In sense of spatial resolution and SNR.
 
+9/14/2017 4:45 PM
+
+ **danielao** :
+
+ >Does anyone have experience with Thync? Just heard of it today and I don't really dabble in neuromodulation at the moment.
+
