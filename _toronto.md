@@ -1902,3 +1902,24 @@ If you're interested in attending, please fill out this quick registration form 
 
  >Lookin Sharp dano
 
+9/14/2017 9:43 PM
+
+ **martys** :
+
+ >Hey Toronto! 
+
+> 
+
+
+> 
+I would like to point the Toronto community and friends of the community to the following internship opportunity. The UHN commercialization office is looking for an intern with brain science background to get involved with the commercialization process. It's an exciting opportunity for someone who likes the interface of business and science. Check it out here:
+
+> 
+ <http://tdc.uhnresearch.ca/were-hiring-commercialization-intern-8-months-full-time-oct-may/>
+
+> 
+
+
+> 
+It was a great experience for me! So anyone in that space should think about it.
+
