@@ -4197,3 +4197,9 @@ My 2 cents&
 
  >Ive had some experience with them. Any questions you have in particular?
 
+9/14/2017 9:37 PM
+
+ **danielao** :
+
+ >Hi hailey, I don't have a specific questions but just wondering what your context and experience was with it.
+
