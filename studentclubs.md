@@ -678,3 +678,9 @@ This is Nikhil Verma, a Biomedical undergraduate from India.
 > 
 I am currently working on Brain Computer Interface. My aim is to print a number by extracting it from EEG signal.
 
+9/14/2017 5:03 PM
+
+ **vermanikhil96** :
+
+ >Is there anyone who is working on the same?
+
