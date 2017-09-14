@@ -4821,3 +4821,9 @@ see especially the 2013 and 2014 publications
 
  >Native Python driver for OpenBCI Wifi Shield written in 5 hours with new http commands and using the wifi shield to convert raw data to json. Check it out, would love feedback and contributions! <https://github.com/OpenBCI/OpenBCI_Python/pull/54>
 
+9/14/2017 3:04 AM
+
+ **sweetrabh** :
+
+ >has anyone worked on or know about good results using eeg to track eye movement?
+
