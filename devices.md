@@ -4203,3 +4203,9 @@ My 2 cents&
 
  >Hi hailey, I don't have a specific questions but just wondering what your context and experience was with it.
 
+9/15/2017 2:57 AM
+
+ **sweetrabh** :
+
+ >sorry to jump on an old thread but Im curious alexandre.barachant, for but the real $$$ are not on stimulation based BCI, which signals do you think can be reliably taken advantage of?
+
