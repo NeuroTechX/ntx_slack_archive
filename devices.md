@@ -4239,3 +4239,9 @@ My 2 cents&
 
  >Oh is it in market
 
+9/15/2017 4:22 PM
+
+ **sweetrabh** :
+
+ >Ah ok I see, thanks. By self paced BCI, do you mean passive BCI or like a continuous EEG measurement?
+
