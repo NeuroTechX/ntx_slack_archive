@@ -4209,3 +4209,9 @@ My 2 cents&
 
  >sorry to jump on an old thread but Im curious alexandre.barachant, for but the real $$$ are not on stimulation based BCI, which signals do you think can be reliably taken advantage of?
 
+9/15/2017 8:05 AM
+
+ **alexandre.barachant** :
+
+ >sweetrabh to date, stimulation based BCI are the most reliable type of signal you can exploit, but that's not the issue here. For controling things, user expect self paced BCI because its the natural way to interact with our environment.
+
