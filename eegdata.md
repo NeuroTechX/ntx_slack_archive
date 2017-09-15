@@ -4827,3 +4827,9 @@ see especially the 2013 and 2014 publications
 
  >has anyone worked on or know about good results using eeg to track eye movement?
 
+9/15/2017 5:33 AM
+
+ **grandmasterspock** :
+
+ >Does anyone know what the most detailed library of EEG data is?
+
