@@ -4215,3 +4215,9 @@ My 2 cents&
 
  >sweetrabh to date, stimulation based BCI are the most reliable type of signal you can exploit, but that's not the issue here. For controling things, user expect self paced BCI because its the natural way to interact with our environment.
 
+9/15/2017 2:33 PM
+
+ **bhargava2566302** :
+
+ >Awesome aj whats the shield
+
