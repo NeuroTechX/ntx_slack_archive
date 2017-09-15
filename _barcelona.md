@@ -216,3 +216,9 @@ Next week Ill be way more flexible as the deadline will be over.
 > 
 You can meet without me today or you can wait for me next week. Im in the MTL timezone 6h earlier than you in Barcelona.
 
+9/15/2017 1:26 PM
+
+ **yannick** :
+
+ >Wednesday (sept. 20th) evening for you would be perfect for me.
+
