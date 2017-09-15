@@ -192,3 +192,9 @@
 
  >Forgot to say, in general I can also meet weekends just not this weekend (and occasionally I have travel plans)
 
+9/15/2017 7:21 AM
+
+ **firassafieddine** :
+
+ >we can meet today after 19.00
+
