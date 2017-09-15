@@ -4833,3 +4833,12 @@ see especially the 2013 and 2014 publications
 
  >Does anyone know what the most detailed library of EEG data is?
 
+9/15/2017 1:21 PM
+
+ **yannick** :
+
+ >By library you mean dataset and/or list of datasets? 
+
+> 
+(as opposed to a code library offering functions such as signal processing and machine learning)
+
