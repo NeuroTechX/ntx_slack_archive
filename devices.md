@@ -4221,3 +4221,9 @@ My 2 cents&
 
  >Awesome aj whats the shield
 
+9/15/2017 2:34 PM
+
+ **aj** :
+
+ >A tiny little eeg 
+
