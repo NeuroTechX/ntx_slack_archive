@@ -4245,3 +4245,9 @@ My 2 cents&
 
  >Ah ok I see, thanks. By self paced BCI, do you mean passive BCI or like a continuous EEG measurement?
 
+9/15/2017 4:36 PM
+
+ **alexandre.barachant** :
+
+ >sweetrabh Self paced is when the user decide when to send command. you can see it as a sub-class of continuous. (your keyboard is self-paced, it does not output keystrokes all the time,  just when the user want it)
+
