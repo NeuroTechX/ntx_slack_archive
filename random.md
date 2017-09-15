@@ -2604,3 +2604,12 @@ Please help me!
 
  >brain wearables talk from emotiv <https://www.youtube.com/watch?v=Ks5-Fh9p6Hg>
 
+9/15/2017 8:24 PM
+
+ **jnaulty** :
+
+ ><https://www.theguardian.com/world/2017/sep/14/mystery-of-sonic-weapon-attacks-at-us-embassy-in-cuba-deepens>
+
+> 
+interesting
+
