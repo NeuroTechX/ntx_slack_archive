@@ -204,3 +204,15 @@
 
  >?
 
+9/15/2017 1:25 PM
+
+ **yannick** :
+
+ >Hey guys, I have crazy deadlines for Monday (sept. 18th). (and have already overbooked myself for today)
+
+> 
+Next week Ill be way more flexible as the deadline will be over. 
+
+> 
+You can meet without me today or you can wait for me next week. Im in the MTL timezone 6h earlier than you in Barcelona.
+
