@@ -2598,3 +2598,9 @@ Please help me!
 
  >Agreed! 
 
+9/15/2017 2:48 AM
+
+ **sweetrabh** :
+
+ >brain wearables talk from emotiv <https://www.youtube.com/watch?v=Ks5-Fh9p6Hg>
+
