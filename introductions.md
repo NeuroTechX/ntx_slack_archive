@@ -2961,3 +2961,9 @@ What software did you use for VR dev?
 
  >neurotechto
 
+9/16/2017 6:51 PM
+
+ **bryan_j** :
+
+ >Thanks for joining Michelle, and for your message! Check out <http://www.meetup.com/NeuroTechTO|www.meetup.com/NeuroTechTO> to see our community. Next community event end of October, and we have recurring hacknights every other week! 
+
