@@ -5988,3 +5988,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >You can connect to the Focus glasses with the current Muse SDK. At our last hacknight at the raxon office I paired EEG 101 to a pair of glasses across the room.
 
+9/16/2017 9:47 AM
+
+ **alexandre.barachant** :
+
+ >muse-lsl also work for this
+
