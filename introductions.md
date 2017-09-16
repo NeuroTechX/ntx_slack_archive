@@ -2955,3 +2955,9 @@ What software did you use for VR dev?
 
  >Hello there! I'm Michelle from Toronto, Canada. I am studying Masters of Speech language pathology in the University of Toronto. I did my undergrad as a neuroscience specialist and linguistic major. I am also a back end web developer. I would love to develop BCI tools and devices in speech science for assessment and therapy. Please say hi if you are interested in collaborating or just being friends :) !
 
+9/16/2017 4:31 PM
+
+ **mokhberimaryam** :
+
+ >neurotechto
+
