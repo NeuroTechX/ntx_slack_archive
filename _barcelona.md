@@ -222,3 +222,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >Wednesday (sept. 20th) evening for you would be perfect for me.
 
+9/16/2017 11:15 AM
+
+ **firassafieddine** :
+
+ >yannick yes!
+
