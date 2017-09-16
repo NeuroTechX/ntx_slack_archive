@@ -2973,3 +2973,9 @@ What software did you use for VR dev?
 
  >Woohoo! #NTTO 
 
+9/16/2017 8:44 PM
+
+ **oriesai** :
+
+ >Thanks Bryan, see you there!
+
