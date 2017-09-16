@@ -228,3 +228,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >yannick yes!
 
+9/16/2017 11:15 AM
+
+ **firassafieddine** :
+
+ >works for me too
+
