@@ -4848,3 +4848,9 @@ see especially the 2013 and 2014 publications
 
  >yannick Yeah I mean dataset.. thanks for clearing that up
 
+9/16/2017 1:14 AM
+
+ **yannick** :
+
+ >Check our the Awesome BCI List on our github
+
