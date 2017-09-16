@@ -5982,3 +5982,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >hubertjb ^ ?
 
+9/16/2017 5:49 AM
+
+ **dano** :
+
+ >You can connect to the Focus glasses with the current Muse SDK. At our last hacknight at the raxon office I paired EEG 101 to a pair of glasses across the room.
+
