@@ -1785,3 +1785,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I've booked the room for 6:30 <!channel> . We'll be in the window conference room
 
+9/17/2017 2:38 PM
+
+ **fred-simard** :
+
+ >A little something I've made in collab with AJ of push the world: <https://pypi.python.org/pypi/RaspberryPiADS1299/0.1.0>
+
