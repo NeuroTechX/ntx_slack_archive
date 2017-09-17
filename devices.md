@@ -4251,3 +4251,9 @@ My 2 cents&
 
  >sweetrabh Self paced is when the user decide when to send command. you can see it as a sub-class of continuous. (your keyboard is self-paced, it does not output keystrokes all the time,  just when the user want it)
 
+9/17/2017 4:00 AM
+
+ **yannick** :
+
+ >Cool!
+
