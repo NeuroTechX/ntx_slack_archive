@@ -2979,3 +2979,9 @@ What software did you use for VR dev?
 
  >Thanks Bryan, see you there!
 
+9/17/2017 5:09 PM
+
+ **dano** :
+
+ >Hey Michelle! Glad you found the Slack!
+
