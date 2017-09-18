@@ -609,3 +609,9 @@ If you're interested in attending, please fill out this quick registration form 
 > 
 Also, anyone hosting any SF or Austin? :green_heart:
 
+9/18/2017 11:31 PM
+
+ **ray_cassani** :
+
+ >have you looked at their respective channels <#C0VTQK7CZ|_san-francisco>  and <#C2ZA4SCSX|_austin>?
+
