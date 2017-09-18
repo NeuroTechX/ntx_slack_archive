@@ -1791,3 +1791,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >A little something I've made in collab with AJ of push the world: <https://pypi.python.org/pypi/RaspberryPiADS1299/0.1.0>
 
+9/18/2017 6:21 PM
+
+ **liam_c** :
+
+ >Hi everyone, I'm interested in checking out one of the upcoming hackathons, but I've never been to  one before. I'm also not really a hacker/programmer, but they seem like a good way to meet people in the neurotech scene, and hopefully I can contribute in other ways.  Where do these happen? what should I expect?
+
