@@ -1332,3 +1332,9 @@ Enjoy and debate! :slightly_smiling_face:
 
  >marissaf  I believe there are a few people in Edmonton interested, but nothing formally has been established. We take a very organic approach to chapter creation. You can  reach out to yannick  for more details.
 
+9/18/2017 10:37 PM
+
+ **ariawave** :
+
+ >falk very cool, thanks for posting!
+
