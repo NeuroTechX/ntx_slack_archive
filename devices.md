@@ -4257,3 +4257,9 @@ My 2 cents&
 
  >Cool!
 
+9/18/2017 11:11 AM
+
+ **mikhail.sintsov** :
+
+ >ray_cassani That is interesting. But what are advantages of stripping epoc down to bones? Did it improve snr?
+
