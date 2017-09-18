@@ -4278,3 +4278,9 @@ feasible to get custom probes cheaper? Maybe in Europe or China (considering I'm
 
  >Cortera makes uECoG arrays, not sure about cost: 
 
+9/18/2017 6:19 PM
+
+ **joeyo** :
+
+ ><http://corteraneuro.com/products/neuroscience>
+
