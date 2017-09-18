@@ -4263,3 +4263,12 @@ My 2 cents&
 
  >ray_cassani That is interesting. But what are advantages of stripping epoc down to bones? Did it improve snr?
 
+9/18/2017 2:07 PM
+
+ **mikhail.sintsov** :
+
+ >Guys, I need an advice. I'm willing to make a custom ECoG electrode for my rats. However, in labs nearby it is barely possible. The SOTA solution requires PEDOT:PSS, but for our purposes any microelectronics litrography would work. There are solution from Neuronexus, but their price is too high for us, like $800 for a single probe, and it becomes even higher after crossing the board. Could you suggest any manufacturers or labs, where it is 
+
+> 
+feasible to get custom probes cheaper? Maybe in Europe or China (considering I'm located in Russia)?
+
