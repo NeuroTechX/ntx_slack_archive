@@ -4272,3 +4272,9 @@ My 2 cents&
 > 
 feasible to get custom probes cheaper? Maybe in Europe or China (considering I'm located in Russia)?
 
+9/18/2017 6:19 PM
+
+ **joeyo** :
+
+ >Cortera makes uECoG arrays, not sure about cost: 
+
