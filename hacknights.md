@@ -597,3 +597,15 @@ If you're interested in attending, please fill out this quick registration form 
 
  >You should have just gotten an email
 
+9/18/2017 10:40 PM
+
+ **ariawave** :
+
+ >Any chance folks can add cities and states to the location posts for these Hack Nights? 
+
+> 
+
+
+> 
+Also, anyone hosting any SF or Austin? :green_heart:
+
