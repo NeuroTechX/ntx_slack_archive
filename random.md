@@ -2625,3 +2625,9 @@ interesting
 > 
 Interesting is right
 
+9/18/2017 9:32 PM
+
+ **jnaulty** :
+
+ ><https://www2.warwick.ac.uk/newsandevents/pressreleases/cells_programmed_like/>
+
