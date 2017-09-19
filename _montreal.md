@@ -1842,3 +1842,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Sure, sounds great, if based only in Muse device, we could modify the code to be independent from MuLES, and why not, from MATLAB
 
+9/19/2017 7:32 PM
+
+ **yannick** :
+
+ >Lets talk about it on Thursday then! :smile:
+
