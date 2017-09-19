@@ -252,3 +252,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >Ok great! This cafe I like and has good wifi / outlets : <https://www.facebook.com/laura.arrate/> or if it is too loud or crowded we can move to my coworking space; <https://www.betahaus.es/>
 
+9/19/2017 7:15 PM
+
+ **yannick** :
+
+ >At what time would you guys be meeting? Ill be available (afternoon time for me)
+
