@@ -2685,3 +2685,9 @@ Perhaps these victims are displaying side-affects of genetic changes introduced 
 > 
 I really wish there was greater dialogue in the media for weaponization of genetic modification. If McDonald's can patent a specific gene sequence, why can't a nation-state with moonshot-like capital develop a 'weapon of genetic modification'. Perhaps it's surgical, perhaps it's more like a carpet bombing,
 
+9/19/2017 5:49 PM
+
+ **dano** :
+
+ >Did you read the JustSecurity article? Don't you think overexposure to some kind of electromagnetic radiation used for remote monitoring could explain it?
+
