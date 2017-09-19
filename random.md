@@ -2715,3 +2715,9 @@ I really wish there was greater dialogue in the media for weaponization of genet
 
  >you could 'sweep' a room in a heartbeat and detect strong EMFs
 
+9/19/2017 5:51 PM
+
+ **jnaulty** :
+
+ >like 'wardriving' for vulnerable wifi...
+
