@@ -2643,3 +2643,12 @@ Interesting is right
 
  >Maybe poison's more likely: <https://www.theguardian.com/science/2017/aug/25/how-could-the-sonic-attack-on-us-diplomats-in-cuba-have-been-carried-out>
 
+9/19/2017 4:54 PM
+
+ **dano** :
+
+ >Woah, it could also be a side effect of intense, radiation-based intelligence tech used to eavesdrop on communications. Apparently things like microwaves, Xrays, and electromagnetic pulses have been used before by US and Russia, and may have already lead to some of these sorts of illnesses in the 70s
+
+> 
+<https://www.justsecurity.org/44289/sonic-attacks-diplomats-cuba-dont-rush-conclusions/>
+
