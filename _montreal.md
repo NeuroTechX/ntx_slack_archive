@@ -1827,3 +1827,12 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Hi, I would be there this Thursday
 
+9/19/2017 7:14 PM
+
+ **yannick** :
+
+ >benjamindeleener are you free Thursday? If ray_cassani can bring the NeuralDrift we could maybe move forward on making the example for the Student Club competition.
+
+> 
+(ray_cassani: long story short, we want to use the NeuralDrift as an example of a project for the student club competition, Ill talk to you about the idea Thursday)
+
