@@ -615,3 +615,9 @@ Also, anyone hosting any SF or Austin? :green_heart:
 
  >have you looked at their respective channels <#C0VTQK7CZ|_san-francisco>  and <#C2ZA4SCSX|_austin>?
 
+9/19/2017 1:35 AM
+
+ **dano** :
+
+ >Sorry, arla, I just copied and pasted over from the toronto channel. I'll try and remember to update the text next time
+
