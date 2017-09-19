@@ -2637,3 +2637,9 @@ Interesting is right
 
  >What the hell? Targeted beams of sound? Psychosomatic illness? So weird
 
+9/19/2017 4:46 PM
+
+ **dano** :
+
+ >Maybe poison's more likely: <https://www.theguardian.com/science/2017/aug/25/how-could-the-sonic-attack-on-us-diplomats-in-cuba-have-been-carried-out>
+
