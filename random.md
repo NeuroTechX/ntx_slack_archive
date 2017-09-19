@@ -2739,3 +2739,9 @@ I really wish there was greater dialogue in the media for weaponization of genet
 
  >You're right :thinking_face:
 
+9/19/2017 5:59 PM
+
+ **jnaulty** :
+
+ >so...
+
