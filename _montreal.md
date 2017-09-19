@@ -1797,3 +1797,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Hi everyone, I'm interested in checking out one of the upcoming hackathons, but I've never been to  one before. I'm also not really a hacker/programmer, but they seem like a good way to meet people in the neurotech scene, and hopefully I can contribute in other ways.  Where do these happen? what should I expect?
 
+9/19/2017 3:39 PM
+
+ **sydneyneurotechx** :
+
+ >Hey liam_c . We meet every Thursday at District 3 (1250 Guy Street) at 6:30. You could always drop by and talk with us.
+
