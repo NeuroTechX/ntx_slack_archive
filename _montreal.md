@@ -1821,3 +1821,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I've booked Conference room 3 that you can use
 
+9/19/2017 6:06 PM
+
+ **armin** :
+
+ >Hi, I would be there this Thursday
+
