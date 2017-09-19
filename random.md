@@ -2709,3 +2709,9 @@ I really wish there was greater dialogue in the media for weaponization of genet
 
  >but that would be super easy to detect
 
+9/19/2017 5:51 PM
+
+ **jnaulty** :
+
+ >you could 'sweep' a room in a heartbeat and detect strong EMFs
+
