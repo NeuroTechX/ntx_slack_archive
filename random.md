@@ -2652,3 +2652,36 @@ Interesting is right
 > 
 <https://www.justsecurity.org/44289/sonic-attacks-diplomats-cuba-dont-rush-conclusions/>
 
+9/19/2017 5:47 PM
+
+ **jnaulty** :
+
+ >dano I am super interested in this news story
+
+> 
+and the media's severe lack of interest in investigating other possible causes than just 'sonic attacks' I mean, they even discuss that a sonic attack is severely unlikely because of the infrastructure required to deploy such an attack would be physically evident in the building/rooms...
+
+> 
+I was thinking it might be side-affects of a brain manipulation attack
+
+> 
+The major assumption I feel comfortable making is that whatever happened is affecting the brain and CNS of the victims
+
+> 
+
+
+> 
+After that I get all dark and think like a conspiracy theorist
+
+> 
+what could cause such symptoms?
+
+> 
+Perhaps these victims are displaying side-affects of genetic changes introduced by a virus? Kind of in the same vein as weaponized optogenetics, but instead of making neurons/cells respond to light, they are performing some other specific manipulation. What the outcome/purpose of these 'manipulations' are I cannot really fathom.
+
+> 
+
+
+> 
+I really wish there was greater dialogue in the media for weaponization of genetic modification. If McDonald's can patent a specific gene sequence, why can't a nation-state with moonshot-like capital develop a 'weapon of genetic modification'. Perhaps it's surgical, perhaps it's more like a carpet bombing,
+
