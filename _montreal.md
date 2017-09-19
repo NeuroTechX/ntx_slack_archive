@@ -1815,3 +1815,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I'll be there
 
+9/19/2017 3:47 PM
+
+ **sydneyneurotechx** :
+
+ >I've booked Conference room 3 that you can use
+
