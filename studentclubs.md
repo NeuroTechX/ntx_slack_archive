@@ -702,3 +702,9 @@ I am currently working on Brain Computer Interface. My aim is to print a number 
 
  >Thanks a lot :slightly_smiling_face:
 
+9/19/2017 2:54 PM
+
+ **omrin** :
+
+ >Opening club announcement: Queen's University - Merlin Neurotechnology is up and running. Check out our website at <http://queensneurotech.ca|queensneurotech.ca> and stay tuned for our progress throughout the year.
+
