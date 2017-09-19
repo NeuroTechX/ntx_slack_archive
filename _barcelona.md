@@ -240,3 +240,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >hi yannick firassafieddine sorry for slow response, I was traveling until today. Tomorrow evening I have a meeting until 19.00, and then I'm free to meet up. Should we do the call at 20.00? Fira, I live and work in Gracia - is that close to you to meet up in person at a cafe or my coworking space?
 
+9/19/2017 2:10 PM
+
+ **firassafieddine** :
+
+ >hey, yes, gracia is good for me, we can meet tomorrow evening, i can spare it for that
+
