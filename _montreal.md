@@ -1803,3 +1803,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Hey liam_c . We meet every Thursday at District 3 (1250 Guy Street) at 6:30. You could always drop by and talk with us.
 
+9/19/2017 3:40 PM
+
+ **sydneyneurotechx** :
+
+ >On that note <!channel> who can show up this Thursday? I won't be available unfortunately as I have a deadline for Saturday. Who will be there?
+
