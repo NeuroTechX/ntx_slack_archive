@@ -2733,3 +2733,9 @@ I really wish there was greater dialogue in the media for weaponization of genet
 
  >dano You might find this interesting: <http://www.genengnews.com/gen-news-highlights/darpa-awards-65m-to-improve-gene-editing-safety-accuracy/81254686>
 
+9/19/2017 5:58 PM
+
+ **dano** :
+
+ >You're right :thinking_face:
+
