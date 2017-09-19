@@ -2985,3 +2985,9 @@ What software did you use for VR dev?
 
  >Hey Michelle! Glad you found the Slack!
 
+9/19/2017 3:06 AM
+
+ **sydneyneurotechx** :
+
+ >Welcome oriesai!
+
