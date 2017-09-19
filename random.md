@@ -2721,3 +2721,9 @@ I really wish there was greater dialogue in the media for weaponization of genet
 
  >like 'wardriving' for vulnerable wifi...
 
+9/19/2017 5:51 PM
+
+ **jnaulty** :
+
+ >you just scan the airwaves
+
