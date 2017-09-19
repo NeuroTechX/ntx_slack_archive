@@ -2703,3 +2703,9 @@ I really wish there was greater dialogue in the media for weaponization of genet
 
  >ya
 
+9/19/2017 5:50 PM
+
+ **jnaulty** :
+
+ >but that would be super easy to detect
+
