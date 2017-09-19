@@ -1860,3 +1860,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >But I would be happy to advance on this project
 
+9/19/2017 11:10 PM
+
+ **ray_cassani** :
+
+ >Can you bring (2) Muse first generation? I'll bring the tablet and robot
+
