@@ -2697,3 +2697,9 @@ I really wish there was greater dialogue in the media for weaponization of genet
 
  >Considering Cuba's relations with Russia, I think it's more likely that they'd be able to set up their 'heavy duty' listening equipment there
 
+9/19/2017 5:49 PM
+
+ **jnaulty** :
+
+ >ya
+
