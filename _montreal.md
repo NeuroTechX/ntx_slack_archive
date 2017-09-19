@@ -1836,3 +1836,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 > 
 (ray_cassani: long story short, we want to use the NeuralDrift as an example of a project for the student club competition, Ill talk to you about the idea Thursday)
 
+9/19/2017 7:22 PM
+
+ **ray_cassani** :
+
+ >Sure, sounds great, if based only in Muse device, we could modify the code to be independent from MuLES, and why not, from MATLAB
+
