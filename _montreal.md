@@ -1854,3 +1854,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >yannick unfortunately I can't come this week (you know I have something to prepare right? :-D) 
 
+9/19/2017 8:06 PM
+
+ **benjamindeleener** :
+
+ >But I would be happy to advance on this project
+
