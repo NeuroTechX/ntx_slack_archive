@@ -621,3 +621,9 @@ Also, anyone hosting any SF or Austin? :green_heart:
 
  >Sorry, arla, I just copied and pasted over from the toronto channel. I'll try and remember to update the text next time
 
+9/19/2017 7:10 PM
+
+ **yannick** :
+
+ >Its not all about TO you know& Other cities exist as well :wink:
+
