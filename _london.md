@@ -459,3 +459,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >sydneyneurotechx colin.rowat ryanlintott sorry for the delay
 
+9/20/2017 9:04 AM
+
+ **javi_neuralcubes** :
+
+ >I'm all up for it
+
