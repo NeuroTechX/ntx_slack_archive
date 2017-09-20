@@ -1941,3 +1941,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >1. I'd like to use the braindecode toolbox on some Muse data, maybe pre-existing neurodoro stuff or maybe some new stuff we could collect or track down before then
 
+9/20/2017 4:01 PM
+
+ **dano** :
+
+ >2. I just got a peek at Emotiv's desktop app with it's toy-like bci and facial expression detector stuff. I'll try and bring a headset by so we can play with it
+
