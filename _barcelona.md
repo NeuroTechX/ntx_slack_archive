@@ -264,3 +264,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >yannick It sounds like 20.00 our time works for everyone
 
+9/20/2017 3:53 PM
+
+ **firassafieddine** :
+
+ >ok so we meet at the cafe at 20 ?
+
