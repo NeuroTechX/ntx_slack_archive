@@ -1935,3 +1935,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >omg guys, all kinds of stuff to cover at this week's hacknight
 
+9/20/2017 4:00 PM
+
+ **dano** :
+
+ >1. I'd like to use the braindecode toolbox on some Muse data, maybe pre-existing neurodoro stuff or maybe some new stuff we could collect or track down before then
+
