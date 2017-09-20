@@ -1872,3 +1872,12 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >I will pass by on Thursday. Btw I'm working on a gestural/kinetic/audiovisual installation which will be exhibited at MAPP_MTL festival at Never Apart gallery from oct 5th. It's free entry so please come see me! (it's nothing to do with neurotech and sorry for shameless advertisement) <https://www.mappmtl.com/invisible> <https://www.facebook.com/events/505854076429482>
 
+9/20/2017 7:24 PM
+
+ **ray_cassani** :
+
+ ><!channel>, at the MuSAE Lab (INRS) we are looking for participants (18 - 49 years old) for a study on *fatigue and mental workload estimation from physiological signals (including wearable EEG)*. There is a $10/hr remuneration for your time; the duration of your participation is ~3 hours. If you are interested in participating in this study or have any questions, please get in touch with us at <mailto:musae.recruit@gmail.com|musae.recruit@gmail.com>
+
+> 
+Thank you.
+
