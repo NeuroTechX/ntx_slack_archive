@@ -294,3 +294,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >firassafieddine
 
+9/20/2017 4:55 PM
+
+ **paulsukhanov** :
+
+ >maybe 5-10 minutes before to make sure we are able to get on the call in time
+
