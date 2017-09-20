@@ -1929,3 +1929,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >To everyone heading to the event tonight, I'm sure it will be a great one! I would like to be able to make it, but, duty calls... happy networking everyone :slightly_smiling_face:
 
+9/20/2017 3:58 PM
+
+ **dano** :
+
+ >omg guys, all kinds of stuff to cover at this week's hacknight
+
