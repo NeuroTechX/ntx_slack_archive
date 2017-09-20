@@ -471,3 +471,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >If that's possible
 
+9/20/2017 9:04 AM
+
+ **javi_neuralcubes** :
+
+ >Shall we have a chat next week?
+
