@@ -162,3 +162,9 @@
 
  >VR headset + eeg + eye tracking device <http://looxidlabs.com/work/>
 
+9/20/2017 4:20 PM
+
+ **dano** :
+
+ >Very cool! i wonder how far along they are in developing it
+
