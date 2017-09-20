@@ -168,3 +168,9 @@
 
  >Very cool! i wonder how far along they are in developing it
 
+9/20/2017 4:21 PM
+
+ **dano** :
+
+ >no concrete purchase link
+
