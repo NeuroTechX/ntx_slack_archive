@@ -318,3 +318,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >im waering black with a grey backback
 
+9/20/2017 4:58 PM
+
+ **firassafieddine** :
+
+ >see you in a few
+
