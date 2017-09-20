@@ -1074,3 +1074,9 @@ I am sorry about that but in theory and should be working :smile: (and I work in
 
  >Sorry I couldn't make it. I'm still in Norway until the 20th but I'll be happy to help out again once I'm back.
 
+9/20/2017 11:53 PM
+
+ **sydneyneurotechx** :
+
+ >Hey all. Have you guys selected which content modules you would like to work on <!channel> ?
+
