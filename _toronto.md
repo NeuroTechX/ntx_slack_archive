@@ -1947,3 +1947,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >2. I just got a peek at Emotiv's desktop app with it's toy-like bci and facial expression detector stuff. I'll try and bring a headset by so we can play with it
 
+9/20/2017 4:02 PM
+
+ **dano** :
+
+ >3. The company I just started working for is interested in doing a Nuit Blanche exhibit: an EEG-responsive color-changing statue or piece of clothing. I'd like to brainstorm and see if anyone wants to join the project (open-source stuff)
+
