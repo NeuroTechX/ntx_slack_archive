@@ -330,3 +330,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >Ok. I'll be wearing a green shirt and an eeg headset :D 
 
+9/20/2017 5:28 PM
+
+ **paulsukhanov** :
+
+ >Here. I'm in the back table
+
