@@ -5994,3 +5994,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >muse-lsl also work for this
 
+9/20/2017 12:30 AM
+
+ **sc** :
+
+ >Kickstarter for a new NeuroSky-based headset: <https://www.kickstarter.com/projects/1571399980/neuroplus-improve-focus-with-brain-sensing-headset>
+
