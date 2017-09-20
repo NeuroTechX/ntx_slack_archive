@@ -306,3 +306,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >...actually I will probably head there in a few minutes, so you can join me anytime before 20.00 that is good for you
 
+9/20/2017 4:58 PM
+
+ **firassafieddine** :
+
+ >great
+
