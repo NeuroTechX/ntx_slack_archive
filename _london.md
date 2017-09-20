@@ -453,3 +453,9 @@ We have a few openings available and thought there might be some like-minded ind
 
  >thanks sydneyneurotechx: I'm out of the country until the Monday.  javi_neuralcubes, ryanlintott?
 
+9/20/2017 9:03 AM
+
+ **javi_neuralcubes** :
+
+ >sydneyneurotechx colin.rowat ryanlintott sorry for the delay
+
