@@ -300,3 +300,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >maybe 5-10 minutes before to make sure we are able to get on the call in time
 
+9/20/2017 4:56 PM
+
+ **paulsukhanov** :
+
+ >...actually I will probably head there in a few minutes, so you can join me anytime before 20.00 that is good for you
+
