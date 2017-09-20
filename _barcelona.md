@@ -324,3 +324,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >see you in a few
 
+9/20/2017 5:02 PM
+
+ **paulsukhanov** :
+
+ >Ok. I'll be wearing a green shirt and an eeg headset :D 
+
