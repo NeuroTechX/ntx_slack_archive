@@ -342,3 +342,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >Is there a call going on?
 
+9/20/2017 6:18 PM
+
+ **paulsukhanov** :
+
+ >we didn't set up the call yet, wasn't sure if you were joining :stuck_out_tongue:
+
