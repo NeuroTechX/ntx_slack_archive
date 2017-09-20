@@ -1866,3 +1866,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 
  >Can you bring (2) Muse first generation? I'll bring the tablet and robot
 
+9/20/2017 2:29 AM
+
+ **naoto** :
+
+ >I will pass by on Thursday. Btw I'm working on a gestural/kinetic/audiovisual installation which will be exhibited at MAPP_MTL festival at Never Apart gallery from oct 5th. It's free entry so please come see me! (it's nothing to do with neurotech and sorry for shameless advertisement) <https://www.mappmtl.com/invisible> <https://www.facebook.com/events/505854076429482>
+
