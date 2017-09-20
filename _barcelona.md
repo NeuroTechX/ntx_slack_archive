@@ -258,3 +258,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >At what time would you guys be meeting? Ill be available (afternoon time for me)
 
+9/20/2017 10:22 AM
+
+ **paulsukhanov** :
+
+ >yannick It sounds like 20.00 our time works for everyone
+
