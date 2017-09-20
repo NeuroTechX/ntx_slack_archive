@@ -276,3 +276,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >paulsukhanov
 
+9/20/2017 4:54 PM
+
+ **paulsukhanov** :
+
+ >yes, if that works for you, Fira
+
