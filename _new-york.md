@@ -222,3 +222,9 @@
 
  >aj For sure! If you come by let me know, I think you still have my e-mail.
 
+9/20/2017 1:15 AM
+
+ **aj** :
+
+ ><!channel> Thursday night Oct 28th will be NYC hacknight at OpenBCI. I want to do a special on brainwaves to the web browser over WiFi.
+
