@@ -714,3 +714,9 @@ I am currently working on Brain Computer Interface. My aim is to print a number 
 
  >I love it! This is awesome
 
+9/20/2017 5:11 PM
+
+ **sayan_faraz** :
+
+ >omrin love the name! Love that article :heart: (we use it for onboarding now lool)
+
