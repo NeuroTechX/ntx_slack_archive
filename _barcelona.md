@@ -336,3 +336,9 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >Here. I'm in the back table
 
+9/20/2017 6:15 PM
+
+ **yannick** :
+
+ >Is there a call going on?
+
