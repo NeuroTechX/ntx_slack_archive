@@ -1953,3 +1953,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >3. The company I just started working for is interested in doing a Nuit Blanche exhibit: an EEG-responsive color-changing statue or piece of clothing. I'd like to brainstorm and see if anyone wants to join the project (open-source stuff)
 
+9/20/2017 6:50 PM
+
+ **dano** :
+
+ >$35 Intro to Web-based VR by Dames Making Games on October 10th <https://dmg.to/events/intro-to-webvr-2017>
+
