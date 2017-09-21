@@ -2772,3 +2772,9 @@ I really wish there was greater dialogue in the media for weaponization of genet
 > 
 They determined it wasn't sonic in nature so far
 
+9/21/2017 7:16 PM
+
+ **psychopomp** :
+
+ >jnaulty You watch John Sotos' DEFCON talk this year?
+
