@@ -4854,3 +4854,9 @@ see especially the 2013 and 2014 publications
 
  >Check our the Awesome BCI List on our github
 
+9/21/2017 4:38 PM
+
+ **hectordomorozco** :
+
+ >Friends, Ive a question for you: I recently decided to migrated all my analysis pipeline from MATLAB to Python. I was told that MNE is quite good, so Im giving it a try. Do you know of any other EEG resources in Python that I can use? Specially in terms of more advanced analysis (graph theory, information theory analysis, connectivity, forward modeling&). Thanks :slightly_smiling_face:
+
