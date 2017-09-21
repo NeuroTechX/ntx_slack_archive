@@ -1080,3 +1080,9 @@ I am sorry about that but in theory and should be working :smile: (and I work in
 
  >Hey all. Have you guys selected which content modules you would like to work on <!channel> ?
 
+9/21/2017 6:16 AM
+
+ **vasilisa** :
+
+ >Hi! I selected "Intro to BCI" with Francecsa.
+
