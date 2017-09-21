@@ -1959,3 +1959,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >$35 Intro to Web-based VR by Dames Making Games on October 10th <https://dmg.to/events/intro-to-webvr-2017>
 
+9/21/2017 9:46 PM
+
+ **dano** :
+
+ >See y'all soon!
+
