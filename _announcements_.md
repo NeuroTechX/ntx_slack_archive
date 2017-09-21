@@ -1431,3 +1431,9 @@ Taking Action for Equality
 
  >don't underrate your skills and potential danielao
 
+9/21/2017 4:23 PM
+
+ **danielao** :
+
+ >Thanks. I actually applied after emailing them and am visiting the location at UCL tomorrow for an informal visit :slightly_smiling_face:
+
