@@ -4887,3 +4887,9 @@ Im also interested in the answer!
 
  >MNE seems most popular among(pyeeg, neurokit) that I have heard of. There are some general biosignal processing python libs biosig, biosignal, bioSPpy etc. 
 
+9/21/2017 10:59 PM
+
+ **hectordomorozco** :
+
+ >Thanks man, Ill check those out, too. Honestly, MNE seems quite nice so far. It has a lot more capabilities than I originally thought it would have
+
