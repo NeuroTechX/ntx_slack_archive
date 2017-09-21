@@ -2778,3 +2778,9 @@ They determined it wasn't sonic in nature so far
 
  >jnaulty You watch John Sotos' DEFCON talk this year?
 
+9/21/2017 7:17 PM
+
+ **psychopomp** :
+
+ >The Chief Medical Officer at Intel spoke exactly about genetic modification weaponization from the cancer moonshot project.
+
