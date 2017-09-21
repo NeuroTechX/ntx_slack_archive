@@ -2763,3 +2763,12 @@ I really wish there was greater dialogue in the media for weaponization of genet
 
  >
 
+9/21/2017 7:14 PM
+
+ **psychopomp** :
+
+ >Re: The Cuba phenomenon
+
+> 
+They determined it wasn't sonic in nature so far
+
