@@ -546,3 +546,9 @@ Closing date:  26th September 2017
 > 
 Taking Action for Equality
 
+9/21/2017 3:40 PM
+
+ **davidevaleriani** :
+
+ >Hey litvak, why not posting it to <#C0FNHPCF4|opportunities> as well? Also, you should check <https://neurotechjobs.com>
+
