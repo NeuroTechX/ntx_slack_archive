@@ -4881,3 +4881,9 @@ Im also interested in the answer!
 
  >psychopomp I checked out the GitHub page and they  havent updated it on a year& Thats not usually a good sign, but Ill check it out. Thanks!
 
+9/21/2017 9:10 PM
+
+ **rohit** :
+
+ >MNE seems most popular among(pyeeg, neurokit) that I have heard of. There are some general biosignal processing python libs biosig, biosignal, bioSPpy etc. 
+
