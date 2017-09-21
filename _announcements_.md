@@ -1413,3 +1413,9 @@ Taking Action for Equality
 
  >This may be past my qualifications (or maybe not) but very good heads up. Will definitely apply.
 
+9/21/2017 4:21 PM
+
+ **yrenard** :
+
+ >don't overrate your skills and potential danielao
+
