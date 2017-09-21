@@ -1338,3 +1338,72 @@ Enjoy and debate! :slightly_smiling_face:
 
  >falk very cool, thanks for posting!
 
+9/21/2017 9:33 AM
+
+ **litvak** :
+
+ >Senior MEG Research Technician
+
+> 
+ 
+
+> 
+Applications are invited for a Senior Research Technician in the Wellcome Centre for Human Neuroimaging, UCL Institute of Neurology.
+
+> 
+ 
+
+> 
+The Centre houses an Electroencephalography (EEG) system, two Magnetoencephalography (MEG) systems - a CTF 275 channel Omega System and an Optically Pumped Magnetometer (OPM) System -  and Magnetic Resonance Imaging (MRI) facilities - two 3T Siemens Prisma scanners and a 3T Siemens Trio.  The successful candidate will be responsible for coordinating and maintaining an efficient MEG and EEG service for a range of different research projects. This role will be constantly evolving as new and alternative technologies are incorporated into the functional imaging department.
+
+> 
+ 
+
+> 
+ 
+
+> 
+Applicants are required to have:
+
+> 
+·         Experience of EEG/MEG or similar electrophysiological recording methods (e.g. cardiology/audiology) within a clinical or research environment.
+
+> 
+·         A commitment to academic research.
+
+> 
+·         MEG experience is not essential as training will be provided.
+
+> 
+ 
+
+> 
+Salary - UCL Grade 7:
+
+> 
+£34,653 to £41,864 inclusive of London Allowance.
+
+> 
+The post is available immediately and is funded until Nov 2021 in the first instance.
+
+> 
+ 
+
+> 
+Applications through UCL's online recruitment  <http://www.ucl.ac.uk/hr/jobs|www.ucl.ac.uk/hr/jobs> where you can download a job description and person specification using ref: 1671016.
+
+> 
+ 
+
+> 
+Informal enquiries to Elaine Williams:  <mailto:elaine.williams@ucl.ac.uk|elaine.williams@ucl.ac.uk> . If you have any queries regarding the application process, please contact Samantha Robinson, HR Officer, Institute of Neurology, 23 Queen Square, London, WC1N 3BG (email: <mailto:ion.hradmin@ucl.ac.uk|ion.hradmin@ucl.ac.uk>).
+
+> 
+ 
+
+> 
+Closing date:  26th September 2017
+
+> 
+Taking Action for Equality
+
