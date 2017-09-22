@@ -4284,3 +4284,15 @@ feasible to get custom probes cheaper? Maybe in Europe or China (considering I'm
 
  ><http://corteraneuro.com/products/neuroscience>
 
+9/22/2017 4:43 PM
+
+ **alexandre.barachant** :
+
+ >Recently, i've been working on 3D printed EEG electrode. I think i start to get very positive results.
+
+> 
+I'm using conductive PLA + silver paint on the tip of the electrodes.
+
+> 
+here is some pictures :
+
