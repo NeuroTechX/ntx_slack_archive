@@ -2997,3 +2997,9 @@ What software did you use for VR dev?
 
  >Welcome Michelle!
 
+9/22/2017 12:40 PM
+
+ **ruudkalis** :
+
+ >Hi there! I am Ruud Kalis from Sweden. Freelance app developer with a MsC in electrical / medical engineering. I worked for 7 years at ANT Neuro as a developer and product manager at their R&amp;D in Berlin. In that position I travelled the world to visit, setup and train (clinical) research groups to help them set up EEG / BCI  / TMS labs. My current interest is in digital health &amp; BCI in particular. I look forward to share my experiences and learn from you all!
+
