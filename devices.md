@@ -4308,3 +4308,9 @@ here is some pictures :
 
  >You made the electrodes yourself? (the one similar to the Cognionics ones
 
+9/22/2017 9:06 PM
+
+ **sydneyneurotechx** :
+
+ >Nice. Canadian quarter for scale.  :stuck_out_tongue:
+
