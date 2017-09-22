@@ -2784,3 +2784,9 @@ They determined it wasn't sonic in nature so far
 
  >The Chief Medical Officer at Intel spoke exactly about genetic modification weaponization from the cancer moonshot project.
 
+9/22/2017 3:21 PM
+
+ **joeyo** :
+
+ ><https://gizmodo.com/here-are-the-first-hints-of-how-facebook-plans-to-read-1818624773>
+
