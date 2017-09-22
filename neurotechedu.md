@@ -1086,3 +1086,9 @@ I am sorry about that but in theory and should be working :smile: (and I work in
 
  >Hi! I selected "Intro to BCI" with Francecsa.
 
+9/22/2017 9:06 PM
+
+ **sydneyneurotechx** :
+
+ >sweet!
+
