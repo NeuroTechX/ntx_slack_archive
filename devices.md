@@ -4332,3 +4332,9 @@ here is some pictures :
 
  >holy moly, that's amazing
 
+9/22/2017 9:27 PM
+
+ **alexandre.barachant** :
+
+ >yannick yes, its homemade. Similar to cognonics, but not flexible. i have trouble to 3D print conductive flexible filament
+
