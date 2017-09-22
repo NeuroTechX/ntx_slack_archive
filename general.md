@@ -6012,3 +6012,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Hmmmmmmm :thinking_face:
 
+9/22/2017 9:08 PM
+
+ **sydneyneurotechx** :
+
+ >any good references/publications that benchmark consumer eeg's to research/medical grade?
+
