@@ -4893,3 +4893,9 @@ Im also interested in the answer!
 
  >Thanks man, Ill check those out, too. Honestly, MNE seems quite nice so far. It has a lot more capabilities than I originally thought it would have
 
+9/22/2017 10:03 AM
+
+ **aj** :
+
+ >anyone have a SPDNet in python
+
