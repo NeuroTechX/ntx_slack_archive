@@ -4899,3 +4899,9 @@ Im also interested in the answer!
 
  >anyone have a SPDNet in python
 
+9/22/2017 11:56 AM
+
+ **mikhail.sintsov** :
+
+ >I would also recommend looking at Phy <https://github.com/kwikteam/phy>.
+
