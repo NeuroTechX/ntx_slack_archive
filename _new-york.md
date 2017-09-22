@@ -228,3 +228,9 @@
 
  ><!channel> Thursday night Oct 28th will be NYC hacknight at OpenBCI. I want to do a special on brainwaves to the web browser over WiFi.
 
+9/22/2017 8:10 PM
+
+ **alex** :
+
+ >aj if there are materials (video, ppt, etc) for that hacknight, please pass them my way!
+
