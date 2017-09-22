@@ -4302,3 +4302,9 @@ here is some pictures :
 
  >anyone has tried similar things ?
 
+9/22/2017 7:20 PM
+
+ **yannick** :
+
+ >You made the electrodes yourself? (the one similar to the Cognionics ones
+
