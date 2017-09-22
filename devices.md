@@ -4296,3 +4296,9 @@ I'm using conductive PLA + silver paint on the tip of the electrodes.
 > 
 here is some pictures :
 
+9/22/2017 4:45 PM
+
+ **alexandre.barachant** :
+
+ >anyone has tried similar things ?
+
