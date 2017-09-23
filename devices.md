@@ -4356,3 +4356,9 @@ here is some pictures :
 
  >how do I determine the amount of RAM i need for a project?
 
+9/23/2017 1:03 PM
+
+ **ntremblay** :
+
+ >Hello Aj, a big part of ram consumption came from variables and array that you declare... I think you should firstly verify this and also take in account the data type of your arrays. A byte array is x time smaller than a float array...
+
