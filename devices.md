@@ -4350,3 +4350,9 @@ here is some pictures :
 
  >congratulations alexandre.barachant that looks great
 
+9/23/2017 12:04 PM
+
+ **aj** :
+
+ >how do I determine the amount of RAM i need for a project?
+
