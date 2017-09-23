@@ -4362,3 +4362,9 @@ here is some pictures :
 
  >Hello Aj, a big part of ram consumption came from variables and array that you declare... I think you should firstly verify this and also take in account the data type of your arrays. A byte array is x time smaller than a float array...
 
+9/23/2017 1:32 PM
+
+ **aj** :
+
+ >yea i guess i need to run my system and see it's memory consumption
+
