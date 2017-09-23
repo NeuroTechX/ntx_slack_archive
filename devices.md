@@ -4344,3 +4344,9 @@ here is some pictures :
 
  >I think Connor at OpenBCI has done some work on printed electrodes, but that goes back a few years.
 
+9/23/2017 5:02 AM
+
+ **yrenard** :
+
+ >congratulations alexandre.barachant that looks great
+
