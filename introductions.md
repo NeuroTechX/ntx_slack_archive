@@ -3015,3 +3015,9 @@ What software did you use for VR dev?
 
  >Hi all! I'm Zoe and I am currently studying Mechatronic Engineering and Neuroscience at UNSW Sydney, Australia. I have had some experience working with a cognitive neuroscience lab where I interfaced a TMS device with matlab to test human psychophysics. I also started developing some VR software for these studies. I am three years into my degree and am just at the beginning of my involvement in neuro tech but I am very excited to join this community and collaborate.
 
+9/23/2017 7:28 AM
+
+ **ruudkalis** :
+
+ >Hi dano. Great to read that!! I was wondering if there are any mobile EEG apps e.g. Neurofeedback, BCI, 3D visualization of EEG.. or why not AR / 3D EEG FFT mapping?
+
