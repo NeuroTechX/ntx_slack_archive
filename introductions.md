@@ -3021,3 +3021,9 @@ What software did you use for VR dev?
 
  >Hi dano. Great to read that!! I was wondering if there are any mobile EEG apps e.g. Neurofeedback, BCI, 3D visualization of EEG.. or why not AR / 3D EEG FFT mapping?
 
+9/23/2017 7:28 AM
+
+ **ruudkalis** :
+
+ >I tested React Native about 1,5 years ago and was really impressed with the performance. The integration of ASyncDisplayKit in React Native made it outperform iOS standard UIKit!! But I never developed a complete app based on it. My current projects are mostly in native iOS development.
+
