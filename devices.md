@@ -4338,3 +4338,9 @@ here is some pictures :
 
  >yannick yes, its homemade. Similar to cognonics, but not flexible. i have trouble to 3D print conductive flexible filament
 
+9/23/2017 12:19 AM
+
+ **fred-simard** :
+
+ >I think Connor at OpenBCI has done some work on printed electrodes, but that goes back a few years.
+
