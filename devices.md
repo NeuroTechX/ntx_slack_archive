@@ -4368,3 +4368,9 @@ here is some pictures :
 
  >yea i guess i need to run my system and see it's memory consumption
 
+9/23/2017 1:33 PM
+
+ **aj** :
+
+ >i wonder if there is a trace tool to monitor memory
+
