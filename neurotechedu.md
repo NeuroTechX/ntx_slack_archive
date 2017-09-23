@@ -1092,3 +1092,9 @@ I am sorry about that but in theory and should be working :smile: (and I work in
 
  >sweet!
 
+9/23/2017 3:24 PM
+
+ **jfrayshe** :
+
+ >I'll be going back to polish neural oscillations
+
