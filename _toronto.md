@@ -1965,3 +1965,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >See y'all soon!
 
+9/25/2017 11:00 AM
+
+ **alice** :
+
+ >Darnit, I was really looking forward to the next one and then I didn't log in for a week. When is the next one?
+
