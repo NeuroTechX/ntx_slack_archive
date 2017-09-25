@@ -1977,3 +1977,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >Hey Alice. Too bad you couldn't make this one. We'll be meeting again sometime next week. I'll go ahead and add you to the email list to keep you posted
 
+9/25/2017 2:46 PM
+
+ **jee** :
+
+ >dano Could you add me to the list too please? Seems I haven't been receiving emails. `<mailto:hyejee.jung@gmail.com|hyejee.jung@gmail.com>`
+
