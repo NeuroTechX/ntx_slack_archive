@@ -1995,3 +1995,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >Is it safe to assume that classes and lectures run during the day at UofT?
 
+9/25/2017 5:55 PM
+
+ **dano** :
+
+ >sayan_faraz ?
+
