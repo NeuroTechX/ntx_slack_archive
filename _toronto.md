@@ -1971,3 +1971,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >Darnit, I was really looking forward to the next one and then I didn't log in for a week. When is the next one?
 
+9/25/2017 12:48 PM
+
+ **dano** :
+
+ >Hey Alice. Too bad you couldn't make this one. We'll be meeting again sometime next week. I'll go ahead and add you to the email list to keep you posted
+
