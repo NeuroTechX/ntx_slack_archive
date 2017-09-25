@@ -2025,3 +2025,9 @@ For computer science / software engineering, our timetables change all the time;
 
  >jee for engineering, I think it'd be safe to assume that classes run during the day, with most first and second year classes finishing before 7. Beyond second year, everyone has different schedules, so it's usually a mix of day and evening lectures.
 
+9/25/2017 9:52 PM
+
+ **jee** :
+
+ >sayan_faraz albertle Thanks heaps for the info. Would you be okay to share your curriculum sheet/s for me to take a look at?
+
