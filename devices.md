@@ -4374,3 +4374,9 @@ here is some pictures :
 
  >i wonder if there is a trace tool to monitor memory
 
+9/25/2017 12:12 AM
+
+ **fred-simard** :
+
+ >aj there's plenty. Visual Studio integrates a profiler if you're using Windows. Under Linux, this should get you started: <https://baptiste-wicht.com/posts/2011/07/profile-applications-linux-perf-tools.html>. Google it, this is a common need for performance optimization and embedded system development.
+
