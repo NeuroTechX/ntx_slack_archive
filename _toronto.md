@@ -2019,3 +2019,9 @@ It was a great experience for me! So anyone in that space should think about it.
 > 
 For computer science / software engineering, our timetables change all the time; we have lecture sections in both weekdays and weeknights
 
+9/25/2017 9:49 PM
+
+ **albertle** :
+
+ >jee for engineering, I think it'd be safe to assume that classes run during the day, with most first and second year classes finishing before 7. Beyond second year, everyone has different schedules, so it's usually a mix of day and evening lectures.
+
