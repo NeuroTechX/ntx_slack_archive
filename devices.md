@@ -4404,3 +4404,18 @@ The problem with dry electrode is not so much that they can't measure EEG signal
 > 
 Again, I think your work is amazing and I'm looking forward to see your progress, I'm only playing the role of the skeptic who needs to challenges your work. I hope you'll prove me wrong.
 
+9/25/2017 8:24 AM
+
+ **alexandre.barachant** :
+
+ >fred-simard I'm agreeing with you 100%. i would have made the same remark if it was not me that posted the results.
+
+> 
+Obeserving ERP difference is a very bad way to compare systems, because ERP hide noise thanks to averaging.
+
+> 
+This is why i develloped a complete procedure to benchmark the electrodes. In addition to ERP, this procedure generate induce oscillation in gamma frequency in the visual cortex.
+
+> 
+I then use single trial classification as a metric for signal quality, since more noise would lead to lower classification performances.
+
