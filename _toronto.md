@@ -2007,3 +2007,15 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >^
 
+9/25/2017 7:25 PM
+
+ **sayan_faraz** :
+
+ >albertle would know about engineering timetables
+
+> 
+
+
+> 
+For computer science / software engineering, our timetables change all the time; we have lecture sections in both weekdays and weeknights
+
