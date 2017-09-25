@@ -1983,3 +1983,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >dano Could you add me to the list too please? Seems I haven't been receiving emails. `<mailto:hyejee.jung@gmail.com|hyejee.jung@gmail.com>`
 
+9/25/2017 5:45 PM
+
+ **jee** :
+
+ >Hi Toronto, does anyone have access to software engineering subject timetables and curriculum at UofT?
+
