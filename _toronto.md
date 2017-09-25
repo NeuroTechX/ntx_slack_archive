@@ -2031,3 +2031,9 @@ For computer science / software engineering, our timetables change all the time;
 
  >sayan_faraz albertle Thanks heaps for the info. Would you be okay to share your curriculum sheet/s for me to take a look at?
 
+9/25/2017 9:53 PM
+
+ **albertle** :
+
+ >Are you looking for specific courses?
+
