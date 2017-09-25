@@ -4425,3 +4425,9 @@ I then use single trial classification as a metric for signal quality, since mor
 
  >These resuslts are just for teasing, but i'm currently setting up the benchmark and recording data on several subjects
 
+9/25/2017 8:25 AM
+
+ **alexandre.barachant** :
+
+ >to aswers your question, there is 80 trial per class, and the shaded region is the convidence interval estimated with bootstraping.
+
