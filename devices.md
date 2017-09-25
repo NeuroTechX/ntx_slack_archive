@@ -4380,3 +4380,27 @@ here is some pictures :
 
  >aj there's plenty. Visual Studio integrates a profiler if you're using Windows. Under Linux, this should get you started: <https://baptiste-wicht.com/posts/2011/07/profile-applications-linux-perf-tools.html>. Google it, this is a common need for performance optimization and embedded system development.
 
+9/25/2017 12:25 AM
+
+ **fred-simard** :
+
+ >alexandre.barachant Even thought I think your work toward designing a 3d printed electrode is amazing, I would like to play the devil's advocate, here. I noticed that you plotted the average traces for the EEG responses, but you didn't provided the following key information: 1) what is the number of trials, 2) what does the shaded region shows? 
+
+> 
+
+
+> 
+I noticed several articles (blogs) that compared recording platforms and made dubious claims on the ability to measure the ERP. The simple trick is to record many trials and plot the standard error on the mean as the shaded region. The standard error is greatly reduced as the number of trials increases and is not related to information content. While such a trace confirms that the ERP can be measured using the said device, it hides that the variability of the response is much higher than other devices, greatly impacting single trial performance. A better metric is the standard deviation (usually 95% interval), which does provide an estimate for the entropy in the system.
+
+> 
+
+
+> 
+The problem with dry electrode is not so much that they can't measure EEG signals, it is that they pick up a lot of noise, by turning the electrode wire into some kind of antenna. With enough trials or long recording period, you can still find whatever EEG signature you are hunting for, but it takes more trials/time to filter out the noise.
+
+> 
+
+
+> 
+Again, I think your work is amazing and I'm looking forward to see your progress, I'm only playing the role of the skeptic who needs to challenges your work. I hope you'll prove me wrong.
+
