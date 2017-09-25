@@ -1989,3 +1989,9 @@ It was a great experience for me! So anyone in that space should think about it.
 
  >Hi Toronto, does anyone have access to software engineering subject timetables and curriculum at UofT?
 
+9/25/2017 5:46 PM
+
+ **jee** :
+
+ >Is it safe to assume that classes and lectures run during the day at UofT?
+
