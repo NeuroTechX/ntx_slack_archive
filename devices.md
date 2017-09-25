@@ -4419,3 +4419,9 @@ This is why i develloped a complete procedure to benchmark the electrodes. In ad
 > 
 I then use single trial classification as a metric for signal quality, since more noise would lead to lower classification performances.
 
+9/25/2017 8:25 AM
+
+ **alexandre.barachant** :
+
+ >These resuslts are just for teasing, but i'm currently setting up the benchmark and recording data on several subjects
+
