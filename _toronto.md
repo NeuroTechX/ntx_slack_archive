@@ -2043,3 +2043,9 @@ For computer science / software engineering, our timetables change all the time;
 
  >I can also share some of my insights on CS at UofT. Depending on the classes, you generally have multiple sections to choose from. Generally, some of them are during the daytime, while other classes are for example one huge lecture between 6-9pm. The bigger the course (generally, 1st and 2nd year are larger), the more section a course offers. Mine (3rd and 4th year) offer mostly 2 different sections.
 
+9/26/2017 3:06 PM
+
+ **dano** :
+
+ >This looks interesting: <https://www.eventbrite.ca/e/toronto-machine-learning-summit-tmls-tickets-34636658177?utm_source=Machine+Learning+Community+News+Registrants&amp;utm_campaign=46ddc1e430-EMAIL_CAMPAIGN_2017_09_18&amp;utm_medium=email&amp;utm_term=0_d9f00d2e67-46ddc1e430-68694421>
+
