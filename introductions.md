@@ -3039,3 +3039,9 @@ My name is Dennis, and I'm currently doing an exchange year at UofT, where I stu
 > 
 I randomly found out about the NeuroTechTO hacknight, and plan on getting more involved with their projects, especially focused around deep learning-based pattern recognition in EEG data.
 
+9/26/2017 2:40 PM
+
+ **dano** :
+
+ >Awesome! It's only gotten better over time, too
+
