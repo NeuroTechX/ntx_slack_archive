@@ -3045,3 +3045,21 @@ I randomly found out about the NeuroTechTO hacknight, and plan on getting more i
 
  >Awesome! It's only gotten better over time, too
 
+9/26/2017 2:43 PM
+
+ **dano** :
+
+ >As to your ideas about AR / 3D apps that's definitely something we're interested in. 
+
+> 
+
+
+> 
+Right now we're working on 
+
+> 
+- EEG 101, an interactive neuroscience tutorial: <https://github.com/neurotechx/eeg-101>
+
+> 
+- Neurodoro, a pomodoro timer that tracks cognitive performance using convolutional neural nets: <https://github.com/NeuroTechX/neurodoro>
+
