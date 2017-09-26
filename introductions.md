@@ -3027,3 +3027,15 @@ What software did you use for VR dev?
 
  >I tested React Native about 1,5 years ago and was really impressed with the performance. The integration of ASyncDisplayKit in React Native made it outperform iOS standard UIKit!! But I never developed a complete app based on it. My current projects are mostly in native iOS development.
 
+9/26/2017 12:37 AM
+
+ **dennlinger** :
+
+ >Hi, might as well introduce myself to the rest of the community!
+
+> 
+My name is Dennis, and I'm currently doing an exchange year at UofT, where I study computer science. Technically already in my grad studies at home, I stick mostly to undergrad 4th year courses. For me, CS is the way towards other fields, and I enjoyed working together with researchers from medical sciences and all kinds of other fields (e.g. Archeology).
+
+> 
+I randomly found out about the NeuroTechTO hacknight, and plan on getting more involved with their projects, especially focused around deep learning-based pattern recognition in EEG data.
+
