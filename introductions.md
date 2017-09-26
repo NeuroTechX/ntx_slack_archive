@@ -3063,3 +3063,9 @@ Right now we're working on
 > 
 - Neurodoro, a pomodoro timer that tracks cognitive performance using convolutional neural nets: <https://github.com/NeuroTechX/neurodoro>
 
+9/26/2017 2:45 PM
+
+ **dano** :
+
+ >Going to in AR/VR would be very cool, too. I'm thinking we could do that with either a Unity Google Daydream app or something with React VR. I know there's also all kinds of exciting things that ARKit can do, too
+
