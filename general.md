@@ -6030,3 +6030,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Also interested in this.
 
+9/26/2017 2:23 PM
+
+ **dmorden** :
+
+ >Nothing; most researchers say the data off of consumer is shit
+
