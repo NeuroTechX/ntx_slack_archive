@@ -4431,3 +4431,9 @@ I then use single trial classification as a metric for signal quality, since mor
 
  >to aswers your question, there is 80 trial per class, and the shaded region is the convidence interval estimated with bootstraping.
 
+9/26/2017 12:23 AM
+
+ **fred-simard** :
+
+ >Great job thanks for the details. Keep it up. After reading your message, I looked it up and identified a conductive epoxy and conductive flexible TPU plastic. Not cheap thought. I'm a bit busy right now, but might give it a try later on. Side note, I tried you pyRiemann on some data I had. Good stuff!
+
