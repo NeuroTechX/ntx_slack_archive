@@ -1467,3 +1467,9 @@ Taking Action for Equality
 
  >I might be able to pitch in on a couple issues, AJ. Wanted to attend, but unfortunately Mozfest took precedent :wink:
 
+9/27/2017 11:05 PM
+
+ **dano** :
+
+ >I might be able to pitch in on a couple issues with your project. Could call it a NeuroTechX team
+
