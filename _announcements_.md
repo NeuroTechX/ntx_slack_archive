@@ -1449,3 +1449,9 @@ Taking Action for Equality
 
  >Dear NeuroTechX community. Ive advertised the IEEE Brain Hackathon recently, which will take place Oct. 7-8 in Banff, Alberta, Canada. We have over $7000 in prizes, plus hardware prizes from Interaxon and Thalmic Labs. We have over 50 people already signed up but we have room for many more. New this year, you can actually participate in the hackathon REMOTELY (ideally, at least one team member will be present to present the work). There has been a 100 Mbps dedicated line for online participation. Please register for your favourite project and let us know that you want to participate online. More details about projects and how to register can be found here: <http://www.br41n.io/Banff-2017> Hope to see may of you there, in person or virtually!
 
+9/27/2017 4:14 PM
+
+ **aj** :
+
+ >Also Im gonna be there and OpenBCI will be too with a bunch of tech including the new WiFi shield 
+
