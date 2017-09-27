@@ -1455,3 +1455,9 @@ Taking Action for Equality
 
  >Also Im gonna be there and OpenBCI will be too with a bunch of tech including the new WiFi shield 
 
+9/27/2017 6:51 PM
+
+ **falk** :
+
+ >great! have you all registered already? You can also create multiple teams by combining those that will be physically present as well as the remote ones. Maybe a NeuroTechX team could be put together. What do you think yannick?
+
