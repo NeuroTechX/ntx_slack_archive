@@ -3081,3 +3081,9 @@ Right now we're working on
 
  >Unity with Vuforia is really easy to setup. ARKit should be too, but until now only my colleagues have had the privilege to work with. Will probbaly get my hands on that soon!
 
+9/27/2017 6:31 AM
+
+ **ruudkalis** :
+
+ >Really love to Neurodoro!!
+
