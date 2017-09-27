@@ -2049,3 +2049,9 @@ For computer science / software engineering, our timetables change all the time;
 
  >This looks interesting: <https://www.eventbrite.ca/e/toronto-machine-learning-summit-tmls-tickets-34636658177?utm_source=Machine+Learning+Community+News+Registrants&amp;utm_campaign=46ddc1e430-EMAIL_CAMPAIGN_2017_09_18&amp;utm_medium=email&amp;utm_term=0_d9f00d2e67-46ddc1e430-68694421>
 
+9/27/2017 6:03 PM
+
+ **jee** :
+
+ >Software engineering and electrical engineering. :slightly_smiling_face:
+
