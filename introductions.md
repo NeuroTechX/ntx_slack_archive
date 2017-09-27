@@ -3087,3 +3087,9 @@ Right now we're working on
 
  >Really love to Neurodoro!!
 
+9/27/2017 7:00 AM
+
+ **ruudkalis** :
+
+ >Just ordered a Mues headband!! Hope I can contribute to these projects soon
+
