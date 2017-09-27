@@ -1461,3 +1461,9 @@ Taking Action for Equality
 
  >great! have you all registered already? You can also create multiple teams by combining those that will be physically present as well as the remote ones. Maybe a NeuroTechX team could be put together. What do you think yannick?
 
+9/27/2017 11:04 PM
+
+ **dano** :
+
+ >I might be able to pitch in on a couple issues, AJ. Wanted to attend, but unfortunately Mozfest took precedent :wink:
+
