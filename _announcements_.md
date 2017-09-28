@@ -1497,3 +1497,9 @@ Taking Action for Equality
 
  >I would be interested! Though, I am a neuro researcher so I cant help much with the coding.
 
+9/28/2017 7:44 PM
+
+ **aj** :
+
+ >falk im not sure if i can do the hack-a-thon as a participant because im supposed to be helping and such with all things openbci
+
