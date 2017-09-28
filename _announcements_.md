@@ -1521,3 +1521,9 @@ Taking Action for Equality
 
  >hailey, interdisciplinarity is at the heart of the hackathon. This year we are also bringing 20 high school students to be part of different teams to motivate young minds to enter STEM and neuroscience fields. So your skillset would be very useful!
 
+9/28/2017 7:49 PM
+
+ **hailey** :
+
+ >Great! Thanks falk
+
