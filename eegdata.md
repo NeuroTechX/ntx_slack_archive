@@ -5043,3 +5043,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >Hi hubertjb. Thanks for replying. I did see that thread but it didn't really come to a conclusion (especially for newbies to homemade electrodes like myself). It was still unclear whether I could actually buy a dry electrode that connects to micro-USB. Enigma44 had the clearest answer so I'll look into that and your suggestion of a dry hairpin electrode.
 
+9/28/2017 5:02 PM
+
+ **mesca** :
+
+ >Ive been experimenting with LSTM for cross-subject ERP classification: <https://github.com/mesca/turnkey-bci>
+
