@@ -2826,3 +2826,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >On a side note, your first name wouldn't have to be John would it?
 
+9/28/2017 3:35 AM
+
+ **jnaulty** :
+
+ >yes, it is
+
