@@ -4980,3 +4980,9 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  >actually, the version 1.85 seems to add support for python 3
 
+9/28/2017 11:03 AM
+
+ **alexandre.barachant** :
+
+ >but its not released yet
+
