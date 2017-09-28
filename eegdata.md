@@ -4974,3 +4974,9 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  >unfortunatly, yes :disappointed: we use psychopy to display stimulus, and they onlu support 2.7
 
+9/28/2017 11:00 AM
+
+ **alexandre.barachant** :
+
+ >actually, the version 1.85 seems to add support for python 3
+
