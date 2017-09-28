@@ -4986,3 +4986,9 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  >but its not released yet
 
+9/28/2017 11:18 AM
+
+ **danielao** :
+
+ >Thanks for the reply. I guess I'll at least look for the dongle described to start and keep a look out for that update. Related question, but what is the efficacy on using Muse for ERPs or visual data? I'm slightly skeptical but I haven't dealt with commercial EEG data that extensively.
+
