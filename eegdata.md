@@ -5016,3 +5016,12 @@ he added an electrode on POz
 
  >thanks to benbrain, who initially developed and tested all these paradigms for the Muse at Interaxon!
 
+9/28/2017 3:07 PM
+
+ **danielao** :
+
+ >Thanks for responding to my messages. This has actually been really helpful in understanding this side of the field. Yeah the positioning was more why I was wondering how Muse would pick up signal that originates from the other side of the head effectively. That makes a lot more sense and I'll definitely want to try that. 
+
+> 
+Honestly, it seems like that should be a product in itself, Muse with a couple more centrally located electrodes but at least they've been clear that with a bit of tinkering you can do it yourself. hubertjb any suggestions on adding this extra electrode (i.e. what you used, option of dry electrode, option of multiple)?
+
