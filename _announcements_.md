@@ -1509,3 +1509,9 @@ Taking Action for Equality
 
  >im on everyone's team
 
+9/28/2017 7:46 PM
+
+ **falk** :
+
+ >hehehe& ok. Main purpose of having at least one person physically there is for the presentation and demo on the last day
+
