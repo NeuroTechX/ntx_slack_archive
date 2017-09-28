@@ -5049,3 +5049,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >Ive been experimenting with LSTM for cross-subject ERP classification: <https://github.com/mesca/turnkey-bci>
 
+9/28/2017 5:18 PM
+
+ **dano** :
+
+ >Can you give a quick blurb about why LSTM might be helpful for that? IMU it's helpful for introducing temporal info (e.g. video) into classification
+
