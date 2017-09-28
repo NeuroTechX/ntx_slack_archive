@@ -5025,3 +5025,9 @@ he added an electrode on POz
 > 
 Honestly, it seems like that should be a product in itself, Muse with a couple more centrally located electrodes but at least they've been clear that with a bit of tinkering you can do it yourself. hubertjb any suggestions on adding this extra electrode (i.e. what you used, option of dry electrode, option of multiple)?
 
+9/28/2017 4:08 PM
+
+ **dano** :
+
+ >What's the word on XDF vs EDF+ EEG file formats? After some searching I haven't been able figure out how much they differ, which one is advisable to use, and whether you can record from LSL to EDF+ or convert from XDF to EDF+
+
