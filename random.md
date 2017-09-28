@@ -2832,3 +2832,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >yes, it is
 
+9/28/2017 9:31 AM
+
+ **psychopomp** :
+
+ >Oh hey. We've met at Berkeley.
+
