@@ -4944,3 +4944,9 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  ><https://en.wikipedia.org/wiki/P600_(neuroscience)>
 
+9/28/2017 9:35 AM
+
+ **alexandre.barachant** :
+
+ >we could try this one
+
