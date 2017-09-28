@@ -1887,3 +1887,9 @@ Thank you.
 
  ><!channel> is there a hacknight tonight?
 
+9/28/2017 3:38 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> I've booked the space, so yes. I forgot the devices, so please bring your own
+
