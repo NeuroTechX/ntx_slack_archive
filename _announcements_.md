@@ -1473,3 +1473,9 @@ Taking Action for Equality
 
  >I might be able to pitch in on a couple issues with your project. Could call it a NeuroTechX team
 
+9/28/2017 7:34 PM
+
+ **keaton** :
+
+ >falk I'm definitely interested in participating! I'll be working remotely, though. Has someone made the NeuroTechX team yet?
+
