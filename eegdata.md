@@ -4992,3 +4992,12 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  >Thanks for the reply. I guess I'll at least look for the dongle described to start and keep a look out for that update. Related question, but what is the efficacy on using Muse for ERPs or visual data? I'm slightly skeptical but I haven't dealt with commercial EEG data that extensively.
 
+9/28/2017 11:21 AM
+
+ **alexandre.barachant** :
+
+ >it works, the signal with muse is good. The issue is more about the electrode positions. you can pick signal from the visual cortex because it diffuse on the scalp, but it's wont be as good as if you had electrodes positioned over the visual cortex.
+
+> 
+muse has an auxiliary channel where you can add another electrode. this way you can place one in Oz and get very good ERP
+
