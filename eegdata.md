@@ -5061,3 +5061,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >Well, ERPs are temporal data by nature :wink: There are many ways to use LSTM networks, here I use one to solve a sequence classification problem.
 
+9/28/2017 5:32 PM
+
+ **bciguy** :
+
+ >alexandre.barachant interesting do you know the author? Aurora already has this functionality embedded onboard the device, with an open SDK and API endpoints
+
