@@ -4956,3 +4956,9 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  >also, did anyone tried motor imagery with a muse ?
 
+9/28/2017 10:31 AM
+
+ **alexandre.barachant** :
+
+ ><https://github.com/skjerns/AutoSleepScorer>
+
