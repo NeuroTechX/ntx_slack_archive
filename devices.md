@@ -4449,3 +4449,9 @@ I then use single trial classification as a metric for signal quality, since mor
 
  >Hi guys, does anyone have experience with recording eeg with the dry electrodes headset from OpenBCI? <#C08T2SENQ|devices> 
 
+9/28/2017 5:16 PM
+
+ **dano** :
+
+ >The UltraCortex? We used it for some cool demo projects in Toronto, didn't have any problems
+
