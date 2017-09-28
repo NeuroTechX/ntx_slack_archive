@@ -6054,3 +6054,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Oh, and just DM me if you can't access because of the paywall 
 
+9/28/2017 4:13 PM
+
+ **yrenard** :
+
+ >hey keaton can you share the PDF to us ?
+
