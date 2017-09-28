@@ -4950,3 +4950,9 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  >we could try this one
 
+9/28/2017 9:40 AM
+
+ **alexandre.barachant** :
+
+ >also, did anyone tried motor imagery with a muse ?
+
