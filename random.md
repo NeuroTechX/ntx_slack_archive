@@ -2820,3 +2820,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >It's a great talk
 
+9/28/2017 3:12 AM
+
+ **psychopomp** :
+
+ >On a side note, your first name wouldn't have to be John would it?
+
