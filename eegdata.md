@@ -5067,3 +5067,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >alexandre.barachant interesting do you know the author? Aurora already has this functionality embedded onboard the device, with an open SDK and API endpoints
 
+9/28/2017 5:48 PM
+
+ **alexandre.barachant** :
+
+ >no, i just came across this. no idea if it works well
+
