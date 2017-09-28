@@ -2814,3 +2814,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >trying to find the slides...
 
+9/28/2017 3:11 AM
+
+ **psychopomp** :
+
+ >It's a great talk
+
