@@ -1503,3 +1503,9 @@ Taking Action for Equality
 
  >falk im not sure if i can do the hack-a-thon as a participant because im supposed to be helping and such with all things openbci
 
+9/28/2017 7:45 PM
+
+ **aj** :
+
+ >im on everyone's team
+
