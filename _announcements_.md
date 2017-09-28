@@ -1485,3 +1485,9 @@ Taking Action for Equality
 
  >Hi & seems dano showed some interest. perhaps you two can register a team and then more people can follow on? With a team registered, it may be easier to get more on board. Registration link is <http://www.br41n.io/Banff-2017>
 
+9/28/2017 7:38 PM
+
+ **falk** :
+
+ >also aj will be physically there& maybe dano and keaton can join his project (if there is still room) and we baptize that as the NeuroTechX team? Is there room aj in your team still?
+
