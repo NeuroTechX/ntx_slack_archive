@@ -1893,3 +1893,9 @@ Thank you.
 
  ><!channel> I've booked the space, so yes. I forgot the devices, so please bring your own
 
+9/28/2017 6:00 PM
+
+ **yannick** :
+
+ >Im with MENTAL tonight for their NeuroTech event series.
+
