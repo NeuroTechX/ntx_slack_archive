@@ -2796,3 +2796,15 @@ They determined it wasn't sonic in nature so far
 
  ><http://variety.com/2017/digital/news/leonardo-dicaprio-mindmaze-1202565877/>
 
+9/28/2017 3:03 AM
+
+ **jnaulty** :
+
+ >psychopomp 
+
+> 
+I went and saw a few good talks at the biohacking village. I didn't see this one though
+
+> 
+<https://www.defcon.org/html/defcon-25/dc-25-speakers.html#Sotos>
+
