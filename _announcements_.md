@@ -1515,3 +1515,9 @@ Taking Action for Equality
 
  >hehehe& ok. Main purpose of having at least one person physically there is for the presentation and demo on the last day
 
+9/28/2017 7:47 PM
+
+ **falk** :
+
+ >hailey, interdisciplinarity is at the heart of the hackathon. This year we are also bringing 20 high school students to be part of different teams to motivate young minds to enter STEM and neuroscience fields. So your skillset would be very useful!
+
