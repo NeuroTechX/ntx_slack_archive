@@ -4926,3 +4926,9 @@ Im also interested in the answer!
 > 
 you can check the notebook folder for data analysis : <https://github.com/alexandrebarachant/muse-lsl/tree/master/notebooks>
 
+9/28/2017 9:23 AM
+
+ **alexandre.barachant** :
+
+ >this is super cool. I would like to continue improving the repo by adding more classical neuroscience experiments. any suggestion ?
+
