@@ -1491,3 +1491,9 @@ Taking Action for Equality
 
  >also aj will be physically there& maybe dano and keaton can join his project (if there is still room) and we baptize that as the NeuroTechX team? Is there room aj in your team still?
 
+9/28/2017 7:41 PM
+
+ **hailey** :
+
+ >I would be interested! Though, I am a neuro researcher so I cant help much with the coding.
+
