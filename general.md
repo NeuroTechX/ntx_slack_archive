@@ -6048,3 +6048,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Awesome thanks for sharing!!
 
+9/28/2017 2:30 PM
+
+ **keaton** :
+
+ >Oh, and just DM me if you can't access because of the paywall 
+
