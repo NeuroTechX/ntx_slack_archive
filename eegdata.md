@@ -4968,3 +4968,9 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  >This is brilliant. Just got my 2016 Muse a couple of weeks ago and have been looking for stuff like this. The code still requires being on Python 2.7 correct?
 
+9/28/2017 10:51 AM
+
+ **alexandre.barachant** :
+
+ >unfortunatly, yes :disappointed: we use psychopy to display stimulus, and they onlu support 2.7
+
