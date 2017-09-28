@@ -4932,3 +4932,9 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  >this is super cool. I would like to continue improving the repo by adding more classical neuroscience experiments. any suggestion ?
 
+9/28/2017 9:32 AM
+
+ **rohit** :
+
+ >Awesome work hubertjb
+
