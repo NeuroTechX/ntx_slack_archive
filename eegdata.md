@@ -4905,3 +4905,24 @@ Im also interested in the answer!
 
  >I would also recommend looking at Phy <https://github.com/kwikteam/phy>.
 
+9/28/2017 9:22 AM
+
+ **alexandre.barachant** :
+
+ >Thanks to a contribution of hubertjb, the muse-lsl (<https://github.com/alexandrebarachant/muse-lsl>) repository now have a bunch of new experiemental paradigm:
+
+> 
+- Auditory P300
+
+> 
+- Face versus House for observing N170
+
+> 
+- Visual SSEP
+
+> 
+- Auditory SSEP
+
+> 
+you can check the notebook folder for data analysis : <https://github.com/alexandrebarachant/muse-lsl/tree/master/notebooks>
+
