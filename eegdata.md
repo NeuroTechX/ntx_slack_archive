@@ -5031,3 +5031,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >What's the word on XDF vs EDF+ EEG file formats? After some searching I haven't been able figure out how much they differ, which one is advisable to use, and whether you can record from LSL to EDF+ or convert from XDF to EDF+
 
+9/28/2017 4:25 PM
+
+ **hubertjb** :
+
+ >danielao there's a forum post about auxiliary electrodes for Muse here: <http://forum.choosemuse.com/t/auxilliary-electrodes/839/3> For the SSVEP experiment I used a dry hairpin electrode. As for multiple electrodes, you can connect only one aux electrode on Muse 2016 (up to 2 with Muse 2014).
+
