@@ -4455,3 +4455,9 @@ I then use single trial classification as a metric for signal quality, since mor
 
  >The UltraCortex? We used it for some cool demo projects in Toronto, didn't have any problems
 
+9/28/2017 8:21 PM
+
+ **aj** :
+
+ >I have some experience with UltraCortex
+
