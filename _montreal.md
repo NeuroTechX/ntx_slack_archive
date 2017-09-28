@@ -1917,3 +1917,9 @@ Thank you.
 
  ><!channel> I can't this week
 
+9/28/2017 9:52 PM
+
+ **fred-simard** :
+
+ >teaching a class
+
