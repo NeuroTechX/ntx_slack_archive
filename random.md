@@ -2808,3 +2808,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 > 
 <https://www.defcon.org/html/defcon-25/dc-25-speakers.html#Sotos>
 
+9/28/2017 3:08 AM
+
+ **jnaulty** :
+
+ >trying to find the slides...
+
