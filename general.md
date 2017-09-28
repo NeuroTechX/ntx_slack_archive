@@ -6036,3 +6036,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Nothing; most researchers say the data off of consumer is shit
 
+9/28/2017 2:05 PM
+
+ **keaton** :
+
+ >May have been posted before, but this is a really good paper on the history, tech, and current state of BMIs today. Long, but very thorough. <http://physrev.physiology.org/content/97/2/767.abstract>
+
