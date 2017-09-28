@@ -5010,3 +5010,9 @@ muse has an auxiliary channel where you can add another electrode. this way you 
 > 
 he added an electrode on POz
 
+9/28/2017 1:06 PM
+
+ **hubertjb** :
+
+ >thanks to benbrain, who initially developed and tested all these paradigms for the Muse at Interaxon!
+
