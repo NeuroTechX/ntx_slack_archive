@@ -5001,3 +5001,12 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 > 
 muse has an auxiliary channel where you can add another electrode. this way you can place one in Oz and get very good ERP
 
+9/28/2017 11:24 AM
+
+ **alexandre.barachant** :
+
+ >this is what hubert did here : <https://github.com/alexandrebarachant/muse-lsl/blob/master/notebooks/SSVEP%20with%20Muse.ipynb> 
+
+> 
+he added an electrode on POz
+
