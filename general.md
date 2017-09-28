@@ -6042,3 +6042,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >May have been posted before, but this is a really good paper on the history, tech, and current state of BMIs today. Long, but very thorough. <http://physrev.physiology.org/content/97/2/767.abstract>
 
+9/28/2017 2:22 PM
+
+ **ruudkalis** :
+
+ >Awesome thanks for sharing!!
+
