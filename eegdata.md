@@ -5037,3 +5037,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >danielao there's a forum post about auxiliary electrodes for Muse here: <http://forum.choosemuse.com/t/auxilliary-electrodes/839/3> For the SSVEP experiment I used a dry hairpin electrode. As for multiple electrodes, you can connect only one aux electrode on Muse 2016 (up to 2 with Muse 2014).
 
+9/28/2017 4:48 PM
+
+ **danielao** :
+
+ >Hi hubertjb. Thanks for replying. I did see that thread but it didn't really come to a conclusion (especially for newbies to homemade electrodes like myself). It was still unclear whether I could actually buy a dry electrode that connects to micro-USB. Enigma44 had the clearest answer so I'll look into that and your suggestion of a dry hairpin electrode.
+
