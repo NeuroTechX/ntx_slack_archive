@@ -1479,3 +1479,9 @@ Taking Action for Equality
 
  >falk I'm definitely interested in participating! I'll be working remotely, though. Has someone made the NeuroTechX team yet?
 
+9/28/2017 7:36 PM
+
+ **falk** :
+
+ >Hi & seems dano showed some interest. perhaps you two can register a team and then more people can follow on? With a team registered, it may be easier to get more on board. Registration link is <http://www.br41n.io/Banff-2017>
+
