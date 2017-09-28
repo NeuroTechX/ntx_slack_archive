@@ -4962,3 +4962,9 @@ you can check the notebook folder for data analysis : <https://github.com/alexan
 
  ><https://github.com/skjerns/AutoSleepScorer>
 
+9/28/2017 10:46 AM
+
+ **danielao** :
+
+ >This is brilliant. Just got my 2016 Muse a couple of weeks ago and have been looking for stuff like this. The code still requires being on Python 2.7 correct?
+
