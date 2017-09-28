@@ -1881,3 +1881,9 @@ Im super busy tomorrow, sydney is in vegas and yannick in Japan.
 > 
 Thank you.
 
+9/28/2017 2:48 PM
+
+ **sidksv** :
+
+ ><!channel> is there a hacknight tonight?
+
