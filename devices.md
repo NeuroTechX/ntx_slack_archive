@@ -4482,3 +4482,9 @@ currently we use silver-impregnated fabric electrodes for the forehead, and spri
 > 
 Error 2 occurred at System <http://Exec.vi|Exec.vi>. Command was "muse-io.exe --preset 14 --device  Muse-52C3 --osc <osc.tcp://localhost:5000>"
 
+9/29/2017 4:21 PM
+
+ **ben.cuthbert** :
+
+ >Can anyone shed some light on this issue?
+
