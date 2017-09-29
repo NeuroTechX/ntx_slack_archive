@@ -5109,3 +5109,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >I was just thinking that! Domain specific definitions of noise and signal might help
 
+9/29/2017 9:46 PM
+
+ **psoulos** :
+
+ >Would it be possible to collect data from both ecog and eeg simultaneously and use that to train the neural network? EEG would be considered the noisy data, and ecog would be the "clean" data
+
