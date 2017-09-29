@@ -4533,3 +4533,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >:slightly_smiling_face:
 
+9/29/2017 7:49 PM
+
+ **dano** :
+
+ >You could also use dongle-less BlueMuse for Windows projects <https://github.com/kowalej/BlueMuse>
+
