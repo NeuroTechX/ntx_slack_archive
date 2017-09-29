@@ -4461,3 +4461,15 @@ I then use single trial classification as a metric for signal quality, since mor
 
  >I have some experience with UltraCortex
 
+9/29/2017 11:15 AM
+
+ **alexdni** :
+
+ >we've tried this earlier on this year in our lab as well and found it hard to print with conductive flexible filament. instead, we printed with regular filament and coated it with silver paint. the issue we found for doing that is the coating wears off after usage and messes with signal quality. 
+
+> 
+
+
+> 
+currently we use silver-impregnated fabric electrodes for the forehead, and spring-loaded retractable electrodes for haired-areas.
+
