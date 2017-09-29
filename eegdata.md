@@ -5091,3 +5091,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  ><https://people.xiph.org/~jm/demo/rnnoise/>
 
+9/29/2017 1:04 PM
+
+ **alexandre.barachant** :
+
+ >dano it could works, the problem is to get the data. Here it's artificially generated data (because you need labeled data i.e the same data clean and with added noise). the problem with EEG is that noise is hard to define
+
