@@ -4494,3 +4494,9 @@ Error 2 occurred at System <http://Exec.vi|Exec.vi>. Command was "muse-io.exe --
 
  >Update: MuseIO isn't compatible with the 2016 Headset... looking into muse-lsl
 
+9/29/2017 4:40 PM
+
+ **ben.cuthbert** :
+
+ >The readme for muse-lsl says that on Mac and PC we must have the BLED112 dongle.. is this absolutely necessary to interface with the 2016 Muse? We want to be sure before ordering
+
