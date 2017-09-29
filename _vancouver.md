@@ -147,3 +147,9 @@ Most of our free time will be on Tuesday. We'll be on UBC campus
 > 
 Cheers
 
+9/29/2017 8:07 PM
+
+ **pat** :
+
+ >Welcome! Adding dr.ray and a.tech who may be interested and around UBC. I can't help with collaborations, but should also be on campus Tuesday
+
