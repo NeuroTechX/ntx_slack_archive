@@ -4545,3 +4545,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >nice. if someone can confirm it works with the experimental paradigm provided with muse-lsl, i will add a link into my readme
 
+9/29/2017 7:52 PM
+
+ **dano** :
+
+ >yayy kowalej
+
