@@ -1119,3 +1119,9 @@ Get hyped.
 > 
 Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
+9/29/2017 6:44 PM
+
+ **ryanlintott** :
+
+ >Are these meetings in EST?
+
