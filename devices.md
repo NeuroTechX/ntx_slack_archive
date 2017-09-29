@@ -4473,3 +4473,12 @@ I then use single trial classification as a metric for signal quality, since mor
 > 
 currently we use silver-impregnated fabric electrodes for the forehead, and spring-loaded retractable electrodes for haired-areas.
 
+9/29/2017 4:21 PM
+
+ **ben.cuthbert** :
+
+ >Hey everyone, we're trying to connect to our Muse using MuELS, following the instructions from (<https://github.com/NeuroTechX/bci-workshop>). We've followed all of the setup instructions on Windows 10, but when we try to start acquisition we get the following error:
+
+> 
+Error 2 occurred at System <http://Exec.vi|Exec.vi>. Command was "muse-io.exe --preset 14 --device  Muse-52C3 --osc <osc.tcp://localhost:5000>"
+
