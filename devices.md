@@ -4509,3 +4509,9 @@ Error 2 occurred at System <http://Exec.vi|Exec.vi>. Command was "muse-io.exe --
 > 
 in the meantime, you can try to boot on a live-USB with ubuntu (and switch to linux because Mac and windows sucks)
 
+9/29/2017 4:58 PM
+
+ **alexandre.barachant** :
+
+ >this is anoying, but I did not find another way to do BLE with python
+
