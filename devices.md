@@ -4527,3 +4527,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Thanks so much for this repo by the way- it's amazing!
 
+9/29/2017 5:01 PM
+
+ **alexandre.barachant** :
+
+ >:slightly_smiling_face:
+
