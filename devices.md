@@ -4515,3 +4515,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >this is anoying, but I did not find another way to do BLE with python
 
+9/29/2017 5:01 PM
+
+ **ben.cuthbert** :
+
+ >alexandre.barachant thanks for getting back to me so quickly! The dongle looks pretty cheap so I'll probably order 1 or 2, and switch to Linux eventually
+
