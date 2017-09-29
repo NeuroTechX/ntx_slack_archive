@@ -5073,3 +5073,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >no, i just came across this. no idea if it works well
 
+9/29/2017 8:50 AM
+
+ **jmhorschig** :
+
+ >maybe a bit late of a reply, but most important is not the change in spectral power but the effect on behaviour, see my thoughts on <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/>
+
