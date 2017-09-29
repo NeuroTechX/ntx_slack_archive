@@ -5079,3 +5079,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >maybe a bit late of a reply, but most important is not the change in spectral power but the effect on behaviour, see my thoughts on <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/>
 
+9/29/2017 12:59 PM
+
+ **dano** :
+
+ >Amazing blog post about denoising audio with RNNs. Wonder if it would work with EEG
+
