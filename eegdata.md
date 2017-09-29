@@ -5124,3 +5124,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 > 
 IMO the results will be very subject specific
 
+9/29/2017 11:50 PM
+
+ **psoulos** :
+
+ >and device specific too
+
