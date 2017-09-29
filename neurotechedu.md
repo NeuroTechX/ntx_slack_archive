@@ -1098,3 +1098,24 @@ I am sorry about that but in theory and should be working :smile: (and I work in
 
  >I'll be going back to polish neural oscillations
 
+9/29/2017 12:49 AM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Let's schedule our next call! We will discuss:
+
+> 
+Deliverables for 30 days
+
+> 
+Scheduled times to meet
+
+> 
+Get hyped.
+
+> 
+
+
+> 
+Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
+
