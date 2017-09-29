@@ -1527,3 +1527,9 @@ Taking Action for Equality
 
  >Great! Thanks falk
 
+9/29/2017 10:43 AM
+
+ **alexdni** :
+
+ >falk ahhhhh wish i could make it to this one, if only i didn't had a prior engagement that weekend ... Kudos to you for bringing high school kids there to motivate them to enter STEM! :+1:
+
