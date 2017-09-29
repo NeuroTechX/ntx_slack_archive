@@ -5085,3 +5085,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >Amazing blog post about denoising audio with RNNs. Wonder if it would work with EEG
 
+9/29/2017 12:59 PM
+
+ **dano** :
+
+ ><https://people.xiph.org/~jm/demo/rnnoise/>
+
