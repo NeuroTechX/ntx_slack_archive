@@ -123,3 +123,27 @@ See you there!
 > 
 _For those who are not in Vancouver or are unable to make it... we will be professionally filming all of this Jazz so you can check it out!_
 
+9/29/2017 8:04 PM
+
+ **dano** :
+
+ >Hey <!channel>! I'm going to be visiting Vancouver next week on a business trip for my company, <http://avertus.ca/>
+
+> 
+
+
+> 
+I'd love to meet some of you guys in person and talk EEG, BCI, ML, and potential collaborations. Also, if you are/anyone you know of are interested in investing in wireless, research-grade EEG backed by a data-management cloud service, I'd be happy to talk about that as well.
+
+> 
+
+
+> 
+Most of our free time will be on Tuesday. We'll be on UBC campus
+
+> 
+
+
+> 
+Cheers
+
