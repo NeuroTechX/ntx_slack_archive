@@ -1923,3 +1923,9 @@ Thank you.
 
  >teaching a class
 
+9/29/2017 5:21 PM
+
+ **yannick** :
+
+ >Was it better on Friday? Fred is teaching on Wed/Thursday. Is it just Fred who prefers Fridays?
+
