@@ -4539,3 +4539,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >You could also use dongle-less BlueMuse for Windows projects <https://github.com/kowalej/BlueMuse>
 
+9/29/2017 7:52 PM
+
+ **alexandre.barachant** :
+
+ >nice. if someone can confirm it works with the experimental paradigm provided with muse-lsl, i will add a link into my readme
+
