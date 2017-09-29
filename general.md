@@ -6072,3 +6072,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Hey everyone, were looking to bring on contributors to continue the great work that has been happening with the Neurotech Edu project! If you want to be part of a platform that will educate budding neurotech enthusiasts we are looking for you! Content creators and field experts are welcome, message me jfrayshe or sydneyneurotechx to get involved!
 
+9/29/2017 10:27 AM
+
+ **alexdni** :
+
+ >Thanks hailey for this amazing treatise on BMI / BCI, some really comprehensive and fascinating stuff
+
