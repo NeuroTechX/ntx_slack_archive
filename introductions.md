@@ -3105,3 +3105,27 @@ Right now we're working on
 
  >hope to catch you next time in person when you come to Toronto andreasforsland! :slightly_smiling_face:
 
+9/29/2017 10:58 AM
+
+ **alexdni** :
+
+ >Hi fellow neurophiles! I am Alex Ni and I work as a CTO / architect / developer / tester to develop multiple EEG monitoring and research application toolsets. My company designs and manufactures both a 10-channel dry, wireless, mobile, high-frequency, high-resolution "HALO" headset, and the platform to leverage EEG data to apply learning and extract intelligence on. 
+
+> 
+
+
+> 
+Having completed my undergrad in computer science, and MBA with a CMA designation later in life i've always worked in a very traditionally techie field dealing with application development, integration and software architecture for mobile and server side with companies such as BlackBerry, Cineplex and AT&amp;T. My journey of neuro-application development started about a year and half ago since i was tapped to lead the development of a technology team for my current company. Since then i've found myself growing increasingly passionate about the potential of neuroscience research and its massive impacts to many aspects of our lives today. 
+
+> 
+
+
+> 
+Hopefully I will get to meet, hack and discuss neuro tech with many of you on my journey ahead! 
+
+> 
+
+
+> 
+:beers:
+
