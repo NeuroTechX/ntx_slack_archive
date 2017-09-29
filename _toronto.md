@@ -2055,3 +2055,15 @@ For computer science / software engineering, our timetables change all the time;
 
  >Software engineering and electrical engineering. :slightly_smiling_face:
 
+9/29/2017 10:22 PM
+
+ **albertle** :
+
+ >Most ECE (electrical and software engineering) courses have their most recent syllabi available here: <https://www.ece.utoronto.ca/undergraduates/programs/ece-course-information/syllabi/>
+
+> 
+
+
+> 
+Lecture times and details can be found in links on that page too. :simple_smile: 
+
