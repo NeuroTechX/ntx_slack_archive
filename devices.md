@@ -4488,3 +4488,9 @@ Error 2 occurred at System <http://Exec.vi|Exec.vi>. Command was "muse-io.exe --
 
  >Can anyone shed some light on this issue?
 
+9/29/2017 4:31 PM
+
+ **ben.cuthbert** :
+
+ >Update: MuseIO isn't compatible with the 2016 Headset... looking into muse-lsl
+
