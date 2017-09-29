@@ -1533,3 +1533,9 @@ Taking Action for Equality
 
  >falk ahhhhh wish i could make it to this one, if only i didn't had a prior engagement that weekend ... Kudos to you for bringing high school kids there to motivate them to enter STEM! :+1:
 
+9/29/2017 3:59 PM
+
+ **aj** :
+
+ >im stoked for them to learn how easy it is to program openbci wifi shields!
+
