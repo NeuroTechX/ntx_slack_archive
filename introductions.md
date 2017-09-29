@@ -3129,3 +3129,9 @@ Hopefully I will get to meet, hack and discuss neuro tech with many of you on my
 > 
 :beers:
 
+9/29/2017 4:56 PM
+
+ **danielao** :
+
+ >Hi Alex. Is HALO the name of the device?
+
