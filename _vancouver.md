@@ -153,3 +153,9 @@ Cheers
 
  >Welcome! Adding dr.ray and a.tech who may be interested and around UBC. I can't help with collaborations, but should also be on campus Tuesday
 
+9/29/2017 8:21 PM
+
+ **dr.ray** :
+
+ >Thanks for connecting us, pat. Adding yana_pretzels to the convo
+
