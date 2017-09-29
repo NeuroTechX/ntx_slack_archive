@@ -5103,3 +5103,9 @@ Honestly, it seems like that should be a product in itself, Muse with a couple m
 
  >it could works for ERP, because you know how the signal looks like (i.e. it is the average ERP), so you might actually be able have an estimation of the clean signal and the signal + noise
 
+9/29/2017 1:08 PM
+
+ **dano** :
+
+ >I was just thinking that! Domain specific definitions of noise and signal might help
+
