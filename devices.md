@@ -4500,3 +4500,12 @@ Error 2 occurred at System <http://Exec.vi|Exec.vi>. Command was "muse-io.exe --
 
  >The readme for muse-lsl says that on Mac and PC we must have the BLED112 dongle.. is this absolutely necessary to interface with the 2016 Muse? We want to be sure before ordering
 
+9/29/2017 4:57 PM
+
+ **alexandre.barachant** :
+
+ >ben.cuthbert yes. this is because the python library pygatt i'm using only works with a BLED112 dongle on Mac and window.
+
+> 
+in the meantime, you can try to boot on a live-USB with ubuntu (and switch to linux because Mac and windows sucks)
+
