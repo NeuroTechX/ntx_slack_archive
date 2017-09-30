@@ -4653,3 +4653,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Then I could add in board modes changing that drops sample rate or goes into this mode, and you at least get continuous data
 
+9/30/2017 5:47 PM
+
+ **aj** :
+
+ >The packets literally never get to the software layer of Bluetooth it's mind boggling 
+
