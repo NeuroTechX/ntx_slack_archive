@@ -6084,3 +6084,15 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >paper &lt;&lt;Converting Your Thoughts to Texts: Enabling Brain Typing via Deep Feature Learning of EEG Signals&gt;&gt;  <https://arxiv.org/pdf/1709.08820.pdf>
 
+9/30/2017 9:35 AM
+
+ **alexandre.barachant** :
+
+ >hum, interesting paper. 
+
+> 
+At first, performance seems amazing. then you realize the evaluation is deeply flawed.
+
+> 
+They classify each EEG time sample, and they do a random split. Since consecutive EEG time sample are really correlated, and that they did not split based on time, the good performances can be basically explained by the RNN memorizing similar samples
+
