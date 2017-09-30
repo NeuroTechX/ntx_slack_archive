@@ -5130,3 +5130,9 @@ IMO the results will be very subject specific
 
  >and device specific too
 
+9/30/2017 3:54 AM
+
+ **joeyo** :
+
+ >Reminds me of the "super-resolution" image enhancement demonstrations that have been achieved with nnets lately
+
