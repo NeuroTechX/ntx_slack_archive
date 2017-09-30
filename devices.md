@@ -4593,3 +4593,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Make sure wires are not long and bunched
 
+9/30/2017 5:36 PM
+
+ **aj** :
+
+ >@dano did that happen on Windows?
+
