@@ -4629,3 +4629,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >I drop packets like crazy on Mac it sucks
 
+9/30/2017 5:38 PM
+
+ **aj** :
+
+ >With cyton I'm good
+
