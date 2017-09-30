@@ -4563,3 +4563,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >OUr biggest problem was the software -- on every platform but Mac we had data dropping issues
 
+9/30/2017 5:31 PM
+
+ **aj** :
+
+ >@yacine get electrodes from fri
+
