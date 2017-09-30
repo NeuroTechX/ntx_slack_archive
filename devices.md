@@ -4641,3 +4641,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >But ganglion over ble does not work with my Mac. I may plan to write some code to test this bug.
 
+9/30/2017 5:45 PM
+
+ **aj** :
+
+ >I want to write some test code for simblee to duplicate the issue with my Mac, then see exactly what sample rate starts dropping packets on my hardware. If we can get say 50Hz but not 100Hz, maybe we can do more compression or lower resolution for these platforms that are having problems. 
+
