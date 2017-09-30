@@ -4635,3 +4635,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >With cyton I'm good
 
+9/30/2017 5:39 PM
+
+ **aj** :
+
+ >But ganglion over ble does not work with my Mac. I may plan to write some code to test this bug.
+
