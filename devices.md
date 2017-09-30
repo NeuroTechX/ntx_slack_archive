@@ -4587,3 +4587,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >And their other smaller spikes are less spoke then openbci
 
+9/30/2017 5:35 PM
+
+ **aj** :
+
+ >Make sure wires are not long and bunched
+
