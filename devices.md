@@ -4569,3 +4569,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >@yacine get electrodes from fri
 
+9/30/2017 5:31 PM
+
+ **aj** :
+
+ >They have new long ones for hair
+
