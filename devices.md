@@ -4557,3 +4557,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >aj  ans dano , cool! I'm trying to record with it, but its very very uncomfortable and the signal quality is really poor. It must be the way I set it up. Did you have any issue with it?
 
+9/30/2017 4:23 PM
+
+ **dano** :
+
+ >OUr biggest problem was the software -- on every platform but Mac we had data dropping issues
+
