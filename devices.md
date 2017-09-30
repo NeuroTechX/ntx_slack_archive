@@ -4599,3 +4599,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >@dano did that happen on Windows?
 
+9/30/2017 5:36 PM
+
+ **aj** :
+
+ >And it was ganglion right
+
