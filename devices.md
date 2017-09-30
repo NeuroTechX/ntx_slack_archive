@@ -4581,3 +4581,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >They fit right in!
 
+9/30/2017 5:32 PM
+
+ **aj** :
+
+ >And their other smaller spikes are less spoke then openbci
+
