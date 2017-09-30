@@ -4611,3 +4611,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >I think the data rate is too high for BLE
 
+9/30/2017 5:37 PM
+
+ **aj** :
+
+ >With that size compression
+
