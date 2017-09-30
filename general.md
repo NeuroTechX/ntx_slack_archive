@@ -6138,3 +6138,9 @@ Not sure if/how they handle multiple channels as input.
 
  >90% youll still have my attention. But please dont hide these numbers& :confused:
 
+9/30/2017 8:51 PM
+
+ **alexandre.barachant** :
+
+ >i think they just process them by batch i.e. receive 64 sample and produce 64 prediction (or categories of intents ?)
+
