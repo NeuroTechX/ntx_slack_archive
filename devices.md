@@ -4647,3 +4647,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >I want to write some test code for simblee to duplicate the issue with my Mac, then see exactly what sample rate starts dropping packets on my hardware. If we can get say 50Hz but not 100Hz, maybe we can do more compression or lower resolution for these platforms that are having problems. 
 
+9/30/2017 5:46 PM
+
+ **aj** :
+
+ >Then I could add in board modes changing that drops sample rate or goes into this mode, and you at least get continuous data
+
