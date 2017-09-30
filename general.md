@@ -6132,3 +6132,9 @@ Not sure if/how they handle multiple channels as input.
 > 
 10% is lower than 95%, and Im not gonna read further :stuck_out_tongue:
 
+9/30/2017 8:43 PM
+
+ **yannick** :
+
+ >90% youll still have my attention. But please dont hide these numbers& :confused:
+
