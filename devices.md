@@ -4551,3 +4551,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >yayy kowalej
 
+9/30/2017 4:22 PM
+
+ **yacine.mahdid** :
+
+ >aj  ans dano , cool! I'm trying to record with it, but its very very uncomfortable and the signal quality is really poor. It must be the way I set it up. Did you have any issue with it?
+
