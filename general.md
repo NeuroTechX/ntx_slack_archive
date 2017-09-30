@@ -6096,3 +6096,9 @@ At first, performance seems amazing. then you realize the evaluation is deeply f
 > 
 They classify each EEG time sample, and they do a random split. Since consecutive EEG time sample are really correlated, and that they did not split based on time, the good performances can be basically explained by the RNN memorizing similar samples
 
+9/30/2017 9:37 AM
+
+ **alexandre.barachant** :
+
+ >this is why they do not share online results, and instead write "The accuracy in the online mode is however lower than what can be achieved in an offline setting"
+
