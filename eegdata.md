@@ -5142,3 +5142,9 @@ IMO the results will be very subject specific
 
  >i've improved the LSL-viewer in muse-lsl. it is now using vispy
 
+9/30/2017 3:50 PM
+
+ **alexandre.barachant** :
+
+ ><https://youtu.be/i1g55fKKcBU>
+
