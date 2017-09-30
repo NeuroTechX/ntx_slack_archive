@@ -6078,3 +6078,9 @@ Benjamin has been an active member of NTX community, specially in Montreal and h
 
  >Thanks hailey for this amazing treatise on BMI / BCI, some really comprehensive and fascinating stuff
 
+9/30/2017 8:28 AM
+
+ **ozzie** :
+
+ >paper &lt;&lt;Converting Your Thoughts to Texts: Enabling Brain Typing via Deep Feature Learning of EEG Signals&gt;&gt;  <https://arxiv.org/pdf/1709.08820.pdf>
+
