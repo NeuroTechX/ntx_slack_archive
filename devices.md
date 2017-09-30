@@ -4605,3 +4605,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >And it was ganglion right
 
+9/30/2017 5:37 PM
+
+ **aj** :
+
+ >I think the data rate is too high for BLE
+
