@@ -6102,3 +6102,21 @@ They classify each EEG time sample, and they do a random split. Since consecutiv
 
  >this is why they do not share online results, and instead write "The accuracy in the online mode is however lower than what can be achieved in an offline setting"
 
+9/30/2017 8:41 PM
+
+ **yannick** :
+
+ >I understand the 1x64 input vector for the 64 channel device, classifying each EEG time sample.
+
+> 
+But in their second exp. with the Epoc, they say the following:
+
+> 
+In our practical deployment, the sampling rate of Emotiv EPOC+ headset is set as 128Hz, which means the server can receive 128 EEG recordings each second. Since the brainwave signal varies rapidly and is very easy to be affected by noises, the EEG data stream is sent to server each half second, which means that the server receives 64 EEG samples each time. The 64 EEG samples are classified by the deep learning framework and generates 64 categories of intents.
+
+> 
+So they take 1 channel, 64 points? (half a sec)
+
+> 
+Not sure if/how they handle multiple channels as input.
+
