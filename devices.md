@@ -4575,3 +4575,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >They have new long ones for hair
 
+9/30/2017 5:31 PM
+
+ **aj** :
+
+ >They fit right in!
+
