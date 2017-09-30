@@ -4617,3 +4617,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >With that size compression
 
+9/30/2017 5:38 PM
+
+ **aj** :
+
+ >Should reduce the compression to 16 bits and not send as many data packets per second
+
