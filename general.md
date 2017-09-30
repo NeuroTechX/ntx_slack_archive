@@ -6120,3 +6120,15 @@ So they take 1 channel, 64 points? (half a sec)
 > 
 Not sure if/how they handle multiple channels as input.
 
+9/30/2017 8:42 PM
+
+ **yannick** :
+
+ >Yeah, my red flag alert went off as well. 
+
+> 
+lower& How lower? Give me numbers!!! 
+
+> 
+10% is lower than 95%, and Im not gonna read further :stuck_out_tongue:
+
