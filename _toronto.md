@@ -2067,3 +2067,9 @@ For computer science / software engineering, our timetables change all the time;
 > 
 Lecture times and details can be found in links on that page too. :simple_smile: 
 
+9/30/2017 11:38 AM
+
+ **jee** :
+
+ >Sweet! Thanks heaps, albertle !
+
