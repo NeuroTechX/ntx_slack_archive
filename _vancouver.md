@@ -159,3 +159,12 @@ Cheers
 
  >Thanks for connecting us, pat. Adding yana_pretzels to the convo
 
+10/1/2017 12:14 AM
+
+ **giuliosuprig** :
+
+ >Hey dano, welcome to our rainy paradise!
+
+> 
+I'm with a student team competing in NTX. Hit me up if you want to chat!
+
