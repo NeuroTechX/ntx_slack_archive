@@ -1539,3 +1539,9 @@ Taking Action for Equality
 
  >im stoked for them to learn how easy it is to program openbci wifi shields!
 
+10/1/2017 7:18 PM
+
+ **sheida** :
+
+ >I'd be interested to join remotely! I'll check out the list for the NeurotechX group 
+
