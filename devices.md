@@ -4665,3 +4665,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Yea, it was Ganglion. I mostly remember it on Linux, but I think it might have happened on windows too
 
+10/1/2017 3:03 PM
+
+ **dano** :
+
+ >That sounds like a great approach, though
+
