@@ -1125,3 +1125,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >Are these meetings in EST?
 
+10/1/2017 12:49 PM
+
+ **ryanlintott** :
+
+ >sydneyneurotechx Are the meetings in EST?
+
