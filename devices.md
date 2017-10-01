@@ -4671,3 +4671,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >That sounds like a great approach, though
 
+10/1/2017 6:25 PM
+
+ **yacine.mahdid** :
+
+ >Thanks guys! Will check out the electrode!
+
