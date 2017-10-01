@@ -1131,3 +1131,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >sydneyneurotechx Are the meetings in EST?
 
+10/1/2017 5:00 PM
+
+ **sydneyneurotechx** :
+
+ >ryanlintott yup! But you can set it to your timezone I believe
+
