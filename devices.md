@@ -4659,3 +4659,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >The packets literally never get to the software layer of Bluetooth it's mind boggling 
 
+10/1/2017 3:02 PM
+
+ **dano** :
+
+ >Yea, it was Ganglion. I mostly remember it on Linux, but I think it might have happened on windows too
+
