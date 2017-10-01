@@ -168,3 +168,9 @@ Cheers
 > 
 I'm with a student team competing in NTX. Hit me up if you want to chat!
 
+10/1/2017 2:50 AM
+
+ **dano** :
+
+ >Are you with MINT? I saw the medium post and would love to meet
+
