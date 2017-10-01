@@ -186,3 +186,9 @@ Bienvenue sur Slack ! :slightly_smiling_face:
 
  >Hello :slightly_smiling_face:
 
+10/1/2017 9:22 PM
+
+ **theboss723** :
+
+ ><!channel> anyone from 42?  
+
