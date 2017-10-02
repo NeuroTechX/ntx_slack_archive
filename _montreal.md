@@ -1929,3 +1929,9 @@ Thank you.
 
  >Was it better on Friday? Fred is teaching on Wed/Thursday. Is it just Fred who prefers Fridays?
 
+10/2/2017 12:32 AM
+
+ **fred-simard** :
+
+ >yannick In parallel to the hacknight schedule, I would be down to work on a project of the kind we discussed. Can you make it this Friday? I would be down to try to train a deep learner on some EEG data, just to see how that plays out. <!channel> Open to everyone obviously.
+
