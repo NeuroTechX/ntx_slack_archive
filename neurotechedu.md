@@ -1149,3 +1149,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >Hmm. I thought I had.
 
+10/2/2017 9:58 PM
+
+ **sydneyneurotechx** :
+
+ >ok thanks for letting me know
+
