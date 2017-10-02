@@ -5154,3 +5154,15 @@ IMO the results will be very subject specific
 
  >As a computer science major, I haven't learned much yet about signal processing, and I was wondering what you all would recommend to learn it
 
+10/2/2017 9:12 AM
+
+ **okbalefthanded** :
+
+ >The NeuroTechX awesome-BCI holds a section for Signal processing material: 
+
+> 
+<https://github.com/NeuroTechX/awesome-bci> 
+
+> 
+for a gentle introduction you start with the Mike X Cohen lecturelets
+
