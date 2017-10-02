@@ -4767,3 +4767,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Im gonna go for the pro assembled Ultracortex MarkVI
 
+10/2/2017 9:36 PM
+
+ **jamoonie94** :
+
+ >Im looking for something more toward research
+
