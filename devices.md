@@ -4887,3 +4887,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >I'm working on hitting it this week
 
+10/2/2017 11:22 PM
+
+ **aj** :
+
+ >And if it requires a software patch I'll update it
+
