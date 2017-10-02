@@ -4899,3 +4899,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >But this is exactly why I built the wifi shield! Direct to cloud!!!
 
+10/2/2017 11:23 PM
+
+ **aj** :
+
+ >Bi directional http control from browser it's great so you can completely control the board from web browser.
+
