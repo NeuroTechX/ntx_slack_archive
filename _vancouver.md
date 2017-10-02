@@ -174,3 +174,12 @@ I'm with a student team competing in NTX. Hit me up if you want to chat!
 
  >Are you with MINT? I saw the medium post and would love to meet
 
+10/2/2017 10:38 AM
+
+ **dano** :
+
+ >Hey guys, we're on our way to Vancouver now. 
+
+> 
+On Tuesday, we have some meetings with researchers at the Brain Research Centre in the morning, but are free after lunch. Let us know when around then you guys might be available to meet and we'll make it work. Looking forward to showing off our tech!
+
