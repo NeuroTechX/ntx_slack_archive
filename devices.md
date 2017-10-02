@@ -4797,3 +4797,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >I guess Im confused about what it all includes
 
+10/2/2017 9:52 PM
+
+ **alexandre.barachant** :
+
+ >You need an amplifier to record the EEG. You have the ganglion (4 ch), the cython (8ch) or the Daisy (16 channel).
+
