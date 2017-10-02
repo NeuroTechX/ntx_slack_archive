@@ -4851,3 +4851,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >And finally, you need some electrode. For that you can either buy some spare électrodes and build a cap yourself, or buy the 3d printed headset
 
+10/2/2017 9:56 PM
+
+ **alexandre.barachant** :
+
+ >With wifi board you can stream on your comp. Without it too, but some people report trouble with higher sampling rate
+
