@@ -4863,3 +4863,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >No need for gel if you go for dry electrode (ultracortex)
 
+10/2/2017 9:58 PM
+
+ **jamoonie94** :
+
+ >okay sounds good.
+
