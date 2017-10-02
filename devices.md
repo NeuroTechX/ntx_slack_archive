@@ -4695,3 +4695,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >I don't know much about the signal quality, but I once asked a quote for the 32 channel system. It's 12k$
 
+10/2/2017 9:25 PM
+
+ **alexandre.barachant** :
+
+ >If you want something good for multiple project, you can either have a headset with good coverage (24 - 32) elecs or a reconfigurable system with lower channel count
+
