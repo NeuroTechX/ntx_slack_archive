@@ -4869,3 +4869,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >okay sounds good.
 
+10/2/2017 9:58 PM
+
+ **jamoonie94** :
+
+ >Thanks alot Alexandre!
+
