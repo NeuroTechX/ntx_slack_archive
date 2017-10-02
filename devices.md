@@ -4779,3 +4779,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >With a little practice and tweaks, openbci is definitely up to the standard. You might want to add  the wifi shield, it has a more reliable connection.
 
+10/2/2017 9:42 PM
+
+ **jamoonie94** :
+
+ >what parts are essential and what would you recommend
+
