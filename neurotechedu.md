@@ -1143,3 +1143,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >sydneyneurotechx It looks like the event only shows one time and I assume its EST and not my local time (as I doubt you would schedule meetings for 11:00 GMT). It says on Doddle that you can set an event to use timezones but its not on by default and I dont think its on for this poll. Might be a handy feature in the future.
 
+10/2/2017 9:58 PM
+
+ **sydneyneurotechx** :
+
+ >Hmm. I thought I had.
+
