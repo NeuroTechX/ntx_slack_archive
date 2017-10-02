@@ -4719,3 +4719,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >For 2k, openbci might be your best guess.
 
+10/2/2017 9:28 PM
+
+ **jamoonie94** :
+
+ >have you used that before?
+
