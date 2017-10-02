@@ -4815,3 +4815,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >cool I have the daisy on my shopping list
 
+10/2/2017 9:53 PM
+
+ **jamoonie94** :
+
+ >does the data streaming have to go to Azure etc?
+
