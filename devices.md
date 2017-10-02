@@ -4737,3 +4737,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >G.tech had some good hardware but I don't like their dry electrode. Not comfortable at all.
 
+10/2/2017 9:32 PM
+
+ **jamoonie94** :
+
+ >yeah Im looking for something that can be easily used (somewhat)
+
