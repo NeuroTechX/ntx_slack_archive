@@ -4881,3 +4881,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >It can go to azure
 
+10/2/2017 11:21 PM
+
+ **aj** :
+
+ >I'm working on hitting it this week
+
