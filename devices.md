@@ -4743,3 +4743,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >yeah Im looking for something that can be easily used (somewhat)
 
+10/2/2017 9:32 PM
+
+ **jamoonie94** :
+
+ >open BCI does sound like the best bet
+
