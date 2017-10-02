@@ -4845,3 +4845,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >seriously sorry for all the questions
 
+10/2/2017 9:54 PM
+
+ **alexandre.barachant** :
+
+ >And finally, you need some electrode. For that you can either buy some spare électrodes and build a cap yourself, or buy the 3d printed headset
+
