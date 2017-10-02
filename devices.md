@@ -4833,3 +4833,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >also what about EEG, gel
 
+10/2/2017 9:54 PM
+
+ **jamoonie94** :
+
+ >?
+
