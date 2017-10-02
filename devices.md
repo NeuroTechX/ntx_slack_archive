@@ -4749,3 +4749,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >open BCI does sound like the best bet
 
+10/2/2017 9:33 PM
+
+ **alexandre.barachant** :
+
+ >It's good. But is less "plug and play"
+
