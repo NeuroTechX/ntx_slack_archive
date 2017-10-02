@@ -4731,3 +4731,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Multiply this by 10, an you can go for a cognonics or a wearable sensing dsi24
 
+10/2/2017 9:31 PM
+
+ **alexandre.barachant** :
+
+ >G.tech had some good hardware but I don't like their dry electrode. Not comfortable at all.
+
