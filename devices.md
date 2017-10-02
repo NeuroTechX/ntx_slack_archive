@@ -4701,3 +4701,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >If you want something good for multiple project, you can either have a headset with good coverage (24 - 32) elecs or a reconfigurable system with lower channel count
 
+10/2/2017 9:27 PM
+
+ **alexandre.barachant** :
+
+ >What's your budget ?
+
