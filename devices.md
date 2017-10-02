@@ -4755,3 +4755,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >It's good. But is less "plug and play"
 
+10/2/2017 9:34 PM
+
+ **alexandre.barachant** :
+
+ >Also. I dont like the 3d printed headset. I prefer a cap. 
+
