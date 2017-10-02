@@ -4683,3 +4683,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Alright Im a noob when it comes to EEG hardware, but I just won a scholarship in my department :blush: and I want to invest in something that can be used to take on a variety of projects. For instance, I may want a project where I focus on P300s or etc. At this point in time, what EEG/BCI gear would you say is the best?
 
+10/2/2017 9:14 PM
+
+ **jamoonie94** :
+
+ >anyone heard of : <http://www.bri.com.tw/product.html>
+
