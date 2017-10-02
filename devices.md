@@ -4791,3 +4791,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >sorry to be shotgunning you with so many questions
 
+10/2/2017 9:43 PM
+
+ **jamoonie94** :
+
+ >I guess Im confused about what it all includes
+
