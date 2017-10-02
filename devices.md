@@ -4707,3 +4707,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >What's your budget ?
 
+10/2/2017 9:27 PM
+
+ **jamoonie94** :
+
+ >It was ~1500-2000, but after hearing that I feel that I may want to increase that.
+
