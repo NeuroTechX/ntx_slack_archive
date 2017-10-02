@@ -4725,3 +4725,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >have you used that before?
 
+10/2/2017 9:30 PM
+
+ **alexandre.barachant** :
+
+ >Multiply this by 10, an you can go for a cognonics or a wearable sensing dsi24
+
