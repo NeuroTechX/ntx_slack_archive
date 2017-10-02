@@ -4857,3 +4857,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >With wifi board you can stream on your comp. Without it too, but some people report trouble with higher sampling rate
 
+10/2/2017 9:56 PM
+
+ **alexandre.barachant** :
+
+ >No need for gel if you go for dry electrode (ultracortex)
+
