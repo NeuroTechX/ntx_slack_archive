@@ -4809,3 +4809,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >You can add the wifi shield to get better data streaming.
 
+10/2/2017 9:53 PM
+
+ **jamoonie94** :
+
+ >cool I have the daisy on my shopping list
+
