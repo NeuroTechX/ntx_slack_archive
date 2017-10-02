@@ -4773,3 +4773,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Im looking for something more toward research
 
+10/2/2017 9:39 PM
+
+ **alexandre.barachant** :
+
+ >With a little practice and tweaks, openbci is definitely up to the standard. You might want to add  the wifi shield, it has a more reliable connection.
+
