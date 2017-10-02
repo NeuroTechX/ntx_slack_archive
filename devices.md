@@ -4893,3 +4893,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >And if it requires a software patch I'll update it
 
+10/2/2017 11:22 PM
+
+ **aj** :
+
+ >But this is exactly why I built the wifi shield! Direct to cloud!!!
+
