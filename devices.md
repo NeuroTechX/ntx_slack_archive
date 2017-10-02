@@ -4821,3 +4821,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >does the data streaming have to go to Azure etc?
 
+10/2/2017 9:53 PM
+
+ **jamoonie94** :
+
+ >can it not just stream right to my comp?
+
