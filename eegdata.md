@@ -5148,3 +5148,9 @@ IMO the results will be very subject specific
 
  ><https://youtu.be/i1g55fKKcBU>
 
+10/2/2017 12:15 AM
+
+ **harris** :
+
+ >As a computer science major, I haven't learned much yet about signal processing, and I was wondering what you all would recommend to learn it
+
