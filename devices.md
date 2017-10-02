@@ -4875,3 +4875,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Thanks alot Alexandre!
 
+10/2/2017 11:21 PM
+
+ **aj** :
+
+ >It can go to azure
+
