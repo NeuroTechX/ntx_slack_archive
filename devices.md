@@ -4689,3 +4689,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >anyone heard of : <http://www.bri.com.tw/product.html>
 
+10/2/2017 9:23 PM
+
+ **alexandre.barachant** :
+
+ >I don't know much about the signal quality, but I once asked a quote for the 32 channel system. It's 12k$
+
