@@ -2127,3 +2127,9 @@ Location: Interaxon, 511 King St W
 
  ><!channel> looking forward to Thursday!
 
+10/3/2017 8:52 PM
+
+ **alexdni** :
+
+ >wish i could be there
+
