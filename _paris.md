@@ -192,3 +192,12 @@ Bienvenue sur Slack ! :slightly_smiling_face:
 
  ><!channel> anyone from 42?  
 
+10/3/2017 7:40 AM
+
+ **rouffi** :
+
+ >Im not sur, not to my knowledge
+
+> 
+One question in particular?
+
