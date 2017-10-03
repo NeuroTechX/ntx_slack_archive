@@ -1599,3 +1599,9 @@ Taking Action for Equality
 
  >so we can do like WPA
 
+10/3/2017 9:54 PM
+
+ **aj** :
+
+ >still trying to add enterprise level security to the wifi shield, so any help/advise would be appreciated there!
+
