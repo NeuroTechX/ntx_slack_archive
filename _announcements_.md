@@ -1575,3 +1575,9 @@ Taking Action for Equality
 
  >whats the security? trying to find out if i should bring a wifi router
 
+10/3/2017 9:52 PM
+
+ **aj** :
+
+ >?
+
