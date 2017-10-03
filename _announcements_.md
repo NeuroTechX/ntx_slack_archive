@@ -1545,3 +1545,9 @@ Taking Action for Equality
 
  >I'd be interested to join remotely! I'll check out the list for the NeurotechX group 
 
+10/3/2017 9:06 PM
+
+ **elgin** :
+
+ >Hi falk the IEEE Brain Hackathon looks awesome. Im sad that it conflicts with Thanksgiving weekend here in Canada because I would love to attend. Are you aware if we will be able to view some of the talks online? I would love listen in to a few
+
