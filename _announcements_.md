@@ -1563,3 +1563,9 @@ Taking Action for Equality
 
  >BTW, any news on a NeuroTechX online team? We are in talks of having a prize for best remote team also&
 
+10/3/2017 9:51 PM
+
+ **aj** :
+
+ >falk is the wifi at the conference enterprise?
+
