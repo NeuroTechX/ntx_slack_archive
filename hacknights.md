@@ -627,3 +627,48 @@ Also, anyone hosting any SF or Austin? :green_heart:
 
  >Its not all about TO you know& Other cities exist as well :wink:
 
+10/3/2017 6:18 PM
+
+ **joshuad** :
+
+ >``` _______ _______ _______ _______ _______ _______ _______ _______ _______ 
+
+> 
+|\     /|\     /|\     /|\     /|\     /|\     /|\     /|\     /|\     /|
+
+> 
+| +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ |
+
+> 
+| |   | | |   | | |   | | |   | | |   | | |   | | |   | | |   | | |   | |
+
+> 
+| |H  | | |a  | | |c  | | |k  | | |n  | | |i  | | |g  | | |h  | | |t  | |
+
+> 
+| +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ |
+
+> 
+|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|
+
+> 
+                                                                         
+
+> 
+```
+
+> 
+
+
+> 
+Its that time again, to push our projects forward, share our hopes and fears for the future, and enjoy some good times. This week well be back in the mediation space at Interaxon. Big thanks to them for hosting us again!
+
+> 
+
+
+> 
+Time: Thursday the 5th, 6 until 10pm
+
+> 
+Location: Interaxon, 511 King St W, Toronto, Canada
+
