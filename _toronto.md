@@ -2121,3 +2121,9 @@ Time: Thursday the 5th, 6 until 10pm
 > 
 Location: Interaxon, 511 King St W
 
+10/3/2017 6:37 PM
+
+ **bryan_j** :
+
+ ><!channel> looking forward to Thursday!
+
