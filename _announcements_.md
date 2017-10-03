@@ -1569,3 +1569,9 @@ Taking Action for Equality
 
  >falk is the wifi at the conference enterprise?
 
+10/3/2017 9:51 PM
+
+ **aj** :
+
+ >whats the security? trying to find out if i should bring a wifi router
+
