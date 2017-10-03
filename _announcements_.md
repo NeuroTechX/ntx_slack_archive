@@ -1587,3 +1587,9 @@ Taking Action for Equality
 
  >link will be from Cybera and we are bringing a wifi router for the hackathon. we will configure it ourselves, so any help/advise will be greatly appreciated! :wink:
 
+10/3/2017 9:53 PM
+
+ **aj** :
+
+ >ohhhh yeaaaaaaa
+
