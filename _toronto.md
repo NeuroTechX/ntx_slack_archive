@@ -2106,3 +2106,18 @@ Lecture times and details can be found in links on that page too. :simple_smile:
 > 
 ```
 
+10/3/2017 6:17 PM
+
+ **joshuad** :
+
+ >Its that time again, to push our projects forward, share our hopes fears for the future, and enjoy some good times. This week well be back in the mediation space at Interaxon. Big thanks to them for hosting us again!
+
+> 
+
+
+> 
+Time: Thursday the 5th, 6 until 10pm
+
+> 
+Location: Interaxon, 511 King St W
+
