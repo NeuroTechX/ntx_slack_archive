@@ -1551,3 +1551,9 @@ Taking Action for Equality
 
  >Hi falk the IEEE Brain Hackathon looks awesome. Im sad that it conflicts with Thanksgiving weekend here in Canada because I would love to attend. Are you aware if we will be able to view some of the talks online? I would love listen in to a few
 
+10/3/2017 9:34 PM
+
+ **falk** :
+
+ >I believe so, but not sure of the links yet. Maybe monitor the BMI website for updates. Participation can also be remote, if that helps with the long weekend conflicts.
+
