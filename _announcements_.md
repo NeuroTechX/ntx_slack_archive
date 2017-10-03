@@ -1557,3 +1557,9 @@ Taking Action for Equality
 
  >I believe so, but not sure of the links yet. Maybe monitor the BMI website for updates. Participation can also be remote, if that helps with the long weekend conflicts.
 
+10/3/2017 9:34 PM
+
+ **falk** :
+
+ >BTW, any news on a NeuroTechX online team? We are in talks of having a prize for best remote team also&
+
