@@ -1593,3 +1593,9 @@ Taking Action for Equality
 
  >ohhhh yeaaaaaaa
 
+10/3/2017 9:53 PM
+
+ **aj** :
+
+ >so we can do like WPA
+
