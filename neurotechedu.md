@@ -1161,3 +1161,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  ><!channel> Call is set for 17 h on Friday. Sending invites soon :slightly_smiling_face:
 
+10/3/2017 2:11 PM
+
+ **mikhail.sintsov** :
+
+ >great, I will try to make a branch with what I've done so far.
+
