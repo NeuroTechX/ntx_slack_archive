@@ -1605,3 +1605,9 @@ Taking Action for Equality
 
  >still trying to add enterprise level security to the wifi shield, so any help/advise would be appreciated there!
 
+10/4/2017 9:00 PM
+
+ **alexcastillo** :
+
+ >Hi falk I've registered for the hackathon but haven't received a confirmation. Can you help?
+
