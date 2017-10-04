@@ -2139,3 +2139,9 @@ Location: Interaxon, 511 King St W
 
  >Next time, alexdni. Im curious about how the Nuit Blanche project went
 
+10/4/2017 4:28 AM
+
+ **oriesai** :
+
+ >I cant come on Thursday , wish I could join next time! 
+
