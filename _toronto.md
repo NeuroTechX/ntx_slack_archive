@@ -2145,3 +2145,9 @@ Location: Interaxon, 511 King St W
 
  >I cant come on Thursday , wish I could join next time! 
 
+10/4/2017 1:58 PM
+
+ **bryan_j** :
+
+ >You will be missed Michelle - looking forward to seeing you at the next!
+
