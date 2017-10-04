@@ -6144,3 +6144,9 @@ Not sure if/how they handle multiple channels as input.
 
  >i think they just process them by batch i.e. receive 64 sample and produce 64 prediction (or categories of intents ?)
 
+10/4/2017 7:27 PM
+
+ **graeme** :
+
+ >Hey guys, the Smith Lowdown Focus glasses are now available for purchase. They work really well with MuseLSL. We'll be sharing some code and data from our internal tests on alexandre.barachant's MuseLSL repo over the coming weeks.
+
