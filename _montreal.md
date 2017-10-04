@@ -1935,3 +1935,9 @@ Thank you.
 
  >yannick In parallel to the hacknight schedule, I would be down to work on a project of the kind we discussed. Can you make it this Friday? I would be down to try to train a deep learner on some EEG data, just to see how that plays out. <!channel> Open to everyone obviously.
 
+10/4/2017 6:29 PM
+
+ **fred-simard** :
+
+ >I didn't get a response, I booked something else in my schedule. If anyone is interested in training a deep learner, please let me know and we'll schedule something
+
