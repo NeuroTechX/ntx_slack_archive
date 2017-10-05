@@ -2151,3 +2151,12 @@ Location: Interaxon, 511 King St W
 
  >You will be missed Michelle - looking forward to seeing you at the next!
 
+10/5/2017 3:16 PM
+
+ **bryan_j** :
+
+ >
+
+> 
+Mightex is hiring! Do not miss this. What an opportunity! Apply now: <http://ca.indeed.com/m/viewjob?jk=ffbaf22884fa48e2&amp;dupclk=0>
+
