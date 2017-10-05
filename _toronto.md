@@ -2160,3 +2160,12 @@ Location: Interaxon, 511 King St W
 > 
 Mightex is hiring! Do not miss this. What an opportunity! Apply now: <http://ca.indeed.com/m/viewjob?jk=ffbaf22884fa48e2&amp;dupclk=0>
 
+10/5/2017 6:40 PM
+
+ **dennlinger** :
+
+ >I sadly won't be able to make it, too :(
+
+> 
+With plans for the weekend and midterms next week, I simply don't have the time... Sorry! 
+
