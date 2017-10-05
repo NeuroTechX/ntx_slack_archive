@@ -1941,3 +1941,9 @@ Thank you.
 
  >I didn't get a response, I booked something else in my schedule. If anyone is interested in training a deep learner, please let me know and we'll schedule something
 
+10/5/2017 6:09 PM
+
+ **sidksv** :
+
+ ><!channel> is there a hacknight tonight?
+
