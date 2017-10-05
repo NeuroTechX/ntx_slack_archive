@@ -1947,3 +1947,9 @@ Thank you.
 
  ><!channel> is there a hacknight tonight?
 
+10/5/2017 6:11 PM
+
+ **sydneyneurotechx** :
+
+ >I can't be there, but I booked the conference room for 6:30
+
