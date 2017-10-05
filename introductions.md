@@ -3135,3 +3135,9 @@ Hopefully I will get to meet, hack and discuss neuro tech with many of you on my
 
  >Hi Alex. Is HALO the name of the device?
 
+10/5/2017 4:44 PM
+
+ **alexdni** :
+
+ >we are going with H10C for the first release, but HALO is what we endearingly call it :wink:
+
