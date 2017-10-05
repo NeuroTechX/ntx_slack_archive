@@ -1611,3 +1611,9 @@ Taking Action for Equality
 
  >Hi falk I've registered for the hackathon but haven't received a confirmation. Can you help?
 
+10/5/2017 12:06 AM
+
+ **jfrayshe** :
+
+ >Hey everyone, just wanted to throw another call out there for anyone who would like to be recognized as a content creator/contributor to the neurotech edu project! If you have a passion for building content that will help centralize all the information you need to start working with eeg data and bci's then message me or sydneyneurotechx to sign up! We are having a call to discuss the project this Friday (October 6) at 4 pm EST, all are welcome.
+
