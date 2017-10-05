@@ -1953,3 +1953,9 @@ Thank you.
 
  >I can't be there, but I booked the conference room for 6:30
 
+10/5/2017 6:23 PM
+
+ **naoto** :
+
+ >I don't want to spam but our exhibition is happening tonight 6 pm at never apart (thus I won't be there at hacknight). The gallery is open tomorrow too and every saturdays till beginning of january :slightly_smiling_face:
+
