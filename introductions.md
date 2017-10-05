@@ -3141,3 +3141,15 @@ Hopefully I will get to meet, hack and discuss neuro tech with many of you on my
 
  >we are going with H10C for the first release, but HALO is what we endearingly call it :wink:
 
+10/5/2017 8:42 PM
+
+ **t.skipper.h.p** :
+
+ >Hello Guys!
+
+> 
+I am Tobias, i am biomedical engineering student at the technical university of Denmark! I am currently doing minor signal processing tasks, but i am looking into specialising in BCI's during my spring semester project and my graduate degree.
+
+> 
+This coming friday i am going to New York, where i noticed that you had an chapter. i don't exactly know how this whole thing works, but if you would happen to have any cool projects going on, or just any small BCI stuff, i'd love to look by one of my days while i'm there!
+
