@@ -5199,3 +5199,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >Good lord. Let's collaborate. Have you seen EEG 101? <https://github.com/neurotechx/eeg-101>
 
+10/6/2017 10:48 PM
+
+ **dano** :
+
+ >I've implemented a whole bunch of the same stuff in Java for EEG 101. Not using Data Binding, though. Haven't actually come across that before
+
