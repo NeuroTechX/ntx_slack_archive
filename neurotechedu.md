@@ -1167,3 +1167,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >great, I will try to make a branch with what I've done so far.
 
+10/6/2017 8:46 PM
+
+ **sheida** :
+
+ >I'll be in transit during the call but I'll try to join via phone for as much as I can!
+
