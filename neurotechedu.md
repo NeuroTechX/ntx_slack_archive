@@ -1185,3 +1185,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >Intuitive video on FFT
 
+10/6/2017 10:05 PM
+
+ **ryanlintott** :
+
+ ><https://www.youtube.com/watch?v=FjmwwDHT98c>
+
