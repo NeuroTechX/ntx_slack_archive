@@ -5175,3 +5175,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 > 
 <http://ieeexplore.ieee.org/abstract/document/6824740/?reload=true>
 
+10/6/2017 6:58 PM
+
+ **aj** :
+
+ >Hi anyone know if there is high frequency eeg bio marker for motor movement or imagined motor movement? Looking for +60Hx
+
