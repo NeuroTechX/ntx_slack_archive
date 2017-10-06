@@ -1197,3 +1197,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >great call guys! Really interesting points.. very happy to be part again of the neurotechedu project!
 
+10/6/2017 10:24 PM
+
+ **francescacoo** :
+
+ >I forgot to mention that the 1st of november I will be on a plane to new york so I won't be able to join the call :confused:
+
