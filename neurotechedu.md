@@ -1179,3 +1179,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >me too just parked the car but have laptop + headset so this time  I can even talk!! :joy:
 
+10/6/2017 10:05 PM
+
+ **ryanlintott** :
+
+ >Intuitive video on FFT
+
