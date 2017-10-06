@@ -5166,3 +5166,12 @@ IMO the results will be very subject specific
 > 
 for a gentle introduction you start with the Mike X Cohen lecturelets
 
+10/6/2017 4:45 PM
+
+ **dano** :
+
+ >This looks like an interesting one 
+
+> 
+<http://ieeexplore.ieee.org/abstract/document/6824740/?reload=true>
+
