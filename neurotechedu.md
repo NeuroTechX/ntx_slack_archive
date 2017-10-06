@@ -1191,3 +1191,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  ><https://www.youtube.com/watch?v=FjmwwDHT98c>
 
+10/6/2017 10:23 PM
+
+ **francescacoo** :
+
+ >great call guys! Really interesting points.. very happy to be part again of the neurotechedu project!
+
