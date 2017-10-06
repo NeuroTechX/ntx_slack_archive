@@ -6156,3 +6156,9 @@ Not sure if/how they handle multiple channels as input.
 
  ><http://www.smithoptics.com/us/lowdownfocus>
 
+10/6/2017 1:58 AM
+
+ **llean** :
+
+ >Lucid Dreaming EEG + tDCS headset, In Demand: <https://www.indiegogo.com/projects/lucidcatcher-dreaming-becomes-real-dream-sleep/>
+
