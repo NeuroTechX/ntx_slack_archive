@@ -5181,3 +5181,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >Hi anyone know if there is high frequency eeg bio marker for motor movement or imagined motor movement? Looking for +60Hx
 
+10/6/2017 6:59 PM
+
+ **aj** :
+
+ >I know we normally do 7-30Hz
+
