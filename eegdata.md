@@ -5187,3 +5187,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >I know we normally do 7-30Hz
 
+10/6/2017 7:27 PM
+
+ **pat** :
+
+ >I'm not sure the best channel for this, but here seems close enough: I've been working on a few projects visualizing Muse EEG data on Android devices, so ended up splitting of a reusable library of data and visualization tools that make the whole process eaiser. If anyone's doing likewise and is interested, the code (library + sample app) are all available at: <https://github.com/padster/Muse-EEG-Toolkit>
+
