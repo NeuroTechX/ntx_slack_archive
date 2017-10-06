@@ -6162,3 +6162,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Lucid Dreaming EEG + tDCS headset, In Demand: <https://www.indiegogo.com/projects/lucidcatcher-dreaming-becomes-real-dream-sleep/>
 
+10/6/2017 2:09 PM
+
+ **sanyaade** :
+
+ >Hello Everybody, Sanyaade from London
+
