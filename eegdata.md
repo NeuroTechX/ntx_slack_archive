@@ -5205,3 +5205,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >I've implemented a whole bunch of the same stuff in Java for EEG 101. Not using Data Binding, though. Haven't actually come across that before
 
+10/6/2017 10:51 PM
+
+ **dano** :
+
+ >The next thing I, and other collaborators like hubertjb and psoulos, will be working on is implementing ERPs in the app. We would definitely love to talk about that, as it seems your MergedSeries is similar to the kind of thing we might be trying to implement
+
