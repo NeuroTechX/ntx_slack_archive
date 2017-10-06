@@ -2169,3 +2169,9 @@ Mightex is hiring! Do not miss this. What an opportunity! Apply now: <http://ca.
 > 
 With plans for the weekend and midterms next week, I simply don't have the time... Sorry! 
 
+10/6/2017 11:31 PM
+
+ **dano** :
+
+ >Let's examine the shit out of this when I get back: <https://itunes.apple.com/ca/app/brain-power-score/id1242400746?mt=8>
+
