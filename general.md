@@ -6168,3 +6168,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Hello Everybody, Sanyaade from London
 
+10/6/2017 6:27 PM
+
+ **francescacoo** :
+
+ >Hi everyone! I am starting to work on my thesis (in software engineering). I am doing something which is related to relaxation/meditation and EEG (using Muse headset). I am still working to my literature review and reading different papers.. as there are many students here I was wondering if anyone knows of some great paper I should know / or has any suggestion for me I would really appreciate it! Thanks a lot!
+
