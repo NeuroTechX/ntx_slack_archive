@@ -1173,3 +1173,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >I'll be in transit during the call but I'll try to join via phone for as much as I can!
 
+10/6/2017 8:57 PM
+
+ **francescacoo** :
+
+ >me too just parked the car but have laptop + headset so this time  I can even talk!! :joy:
+
