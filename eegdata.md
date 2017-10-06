@@ -5211,3 +5211,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >The next thing I, and other collaborators like hubertjb and psoulos, will be working on is implementing ERPs in the app. We would definitely love to talk about that, as it seems your MergedSeries is similar to the kind of thing we might be trying to implement
 
+10/6/2017 10:56 PM
+
+ **dano** :
+
+ >I've also been thinking of refactoring our EEG 101 code to be more remixable. For example, our EEG graph right now is just an Android view that does everything (receiving data, filtering, plotting) inside itself.
+
