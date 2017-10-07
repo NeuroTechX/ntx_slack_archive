@@ -1203,3 +1203,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >I forgot to mention that the 1st of november I will be on a plane to new york so I won't be able to join the call :confused:
 
+10/7/2017 4:44 AM
+
+ **sydneyneurotechx** :
+
+ >Great call everyone!
+
