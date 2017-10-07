@@ -3171,3 +3171,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Welcome zmarandos!
 
+10/7/2017 3:04 AM
+
+ **sydneyneurotechx** :
+
+ >welcome t.skipper.h.p! Connect with aj. He helps to push the New York chapter
+
