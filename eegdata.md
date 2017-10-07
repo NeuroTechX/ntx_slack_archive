@@ -5217,3 +5217,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >I've also been thinking of refactoring our EEG 101 code to be more remixable. For example, our EEG graph right now is just an Android view that does everything (receiving data, filtering, plotting) inside itself.
 
+10/7/2017 7:31 PM
+
+ **pat** :
+
+ >dano nice - React makes sense, especially for multi-platform stuff. The Android data binding stuff is their fairly good attempt at an inbuilt equivalent, I find it a good way to quickly get live rendering working although might look at switching to React Native if that's what everyone is using and combining the two is hard work.
+
