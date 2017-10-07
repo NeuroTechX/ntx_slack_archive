@@ -672,3 +672,9 @@ Time: Thursday the 5th, 6 until 10pm
 > 
 Location: Interaxon, 511 King St W, Toronto, Canada
 
+10/7/2017 3:04 AM
+
+ **aj** :
+
+ >Hack night at openbci is Thursday October 26th not the 28th!
+
