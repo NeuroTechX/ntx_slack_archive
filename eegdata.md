@@ -5223,3 +5223,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >dano nice - React makes sense, especially for multi-platform stuff. The Android data binding stuff is their fairly good attempt at an inbuilt equivalent, I find it a good way to quickly get live rendering working although might look at switching to React Native if that's what everyone is using and combining the two is hard work.
 
+10/7/2017 7:35 PM
+
+ **pat** :
+
+ >MergedSeries I used for processing multiple frequency time series at the same time. For ERP you'll want something more like the Epoch collector that I just added; although I'll probably be changing the API a bit, currently you take the snapshot at the end of what you want (i.e. after the event), whereas probably it's better to make the call at the actual time of the event, and customize before + after delay.
+
