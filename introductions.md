@@ -3153,3 +3153,9 @@ I am Tobias, i am biomedical engineering student at the technical university of 
 > 
 This coming friday i am going to New York, where i noticed that you had an chapter. i don't exactly know how this whole thing works, but if you would happen to have any cool projects going on, or just any small BCI stuff, i'd love to look by one of my days while i'm there!
 
+10/7/2017 3:03 AM
+
+ **sydneyneurotechx** :
+
+ >A bit late but welcome alexdni!
+
