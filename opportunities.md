@@ -996,3 +996,9 @@ Closing date:  26th September 2017
 > 
 Taking Action for Equality
 
+10/8/2017 4:04 AM
+
+ **harris** :
+
+ >Hello everyone! My name is Harris Rothaermel, and I'm a computer science undergrad at Brigham Young University. I've been on the lookout for potential internships next summer from May-August involving brain computer interfaces and haven't been that successful. If you know of any that may of interest, could you please message me. Thanks!
+
