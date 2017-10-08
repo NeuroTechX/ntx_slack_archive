@@ -1002,3 +1002,9 @@ Taking Action for Equality
 
  >Hello everyone! My name is Harris Rothaermel, and I'm a computer science undergrad at Brigham Young University. I've been on the lookout for potential internships next summer from May-August involving brain computer interfaces and haven't been that successful. If you know of any that may of interest, could you please message me. Thanks!
 
+10/8/2017 6:14 PM
+
+ **joeyo** :
+
+ >harris U of U has a strong neural engineering research program that would be worth reaching out to since it's in your neighborhood.
+
