@@ -3177,3 +3177,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >welcome t.skipper.h.p! Connect with aj. He helps to push the New York chapter
 
+10/8/2017 4:38 PM
+
+ **pia.michel** :
+
+ >Hey everybody, Im Pia, Im doing my master in cognitive neuroscience the University of Amsterdam. Ive moved from a BSc in Psychology to Neuroscience, so Im quite new to the BCI field, especially the tech aspects of it, so Im really excited to have found this community - it seems like there will be lots to learn from you! Ill be doing my first project with EEG soon, so if you have any suggestions in terms of introductory literature, tools, advice etc., please go ahead! Also, Ive found it surprisingly difficult to find people in the Amsterdam/ Leiden area working on BCIs, so if you know labs, let me know! Groetjes!
+
