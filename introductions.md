@@ -3195,3 +3195,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Any ideas what your trying to do?
 
+10/8/2017 6:59 PM
+
+ **pia.michel** :
+
+ >eventually I to work with BCIs for neurological rehabilitation (locked-in, stroke etc) but atm I want to build a proper understanding of how EEG data is used in BCIs and how the technology works, so Im really quite at the beginning of making up my mind on the direction Ill take
+
