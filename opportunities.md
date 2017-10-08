@@ -1008,3 +1008,9 @@ Taking Action for Equality
 
  >harris U of U has a strong neural engineering research program that would be worth reaching out to since it's in your neighborhood.
 
+10/8/2017 6:14 PM
+
+ **joeyo** :
+
+ ><http://www.bioen.utah.edu/cni/>
+
