@@ -3189,3 +3189,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Check out EEG101 for Android!
 
+10/8/2017 6:13 PM
+
+ **aj** :
+
+ >Any ideas what your trying to do?
+
