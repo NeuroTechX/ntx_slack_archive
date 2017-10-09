@@ -6240,3 +6240,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Great job Tiago falk !!
 
+10/9/2017 9:40 PM
+
+ **falk** :
+
+ >thanks, but Christoph and his G.tech team did all the work! And thanks to the sponsors who made it happen& without the equipment, thered be no hackathon!
+
