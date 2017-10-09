@@ -3207,3 +3207,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Hi Pia, Check out Nick Ramseys group at UMC: <http://www.nick-ramsey.eu>
 
+10/9/2017 6:45 AM
+
+ **ruudkalis** :
+
+ >Nick is the chairman of the BCI society :wink:
+
