@@ -1617,3 +1617,21 @@ Taking Action for Equality
 
  >Hey everyone, just wanted to throw another call out there for anyone who would like to be recognized as a content creator/contributor to the neurotech edu project! If you have a passion for building content that will help centralize all the information you need to start working with eeg data and bci's then message me or sydneyneurotechx to sign up! We are having a call to discuss the project this Friday (October 6) at 4 pm EST, all are welcome.
 
+10/9/2017 2:02 PM
+
+ **benjamindeleener** :
+
+ >Hey everyone, the NeuroTechX Student Clubs initiative needs you! As youve probably seen recently, we started publishing blog posts promoting student clubs activities related to neurotechnologies: <https://medium.com/@ntxstudentclubs>
+
+> 
+
+
+> 
+This blog initiative is led by yannick, mattherich and myself, and we need contributors to interview students and clubs on several topics. So if you feel like contributing to this wonderful community and promoting students activities, this is a nice entry point. Each Q&amp;A would require ~2h of work from you so it is really perfect if your primary concern is time.
+
+> 
+
+
+> 
+If youre interested, please contact me!
+
