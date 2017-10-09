@@ -3249,3 +3249,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >:grinning: Ill be going home to Hamburg that weekend, have fun here!
 
+10/9/2017 7:56 AM
+
+ **ruudkalis** :
+
+ >Alles klar! Thanks!
+
