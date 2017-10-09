@@ -3243,3 +3243,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Cool! I will be visiting in Amsterdam from next week Thursday. But that is mainly because of Amsterdam Dance Event :wink:
 
+10/9/2017 7:53 AM
+
+ **pia.michel** :
+
+ >:grinning: Ill be going home to Hamburg that weekend, have fun here!
+
