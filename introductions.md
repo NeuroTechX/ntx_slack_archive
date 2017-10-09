@@ -3237,3 +3237,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Oh nice, thank you!
 
+10/9/2017 7:50 AM
+
+ **ruudkalis** :
+
+ >Cool! I will be visiting in Amsterdam from next week Thursday. But that is mainly because of Amsterdam Dance Event :wink:
+
