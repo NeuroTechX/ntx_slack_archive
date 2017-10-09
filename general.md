@@ -6192,3 +6192,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Richie Davidson's work would be relevant: <https://centerhealthyminds.org/science/publications>
 
+10/9/2017 9:20 AM
+
+ **francescacoo** :
+
+ >fantastic I will check it now! Thanks a lot!
+
