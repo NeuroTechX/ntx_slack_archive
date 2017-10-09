@@ -6228,3 +6228,9 @@ Not sure if/how they handle multiple channels as input.
 
  >I learned a lot of lessons and was able to get a nice stability patch for wifi shield firmware for the raw top JSON conversion and through mqtt
 
+10/9/2017 9:38 PM
+
+ **falk** :
+
+ >Blast indeed! Check out the MuSAE Lab twitter feed to see the photos of the winners. Video of the team presentations should go up on our youtube channel soon& stay tuned!
+
