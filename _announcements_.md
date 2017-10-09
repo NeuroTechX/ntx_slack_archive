@@ -1635,3 +1635,9 @@ This blog initiative is led by yannick, mattherich and myself, and we need contr
 > 
 If youre interested, please contact me!
 
+10/9/2017 11:27 PM
+
+ **mattherich** :
+
+ >Hey guys, just wanted to say that I've really enjoyed contributing to the student clubs initiative. If anyone is interested in lending a hand in our efforts and/or has any questions about where you can help please don't hesitate to message benjamindeleener or me.
+
