@@ -3201,3 +3201,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >eventually I to work with BCIs for neurological rehabilitation (locked-in, stroke etc) but atm I want to build a proper understanding of how EEG data is used in BCIs and how the technology works, so Im really quite at the beginning of making up my mind on the direction Ill take
 
+10/9/2017 6:45 AM
+
+ **ruudkalis** :
+
+ >Hi Pia, Check out Nick Ramseys group at UMC: <http://www.nick-ramsey.eu>
+
