@@ -1026,3 +1026,9 @@ Taking Action for Equality
 
  >Thanks, will look into it
 
+10/9/2017 10:25 PM
+
+ **mrkrause** :
+
+ >harris, you might also want to look at Ripple (<http://rippleneuro.com>) or Blackrock Microsystems (<http://blackrockmicro.com>). Blackrock commericalized the "Utah" arrays that are used in a lot of human and animal experiments, while Ripple is an up-and-coming neurophysiology hardware company.
+
