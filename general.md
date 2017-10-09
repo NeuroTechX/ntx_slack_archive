@@ -6234,3 +6234,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Blast indeed! Check out the MuSAE Lab twitter feed to see the photos of the winners. Video of the team presentations should go up on our youtube channel soon& stay tuned!
 
+10/9/2017 9:39 PM
+
+ **aj** :
+
+ >Great job Tiago falk !!
+
