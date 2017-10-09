@@ -3225,3 +3225,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >He has organised brain hackathon in Amsterdam earlier this year
 
+10/9/2017 6:52 AM
+
+ **ruudkalis** :
+
+ ><http://hackthebrain-hub.com/2017/03/31/brainhack-presented-at-tu-delft-brain-events/>
+
