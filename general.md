@@ -6222,3 +6222,9 @@ Not sure if/how they handle multiple channels as input.
 
  >A bunch of teams used openbci and majority had success and won cash
 
+10/9/2017 9:37 PM
+
+ **aj** :
+
+ >I learned a lot of lessons and was able to get a nice stability patch for wifi shield firmware for the raw top JSON conversion and through mqtt
+
