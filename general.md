@@ -6216,3 +6216,9 @@ Not sure if/how they handle multiple channels as input.
 
  >A blast!! Also exhausting
 
+10/9/2017 9:36 PM
+
+ **aj** :
+
+ >A bunch of teams used openbci and majority had success and won cash
+
