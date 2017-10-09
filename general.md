@@ -6198,3 +6198,9 @@ Not sure if/how they handle multiple channels as input.
 
  >fantastic I will check it now! Thanks a lot!
 
+10/9/2017 5:51 PM
+
+ **yannick** :
+
+ >How was the conference and the Hackathon? (CC falk, aj and others)
+
