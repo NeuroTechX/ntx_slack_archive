@@ -6210,3 +6210,9 @@ Not sure if/how they handle multiple channels as input.
 
  >(SMC 2017 in Banff)
 
+10/9/2017 9:36 PM
+
+ **aj** :
+
+ >A blast!! Also exhausting
+
