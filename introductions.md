@@ -3219,3 +3219,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Perhaps also Lucas Evers can help:
 
+10/9/2017 6:52 AM
+
+ **ruudkalis** :
+
+ >He has organised brain hackathon in Amsterdam earlier this year
+
