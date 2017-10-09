@@ -6246,3 +6246,9 @@ Not sure if/how they handle multiple channels as input.
 
  >thanks, but Christoph and his G.tech team did all the work! And thanks to the sponsors who made it happen& without the equipment, thered be no hackathon!
 
+10/9/2017 10:10 PM
+
+ **yannick** :
+
+ >Awesome!
+
