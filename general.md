@@ -6204,3 +6204,9 @@ Not sure if/how they handle multiple channels as input.
 
  >How was the conference and the Hackathon? (CC falk, aj and others)
 
+10/9/2017 5:52 PM
+
+ **yannick** :
+
+ >(SMC 2017 in Banff)
+
