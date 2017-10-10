@@ -2175,3 +2175,9 @@ With plans for the weekend and midterms next week, I simply don't have the time.
 
  >Let's examine the shit out of this when I get back: <https://itunes.apple.com/ca/app/brain-power-score/id1242400746?mt=8>
 
+10/10/2017 1:18 PM
+
+ **cbattista** :
+
+ >bold claims
+
