@@ -2844,3 +2844,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >Hey everyone. A friend of mine has a few questions about registering a NPO in Canada, and I figured since this community is so active that there's probably a few people here who have experience with this sort of thing. If you've got the time to answer a few questions, could you send me a DM? Thanks very much! :slightly_smiling_face:
 
+10/10/2017 10:30 PM
+
+ **aj** :
+
+ >Anyone hooked up an ESP8266 into Microsoft Azure?
+
