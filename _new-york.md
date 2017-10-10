@@ -234,3 +234,9 @@
 
  >aj if there are materials (video, ppt, etc) for that hacknight, please pass them my way!
 
+10/10/2017 4:17 PM
+
+ **rdesai** :
+
+ >aj oct 28th is a Thursday .. did you mean Saturday or oct 26th? 
+
