@@ -1038,3 +1038,9 @@ Taking Action for Equality
 
  >Thanks! Didn't know there were so many neuroscience related companies nearby
 
+10/10/2017 12:37 AM
+
+ **harris** :
+
+ >Thanks for all the suggestions. I'll be combing through them. I also have no issue with relocating for the summer, so I'm also looking for places I might apply
+
