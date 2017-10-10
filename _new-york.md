@@ -246,3 +246,9 @@
 
  >All yes hack night is October 26th
 
+10/10/2017 4:35 PM
+
+ **aj** :
+
+ ><!channel> hack night at OpenBCI HQ!
+
