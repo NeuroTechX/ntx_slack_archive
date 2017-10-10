@@ -252,3 +252,9 @@
 
  ><!channel> hack night at OpenBCI HQ!
 
+10/10/2017 4:36 PM
+
+ **rdesai** :
+
+ >Awesome! Tentative time @aj ? 
+
