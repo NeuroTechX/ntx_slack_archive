@@ -258,3 +258,9 @@
 
  >Awesome! Tentative time @aj ? 
 
+10/10/2017 5:02 PM
+
+ **aj** :
+
+ >7-9pm
+
