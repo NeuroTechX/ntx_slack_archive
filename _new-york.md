@@ -240,3 +240,9 @@
 
  >aj oct 28th is a Thursday .. did you mean Saturday or oct 26th? 
 
+10/10/2017 4:34 PM
+
+ **aj** :
+
+ >All yes hack night is October 26th
+
