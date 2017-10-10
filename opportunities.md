@@ -1044,3 +1044,9 @@ Taking Action for Equality
 
  >Thanks for all the suggestions. I'll be combing through them. I also have no issue with relocating for the summer, so I'm also looking for places I might apply
 
+10/10/2017 1:31 AM
+
+ **ray_cassani** :
+
+ >Hi everyone, *Smartstones*, now *:prose* translating nonverbal inputs such a to verbal communication, is "seeking for world-class partners, talented data scientist and software engineers to join [their] team in Toronto-California" Apply at: <http://www.smartstones.co/career>
+
