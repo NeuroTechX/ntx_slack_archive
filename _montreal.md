@@ -1959,3 +1959,42 @@ Thank you.
 
  >I don't want to spam but our exhibition is happening tonight 6 pm at never apart (thus I won't be there at hacknight). The gallery is open tomorrow too and every saturdays till beginning of january :slightly_smiling_face:
 
+10/10/2017 3:13 PM
+
+ **fred-simard** :
+
+ ><!channel> I'm looking for a helper to work on my EEG stuff. I'm bound to silence, but it's a very cool project and I've been working on it for about 6 months now so it's not a little thing. There is a remuneration attached to the offer, however this shouldn't be the main factor to apply, since the remuneration will be below any kind of job.
+
+> 
+
+
+> 
+What I'm looking for:
+
+> 
+- someone with a lot of autonomy and with prior EEG data analysis experience. Ideally a master/PhD student who wants to build a portfolio around the development of practical EEG applications.
+
+> 
+- someone experienced with python, at least enough to develop on his own.
+
+> 
+- someone willing to enter a NDA and who will remain discreet on the exact nature of his work, until it goes public.
+
+> 
+- someone who lives in Montreal
+
+> 
+
+
+> 
+Be careful, I have no problem to see someone who is in the process of learning applying, however this is not a EEG 101. I'm looking for someone who will collaborate and contribute to the project.
+
+> 
+
+
+> 
+To apply:
+
+> 
+Simply send me a private message, with a summary of your qualifications, how much hours/week you think you can contribute.
+
