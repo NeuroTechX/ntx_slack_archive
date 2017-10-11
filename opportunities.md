@@ -1050,3 +1050,9 @@ Taking Action for Equality
 
  >Hi everyone, *Smartstones*, now *:prose* translating nonverbal inputs such a to verbal communication, is "seeking for world-class partners, talented data scientist and software engineers to join [their] team in Toronto-California" Apply at: <http://www.smartstones.co/career>
 
+10/11/2017 3:30 PM
+
+ **mrkrause** :
+
+ >Yeah, you're in a really good place! I have no idea what our funding will be like next summer, but if we're hiring, I'll get in touch.
+
