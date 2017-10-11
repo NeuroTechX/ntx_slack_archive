@@ -2016,3 +2016,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >works for me
 
+10/11/2017 5:32 PM
+
+ **ray_cassani** :
+
+ >Yeah, tomorrow sounds good
+
