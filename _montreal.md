@@ -2004,3 +2004,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >When do you want to have our next hacknight <!channel> 
 
+10/11/2017 5:14 PM
+
+ **sidksv** :
+
+ >Tomorrow night?
+
