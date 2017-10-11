@@ -2850,3 +2850,12 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >Anyone hooked up an ESP8266 into Microsoft Azure?
 
+10/11/2017 5:52 AM
+
+ **sc** :
+
+ ><https://www.technologyreview.com/s/609032/scientists-can-read-a-birds-brain-and-predict-its-next-song/>
+
+> 
+
+
