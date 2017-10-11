@@ -2877,3 +2877,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >Indeed, the technique looks good and it's nice to see how well it does!
 
+10/11/2017 7:13 PM
+
+ **pat** :
+
+ >I wonder whether they'll look at a realtime audio generator
+
