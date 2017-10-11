@@ -2022,3 +2022,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >Yeah, tomorrow sounds good
 
+10/11/2017 5:41 PM
+
+ **eferdinand** :
+
+ >I'm not gonna make it this week if tomorrow, I'll see you next week
+
