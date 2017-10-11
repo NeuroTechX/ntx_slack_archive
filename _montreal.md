@@ -1998,3 +1998,9 @@ To apply:
 > 
 Simply send me a private message, with a summary of your qualifications, how much hours/week you think you can contribute.
 
+10/11/2017 5:13 PM
+
+ **eferdinand** :
+
+ >When do you want to have our next hacknight <!channel> 
+
