@@ -2181,3 +2181,9 @@ With plans for the weekend and midterms next week, I simply don't have the time.
 
  >bold claims
 
+10/11/2017 2:09 PM
+
+ **graeme** :
+
+ >Read their paper while you're doing it. It's from Ryan D'Arcy's lab
+
