@@ -5229,3 +5229,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >MergedSeries I used for processing multiple frequency time series at the same time. For ERP you'll want something more like the Epoch collector that I just added; although I'll probably be changing the API a bit, currently you take the snapshot at the end of what you want (i.e. after the event), whereas probably it's better to make the call at the actual time of the event, and customize before + after delay.
 
+10/11/2017 2:06 AM
+
+ **educubecanada** :
+
+ >Graeme Kilshaw performs EEG Experiment with 22bit visual binary code and EEG hookups:   <https://youtu.be/LtNwZ76Z8SE>
+
