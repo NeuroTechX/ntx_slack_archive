@@ -2028,3 +2028,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >I'm not gonna make it this week if tomorrow, I'll see you next week
 
+10/11/2017 5:41 PM
+
+ **eferdinand** :
+
+ >Who wants an NTX t-shirt we can order together and save on shipping?
+
