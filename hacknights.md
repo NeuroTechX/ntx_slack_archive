@@ -678,3 +678,9 @@ Location: Interaxon, 511 King St W, Toronto, Canada
 
  >Hack night at openbci is Thursday October 26th not the 28th!
 
+10/11/2017 2:09 AM
+
+ **educubecanada** :
+
+ >Elon Musk was granted $23M from DARPA to found "NeuraLink".  It could be like a 22bit visual binary hive mind, if fate enables us to combine Nerve Growth Factor NGF, Nootropics, Legal Addictive Stimulants, and Quantum Array Transponders.  Eventually it could all just come in this beautiful package that says "Welcome to NeuraLink".
+
