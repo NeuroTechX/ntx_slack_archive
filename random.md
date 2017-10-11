@@ -2865,3 +2865,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >Birb
 
+10/11/2017 4:16 PM
+
+ **bryan** :
+
+ >Thanks for that sc I gave a quick talk on song development in zebra finches a few weeks ago. Definitely sharing that article with my students!
+
