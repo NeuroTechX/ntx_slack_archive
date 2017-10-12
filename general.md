@@ -6264,3 +6264,9 @@ Not sure if/how they handle multiple channels as input.
 > 
 <https://medium.com/@urish/reactive-brain-waves-af07864bb7d4>
 
+10/12/2017 8:29 PM
+
+ **elsehow** :
+
+ >hey folks. just got the lowdown focus from smith optical/interaxon. anyone have any luck pairing it with `muse-io`?
+
