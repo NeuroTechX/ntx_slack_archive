@@ -5235,3 +5235,12 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >Graeme Kilshaw performs EEG Experiment with 22bit visual binary code and EEG hookups:   <https://youtu.be/LtNwZ76Z8SE>
 
+10/12/2017 3:06 PM
+
+ **dano** :
+
+ >Anyone have thoughts on this? Smooshing EEG data into colored images so that CNNs can be trained to detect seizures -- seems to work at least as well as the state-of-the-art.
+
+> 
+<https://arxiv.org/abs/1608.00220>
+
