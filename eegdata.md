@@ -5262,3 +5262,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >time-frequency decomposition "rectify" the signal and therefore you loose some interesting spatial correlation between EEG. for this reason, people like to apply first an ICA or some supervised source separation before going to the TF space. There is a potential huge gain to apply DL directly on raw data, but by converting them to image it's easier to leverage existing architecture
 
+10/12/2017 4:55 PM
+
+ **mrkrause** :
+
+ >Sure. On the other hand, the color representation is a little weird because it makes it harder to extract absolute magnitudes. I'd think switching to greyscale would be an easy win.
+
