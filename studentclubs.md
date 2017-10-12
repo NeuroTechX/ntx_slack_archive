@@ -726,3 +726,9 @@ I am currently working on Brain Computer Interface. My aim is to print a number 
 
  >Merlin @Queen's is making progress. Ran our first few experiments
 
+10/12/2017 2:41 AM
+
+ **karl.delorme** :
+
+ >where can i find the brain figther unity game on neurotechx i heard its open source and i wanted to add a calibration part
+
