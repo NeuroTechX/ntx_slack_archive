@@ -5250,3 +5250,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >The time-frequency decomposition part makes perfect sense (were people not doing this already?) but actually making it into a jpeg or whatever seems a little silly
 
+10/12/2017 4:31 PM
+
+ **mrkrause** :
+
+ >Also the interpretation of the convolutions in the t-f plane is potentially interesting: it suggests that abrupt changes in power are more predictive than the absolute amount of power, which seems pretty sensible to me.
+
