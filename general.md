@@ -6252,3 +6252,15 @@ Not sure if/how they handle multiple channels as input.
 
  >Awesome!
 
+10/12/2017 1:14 PM
+
+ **urish** :
+
+ >Just published - my adventures connecting Muse 2016 to the web!
+
+> 
+
+
+> 
+<https://medium.com/@urish/reactive-brain-waves-af07864bb7d4>
+
