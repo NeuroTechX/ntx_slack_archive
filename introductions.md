@@ -3261,3 +3261,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Bonjours,
 
+10/12/2017 2:28 AM
+
+ **karl.delorme** :
+
+ >My name is Karl and i am a student from Ecole des Technologie Superieur E.T.S. from montreal in the student club synapsETS, I am realy interested in neurotechnologie and study Electric Engineering
+
