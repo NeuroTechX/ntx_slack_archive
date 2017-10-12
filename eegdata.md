@@ -5274,3 +5274,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >my experience in Seizure detection is that absolute value is rarelly interesting, and it's more the ratio between frequency that is interesting. It has also the advantage of normalizing the power of EEG, wich makes it less sensible to variation across time (eeg in seizure can be recorded over the course of several weeks)
 
+10/12/2017 6:37 PM
+
+ **mrkrause** :
+
+ >alexandre.barachant, make sense, but I'd think that ratios would be more obvious with scalars than when going color -&gt; value. Still, it's neat that it works at all!
+
