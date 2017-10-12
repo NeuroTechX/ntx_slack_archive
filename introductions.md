@@ -3267,3 +3267,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >My name is Karl and i am a student from Ecole des Technologie Superieur E.T.S. from montreal in the student club synapsETS, I am realy interested in neurotechnologie and study Electric Engineering
 
+10/12/2017 8:39 PM
+
+ **elsehow** :
+
+ >hi all - im a phd student at uc berkeley - <http://cosmopol.is/>
+
