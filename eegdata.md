@@ -5244,3 +5244,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 > 
 <https://arxiv.org/abs/1608.00220>
 
+10/12/2017 4:28 PM
+
+ **mrkrause** :
+
+ >The time-frequency decomposition part makes perfect sense (were people not doing this already?) but actually making it into a jpeg or whatever seems a little silly
+
