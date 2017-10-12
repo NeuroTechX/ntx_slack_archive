@@ -5268,3 +5268,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >Sure. On the other hand, the color representation is a little weird because it makes it harder to extract absolute magnitudes. I'd think switching to greyscale would be an easy win.
 
+10/12/2017 4:59 PM
+
+ **alexandre.barachant** :
+
+ >my experience in Seizure detection is that absolute value is rarelly interesting, and it's more the ratio between frequency that is interesting. It has also the advantage of normalizing the power of EEG, wich makes it less sensible to variation across time (eeg in seizure can be recorded over the course of several weeks)
+
