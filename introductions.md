@@ -3255,3 +3255,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Alles klar! Thanks!
 
+10/12/2017 2:26 AM
+
+ **karl.delorme** :
+
+ >Bonjours,
+
