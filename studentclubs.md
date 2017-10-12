@@ -720,3 +720,9 @@ I am currently working on Brain Computer Interface. My aim is to print a number 
 
  >omrin love the name! Love that article :heart: (we use it for onboarding now lool)
 
+10/12/2017 1:54 AM
+
+ **omrin** :
+
+ >Merlin @Queen's is making progress. Ran our first few experiments
+
