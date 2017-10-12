@@ -5256,3 +5256,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >Also the interpretation of the convolutions in the t-f plane is potentially interesting: it suggests that abrupt changes in power are more predictive than the absolute amount of power, which seems pretty sensible to me.
 
+10/12/2017 4:36 PM
+
+ **alexandre.barachant** :
+
+ >time-frequency decomposition "rectify" the signal and therefore you loose some interesting spatial correlation between EEG. for this reason, people like to apply first an ICA or some supervised source separation before going to the TF space. There is a potential huge gain to apply DL directly on raw data, but by converting them to image it's easier to leverage existing architecture
+
