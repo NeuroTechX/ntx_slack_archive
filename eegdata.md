@@ -5280,3 +5280,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >alexandre.barachant, make sense, but I'd think that ratios would be more obvious with scalars than when going color -&gt; value. Still, it's neat that it works at all!
 
+10/12/2017 7:11 PM
+
+ **alexandre.barachant** :
+
+ >Yes. You are right. It Makes more sense to use a scalar
+
