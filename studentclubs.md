@@ -732,3 +732,12 @@ I am currently working on Brain Computer Interface. My aim is to print a number 
 
  >where can i find the brain figther unity game on neurotechx i heard its open source and i wanted to add a calibration part
 
+10/13/2017 1:04 PM
+
+ **bryan** :
+
+ >I founded and am currently President of the Neuroscience Student Organization at Florida Atlantic University: <https://fau.campuslabs.com/engage/organization/neuroscienceso>
+
+> 
+Can we be a student chapter of Neurotechx as well? We can't change the name of the club, but certainly have a group of members that are into neurotech, some doing BCI already as part of their thesis (like myself)
+
