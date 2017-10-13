@@ -5292,3 +5292,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >It seems a popular approach, at least with ML people who have a lot of tools / knowledge in image classification and much less in timeseries classification
 
+10/13/2017 12:10 AM
+
+ **pat** :
+
+ >IIUC, they're interpreting it as color purely because they are using 3 frequency bands; to the CNN running, it's just a 3x16x16 tensor
+
