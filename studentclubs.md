@@ -747,3 +747,9 @@ Can we be a student chapter of Neurotechx as well? We can't change the name of t
 
  >Hey Bryan, Congrats on the constitution! I am very happy to see a new club appearing in our ecosystem. Did you take a look at the NTX Student Clubs website: <https://neurotechx.github.io/studentclubs/>?
 
+10/13/2017 7:41 PM
+
+ **benjamindeleener** :
+
+ >You can definitely be a student club in our organization. You might be interested in taking part of the competition if some of your club contains undergraduate students.
+
