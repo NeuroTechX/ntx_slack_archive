@@ -1221,3 +1221,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >Quick question. I was wondering what setup people are using to edit and preview their work. Ive figured out how to install and run Jekyll and host a local version of the website. I have also installed Atom with several packages. The one thing I cant seem to figure out is how to get the code highlighting to work one way for markdown and another for the code blocks of python or other languages used within it. Is there a way to do this in Atom or in another editor? Is there perhaps a completely different and much better setup for this kind of work that Im missing?
 
+10/13/2017 4:46 PM
+
+ **ryanlintott** :
+
+ >Another question to whomever added the GIF images to intro to neuroscience.  I am trying to fix the formatting but the giphy paths lead only to private giphy images. Were these perhaps uploaded to giphy privately for this purpose as a temporary measure? Is there anywhere that I could find this content? Thanks.
+
