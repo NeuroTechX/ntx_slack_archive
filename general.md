@@ -6270,3 +6270,9 @@ Not sure if/how they handle multiple channels as input.
 
  >hey folks. just got the lowdown focus from smith optical/interaxon. anyone have any luck pairing it with `muse-io`?
 
+10/13/2017 10:34 PM
+
+ **elsehow** :
+
+ >update: heard from graeme - I got a BLE adapter from amazon. will update folks as I learn more.
+
