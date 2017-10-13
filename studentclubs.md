@@ -741,3 +741,9 @@ I am currently working on Brain Computer Interface. My aim is to print a number 
 > 
 Can we be a student chapter of Neurotechx as well? We can't change the name of the club, but certainly have a group of members that are into neurotech, some doing BCI already as part of their thesis (like myself)
 
+10/13/2017 7:40 PM
+
+ **benjamindeleener** :
+
+ >Hey Bryan, Congrats on the constitution! I am very happy to see a new club appearing in our ecosystem. Did you take a look at the NTX Student Clubs website: <https://neurotechx.github.io/studentclubs/>?
+
