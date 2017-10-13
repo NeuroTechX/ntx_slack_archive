@@ -2883,3 +2883,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >I wonder whether they'll look at a realtime audio generator
 
+10/13/2017 2:02 PM
+
+ **dano** :
+
+ >Switching to left-handed mousing at work.  Dat RSI :S
+
