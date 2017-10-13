@@ -5286,3 +5286,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >Yes. You are right. It Makes more sense to use a scalar
 
+10/13/2017 12:06 AM
+
+ **pat** :
+
+ >It seems a popular approach, at least with ML people who have a lot of tools / knowledge in image classification and much less in timeseries classification
+
