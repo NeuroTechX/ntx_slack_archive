@@ -5298,3 +5298,12 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 
  >IIUC, they're interpreting it as color purely because they are using 3 frequency bands; to the CNN running, it's just a 3x16x16 tensor
 
+10/13/2017 12:19 AM
+
+ **pat** :
+
+ >this is the first time I've seen EEG-&gt;image done via spatial map, rather than spectrogram, which seems neat. 
+
+> 
+I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatever
+
