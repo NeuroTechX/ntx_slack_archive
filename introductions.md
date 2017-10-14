@@ -3273,3 +3273,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >hi all - im a phd student at uc berkeley - <http://cosmopol.is/>
 
+10/14/2017 10:28 PM
+
+ **alexander.chudinov** :
+
+ >Hello! I'm Alex. Canadian, grade 10. I see a real future for neurotechnology! I need to dive in asap :smile:
+
