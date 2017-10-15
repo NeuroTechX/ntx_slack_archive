@@ -708,3 +708,9 @@ Location: Interaxon, 511 King St W, Toronto, Canada
 
  >At OpenBCI HQ
 
+10/15/2017 2:35 PM
+
+ **jamoonie94** :
+
+ >Just wanna make sure, this is in Toronto?
+
