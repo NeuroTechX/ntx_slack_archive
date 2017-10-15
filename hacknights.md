@@ -696,3 +696,9 @@ Location: Interaxon, 511 King St W, Toronto, Canada
 
  >Whereabouts is this taking place?
 
+10/15/2017 2:07 PM
+
+ **aj** :
+
+ >Hacknight will be at OpenBCI. They are starting construction soon so we may have to postpone a week but for now it's still on for Oct 26th
+
