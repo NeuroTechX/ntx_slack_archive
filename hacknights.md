@@ -714,3 +714,9 @@ Location: Interaxon, 511 King St W, Toronto, Canada
 
  >Just wanna make sure, this is in Toronto?
 
+10/15/2017 2:38 PM
+
+ **yannick** :
+
+ >Haha, good thing you asked. This is a general Hacknights channel. Aj is talking about the NYC hacknights
+
