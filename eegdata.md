@@ -5307,3 +5307,9 @@ for a gentle introduction you start with the Mike X Cohen lecturelets
 > 
 I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatever
 
+10/15/2017 6:57 PM
+
+ **jorge.alemangonzalez** :
+
+ >Hi all ! Here Jorge , i just join the comunity. I'm looking for EEG data with 6 labels or more about imagination. Not only motor imagery , but all kinds of imagination. Thanks !
+
