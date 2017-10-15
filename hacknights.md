@@ -684,3 +684,9 @@ Location: Interaxon, 511 King St W, Toronto, Canada
 
  >Elon Musk was granted $23M from DARPA to found "NeuraLink".  It could be like a 22bit visual binary hive mind, if fate enables us to combine Nerve Growth Factor NGF, Nootropics, Legal Addictive Stimulants, and Quantum Array Transponders.  Eventually it could all just come in this beautiful package that says "Welcome to NeuraLink".
 
+10/15/2017 1:20 PM
+
+ **jamoonie94** :
+
+ >Whereabouts is this taking place?
+
