@@ -720,3 +720,9 @@ Location: Interaxon, 511 King St W, Toronto, Canada
 
  >Haha, good thing you asked. This is a general Hacknights channel. Aj is talking about the NYC hacknights
 
+10/15/2017 2:38 PM
+
+ **jamoonie94** :
+
+ >Ahhh damnnn :P
+
