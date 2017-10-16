@@ -858,3 +858,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >Found a cleaner one :slightly_smiling_face:
 
+10/16/2017 10:41 PM
+
+ **dano** :
+
+ >Looks awful on mobile too but ah what the hell. It's cool to have
+
