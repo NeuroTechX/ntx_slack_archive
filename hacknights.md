@@ -738,3 +738,105 @@ Location: Interaxon, 511 King St W, Toronto, Canada
 
  >speaking of hacknights in Toronto&
 
+10/16/2017 6:32 PM
+
+ **joshuad** :
+
+ >```                            _..._                                                                
+
+> 
+                          .-'_..._''.                                                             
+
+> 
+   .                    .' .'      '.\    .            _..._   .--.            .                  
+
+> 
+ .'|                   / .'             .'|          .'     '. |__|  .--./)  .'|                  
+
+> 
+&lt;  |                  . '             .'  |         .   .-.   ..--. /.''\\  &lt;  |             .|   
+
+> 
+ | |             __   | |            &lt;    |         |  '   '  ||  || |  | |  | |           .' |_  
+
+> 
+ | | .'''-.   .:--.'. | |             |   | ____    |  |   |  ||  | \`-' /   | | .'''-.  .'     | 
+
+> 
+ | |/.'''. \ / |   \ |. '             |   | \ .'    |  |   |  ||  | /("'`    | |/.'''. \'--.  .-' 
+
+> 
+ |  /    | | `" __ | | \ '.          .|   |/  .     |  |   |  ||  | \ '---.  |  /    | |   |  |   
+
+> 
+ | |     | |  .'.''| |  '. `._____.-'/|    /\  \    |  |   |  ||__|  /'""'.\ | |     | |   |  |   
+
+> 
+ | |     | | / /   | |_   `-.______ / |   |  \  \   |  |   |  |     ||     ||| |     | |   |  '.' 
+
+> 
+ | '.    | '.\ \._,\ '/            `  '    \  \  \  |  |   |  |     \'. __// | '.    | '.  |   /  
+
+> 
+ '---'   '---'`--'  `"               '------'  '---''--'   '--'      `'---'  '---'   '---' `'-'   
+
+> 
+```
+
+> 
+
+
+> 
+
+
+> 
+
+
+> 
+Hey crew, whos got a hankering for some neurohacking? Well be satisfying our cravings this week at on Tuesday the 17th, (thats tomorrow night) at VarageSale.
+
+> 
+
+
+> 
+A little review of our two main projects:
+
+> 
+
+
+> 
+- EEG 101 ( <https://play.google.com/store/apps/details?id=com.eeg_project&amp;hl=en> )
+
+> 
+An interactive introduction to EEG data and what can be done with it, including a small example of a Brain-Computer Interface. Its the perfect entry-point for those new to neuroscience. Right now new lessons on ERPs are being developed, the Android version is being ported over to iOS, and support is being added for as many languages as possible.
+
+> 
+
+
+> 
+- Neurodoro ( <https://github.com/neurotechx/neurodoro> )
+
+> 
+Currently in progress, Neurodoro is a revamp of the pomodoro technique, which uses a timer to structure working sessions and break times. Neurodoro uses EEG recorded while working to replace the timer with brain-responsive recommendations for when to take break from your focused activity. Multiple data prep and attention classification strategies are being explored, including a new RNN setup thats (maybe) almost functional. The app is in ReactNative and is still missing a few key features. Were also starting to think about setting up a server and a database for collecting training data.
+
+> 
+
+
+> 
+In addition to those, a couple people are working on extracting keystrokes from EEG, and new project ideas are always welcome!
+
+> 
+
+
+> 
+See you there.
+
+> 
+
+
+> 
+Time: Tuesday the 17th, 7 until whenever PM
+
+> 
+Location: VarageSale, Suite 901 111 Peter St, Toronto
+
