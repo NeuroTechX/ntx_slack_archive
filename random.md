@@ -2889,3 +2889,12 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >Switching to left-handed mousing at work.  Dat RSI :S
 
+10/16/2017 3:42 PM
+
+ **eferdinand** :
+
+ >Wanna attend CES next year, register using the link below:
+
+> 
+<https://www.compusystems.com/servlet/ar?evt_uid=481&amp;ghost=WU5HSEHK1mj3ZS0DmxOvlQ==>
+
