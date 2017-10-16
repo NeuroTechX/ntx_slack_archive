@@ -2034,3 +2034,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >Who wants an NTX t-shirt we can order together and save on shipping?
 
+10/16/2017 1:11 PM
+
+ **eferdinand** :
+
+ >Should we planning hacknight on Thursday or Friday this week?
+
