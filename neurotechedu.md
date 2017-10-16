@@ -1233,3 +1233,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >I had the same problem. sydneyneurotechx any suggestions?
 
+10/16/2017 9:24 PM
+
+ **jfrayshe** :
+
+ >Cheers thank you for this Ryan.
+
