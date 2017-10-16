@@ -732,3 +732,9 @@ Location: Interaxon, 511 King St W, Toronto, Canada
 
  >No--thanks Ray! Will do
 
+10/16/2017 6:32 PM
+
+ **joshuad** :
+
+ >speaking of hacknights in Toronto&
+
