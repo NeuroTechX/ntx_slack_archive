@@ -1227,3 +1227,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >Another question to whomever added the GIF images to intro to neuroscience.  I am trying to fix the formatting but the giphy paths lead only to private giphy images. Were these perhaps uploaded to giphy privately for this purpose as a temporary measure? Is there anywhere that I could find this content? Thanks.
 
+10/16/2017 9:23 PM
+
+ **jfrayshe** :
+
+ >I had the same problem. sydneyneurotechx any suggestions?
+
