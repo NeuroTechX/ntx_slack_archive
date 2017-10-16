@@ -2040,3 +2040,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >Should we planning hacknight on Thursday or Friday this week?
 
+10/16/2017 1:12 PM
+
+ **eferdinand** :
+
+ ><!channel> 
+
