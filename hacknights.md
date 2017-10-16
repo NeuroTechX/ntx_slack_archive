@@ -840,3 +840,9 @@ Time: Tuesday the 17th, 7 until whenever PM
 > 
 Location: VarageSale, Suite 901 111 Peter St, Toronto
 
+10/16/2017 6:37 PM
+
+ **yannick** :
+
+ >I had to remove the side window of Slack (on the right) to see your Text Art. Otherwise Slack scales it down and since its not an image, the text is all misaligned. I was looking at it for like 3 minutes trying to figure out what it was.. loool :confused:
+
