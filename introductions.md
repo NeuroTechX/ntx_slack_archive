@@ -3279,3 +3279,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Hello! I'm Alex. Canadian, grade 10. I see a real future for neurotechnology! I need to dive in asap :smile:
 
+10/16/2017 7:51 PM
+
+ **jtoth1** :
+
+ >Hi everyone, i'm currently studying for an MSc in Cognitive and Computational Neuroscience at the University of Sheffield, which where I graduated with a BEng in robotics. I'm very excited for the future of BCI and hope to doing a PhD in the topic next year! 
+
