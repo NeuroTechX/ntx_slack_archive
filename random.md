@@ -2913,3 +2913,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >i'll be reading this!
 
+10/16/2017 10:33 PM
+
+ **aj** :
+
+ >thanks!
+
