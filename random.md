@@ -2898,3 +2898,12 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 > 
 <https://www.compusystems.com/servlet/ar?evt_uid=481&amp;ghost=WU5HSEHK1mj3ZS0DmxOvlQ==>
 
+10/16/2017 9:08 PM
+
+ **yannick** :
+
+ >A brain-computer interface based on *functional transcranial doppler ultrasound* using wavelet transform and support vector machines.
+
+> 
+<https://www.ncbi.nlm.nih.gov/pubmed/29017899>
+
