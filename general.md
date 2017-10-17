@@ -6330,3 +6330,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Oh, its probably dependent on the microcontroller
 
+10/17/2017 4:00 PM
+
+ **mrkrause** :
+
+ >Pretty much, though there are bunch of libraries that handle buffering and synching with other devices too. LSL (Lab Streaming Layer) supports a fair number of devices, for example: <https://github.com/sccn/labstreaminglayer>
+
