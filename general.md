@@ -6312,3 +6312,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Is reading data from the electrode as easy as or similar to: read(pinNum) in software? What language do most BCI's use?
 
+10/17/2017 2:31 PM
+
+ **elsehow** :
+
+ >what do you mean by langauge? and yes, youd just be reading a timeseries of voltages (and probably FFTing them)
+
