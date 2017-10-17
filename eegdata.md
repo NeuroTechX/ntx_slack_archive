@@ -5433,3 +5433,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >btw, I spent a few minutes today trying to get your `muse-lsl` package working with the lowdown focus. the BLE dongle I got didnt seem to be working with `pygatt`. since my macbook does seem to support BLE, ill see if i can find a python package thatll work sans-dongle. Ill keep you posted
 
+10/17/2017 8:15 PM
+
+ **alexandre.barachant** :
+
+ >on mac, you can only use a BLED112 dongle with pygatt
+
