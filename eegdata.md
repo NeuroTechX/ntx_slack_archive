@@ -5529,3 +5529,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >thanks for the consult
 
+10/17/2017 8:24 PM
+
+ **alexandre.barachant** :
+
+ >with muse-lsl, you have and argument `--interface`
+
