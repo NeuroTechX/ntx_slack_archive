@@ -5439,3 +5439,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >on mac, you can only use a BLED112 dongle with pygatt
 
+10/17/2017 8:16 PM
+
+ **alexandre.barachant** :
+
+ >`muse-lsl` work with the lowdown focus
+
