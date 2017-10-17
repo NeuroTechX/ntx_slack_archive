@@ -5547,3 +5547,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >thanks, yeah, I just read the `muse-lsl.py` script
 
+10/17/2017 8:26 PM
+
+ **elsehow** :
+
+ >this project is really nicely organized
+
