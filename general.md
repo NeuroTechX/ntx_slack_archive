@@ -6300,3 +6300,9 @@ Not sure if/how they handle multiple channels as input.
 
  >alexander.chudinov if youre wanting to roll your own openBCI, id actually recommend the texas instruments ADS1299 ADC. this is an informative short read: <https://hal.inria.fr/hal-01278245/document>
 
+10/17/2017 1:30 PM
+
+ **benjamindeleener** :
+
+ >Education Changes the World! Check out our latest Q&amp;A with Sayan Faraz and his team from NeurotechUofT student club to see how they push neurotech innovation at the University of Toronto: <https://medium.com/neurotechx/q-a-with-neurotechuoft-d46c06f15126>
+
