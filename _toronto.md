@@ -2292,3 +2292,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >I'll be there, but might arrive an hour or so later due to appointments :slightly_smiling_face:
 
+10/17/2017 1:09 PM
+
+ **cbattista** :
+
+ >See you guys tonight!
+
