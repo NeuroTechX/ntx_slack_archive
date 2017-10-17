@@ -5415,3 +5415,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >(<https://pdfs.semanticscholar.org/6831/ae1024cdbb86a728dc865dc9b6d0a94a41fd.pdf>)
 
+10/17/2017 8:14 PM
+
+ **alexandre.barachant** :
+
+ >in pyriemann, you can use the class `HankelCovariance`
+
