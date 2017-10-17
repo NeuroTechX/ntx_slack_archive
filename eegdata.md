@@ -5487,3 +5487,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >btw, which dongle did you use, out of curiosity
 
+10/17/2017 8:17 PM
+
+ **alexandre.barachant** :
+
+ >if it's a knockoff, it might not be detected by the auto-dectection of pygatt (different usb id), but you can give the serial port adress and it mlight works
+
