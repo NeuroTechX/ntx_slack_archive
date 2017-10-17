@@ -6363,3 +6363,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >Some EEG device companies are offering a SDK to do these steps for you and give you some sort of readout of mental state(s) directly, like read(FocusLevel) that would return a value between 0 and 1. (to keep your comparison)
 
+10/17/2017 6:21 PM
+
+ **fred-simard** :
+
+ >alexander.chudinov Go with Python, this will take you further and faster than most alternatives. Matlab would be my second choice. Later on, if you focus on a specific application {smartphone, embedded, cloud}, you can switch your language for something more aligned with your development platform.
+
