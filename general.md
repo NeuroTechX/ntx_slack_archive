@@ -6336,3 +6336,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Pretty much, though there are bunch of libraries that handle buffering and synching with other devices too. LSL (Lab Streaming Layer) supports a fair number of devices, for example: <https://github.com/sccn/labstreaminglayer>
 
+10/17/2017 5:05 PM
+
+ **yannick** :
+
+ >alexander.chudinov it really depends on your goal and project.
+
