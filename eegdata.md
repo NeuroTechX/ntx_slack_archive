@@ -5451,3 +5451,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >so I thoguht my dongle was BLED112
 
+10/17/2017 8:16 PM
+
+ **elsehow** :
+
+ >but it is a cheap china knockoff thing
+
