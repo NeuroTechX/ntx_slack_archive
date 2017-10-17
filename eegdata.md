@@ -5349,3 +5349,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >elsehow the principle is to exploit covariance between channels, so you need multiple channel.
 
+10/17/2017 8:11 PM
+
+ **elsehow** :
+
+ >I see.
+
