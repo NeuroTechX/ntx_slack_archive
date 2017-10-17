@@ -5511,3 +5511,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >but it's more a pygatt issue.
 
+10/17/2017 8:20 PM
+
+ **elsehow** :
+
+ >I got it
+
