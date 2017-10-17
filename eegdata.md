@@ -5559,3 +5559,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >good docstrings
 
+10/17/2017 10:18 PM
+
+ **yrenard** :
+
+ >alexandre.barachant wouldn't time-delayed channel highly share variance with original channel ? that looks to me like a very ill conditionned covariance matrix until you have delay that is significant with regard to the epoch size you extract the cov matrix on
+
