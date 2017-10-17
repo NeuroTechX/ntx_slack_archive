@@ -6342,3 +6342,12 @@ Not sure if/how they handle multiple channels as input.
 
  >alexander.chudinov it really depends on your goal and project.
 
+10/17/2017 5:07 PM
+
+ **yannick** :
+
+ >Python, Matlab, Java, C++, etc. all are being used for BCIs, it depends on the project.
+
+> 
+You can find different frameworks on the NeuroTechX Awesome BCI List (<https://github.com/NeuroTechX/awesome-bci>)
+
