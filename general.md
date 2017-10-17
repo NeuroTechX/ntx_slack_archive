@@ -6306,3 +6306,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Education Changes the World! Check out our latest Q&amp;A with Sayan Faraz and his team from NeurotechUofT student club to see how they push neurotech innovation at the University of Toronto: <https://medium.com/neurotechx/q-a-with-neurotechuoft-d46c06f15126>
 
+10/17/2017 2:28 PM
+
+ **alexander.chudinov** :
+
+ >Is reading data from the electrode as easy as or similar to: read(pinNum) in software? What language do most BCI's use?
+
