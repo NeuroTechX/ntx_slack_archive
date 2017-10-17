@@ -6324,3 +6324,9 @@ Not sure if/how they handle multiple channels as input.
 
  >c, java, etc
 
+10/17/2017 2:33 PM
+
+ **alexander.chudinov** :
+
+ >Oh, its probably dependent on the microcontroller
+
