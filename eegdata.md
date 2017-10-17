@@ -5361,3 +5361,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >if you have single channel data, you can transform it into multichannel data by aggrating time-delayed version of the signal.
 
+10/17/2017 8:12 PM
+
+ **elsehow** :
+
+ >ah to exploit autocorrelations?
+
