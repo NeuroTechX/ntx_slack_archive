@@ -5493,3 +5493,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >if it's a knockoff, it might not be detected by the auto-dectection of pygatt (different usb id), but you can give the serial port adress and it mlight works
 
+10/17/2017 8:19 PM
+
+ **elsehow** :
+
+ >cool, i can find the serial port. will try
+
