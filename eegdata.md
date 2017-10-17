@@ -5337,3 +5337,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >Thanks guys :+1: fred-simard, alexandre.barachant. I will try it out.
 
+10/17/2017 7:36 PM
+
+ **elsehow** :
+
+ >alexandre.barachant any idea how the pyRiemann method works on single-channel data?
+
