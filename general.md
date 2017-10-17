@@ -6288,3 +6288,9 @@ Not sure if/how they handle multiple channels as input.
 
  >Should I be looking into investing in a board from <http://openbci.com>?
 
+10/17/2017 4:02 AM
+
+ **alexander.chudinov** :
+
+ >It seems too simple too just hook up an electrode to an arduino...
+
