@@ -5505,3 +5505,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >As i understand, windows and mac does not provide an unified BLE stack for external software to use, and what does the BLED112 is to embedd the BLE stack on hardware and expose it through a serial port
 
+10/17/2017 8:20 PM
+
+ **alexandre.barachant** :
+
+ >but it's more a pygatt issue.
+
