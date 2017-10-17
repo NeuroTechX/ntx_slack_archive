@@ -5517,3 +5517,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >I got it
 
+10/17/2017 8:21 PM
+
+ **elsehow** :
+
+ >Ill try specifying the port on a minimal example with pygatt next time im around my hw
+
