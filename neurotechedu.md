@@ -1248,3 +1248,9 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 > 
 I have been busy lately, but will try a bit more later on and let you know if I discover anything!
 
+10/17/2017 11:50 PM
+
+ **sydneyneurotechx** :
+
+ >Hey ryanlintott Sorry for the delay. Came back from Vacation today.
+
