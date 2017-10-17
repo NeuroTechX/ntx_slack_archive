@@ -183,3 +183,9 @@ I'm with a student team competing in NTX. Hit me up if you want to chat!
 > 
 On Tuesday, we have some meetings with researchers at the Brain Research Centre in the morning, but are free after lunch. Let us know when around then you guys might be available to meet and we'll make it work. Looking forward to showing off our tech!
 
+10/17/2017 4:09 PM
+
+ **a.tech** :
+
+ >Hey, sorry I missed this message :disappointed: Need to update my slack notification settings it seems. Hope you had a good trip Dano
+
