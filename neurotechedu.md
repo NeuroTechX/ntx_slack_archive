@@ -1239,3 +1239,12 @@ Select a time to chat. <http://doodle.com/poll/h3t8subk3vcvtxdp>
 
  >Cheers thank you for this Ryan.
 
+10/17/2017 7:35 AM
+
+ **francescacoo** :
+
+ >Hey Ryan, I know that Atom should be quite powerful but as you I haven't tried it yet.
+
+> 
+I have been busy lately, but will try a bit more later on and let you know if I discover anything!
+
