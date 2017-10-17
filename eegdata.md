@@ -5391,3 +5391,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >you don't, you have to find out
 
+10/17/2017 8:12 PM
+
+ **elsehow** :
+
+ >:wink: another hyperparameter
+
