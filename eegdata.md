@@ -5331,3 +5331,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >samuelbg13: yes, it works perfectly fine with low channel count
 
+10/17/2017 7:35 PM
+
+ **samuelbg13** :
+
+ >Thanks guys :+1: fred-simard, alexandre.barachant. I will try it out.
+
