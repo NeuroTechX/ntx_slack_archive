@@ -5385,3 +5385,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >but how do we know how long to delay it for?
 
+10/17/2017 8:12 PM
+
+ **alexandre.barachant** :
+
+ >you don't, you have to find out
+
