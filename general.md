@@ -6375,3 +6375,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >Noted, thank you everybody. :smile: I've heard that Python is great for neural networks. Can anybody confirm this?
 
+10/17/2017 7:27 PM
+
+ **graeme** :
+
+ >For those keeping score, that's now two years in a row that someone got on stage at the F8 Facebook developer conference, promised revolutionary BCI-based telepathy, and then left the company a couple months later:
+
