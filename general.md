@@ -6369,3 +6369,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >alexander.chudinov Go with Python, this will take you further and faster than most alternatives. Matlab would be my second choice. Later on, if you focus on a specific application {smartphone, embedded, cloud}, you can switch your language for something more aligned with your development platform.
 
+10/17/2017 6:45 PM
+
+ **alexander.chudinov** :
+
+ >Noted, thank you everybody. :smile: I've heard that Python is great for neural networks. Can anybody confirm this?
+
