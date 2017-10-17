@@ -2286,3 +2286,9 @@ Time: Tuesday the 17th, 7 until whenever PM
 > 
 Location: VarageSale, Suite 901 111 Peter St, Toronto
 
+10/17/2017 1:42 AM
+
+ **dennlinger** :
+
+ >I'll be there, but might arrive an hour or so later due to appointments :slightly_smiling_face:
+
