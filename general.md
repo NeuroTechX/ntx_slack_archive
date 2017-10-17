@@ -6282,3 +6282,9 @@ Not sure if/how they handle multiple channels as input.
 
  >*Newbie Question Incoming!!* Do I only need an electrode hooked up to a micro controller to measure EEGs? :thinking_face:
 
+10/17/2017 3:58 AM
+
+ **alexander.chudinov** :
+
+ >Should I be looking into investing in a board from <http://openbci.com>?
+
