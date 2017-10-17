@@ -5421,3 +5421,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >in pyriemann, you can use the class `HankelCovariance`
 
+10/17/2017 8:14 PM
+
+ **elsehow** :
+
+ >awesome, thanks
+
