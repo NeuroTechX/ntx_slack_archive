@@ -5325,3 +5325,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >I used py-Riemman on a low-count channel (4), on a different paradigm and it worked very well. If anything, it will probably score higher than most of the algorithms out there. Ask alexandre.barachant I'm sure he tried it.
 
+10/17/2017 6:55 PM
+
+ **alexandre.barachant** :
+
+ >samuelbg13: yes, it works perfectly fine with low channel count
+
