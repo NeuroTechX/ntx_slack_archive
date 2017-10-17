@@ -5541,3 +5541,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >so it should be something like 'python muse-lsl --interface /dev/ttyACM0 --address YOUR_MAC_ADRESS`
 
+10/17/2017 8:26 PM
+
+ **elsehow** :
+
+ >thanks, yeah, I just read the `muse-lsl.py` script
+
