@@ -5379,3 +5379,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >this way you can exploit auto-correlation
 
+10/17/2017 8:12 PM
+
+ **elsehow** :
+
+ >but how do we know how long to delay it for?
+
