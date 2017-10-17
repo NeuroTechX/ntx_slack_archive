@@ -2919,3 +2919,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >thanks!
 
+10/17/2017 6:53 PM
+
+ **ben.tam** :
+
+ >Cool to note that dopplers + fnirs + eegs can all be used simultaneously without cross device interference :slightly_smiling_face:
+
