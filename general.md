@@ -6357,3 +6357,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >To answer the read(pinNum)& EEG is a time series kind of signal (as pointed out by elsehow). That means that youll receive a value (voltage) every x millisecond. Then youll have to filter and clean the signal and then probably do some machine learning.
 
+10/17/2017 5:11 PM
+
+ **yannick** :
+
+ >Some EEG device companies are offering a SDK to do these steps for you and give you some sort of readout of mental state(s) directly, like read(FocusLevel) that would return a value between 0 and 1. (to keep your comparison)
+
