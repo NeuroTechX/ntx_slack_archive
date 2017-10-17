@@ -5403,3 +5403,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >pinging psoulos
 
+10/17/2017 8:13 PM
+
+ **alexandre.barachant** :
+
+ >BTW, its also used in the algorithm CSSP
+
