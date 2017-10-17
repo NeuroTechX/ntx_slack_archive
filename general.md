@@ -6318,3 +6318,9 @@ Not sure if/how they handle multiple channels as input.
 
  >what do you mean by langauge? and yes, youd just be reading a timeseries of voltages (and probably FFTing them)
 
+10/17/2017 2:33 PM
+
+ **alexander.chudinov** :
+
+ >c, java, etc
+
