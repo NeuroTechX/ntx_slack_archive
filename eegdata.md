@@ -5553,3 +5553,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >this project is really nicely organized
 
+10/17/2017 8:27 PM
+
+ **elsehow** :
+
+ >good docstrings
+
