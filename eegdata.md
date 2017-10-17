@@ -5469,3 +5469,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >however, unless im missing something, all one needs is bluetooth 4.0 hw. whats missing is `pygaff` support for this hw
 
+10/17/2017 8:17 PM
+
+ **elsehow** :
+
+ >on the macbook
+
