@@ -5319,3 +5319,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >Hey guys. I am intrigued about the Riemannian Geometry approach to motor imagery classification. I have read it works well with not-to-many channels... but do you think it works well with a low-channel setup (around 6-8), for example with an OpenBCI?
 
+10/17/2017 6:18 PM
+
+ **fred-simard** :
+
+ >I used py-Riemman on a low-count channel (4), on a different paradigm and it worked very well. If anything, it will probably score higher than most of the algorithms out there. Ask alexandre.barachant I'm sure he tried it.
+
