@@ -6351,3 +6351,9 @@ Not sure if/how they handle multiple channels as input.
 > 
 You can find different frameworks on the NeuroTechX Awesome BCI List (<https://github.com/NeuroTechX/awesome-bci>)
 
+10/17/2017 5:09 PM
+
+ **yannick** :
+
+ >To answer the read(pinNum)& EEG is a time series kind of signal (as pointed out by elsehow). That means that youll receive a value (voltage) every x millisecond. Then youll have to filter and clean the signal and then probably do some machine learning.
+
