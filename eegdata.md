@@ -5313,3 +5313,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >Hi all ! Here Jorge , i just join the comunity. I'm looking for EEG data with 6 labels or more about imagination. Not only motor imagery , but all kinds of imagination. Thanks !
 
+10/17/2017 12:02 PM
+
+ **samuelbg13** :
+
+ >Hey guys. I am intrigued about the Riemannian Geometry approach to motor imagery classification. I have read it works well with not-to-many channels... but do you think it works well with a low-channel setup (around 6-8), for example with an OpenBCI?
+
