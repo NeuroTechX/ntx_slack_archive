@@ -5373,3 +5373,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >thats a cool idea
 
+10/17/2017 8:12 PM
+
+ **alexandre.barachant** :
+
+ >this way you can exploit auto-correlation
+
