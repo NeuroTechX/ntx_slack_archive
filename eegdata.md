@@ -5499,3 +5499,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >cool, i can find the serial port. will try
 
+10/17/2017 8:20 PM
+
+ **alexandre.barachant** :
+
+ >As i understand, windows and mac does not provide an unified BLE stack for external software to use, and what does the BLED112 is to embedd the BLE stack on hardware and expose it through a serial port
+
