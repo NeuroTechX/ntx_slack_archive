@@ -6276,3 +6276,9 @@ Not sure if/how they handle multiple channels as input.
 
  >update: heard from graeme - I got a BLE adapter from amazon. will update folks as I learn more.
 
+10/17/2017 3:57 AM
+
+ **alexander.chudinov** :
+
+ >*Newbie Question Incoming!!* Do I only need an electrode hooked up to a micro controller to measure EEGs? :thinking_face:
+
