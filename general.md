@@ -6294,3 +6294,9 @@ Not sure if/how they handle multiple channels as input.
 
  >It seems too simple too just hook up an electrode to an arduino...
 
+10/17/2017 4:55 AM
+
+ **elsehow** :
+
+ >alexander.chudinov if youre wanting to roll your own openBCI, id actually recommend the texas instruments ADS1299 ADC. this is an informative short read: <https://hal.inria.fr/hal-01278245/document>
+
