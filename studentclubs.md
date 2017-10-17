@@ -753,3 +753,9 @@ Can we be a student chapter of Neurotechx as well? We can't change the name of t
 
  >You can definitely be a student club in our organization. You might be interested in taking part of the competition if some of your club contains undergraduate students.
 
+10/17/2017 1:31 PM
+
+ **benjamindeleener** :
+
+ >Education Changes the World! Check out our latest Q&amp;A with Sayan Faraz and his team from NeurotechUofT student club to see how they push neurotech innovation at the University of Toronto: <https://medium.com/neurotechx/q-a-with-neurotechuoft-d46c06f15126>
+
