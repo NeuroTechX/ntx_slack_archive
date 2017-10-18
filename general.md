@@ -6387,3 +6387,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >graeme makes me think of Silicon Valley the TV show.
 
+10/18/2017 2:25 AM
+
+ **dano** :
+
+ >Woahhhhh
+
