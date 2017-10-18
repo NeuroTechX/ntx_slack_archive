@@ -1314,3 +1314,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >hey guys thanks for letting me know.
 
+10/18/2017 7:27 PM
+
+ **sydneyneurotechx** :
+
+ >aside from Francesca, who else will be able to make the call? ryanlintott ?
+
