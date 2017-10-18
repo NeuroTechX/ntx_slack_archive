@@ -5619,3 +5619,9 @@ What alexandre.barachant suggested is that if you want to use pyRiemann with onl
 
  >i see
 
+10/18/2017 1:06 AM
+
+ **fred-simard** :
+
+ >no problem :wink:
+
