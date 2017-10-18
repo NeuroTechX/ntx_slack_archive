@@ -5631,3 +5631,9 @@ What alexandre.barachant suggested is that if you want to use pyRiemann with onl
 
  >yrenard yest, two delayed version have the same variance, so the diagonal of this covariance is just the same value. the off diagonal is carrying the auto-correlation. You also want to be smart when you space your delay, if you do [0, 2, 4] sample, then you have 3 channels, but there is the same delays between ch1 and ch2 as between ch2 and ch3. if you use [0,1,3] you have 3 channels and 4 different delays
 
+10/18/2017 8:59 AM
+
+ **alexandre.barachant** :
+
+ >I used the autocorrelation matrices in the seizure 2016 kaggle challenge. it wasn't a very good feature, but it made it into the ensemble : <https://github.com/alexandrebarachant/kaggle-seizure-prediction-challenge-2016>
+
