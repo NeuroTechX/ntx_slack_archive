@@ -5607,3 +5607,9 @@ What alexandre.barachant suggested is that if you want to use pyRiemann with onl
 
  >i see, so the question is really whether there is relevant info (wrt the classification/regression problem) in the autocorrelation
 
+10/18/2017 1:05 AM
+
+ **fred-simard** :
+
+ >I said autocorrelation to help understand the process, but otherwise, yes, this is it.
+
