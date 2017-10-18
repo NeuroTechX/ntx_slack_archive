@@ -5577,3 +5577,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >fred-simard so there should be no autocorrelation in the white noise signal right
 
+10/18/2017 12:57 AM
+
+ **elsehow** :
+
+ >meanwhile we expect autocorrelation in the eeg signal
+
