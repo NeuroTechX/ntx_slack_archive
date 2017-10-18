@@ -6423,3 +6423,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >LMFAO Brilliant graeme - that was JUST the piece i was thinking of
 
+10/18/2017 4:38 PM
+
+ **graeme** :
+
+ >NeuroTechX should name one of our projects "Potato Gun" in honour of that clip."
+
