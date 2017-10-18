@@ -6381,3 +6381,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >For those keeping score, that's now two years in a row that someone got on stage at the F8 Facebook developer conference, promised revolutionary BCI-based telepathy, and then left the company a couple months later:
 
+10/18/2017 12:37 AM
+
+ **fred-simard** :
+
+ >graeme makes me think of Silicon Valley the TV show.
+
