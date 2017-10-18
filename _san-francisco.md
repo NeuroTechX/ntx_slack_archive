@@ -666,3 +666,9 @@ We can meet you in a few days
 
  >teon is supposed to run the next one this Wednesday but you should get in touch with him directly to make sure. I am traveling and will not be able to attend this one 
 
+10/18/2017 7:37 AM
+
+ **brian.westerman** :
+
+ >Any hacknights coming up soon?
+
