@@ -6429,3 +6429,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >NeuroTechX should name one of our projects "Potato Gun" in honour of that clip."
 
+10/18/2017 4:49 PM
+
+ **alexdni** :
+
+ >and just figured out what im doing for Halloween this year - Mr.Potato Head sounds like a winner
+
