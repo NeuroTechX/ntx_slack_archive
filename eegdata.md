@@ -5571,3 +5571,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >yrenard not necessarily, think of the covariance between a white noise signal and it's delayed version. Now the pertinence of computing the covariance between a signal and it's delayed version depends on what you what you are looking into, in terms of physiological phenomenon or else. It's analogous to auto-correlation.
 
+10/18/2017 12:57 AM
+
+ **elsehow** :
+
+ >fred-simard so there should be no autocorrelation in the white noise signal right
+
