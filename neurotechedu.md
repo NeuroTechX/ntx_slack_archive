@@ -1326,3 +1326,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Ill be there
 
+10/18/2017 9:43 PM
+
+ **sheida** :
+
+ > I'm so sorry I had a last minute deadline and completely forgot about the call :see_no_evil:
+
