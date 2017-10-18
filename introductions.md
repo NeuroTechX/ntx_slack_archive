@@ -3291,3 +3291,15 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Hi! My name is Charles, I'm a Montreal-based Film Producer working on an exciting narrative feature film + interactive neurotech project about music disorders such as Amusia, PMT (permanent music tracking) and Melophobia. If you're a data scientist or a neurotech developer sharing an interest in music, brain-computer interfaces and interactive arts -- let's talk!
 
+10/18/2017 6:35 PM
+
+ **hectordomorozco** :
+
+ >Hey Charles! This might be of interest of you: I did a couple of internships in Brams (where we did reserach with music and neuroscience). When I was there last year, I helped Olivier Ginestet, a artist sonore that created a documentaire sonore de Brams. He has some really cool ideas and I thought it would be cool if you connected with him. Here is the finished documentary: <https://soundcloud.com/magnetobalado/la-fantaisie-du-brams-28-un-documentaire-de-creation-dolivier-ginestet>
+
+> 
+
+
+> 
+Let me now if this is something that inerests you :smile:
+
