@@ -5601,3 +5601,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 > 
 What alexandre.barachant suggested is that if you want to use pyRiemann with only one channel, one way to go about it is to use the signal and one or more delayed version. This will allow you to build the covariance matrix, which can then be mapped into the Reimannian space onto the consequent manifold and processed using LDA. Will it perform well/better than other algorithms under such circumstances? this is up to you to find out, but mechanistically, that's a way to make it work.
 
+10/18/2017 1:04 AM
+
+ **elsehow** :
+
+ >i see, so the question is really whether there is relevant info (wrt the classification/regression problem) in the autocorrelation
+
