@@ -1290,3 +1290,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Hi everyone, I will join the call tonight but I am sorry to say that I didn't have time to write anything.. I searched for sources though so I should update ethics shortly. First two weeks of november I will be on holidays as well.. but I guess we will talk about the next deadlines on the call! (I got in contact with vasilisa as well, she can help but unable to join the call because of the timezone, so I will bring some questions she asked me!)
 
+10/18/2017 2:55 PM
+
+ **ryanlintott** :
+
+ >Thanks!
+
