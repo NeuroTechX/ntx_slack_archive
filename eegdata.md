@@ -5637,3 +5637,9 @@ What alexandre.barachant suggested is that if you want to use pyRiemann with onl
 
  >I used the autocorrelation matrices in the seizure 2016 kaggle challenge. it wasn't a very good feature, but it made it into the ensemble : <https://github.com/alexandrebarachant/kaggle-seizure-prediction-challenge-2016>
 
+10/18/2017 4:11 PM
+
+ **yrenard** :
+
+ >got it, so chosing the delays wisely avoids lower ranked covariance matrices, sounds interesting - have you tried that with multiple channels as well ?
+
