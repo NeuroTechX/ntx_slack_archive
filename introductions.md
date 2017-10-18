@@ -3303,3 +3303,15 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 > 
 Let me now if this is something that inerests you :smile:
 
+10/18/2017 6:36 PM
+
+ **hectordomorozco** :
+
+ >Hey Charles! This might be of interest of you: I did a couple of internships in Brams (where we did reserach with music and neuroscience). When I was there last year, I helped Olivier Ginestet, a artist sonore that created a documentaire sonore de Brams. He has some really cool ideas and I thought it would be cool if you connected with him. Here is the finished documentary: <https://soundcloud.com/magnetobalado/la-fantaisie-du-brams-28-un-documentaire-de-creation-dolivier-ginestet>
+
+> 
+
+
+> 
+Let me now if this is something that inerests you :smile:
+
