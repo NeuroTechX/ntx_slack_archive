@@ -6441,3 +6441,15 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >mrkrause I bet you thought this was going to go unnoticed. Congrats Mat! Extremely interesting and valuable results you got there. <http://www.cell.com/current-biology/fulltext/S0960-9822%2817%2931185-5#.Wd_fWd7-Oqs.linkedin>
 
+10/18/2017 5:54 PM
+
+ **mrkrause** :
+
+ >Thanks fred-simard !
+
+> 
+
+
+> 
+Folks interested in (and/or skeptical about) tDCS: Take a look and I'd be happy to answer questions/chat/etc. I am obviously biased, but I think this is one of the clearer looks we have at how tDCS affects the brain.
+
