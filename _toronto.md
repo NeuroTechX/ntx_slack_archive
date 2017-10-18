@@ -2310,3 +2310,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >Sweeet!
 
+10/18/2017 1:41 AM
+
+ **cbattista** :
+
+ >graeme have a link to the paper?  having trouble tracking it down...
+
