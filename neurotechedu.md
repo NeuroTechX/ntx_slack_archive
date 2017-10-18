@@ -1308,3 +1308,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Bonus: If anyone has successfully gotten .gifs to load in markdown let me know! Mine have consistently failed.
 
+10/18/2017 7:27 PM
+
+ **sydneyneurotechx** :
+
+ >hey guys thanks for letting me know.
+
