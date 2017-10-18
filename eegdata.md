@@ -5655,3 +5655,9 @@ What alexandre.barachant suggested is that if you want to use pyRiemann with onl
 
  >i've used multichannel time delayed covariance (i call that Hankel Covariance ) in at least 2 challenge
 
+10/18/2017 4:51 PM
+
+ **yrenard** :
+
+ >nice !
+
