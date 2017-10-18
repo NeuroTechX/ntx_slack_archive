@@ -5589,3 +5589,15 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >the question for me is why this helps pyreimann
 
+10/18/2017 1:03 AM
+
+ **fred-simard** :
+
+ >elsehow My argument is to show that depending on the nature of the signal you can have a lot of covariance between a signal and it's delayed version or not a all. For it means, it depends on what is studied.
+
+> 
+
+
+> 
+What alexandre.barachant suggested is that if you want to use pyRiemann with only one channel, one way to go about it is to use the signal and one or more delayed version. This will allow you to build the covariance matrix, which can then be mapped into the Reimannian space onto the consequent manifold and processed using LDA. Will it perform well/better than other algorithms under such circumstances? this is up to you to find out, but mechanistically, that's a way to make it work.
+
