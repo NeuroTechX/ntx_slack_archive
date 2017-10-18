@@ -1296,3 +1296,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Thanks!
 
+10/18/2017 7:10 PM
+
+ **jfrayshe** :
+
+ >Apologies to the group, I will likely be missing the call tonight due to a last minute work meeting. For the group I will post the following updates: *Neural Oscillations*: Double checked formatting, will be creating a local build of Jekyll to figure out the source of errors on the formatting (mostly just looked at preprocessing to see what they did that worked so well). *ERP* Brought some more of the content over to the github page, I will be bringing the rest over throughout the week.
+
