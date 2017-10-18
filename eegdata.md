@@ -5613,3 +5613,9 @@ What alexandre.barachant suggested is that if you want to use pyRiemann with onl
 
  >I said autocorrelation to help understand the process, but otherwise, yes, this is it.
 
+10/18/2017 1:05 AM
+
+ **elsehow** :
+
+ >i see
+
