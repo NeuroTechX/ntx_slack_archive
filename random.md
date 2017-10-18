@@ -2931,3 +2931,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >Great article, whoever contributed to it :+1:
 
+10/18/2017 4:18 AM
+
+ **sweetrabh** :
+
+ ><http://learn.neurotechedu.com/applications/>
+
