@@ -6393,3 +6393,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >Woahhhhh
 
+10/18/2017 2:25 AM
+
+ **dano** :
+
+ >Active BCI sure is hard, eh
+
