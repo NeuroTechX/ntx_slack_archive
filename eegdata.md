@@ -5565,3 +5565,9 @@ I wonder why they didn't keep it 3D though, and end up with 3x16x16x16 or whatev
 
  >alexandre.barachant wouldn't time-delayed channel highly share variance with original channel ? that looks to me like a very ill conditionned covariance matrix until you have delay that is significant with regard to the epoch size you extract the cov matrix on
 
+10/18/2017 12:35 AM
+
+ **fred-simard** :
+
+ >yrenard not necessarily, think of the covariance between a white noise signal and it's delayed version. Now the pertinence of computing the covariance between a signal and it's delayed version depends on what you what you are looking into, in terms of physiological phenomenon or else. It's analogous to auto-correlation.
+
