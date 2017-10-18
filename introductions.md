@@ -3285,3 +3285,9 @@ This coming friday i am going to New York, where i noticed that you had an chapt
 
  >Hi everyone, i'm currently studying for an MSc in Cognitive and Computational Neuroscience at the University of Sheffield, which where I graduated with a BEng in robotics. I'm very excited for the future of BCI and hope to doing a PhD in the topic next year! 
 
+10/18/2017 6:28 PM
+
+ **charles642** :
+
+ >Hi! My name is Charles, I'm a Montreal-based Film Producer working on an exciting narrative feature film + interactive neurotech project about music disorders such as Amusia, PMT (permanent music tracking) and Melophobia. If you're a data scientist or a neurotech developer sharing an interest in music, brain-computer interfaces and interactive arts -- let's talk!
+
