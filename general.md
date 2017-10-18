@@ -6417,3 +6417,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 
  >Me
 
+10/18/2017 4:24 PM
+
+ **alexdni** :
+
+ >LMFAO Brilliant graeme - that was JUST the piece i was thinking of
+
