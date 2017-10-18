@@ -5643,3 +5643,9 @@ What alexandre.barachant suggested is that if you want to use pyRiemann with onl
 
  >got it, so chosing the delays wisely avoids lower ranked covariance matrices, sounds interesting - have you tried that with multiple channels as well ?
 
+10/18/2017 4:17 PM
+
+ **alexandre.barachant** :
+
+ >yep, it's the base for the CSSP algorithm
+
