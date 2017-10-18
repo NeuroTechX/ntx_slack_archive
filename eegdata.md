@@ -5649,3 +5649,9 @@ What alexandre.barachant suggested is that if you want to use pyRiemann with onl
 
  >yep, it's the base for the CSSP algorithm
 
+10/18/2017 4:19 PM
+
+ **alexandre.barachant** :
+
+ >i've used multichannel time delayed covariance (i call that Hankel Covariance ) in at least 2 challenge
+
