@@ -6453,3 +6453,9 @@ You can find different frameworks on the NeuroTechX Awesome BCI List (<https://g
 > 
 Folks interested in (and/or skeptical about) tDCS: Take a look and I'd be happy to answer questions/chat/etc. I am obviously biased, but I think this is one of the clearer looks we have at how tDCS affects the brain.
 
+10/19/2017 1:16 PM
+
+ **dano** :
+
+ >Haven't read the full text, but this looks awesome! Exactly the kind of study I was hoping someone would do in tDCS. I know you've probably laid this out in methods, but how does this primate tDCS compare to human in terms of skull size/current penetration?
+
