@@ -6465,3 +6465,27 @@ Folks interested in (and/or skeptical about) tDCS: Take a look and I'd be happy 
 
  >Hahaha Graeme I had the same clip in mind.
 
+10/19/2017 6:00 PM
+
+ **mrkrause** :
+
+ >Its pretty very! 
+
+> 
+
+
+> 
+One of the things I disliked about the older animal tCS literature was that it was really hard to compare with human experiments. I guess stimulating through screws put into or through the skull is *technically* transcranial but&..were clearly not going to do that to grandma. So here, we tried to do only stuff that you could do to a healthy human. We used an off-the-shelf stimulator (the StarStim 8 from Neuroelectrics), along with the PI-Stim electrodes they sell. The electrodes went right on the intact scalp with some boring old SignaGel, and so on. So, except for trimming the hair around the electrodes (it got gross otherwise), the setup matches  human experiments really well.
+
+> 
+
+
+> 
+We got high-res MRIs and used those to build finite-element models of the heads. Those predict that the field strength is 0.42 V/m for one and 0.68 V/m for the other. Thats pretty comparable to the field strengths measured and estimated in humans (~0.5 to 1 V/m). Apparently, the monkey skull is a bit thinner but denser, so maybe it cancels out.  Id like to go back and verify our model specifically, but its tricky to do for tDCS: the recording gear high-pass filters the signal and thus kills any DC offset. It should be possible with tACS (and, in fact thats already towards the top of my to-do list). 
+
+> 
+
+
+> 
+Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a bunch more stuff coming down the pipeline. If theres any sort of parameter that you really want to see tested, Im happy to try!
+
