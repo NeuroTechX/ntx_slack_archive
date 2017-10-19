@@ -195,3 +195,27 @@ On Tuesday, we have some meetings with researchers at the Brain Research Centre 
 
  >Hey guys, please note that we'll be doing a monthly dinner casual starting November, please check out our meetup group for details :slightly_smiling_face:
 
+10/19/2017 10:19 PM
+
+ **ben.tam** :
+
+ >Also on Oct 25th, YVRStartups is hosting a panel about Impactpreneurs: Entrepeneurs who are doing good and making money with their businesses. 
+
+> 
+
+
+> 
+<https://www.meetup.com/NeuroTechVAN/events/244357545/>
+
+> 
+
+
+> 
+If you plan on attending our members get a special discount and the promo code is "Neurotech" 
+
+> 
+
+
+> 
+See you there!
+
