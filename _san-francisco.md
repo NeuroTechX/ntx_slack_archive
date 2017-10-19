@@ -672,3 +672,9 @@ We can meet you in a few days
 
  >Any hacknights coming up soon?
 
+10/19/2017 9:39 PM
+
+ **jnaulty** :
+
+ >brian.westerman wednesday nights are hack nights in SF :slightly_smiling_face:
+
