@@ -189,3 +189,9 @@ On Tuesday, we have some meetings with researchers at the Brain Research Centre 
 
  >Hey, sorry I missed this message :disappointed: Need to update my slack notification settings it seems. Hope you had a good trip Dano
 
+10/19/2017 10:17 PM
+
+ **ben.tam** :
+
+ >Hey guys, please note that we'll be doing a monthly dinner casual starting November, please check out our meetup group for details :slightly_smiling_face:
+
