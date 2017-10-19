@@ -6459,3 +6459,9 @@ Folks interested in (and/or skeptical about) tDCS: Take a look and I'd be happy 
 
  >Haven't read the full text, but this looks awesome! Exactly the kind of study I was hoping someone would do in tDCS. I know you've probably laid this out in methods, but how does this primate tDCS compare to human in terms of skull size/current penetration?
 
+10/19/2017 5:52 PM
+
+ **yannick** :
+
+ >Hahaha Graeme I had the same clip in mind.
+
