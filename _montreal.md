@@ -2046,3 +2046,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  ><!channel> 
 
+10/19/2017 6:02 PM
+
+ **sydneyneurotechx** :
+
+ >Most people can't make it today, so I guess it's canceled
+
