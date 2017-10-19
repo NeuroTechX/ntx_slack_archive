@@ -2052,3 +2052,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >Most people can't make it today, so I guess it's canceled
 
+10/19/2017 7:41 PM
+
+ **yannick** :
+
+ >Ill be there next week.
+
