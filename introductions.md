@@ -3339,3 +3339,9 @@ Let me now if this is something that inerests you :smile:
 
  >How do I know if Im part of the noobies or not?
 
+10/20/2017 9:14 AM
+
+ **pia.michel** :
+
+ >I guess you feel it or you dont
+
