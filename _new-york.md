@@ -264,3 +264,9 @@
 
  >7-9pm
 
+10/20/2017 5:49 PM
+
+ **aj** :
+
+ ><!channel> I'm so sorry to say this, but the hacknight this week has to be canceled, or we need to find another spot. OpenBCI HQ is under construction for ~2weeks
+
