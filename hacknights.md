@@ -864,3 +864,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >Looks awful on mobile too but ah what the hell. It's cool to have
 
+10/20/2017 7:22 PM
+
+ **aj** :
+
+ >nyc hackathon canceled because of construction for the next two weeks :disappointed:
+
