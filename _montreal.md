@@ -2064,3 +2064,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >:+1: 
 
+10/20/2017 12:45 PM
+
+ **eferdinand** :
+
+ >Thursday or Friday?
+
