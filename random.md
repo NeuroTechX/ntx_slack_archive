@@ -2937,3 +2937,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  ><http://learn.neurotechedu.com/applications/>
 
+10/20/2017 12:26 AM
+
+ **yannick** :
+
+ ><https://www.youtube.com/watch?v=M6CH1icxEj0>
+
