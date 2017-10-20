@@ -3333,3 +3333,9 @@ Let me now if this is something that inerests you :smile:
 
  >Thank you!
 
+10/20/2017 2:20 AM
+
+ **yannick** :
+
+ >How do I know if Im part of the noobies or not?
+
