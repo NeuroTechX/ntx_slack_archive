@@ -2070,3 +2070,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >Thursday or Friday?
 
+10/20/2017 1:29 PM
+
+ **yannick** :
+
+ >Ill see what the others prefer. I know that Fred just cant on Thursdays and we were talking about starting a Deep Learning project during HackNights.
+
