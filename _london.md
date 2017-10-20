@@ -552,3 +552,9 @@ Taking Action for Equality
 
  >Hey litvak, why not posting it to <#C0FNHPCF4|opportunities> as well? Also, you should check <https://neurotechjobs.com>
 
+10/20/2017 11:22 AM
+
+ **danielao** :
+
+ >Hey London based <http://people.As|people.As> my first foray into science communications, I'm co-hosting a talk on how if/how EEG fits into industry. It's November 7th. If interested sign up. Thanks! <https://www.meetup.com/NEUROSCIENCE-LONDON/members/182978280/>
+
