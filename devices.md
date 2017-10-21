@@ -4905,3 +4905,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Bi directional http control from browser it's great so you can completely control the board from web browser.
 
+10/21/2017 11:55 PM
+
+ **aj** :
+
+ >Awesome contributions to OpenBCI make me so happy! WiFi shield working makes me happy to. Im putting in long hours to make the WiFi shield reliable, fast, and easy to use. Check out this feature proposal from new user! <https://github.com/OpenBCI/OpenBCI_GUI/issues/264#issuecomment-338438330> 
+
