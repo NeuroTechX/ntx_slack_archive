@@ -2076,3 +2076,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >Ill see what the others prefer. I know that Fred just cant on Thursdays and we were talking about starting a Deep Learning project during HackNights.
 
+10/21/2017 12:39 AM
+
+ **eferdinand** :
+
+ >Im better set with Friday too 
+
