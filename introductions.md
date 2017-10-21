@@ -3363,3 +3363,9 @@ Let me now if this is something that inerests you :smile:
 
  >Welcome Dmitry, which lab?
 
+10/21/2017 8:06 PM
+
+ **dizzymiracle** :
+
+ >Hi Joseph, Guillermo Sapiro's group
+
