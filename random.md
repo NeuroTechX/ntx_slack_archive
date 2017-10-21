@@ -2943,3 +2943,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  ><https://www.youtube.com/watch?v=M6CH1icxEj0>
 
+10/21/2017 11:05 AM
+
+ **sc** :
+
+ ><http://www.newsweek.com/facebook-brain-computer-interface-chief-quits-building-8-project-mind-reading-689153>
+
