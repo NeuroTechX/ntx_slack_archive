@@ -243,3 +243,9 @@ This will be an exciting intersection of two revolutionary technologies: Brain C
 > 
 <https://www.meetup.com/NeuroTechVAN/events/244360382/>
 
+10/21/2017 4:53 PM
+
+ **ben.tam** :
+
+ ><!channel>
+
