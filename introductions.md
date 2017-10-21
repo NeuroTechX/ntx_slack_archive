@@ -3351,3 +3351,9 @@ Let me now if this is something that inerests you :smile:
 
  >Hi, my name is Dmitry, I am 1st year Biomedical Engineering graduate student at Duke University, working on EEG data.
 
+10/21/2017 6:39 PM
+
+ **yannick** :
+
+ >Hey dizzymiracle. Welcome on board :slightly_smiling_face:
+
