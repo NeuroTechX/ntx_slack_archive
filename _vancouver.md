@@ -219,3 +219,27 @@ If you plan on attending our members get a special discount and the promo code i
 > 
 See you there!
 
+10/21/2017 4:52 PM
+
+ **ben.tam** :
+
+ >Come learn how to build a Virtual Reality app that uses brainwaves at our bombastic workshop.
+
+> 
+
+
+> 
+The event has super limited spots left and will be hosted at the Emerging Media Lab at UBC next weekend.
+
+> 
+
+
+> 
+This will be an exciting intersection of two revolutionary technologies: Brain Computer Interfaces + VR/AR.
+
+> 
+
+
+> 
+<https://www.meetup.com/NeuroTechVAN/events/244360382/>
+
