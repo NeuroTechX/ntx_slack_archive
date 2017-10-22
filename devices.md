@@ -4923,3 +4923,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >bryan for wireless t*CS + EEG, i think you have neuroelectrics
 
+10/22/2017 1:30 PM
+
+ **alexandre.barachant** :
+
+ >saying that, you can only record with a dry electrode, for both recording and stim, you need wet electrode
+
