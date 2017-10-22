@@ -4917,3 +4917,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Hi all, my lab is going to submit a tech fee proposal to our university for next year and I want to pick out the best gear for a complete BCI system for research. I was thinking dry electrodes, wireless and some stimulation component (TMS or tDCS). Large proposals have been funded in the past- $40k+. What would you all consider to be the best system and best components?
 
+10/22/2017 1:28 PM
+
+ **alexandre.barachant** :
+
+ >bryan for wireless t*CS + EEG, i think you have neuroelectrics
+
