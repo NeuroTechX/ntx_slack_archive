@@ -1332,3 +1332,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  > I'm so sorry I had a last minute deadline and completely forgot about the call :see_no_evil:
 
+10/22/2017 12:46 AM
+
+ **sydneyneurotechx** :
+
+ ><!channel> I know some people couldn't make it to the designated Wednesday time, so please provide your availabilities for the next call <https://doodle.com/poll/7qpivffq297zs7a7> :slightly_smiling_face:
+
