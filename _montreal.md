@@ -2088,3 +2088,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >Hi , anyone has experience of VR development?
 
+10/22/2017 7:14 PM
+
+ **fred-simard** :
+
+ >A bit, I do.
+
