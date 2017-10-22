@@ -4911,3 +4911,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Awesome contributions to OpenBCI make me so happy! WiFi shield working makes me happy to. Im putting in long hours to make the WiFi shield reliable, fast, and easy to use. Check out this feature proposal from new user! <https://github.com/OpenBCI/OpenBCI_GUI/issues/264#issuecomment-338438330> 
 
+10/22/2017 1:19 PM
+
+ **bryan** :
+
+ >Hi all, my lab is going to submit a tech fee proposal to our university for next year and I want to pick out the best gear for a complete BCI system for research. I was thinking dry electrodes, wireless and some stimulation component (TMS or tDCS). Large proposals have been funded in the past- $40k+. What would you all consider to be the best system and best components?
+
