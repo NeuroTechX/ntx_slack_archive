@@ -2082,3 +2082,9 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >Im better set with Friday too 
 
+10/22/2017 3:31 AM
+
+ **armin** :
+
+ >Hi , anyone has experience of VR development?
+
