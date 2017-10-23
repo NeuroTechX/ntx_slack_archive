@@ -2115,3 +2115,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >dj_mini ^
 
+10/23/2017 2:00 AM
+
+ **naoto** :
+
+ >I watched the attached video but this looks quite bad (sorry if any of you know the authors). It seems they just replaced the visual keys of the speller by notes. Fred and I talked about this topic before but perhaps we should use auditory stimulus/feedback for composition
+
