@@ -2109,3 +2109,9 @@ Maybe fred-simard would be interested in looking into it.
 > 
 Maybe a project for HackNights? :stuck_out_tongue:
 
+10/23/2017 1:42 AM
+
+ **yannick** :
+
+ >dj_mini ^
+
