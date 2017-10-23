@@ -2127,3 +2127,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I had an idea along this line a while back, even discussed it with the guys of LANDR. The first step I envisioned was to build a soiund browser, pretty much in the same way as the Neurable works. Sounds would be clustered and the subject would do some kind of gradient descent toward its desired sound.
 
+10/23/2017 3:22 AM
+
+ **fred-simard** :
+
+ >It's a big project, but it would be exrremely onteresting
+
