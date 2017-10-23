@@ -1338,3 +1338,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><!channel> I know some people couldn't make it to the designated Wednesday time, so please provide your availabilities for the next call <https://doodle.com/poll/7qpivffq297zs7a7> :slightly_smiling_face:
 
+10/23/2017 8:47 AM
+
+ **francescacoo** :
+
+ >unfortunately I won't be available from the 1st to the 10th of November :disappointed:
+
