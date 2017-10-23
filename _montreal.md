@@ -2151,3 +2151,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >NeuroTechX will be participating in it
 
+10/23/2017 6:40 PM
+
+ **sydneyneurotechx** :
+
+ >We have the opportunity to showcase some demo's. If anyone wants to show some stuff off, let us know :slightly_smiling_face:
+
