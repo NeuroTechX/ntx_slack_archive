@@ -2991,3 +2991,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >That's their goal and it is....ambitious. The best I've found so far was about ~12 wpm using utah arrays!
 
+10/23/2017 6:41 PM
+
+ **jamoonie94** :
+
+ >Interesting...would you mind posting the article here? My project deals with imagined speech :p
+
