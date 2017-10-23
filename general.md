@@ -6489,3 +6489,9 @@ We got high-res MRIs and used those to build finite-element models of the heads.
 > 
 Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a bunch more stuff coming down the pipeline. If theres any sort of parameter that you really want to see tested, Im happy to try!
 
+10/23/2017 3:59 PM
+
+ **mrkrause** :
+
+ >Also, here's  a free link: <https://authors.elsevier.com/a/1VxDg3QW8RiiPl>
+
