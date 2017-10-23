@@ -2961,3 +2961,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >maybe someone told them they were overpromising ?
 
+10/23/2017 2:59 PM
+
+ **aj** :
+
+ >Alternative theory, she, they, was successful and is leaving to do something harder. 
+
