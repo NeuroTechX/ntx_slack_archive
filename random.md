@@ -2985,3 +2985,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >Wait what? 100WPM??
 
+10/23/2017 6:39 PM
+
+ **mrkrause** :
+
+ >That's their goal and it is....ambitious. The best I've found so far was about ~12 wpm using utah arrays!
+
