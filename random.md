@@ -2949,3 +2949,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  ><http://www.newsweek.com/facebook-brain-computer-interface-chief-quits-building-8-project-mind-reading-689153>
 
+10/23/2017 4:07 AM
+
+ **pierre** :
+
+ >^ Anybody know what's going on?
+
