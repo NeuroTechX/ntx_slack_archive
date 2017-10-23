@@ -3012,3 +3012,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 > 
 I think you gave the best lead so far: she registered on NeuroTechX and saw all the comments [&] and quit #CantHandleNTXPressureTest
 
+10/23/2017 7:26 PM
+
+ **alexandre.barachant** :
+
+ >I don't doubt for a second they knew they over-promised and that it gonna be hard to deliver. all joke apart, i don't think she left for any related reason. probably found something better elsewhere.
+
