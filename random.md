@@ -2967,3 +2967,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >Alternative theory, she, they, was successful and is leaving to do something harder. 
 
+10/23/2017 5:32 PM
+
+ **alexandre.barachant** :
+
+ >aj: if i was successful in making a revolutionary brain sensing device that can decode imagined speech at 100WPM, i would double or triple down my bet instead of leaving :slightly_smiling_face:
+
