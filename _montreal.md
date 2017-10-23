@@ -2133,3 +2133,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >It's a big project, but it would be exrremely onteresting
 
+10/23/2017 5:17 PM
+
+ **hectordomorozco** :
+
+ >Guys, have you checked this out? <http://www.crm.umontreal.ca/2017/MAIN2017/>
+
