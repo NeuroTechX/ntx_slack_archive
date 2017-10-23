@@ -2955,3 +2955,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >^ Anybody know what's going on?
 
+10/23/2017 5:05 AM
+
+ **yrenard** :
+
+ >maybe someone told them they were overpromising ?
+
