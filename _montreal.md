@@ -2139,3 +2139,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Guys, have you checked this out? <http://www.crm.umontreal.ca/2017/MAIN2017/>
 
+10/23/2017 6:40 PM
+
+ **sydneyneurotechx** :
+
+ >Yea
+
