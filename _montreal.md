@@ -2163,3 +2163,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  ><!channel> Back to Hacknights this Thursday?
 
+10/23/2017 7:05 PM
+
+ **dj_mini** :
+
+ >yup
+
