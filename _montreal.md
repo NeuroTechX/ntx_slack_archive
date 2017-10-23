@@ -2094,3 +2094,18 @@ Simply send me a private message, with a summary of your qualifications, how muc
 
  >A bit, I do.
 
+10/23/2017 1:42 AM
+
+ **yannick** :
+
+ >naoto: sounds like something you could be interesting in&
+
+> 
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587109/>
+
+> 
+Maybe fred-simard would be interested in looking into it.
+
+> 
+Maybe a project for HackNights? :stuck_out_tongue:
+
