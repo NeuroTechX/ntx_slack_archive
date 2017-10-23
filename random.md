@@ -2979,3 +2979,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >my theory is similar to yrenard. She register on neurotechx and saw all the comments from the community and them feel ashamed and quit
 
+10/23/2017 6:37 PM
+
+ **jamoonie94** :
+
+ >Wait what? 100WPM??
+
