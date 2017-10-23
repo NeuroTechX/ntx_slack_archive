@@ -2121,3 +2121,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I watched the attached video but this looks quite bad (sorry if any of you know the authors). It seems they just replaced the visual keys of the speller by notes. Fred and I talked about this topic before but perhaps we should use auditory stimulus/feedback for composition
 
+10/23/2017 3:21 AM
+
+ **fred-simard** :
+
+ >I had an idea along this line a while back, even discussed it with the guys of LANDR. The first step I envisioned was to build a soiund browser, pretty much in the same way as the Neurable works. Sounds would be clustered and the subject would do some kind of gradient descent toward its desired sound.
+
