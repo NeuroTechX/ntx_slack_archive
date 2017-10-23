@@ -2997,3 +2997,9 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >Interesting...would you mind posting the article here? My project deals with imagined speech :p
 
+10/23/2017 6:48 PM
+
+ **yrenard** :
+
+ >100 WPM was not the only datapoint of the talk, they also talked about automatic translation so that people speaking language X can talk to people speaking language Y, the brain signal decoding would take care of the translation - I liked this one a lot as this basically positions brain decoding ahead of speech recognition :slightly_smiling_face:
+
