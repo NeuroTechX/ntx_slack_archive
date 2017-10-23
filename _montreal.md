@@ -2145,3 +2145,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Yea
 
+10/23/2017 6:40 PM
+
+ **sydneyneurotechx** :
+
+ >NeuroTechX will be participating in it
+
