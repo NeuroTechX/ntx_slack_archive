@@ -3393,3 +3393,9 @@ Let me now if this is something that inerests you :smile:
 
  >HI all, my name is Suhas.  My background is in computational neuroscience (my adviser was Gail A. Carpenter, husband to Stephen Grossberg; ART, ARTMAP, etc. if you've heard of these things).  Looking forward to staying in touch w/ the latest in the community! :slightly_smiling_face:
 
+10/23/2017 9:36 PM
+
+ **chelian.suhas** :
+
+ >(BTW, my thesis is 12 years old now; I've since worked at HRL Labs, Toyota robotics, etc.)
+
