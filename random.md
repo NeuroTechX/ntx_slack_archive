@@ -3003,3 +3003,12 @@ I went and saw a few good talks at the biohacking village. I didn't see this one
 
  >100 WPM was not the only datapoint of the talk, they also talked about automatic translation so that people speaking language X can talk to people speaking language Y, the brain signal decoding would take care of the translation - I liked this one a lot as this basically positions brain decoding ahead of speech recognition :slightly_smiling_face:
 
+10/23/2017 7:14 PM
+
+ **yannick** :
+
+ >+1. It cant really be because its too hard& She obviously knew that. Lets not be too quick to judge. She was at DARPA before. She knows the state of the art and knew it was ambitious before accepting the position. Something else must have happened.
+
+> 
+I think you gave the best lead so far: she registered on NeuroTechX and saw all the comments [&] and quit #CantHandleNTXPressureTest
+
