@@ -2157,3 +2157,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >We have the opportunity to showcase some demo's. If anyone wants to show some stuff off, let us know :slightly_smiling_face:
 
+10/23/2017 6:41 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Back to Hacknights this Thursday?
+
