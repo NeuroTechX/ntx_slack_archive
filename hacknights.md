@@ -870,3 +870,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >nyc hackathon canceled because of construction for the next two weeks :disappointed:
 
+10/23/2017 7:26 PM
+
+ **jonathan785** :
+
+ >yannick , I have heard lots about you from Jocelyn, I look forward in connecting sometime in Montreal, I am local.
+
