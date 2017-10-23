@@ -3369,3 +3369,9 @@ Let me now if this is something that inerests you :smile:
 
  >Hi Joseph, Guillermo Sapiro's group
 
+10/23/2017 6:24 PM
+
+ **sydneyneurotechx** :
+
+ >dj_mini ^
+
