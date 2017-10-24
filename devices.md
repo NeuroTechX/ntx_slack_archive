@@ -5148,3 +5148,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 > 
 - Cognonics for dry wireless system. ant-neuro for a more classical non-wireless dry
 
+10/24/2017 1:48 PM
+
+ **alexandre.barachant** :
+
+ >- for TMS stim, you really have to check, because none of this systems are likely to handle the magnetic pulse
+
