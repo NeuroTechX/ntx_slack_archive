@@ -5667,3 +5667,15 @@ What alexandre.barachant suggested is that if you want to use pyRiemann with onl
 
  >alexandre.barachant how did you find the MAC address for your lowdown focus?
 
+10/24/2017 1:22 AM
+
+ **soroosh** :
+
+ >Hello everyone,
+
+> 
+Can anyone introduce me some motor imagery datasets which contain more than two classes of tasks?
+
+> 
+I have already worked with the datasets from BCI competition, but I am looking to investigate other datasets, also.
+
