@@ -4971,3 +4971,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >for what it worth, I did EEG + TDCS + TMS in the past. We had a regular 32 wet channel EEG (neuroprax), soterix for HD-tDCS, and i can't remember the name of the TMS machine (+ brainvision, for realtime localization of TMS)
 
+10/24/2017 1:27 PM
+
+ **alexandre.barachant** :
+
+ >but you are looking way past the 40k of your budget
+
