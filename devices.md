@@ -5031,3 +5031,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >also, by experience, it's hard to put tDCS on high density EEG
 
+10/24/2017 1:30 PM
+
+ **alexandre.barachant** :
+
+ >even more with  Dry EEG,
+
