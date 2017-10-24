@@ -5154,3 +5154,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >- for TMS stim, you really have to check, because none of this systems are likely to handle the magnetic pulse
 
+10/24/2017 2:02 PM
+
+ **bryan** :
+
+ >Awesome, thank you!
+
