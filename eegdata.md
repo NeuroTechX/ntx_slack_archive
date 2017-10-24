@@ -5685,3 +5685,12 @@ I have already worked with the datasets from BCI competition, but I am looking t
 
  >Have you checked on the NTX awesome BCI list for other datasets?
 
+10/24/2017 1:58 AM
+
+ **soroosh** :
+
+ >Unfortunately no. 
+
+> 
+Would you please provide more information?
+
