@@ -3036,3 +3036,15 @@ I think you gave the best lead so far: she registered on NeuroTechX and saw all
 
  >Thoughts?
 
+10/24/2017 7:33 PM
+
+ **rohit** :
+
+ >CNNs are being extensively used nowadays and their successful application in neurotech has been proven many a times, consider this for example <https://www.svds.com/mind-reading-using-artificial-neural-nets-predict-viewed-image-categories-eeg-readings/> where they tried to show how well CNN performs at classifying EEG. 
+
+> 
+
+
+> 
+Although highly successful, considering the high training time and other real time classification aspects, how well do you guys think neural networks  are fitted for BCI applications?
+
