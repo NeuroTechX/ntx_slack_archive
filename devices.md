@@ -4965,3 +4965,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >That's why I wanted to see what people here thought. I know some colleagues use it in their experiments
 
+10/24/2017 1:26 PM
+
+ **alexandre.barachant** :
+
+ >for what it worth, I did EEG + TDCS + TMS in the past. We had a regular 32 wet channel EEG (neuroprax), soterix for HD-tDCS, and i can't remember the name of the TMS machine (+ brainvision, for realtime localization of TMS)
+
