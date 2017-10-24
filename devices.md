@@ -4959,3 +4959,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >i'm not sure TMS / TDCS is part of the standard BCI lab, but for sure :slightly_smiling_face:
 
+10/24/2017 1:26 PM
+
+ **bryan** :
+
+ >That's why I wanted to see what people here thought. I know some colleagues use it in their experiments
+
