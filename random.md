@@ -3048,3 +3048,9 @@ I think you gave the best lead so far: she registered on NeuroTechX and saw all
 > 
 Although highly successful, considering the high training time and other real time classification aspects, how well do you guys think neural networks  are fitted for BCI applications?
 
+10/24/2017 7:34 PM
+
+ **dano** :
+
+ >Current BCIs, at least the active ones, already require a significant amount of user training to get and up and running. With neural networks, the two can meet in the middle.
+
