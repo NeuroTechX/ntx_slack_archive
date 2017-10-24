@@ -4929,3 +4929,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >saying that, you can only record with a dry electrode, for both recording and stim, you need wet electrode
 
+10/24/2017 1:21 PM
+
+ **bryan** :
+
+ >Thanks alexandre.barachant So, if I wanted a complete system I would have wet electrodes for the stim (still needed for TMS?) and dry for recording. Is neuroelectrics still the choice for all components? I was wondering if Cognionics would be best for dry and to try to fit them into a system made up of parts from different mfg's. Also need a stimulator- who is best for TMS/t*CS?
+
