@@ -3399,3 +3399,9 @@ Let me now if this is something that inerests you :smile:
 
  >(BTW, my thesis is 12 years old now; I've since worked at HRL Labs, Toyota robotics, etc.)
 
+10/24/2017 5:33 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome Suhas!
+
