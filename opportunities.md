@@ -1062,3 +1062,9 @@ Taking Action for Equality
 
  ><https://jobs.lever.co/neuralink/0c16e7f4-0def-4c97-82b3-aabcdbcea564>
 
+10/24/2017 10:07 PM
+
+ **aj** :
+
+ >God those qualifications thoo 
+
