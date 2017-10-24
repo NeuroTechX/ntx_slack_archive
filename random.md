@@ -3030,3 +3030,9 @@ I think you gave the best lead so far: she registered on NeuroTechX and saw all
 
  >In the above article, they were able to determine what people were seeing using fMRI and Deep Learning
 
+10/24/2017 7:13 PM
+
+ **sydneyneurotechx** :
+
+ >Thoughts?
+
