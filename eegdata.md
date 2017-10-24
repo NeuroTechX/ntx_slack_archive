@@ -5694,3 +5694,12 @@ I have already worked with the datasets from BCI competition, but I am looking t
 > 
 Would you please provide more information?
 
+10/24/2017 2:15 AM
+
+ **jnaulty** :
+
+ >soroosh 
+
+> 
+here you go: <https://github.com/NeuroTechX/awesome-bci>
+
