@@ -3024,3 +3024,9 @@ I think you gave the best lead so far: she registered on NeuroTechX and saw all
 
  ><https://academic.oup.com/cercor/article-abstract/doi/10.1093/cercor/bhx268/4560155/Neural-Encoding-and-Decoding-with-Deep-Learning>
 
+10/24/2017 7:13 PM
+
+ **sydneyneurotechx** :
+
+ >In the above article, they were able to determine what people were seeing using fMRI and Deep Learning
+
