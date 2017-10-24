@@ -5082,3 +5082,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >some manufacturer offers complete solution for EEG + TMS (or tDCS). but their system are less sexy than the cognonics
 
+10/24/2017 1:37 PM
+
+ **alexandre.barachant** :
+
+ >like this
+
