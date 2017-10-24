@@ -5100,3 +5100,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >they are quite good
 
+10/24/2017 1:39 PM
+
+ **alexandre.barachant** :
+
+ >i heard good thing about ant-neuro electrodes : <http://www.ant-neuro.com/products/waveguard_touch>
+
