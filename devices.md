@@ -5043,3 +5043,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >higer than 32
 
+10/24/2017 1:31 PM
+
+ **alexandre.barachant** :
+
+ >then you have problem with the tDCS gel creating bridge between electrodes
+
