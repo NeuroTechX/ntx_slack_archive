@@ -5124,3 +5124,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >you will have a tough one to beat in OpenBCI
 
+10/24/2017 1:42 PM
+
+ **alexandre.barachant** :
+
+ >:slightly_smiling_face: i think it will be complementary with OpenBCI. mine is more research oriented
+
