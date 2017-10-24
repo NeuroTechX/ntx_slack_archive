@@ -5106,3 +5106,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >i heard good thing about ant-neuro electrodes : <http://www.ant-neuro.com/products/waveguard_touch>
 
+10/24/2017 1:40 PM
+
+ **alexandre.barachant** :
+
+ >but if you want the absolute best, you will have to wait i release my open source hardware EEG headset :slightly_smiling_face:
+
