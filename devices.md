@@ -4989,3 +4989,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Thanks that's helpful. Yeah, I don't have a hard line of the number for the budget
 
+10/24/2017 1:28 PM
+
+ **bryan** :
+
+ >I can break it up amongst some PIs also
+
