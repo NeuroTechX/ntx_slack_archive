@@ -5112,3 +5112,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >but if you want the absolute best, you will have to wait i release my open source hardware EEG headset :slightly_smiling_face:
 
+10/24/2017 1:41 PM
+
+ **bryan** :
+
+ >haha nice!
+
