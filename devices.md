@@ -4947,3 +4947,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Adding TMS on top of that is tricky
 
+10/24/2017 1:24 PM
+
+ **alexandre.barachant** :
+
+ >TMS send large magnetic pulse, so you want to have a system that is TMS compatible. i doubt active electrodes from cognonics will like it
+
