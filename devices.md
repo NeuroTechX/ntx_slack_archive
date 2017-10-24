@@ -5061,3 +5061,12 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >no bridge with dry electrode :slightly_smiling_face:
 
+10/24/2017 1:34 PM
+
+ **bryan** :
+
+ >Yes, I meant with wet recording. That's one of the many reasons I want to go dry! :slightly_smiling_face: 
+
+> 
+It sounds like I would use my dry electrodes for recording and wet for stimulation. Could still use same amplifier, eye tracking, response devices
+
