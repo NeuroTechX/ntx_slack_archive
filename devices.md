@@ -4995,3 +4995,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >I can break it up amongst some PIs also
 
+10/24/2017 1:28 PM
+
+ **alexandre.barachant** :
+
+ >do you want to do all simulataneous EEG + tDCS + TMS ?
+
