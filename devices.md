@@ -5001,3 +5001,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >do you want to do all simulataneous EEG + tDCS + TMS ?
 
+10/24/2017 1:28 PM
+
+ **bryan** :
+
+ >not necessarily, either TMS or tDCS to start should be fine
+
