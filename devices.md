@@ -5136,3 +5136,15 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >Well I will look forward to learning more! Thanks for your help, I will review these options with my PI
 
+10/24/2017 1:47 PM
+
+ **alexandre.barachant** :
+
+ >okay. to summarize my recommendation :
+
+> 
+- Neuroelectrics if you want to stimulate + record with the same electrodes
+
+> 
+- Cognonics for dry wireless system. ant-neuro for a more classical non-wireless dry
+
