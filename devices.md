@@ -4977,3 +4977,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >but you are looking way past the 40k of your budget
 
+10/24/2017 1:27 PM
+
+ **bryan** :
+
+ >Only drawback with Neuroelectrics is 32 channel limit. I think Cognionics had a 64 cap
+
