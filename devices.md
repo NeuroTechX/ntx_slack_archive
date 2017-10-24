@@ -5049,3 +5049,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >then you have problem with the tDCS gel creating bridge between electrodes
 
+10/24/2017 1:32 PM
+
+ **bryan** :
+
+ >Yeah, that can happen in normal recordings anyway. But I guess with stimulation it's even more of a concern?
+
