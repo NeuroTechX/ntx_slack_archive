@@ -5037,3 +5037,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >even more with  Dry EEG,
 
+10/24/2017 1:30 PM
+
+ **alexandre.barachant** :
+
+ >higer than 32
+
