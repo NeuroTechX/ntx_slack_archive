@@ -5679,3 +5679,9 @@ Can anyone introduce me some motor imagery datasets which contain more than two 
 > 
 I have already worked with the datasets from BCI competition, but I am looking to investigate other datasets, also.
 
+10/24/2017 1:22 AM
+
+ **yannick** :
+
+ >Have you checked on the NTX awesome BCI list for other datasets?
+
