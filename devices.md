@@ -5055,3 +5055,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Yeah, that can happen in normal recordings anyway. But I guess with stimulation it's even more of a concern?
 
+10/24/2017 1:33 PM
+
+ **alexandre.barachant** :
+
+ >no bridge with dry electrode :slightly_smiling_face:
+
