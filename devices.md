@@ -5076,3 +5076,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >okay, what i would recomend is to check compatibility with the manufacturer. i really doubt cognonics is TMS friendly
 
+10/24/2017 1:35 PM
+
+ **alexandre.barachant** :
+
+ >some manufacturer offers complete solution for EEG + TMS (or tDCS). but their system are less sexy than the cognonics
+
