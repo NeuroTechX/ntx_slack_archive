@@ -5088,3 +5088,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >like this
 
+10/24/2017 1:37 PM
+
+ **bryan** :
+
+ >For just dry recording, would you say Cognionics is the leader? ie, this system: <http://www.cognionics.com/index.php/products/hd-eeg-systems/72-channel-system>
+
