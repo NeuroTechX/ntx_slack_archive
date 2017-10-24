@@ -5013,3 +5013,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >no i mean, stimulation + EEG recording at the same time ?
 
+10/24/2017 1:29 PM
+
+ **bryan** :
+
+ >for certain experiments, yes that would be good
+
