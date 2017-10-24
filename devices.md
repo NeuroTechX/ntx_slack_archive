@@ -5118,3 +5118,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >haha nice!
 
+10/24/2017 1:41 PM
+
+ **bryan** :
+
+ >you will have a tough one to beat in OpenBCI
+
