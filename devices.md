@@ -4935,3 +4935,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >Thanks alexandre.barachant So, if I wanted a complete system I would have wet electrodes for the stim (still needed for TMS?) and dry for recording. Is neuroelectrics still the choice for all components? I was wondering if Cognionics would be best for dry and to try to fit them into a system made up of parts from different mfg's. Also need a stimulator- who is best for TMS/t*CS?
 
+10/24/2017 1:23 PM
+
+ **alexandre.barachant** :
+
+ >okay, i'm still not sure what you want to achieve. i recommanded neuroelectrics because it can stimulate and record at the same time (i think) or at lease with the same electrodes
+
