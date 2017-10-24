@@ -1344,3 +1344,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >unfortunately I won't be available from the 1st to the 10th of November :disappointed:
 
+10/24/2017 3:46 PM
+
+ **ryanlintott** :
+
+ >Sorry but somehow Ive broken the bottom half of the Intro to Neuroscience page. It works when I do a local build with jekyll but when I push it to git the page only loads to the brain and spine line. Theres really nothing interesting happening at that part of the file and I cant figure out why the page isnt building correctly. Is there a jekyll guru that might be able to have a look?
+
