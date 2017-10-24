@@ -5712,3 +5712,9 @@ here you go: <https://github.com/NeuroTechX/awesome-bci>
 > 
 Thank you very much jnaulty yannick
 
+10/24/2017 2:18 AM
+
+ **aj** :
+
+ >They wouldnt call it awesome if it wasnt!!
+
