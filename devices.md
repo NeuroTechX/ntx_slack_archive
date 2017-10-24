@@ -4941,3 +4941,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >okay, i'm still not sure what you want to achieve. i recommanded neuroelectrics because it can stimulate and record at the same time (i think) or at lease with the same electrodes
 
+10/24/2017 1:23 PM
+
+ **alexandre.barachant** :
+
+ >Adding TMS on top of that is tricky
+
