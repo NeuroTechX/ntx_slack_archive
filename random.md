@@ -3054,3 +3054,9 @@ Although highly successful, considering the high training time and other real ti
 
  >Current BCIs, at least the active ones, already require a significant amount of user training to get and up and running. With neural networks, the two can meet in the middle.
 
+10/24/2017 7:36 PM
+
+ **melanie** :
+
+ >seems to performs much less well than previous work done using a baysian decoder <http://www.sciencedirect.com/science/article/pii/S0960982211009377>
+
