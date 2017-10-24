@@ -5703,3 +5703,12 @@ Would you please provide more information?
 > 
 here you go: <https://github.com/NeuroTechX/awesome-bci>
 
+10/24/2017 2:17 AM
+
+ **soroosh** :
+
+ >This is absolutely awesome. 
+
+> 
+Thank you very much jnaulty yannick
+
