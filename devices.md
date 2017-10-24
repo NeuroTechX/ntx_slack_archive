@@ -5007,3 +5007,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >not necessarily, either TMS or tDCS to start should be fine
 
+10/24/2017 1:29 PM
+
+ **alexandre.barachant** :
+
+ >no i mean, stimulation + EEG recording at the same time ?
+
