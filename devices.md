@@ -5019,3 +5019,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 
  >for certain experiments, yes that would be good
 
+10/24/2017 1:29 PM
+
+ **alexandre.barachant** :
+
+ >that create a large constraints on what kind of hardware you use
+
