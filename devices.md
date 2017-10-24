@@ -5070,3 +5070,9 @@ in the meantime, you can try to boot on a live-USB with ubuntu (and switch to li
 > 
 It sounds like I would use my dry electrodes for recording and wet for stimulation. Could still use same amplifier, eye tracking, response devices
 
+10/24/2017 1:34 PM
+
+ **alexandre.barachant** :
+
+ >okay, what i would recomend is to check compatibility with the manufacturer. i really doubt cognonics is TMS friendly
+
