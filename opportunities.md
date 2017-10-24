@@ -1056,3 +1056,9 @@ Taking Action for Equality
 
  >Yeah, you're in a really good place! I have no idea what our funding will be like next summer, but if we're hiring, I'll get in touch.
 
+10/24/2017 9:57 PM
+
+ **joeyo** :
+
+ ><https://jobs.lever.co/neuralink/0c16e7f4-0def-4c97-82b3-aabcdbcea564>
+
