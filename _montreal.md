@@ -2175,3 +2175,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Thats so awesome; I might come (like 1% chance but still a probability)
 
+10/24/2017 2:17 AM
+
+ **naoto** :
+
+ >the demo session sounds cool but i dont want to think about it now as i just finished demo at a conference here in quebec city
+
