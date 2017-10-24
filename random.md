@@ -3018,3 +3018,9 @@ I think you gave the best lead so far: she registered on NeuroTechX and saw all
 
  >I don't doubt for a second they knew they over-promised and that it gonna be hard to deliver. all joke apart, i don't think she left for any related reason. probably found something better elsewhere.
 
+10/24/2017 7:12 PM
+
+ **sydneyneurotechx** :
+
+ ><https://academic.oup.com/cercor/article-abstract/doi/10.1093/cercor/bhx268/4560155/Neural-Encoding-and-Decoding-with-Deep-Learning>
+
