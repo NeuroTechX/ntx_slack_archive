@@ -5730,3 +5730,9 @@ Thank you very much jnaulty yannick
 
  >Hey all Im trying to make a circuit for marking eeg data when I flash a stimulus on screen, I want to put the diode on a little square and send a 1 when white and 0 when black to an arduino. Does any one have advice? (copied from <#C08T2SENQ|devices> because this channel is 10x bigger)
 
+10/25/2017 1:52 PM
+
+ **alexandre.barachant** :
+
+ >you can use a photodiode, and a OPAmp used as a comparator. on one side you have the photodiode and on the other you can use a potentiometer to set the threshold of the comparatir
+
