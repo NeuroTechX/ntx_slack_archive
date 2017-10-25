@@ -3417,3 +3417,9 @@ Let me now if this is something that inerests you :smile:
 
  >Hi yannick. I'm new to the community I'm a scientist working on BCIs
 
+10/25/2017 3:19 PM
+
+ **david.vumbaco** :
+
+ >Hi All! My name is Dave Vumbaco, my background is in systems neuroscience with a focus on the neocortex. I have a PhD from LSUHSC in New orleans and am the CSO of Alphacomputing.
+
