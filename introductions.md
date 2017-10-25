@@ -3423,3 +3423,9 @@ Let me now if this is something that inerests you :smile:
 
  >Hi All! My name is Dave Vumbaco, my background is in systems neuroscience with a focus on the neocortex. I have a PhD from LSUHSC in New orleans and am the CSO of Alphacomputing.
 
+10/25/2017 3:33 PM
+
+ **dano** :
+
+ >Welcome, Dave! What's Alphacomputing about?
+
