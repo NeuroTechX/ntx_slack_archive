@@ -5199,3 +5199,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >Some EEG amplifier also does not stream timestamps, so you don't actually know precisely the computer time corresponding to a given EEG sample. And then you have drift in the EEG amplifier clock. For all these reason, if very precise timing is required, you have hardware trigger input in most EEG hardware. it's generally a TTL input that is sampled simultaneously with the EEG and used to tag your stimulus within the EEG stream
 
+10/25/2017 3:37 PM
+
+ **ray_cassani** :
+
+ >If the EEG devices has not input for triggers, a channel could sacrificed to be used as trigger channel, however I'm no familiar on how much it'll effect the EEG signal quality, and I guess it'll depend on the EEG device that is being used. Any knowledge in this topic?
+
