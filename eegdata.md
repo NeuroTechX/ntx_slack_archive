@@ -5736,3 +5736,9 @@ Thank you very much jnaulty yannick
 
  >you can use a photodiode, and a OPAmp used as a comparator. on one side you have the photodiode and on the other you can use a potentiometer to set the threshold of the comparatir
 
+10/25/2017 1:52 PM
+
+ **alexandre.barachant** :
+
+ >you can google photodiode + comparator and you will fine plenty of example
+
