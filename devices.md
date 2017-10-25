@@ -5211,3 +5211,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >yep, you could sacrifice a channel. but it depend on the device. if you have a DRL (or active grounding), the signal from the channel will be re-injected in the patient as part of the common mode cancelation
 
+10/25/2017 3:40 PM
+
+ **alexandre.barachant** :
+
+ >so i would not necessarily recommand this with openBCI for example
+
