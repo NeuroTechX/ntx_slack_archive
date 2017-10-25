@@ -2181,3 +2181,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >the demo session sounds cool but i dont want to think about it now as i just finished demo at a conference here in quebec city
 
+10/25/2017 10:42 PM
+
+ **sidksv** :
+
+ >For this week I prefer the hacknight on Friday.
+
