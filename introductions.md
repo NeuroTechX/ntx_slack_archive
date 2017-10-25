@@ -3429,3 +3429,9 @@ Let me now if this is something that inerests you :smile:
 
  >Welcome, Dave! What's Alphacomputing about?
 
+10/25/2017 3:39 PM
+
+ **david.vumbaco** :
+
+ >Thanks Dano - we are a start up working with EEG
+
