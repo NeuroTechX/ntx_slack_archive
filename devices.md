@@ -5223,3 +5223,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >also, if your amplifier has some cross-talk between channel, it can leak into adjacent channels.
 
+10/25/2017 4:34 PM
+
+ **aj** :
+
+ >side convo here but it's hella easy to remove a channel from the bias
+
