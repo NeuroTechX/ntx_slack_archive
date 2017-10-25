@@ -5205,3 +5205,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >If the EEG devices has not input for triggers, a channel could sacrificed to be used as trigger channel, however I'm no familiar on how much it'll effect the EEG signal quality, and I guess it'll depend on the EEG device that is being used. Any knowledge in this topic?
 
+10/25/2017 3:39 PM
+
+ **alexandre.barachant** :
+
+ >yep, you could sacrifice a channel. but it depend on the device. if you have a DRL (or active grounding), the signal from the channel will be re-injected in the patient as part of the common mode cancelation
+
