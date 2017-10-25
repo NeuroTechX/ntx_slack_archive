@@ -3411,3 +3411,9 @@ Let me now if this is something that inerests you :smile:
 
  >Nice to meet  you chelian.suhas
 
+10/25/2017 3:19 PM
+
+ **johnkmaxi** :
+
+ >Hi yannick. I'm new to the community I'm a scientist working on BCIs
+
