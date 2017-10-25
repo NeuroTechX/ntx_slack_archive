@@ -5253,3 +5253,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >wait i think i did find one
 
+10/25/2017 9:01 PM
+
+ **aj** :
+
+ >can anyone recommend a phototransistor they have used before? Mine is non sensitive enough
+
