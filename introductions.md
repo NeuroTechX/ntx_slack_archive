@@ -3447,3 +3447,9 @@ Let me now if this is something that inerests you :smile:
 
  >We are starting from behavior and creating an eeg based BCI
 
+10/25/2017 5:12 PM
+
+ **david.vumbaco** :
+
+ >1 sentence instead of a full 3 minute elevator ride :slightly_smiling_face:
+
