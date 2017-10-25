@@ -1074,3 +1074,39 @@ Taking Action for Equality
 
  >Are you a University of Toronto student who wants to get into neurotech research? The Carlen lab is looking for a highly interested student to join their lab to perform intracranial EEG and signal processing as part of a study on new treatments for epilepsy. No previous experience necessary, just passion. They'll teach you everything.
 
+10/25/2017 7:44 PM
+
+ **ben.tam** :
+
+ >Happy to note that Euler Technologies has successfully completed our latest financing round and we are now setting up a new R&amp;D center in beautiful Vancouver, Canada. 
+
+> 
+
+
+> 
+We'll soon be hiring locally and globally for talented individuals who share our mission to transform the world of education using data science and BCI/HCI. 
+
+> 
+
+
+> 
+Our long term goal is crazy. But worth it's the shot. 
+
+> 
+
+
+> 
+We are going to modernize the world of academia and scalably provide a PhD level education for every future child. 
+
+> 
+
+
+> 
+Really revolutionary stuff. 
+
+> 
+
+
+> 
+Updates about job postings coming soon.
+
