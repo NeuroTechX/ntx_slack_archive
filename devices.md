@@ -5166,3 +5166,15 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >Hey all Im trying to make a circuit for marking eeg data when I flash a stimulus on screen, I want to put the diode on a little square and send a 1 when white and 0 when black to an arduino. Does any one have advice?
 
+10/25/2017 1:56 PM
+
+ **rohit** :
+
+ >I not sure about what you mean by 'diode on a little square' but you can use a photodiode(cheapest solution), it will detect when the light shines on it and communicate to Arduino. You can easily Google the simple circuits for that. 
+
+> 
+
+
+> 
+Secondly, why do you need arduino and external circuit, can't you just know when the screen is flashing white/black if you have programmed it to do so. 
+
