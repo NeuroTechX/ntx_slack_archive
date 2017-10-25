@@ -5247,3 +5247,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >when use a phototransistor?
 
+10/25/2017 8:10 PM
+
+ **aj** :
+
+ >wait i think i did find one
+
