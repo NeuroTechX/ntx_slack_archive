@@ -5160,3 +5160,9 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 
  >Awesome, thank you!
 
+10/25/2017 1:16 PM
+
+ **aj** :
+
+ >Hey all Im trying to make a circuit for marking eeg data when I flash a stimulus on screen, I want to put the diode on a little square and send a 1 when white and 0 when black to an arduino. Does any one have advice?
+
