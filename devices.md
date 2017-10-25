@@ -5241,3 +5241,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >I still have not found a good circuit to duplicate :confused:
 
+10/25/2017 8:08 PM
+
+ **aj** :
+
+ >when use a phototransistor?
+
