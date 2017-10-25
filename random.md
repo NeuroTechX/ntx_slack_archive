@@ -3072,3 +3072,9 @@ Although highly successful, considering the high training time and other real ti
 
  >my gut feeling is that recurrent/VAE is probably the best fit, and that CNNs work well mostly because there's more known about how to do them well. that said, a wavenet-style dilated CNN may be able to capture enough state, but feels like it's missing the recurrent-ness of the brain (assuming that's how it works...)
 
+10/25/2017 11:30 AM
+
+ **jamoonie94** :
+
+ >What do you think about extreme learning machines? I read a few papers that seemed to produce good accuracy fairly quickly but I couldnt be a good judge 
+
