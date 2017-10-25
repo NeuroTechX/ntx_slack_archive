@@ -5724,3 +5724,9 @@ Thank you very much jnaulty yannick
 
  >:stuck_out_tongue:
 
+10/25/2017 1:41 PM
+
+ **aj** :
+
+ >Hey all Im trying to make a circuit for marking eeg data when I flash a stimulus on screen, I want to put the diode on a little square and send a 1 when white and 0 when black to an arduino. Does any one have advice? (copied from <#C08T2SENQ|devices> because this channel is 10x bigger)
+
