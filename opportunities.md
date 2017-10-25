@@ -1068,3 +1068,9 @@ Taking Action for Equality
 
  >God those qualifications thoo 
 
+10/25/2017 12:38 AM
+
+ **dano** :
+
+ >Are you a University of Toronto student who wants to get into neurotech research? The Carlen lab is looking for a highly interested student to join their lab to perform intracranial EEG and signal processing as part of a study on new treatments for epilepsy. No previous experience necessary, just passion. They'll teach you everything.
+
