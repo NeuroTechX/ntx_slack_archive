@@ -1356,3 +1356,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >yep it looks like after the brain and spine it closes the &lt;/div&gt; ... no idea why.. I am no expert but I'll try to have a look
 
+10/25/2017 4:11 PM
+
+ **ryanlintott** :
+
+ >Fixed! I put the old links into comments with &lt;!-- --&gt; but I had them spanning over multiple lines. For some reason this builds correctly on my local jekyll but not on github. It looks like github was probably reading the &lt;/p&gt; tags inside those comments and closing many of the paragraphs too early. This then led to the truncation. Anyways, its all fixed now. :slightly_smiling_face:
+
