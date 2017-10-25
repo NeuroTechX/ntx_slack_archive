@@ -5229,3 +5229,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >side convo here but it's hella easy to remove a channel from the bias
 
+10/25/2017 4:35 PM
+
+ **aj** :
+
+ >&gt; TTL input that is sampled simultaneously with the EEG and used to tag your stimulus within the EEG stream
+
