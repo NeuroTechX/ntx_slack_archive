@@ -3066,3 +3066,9 @@ Although highly successful, considering the high training time and other real ti
 
  >OHBM also had this nice poster on using a variational autoencoder for that sort of stuff too: <https://ww5.aievolution.com/hbm1701/index.cfm?do=abs.viewAbs&amp;abs=2542>
 
+10/25/2017 7:35 AM
+
+ **pat** :
+
+ >my gut feeling is that recurrent/VAE is probably the best fit, and that CNNs work well mostly because there's more known about how to do them well. that said, a wavenet-style dilated CNN may be able to capture enough state, but feels like it's missing the recurrent-ness of the brain (assuming that's how it works...)
+
