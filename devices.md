@@ -5187,3 +5187,9 @@ Secondly, why do you need arduino and external circuit, can't you just know when
 > 
 Depending on how low level your programming is, there is also a frame or two of jitter that is very difficult to fix. this greatly decrease the accuracy of evoked potential detection
 
+10/25/2017 2:04 PM
+
+ **alexandre.barachant** :
+
+ >in many neuroscience experiment, hardware tagging is used to physically get the timing of the stimulus as seen by the user
+
