@@ -5217,3 +5217,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >so i would not necessarily recommand this with openBCI for example
 
+10/25/2017 3:42 PM
+
+ **alexandre.barachant** :
+
+ >also, if your amplifier has some cross-talk between channel, it can leak into adjacent channels.
+
