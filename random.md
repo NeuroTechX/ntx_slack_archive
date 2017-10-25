@@ -3060,3 +3060,9 @@ Although highly successful, considering the high training time and other real ti
 
  >seems to performs much less well than previous work done using a baysian decoder <http://www.sciencedirect.com/science/article/pii/S0960982211009377>
 
+10/25/2017 7:30 AM
+
+ **pat** :
+
+ >OHBM also had this nice poster on using a variational autoencoder for that sort of stuff too: <https://ww5.aievolution.com/hbm1701/index.cfm?do=abs.viewAbs&amp;abs=2542>
+
