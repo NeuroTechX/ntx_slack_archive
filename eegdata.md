@@ -5742,3 +5742,9 @@ Thank you very much jnaulty yannick
 
  >you can google photodiode + comparator and you will fine plenty of example
 
+10/25/2017 4:37 PM
+
+ **aj** :
+
+ >thanks Alex!
+
