@@ -5193,3 +5193,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >in many neuroscience experiment, hardware tagging is used to physically get the timing of the stimulus as seen by the user
 
+10/25/2017 2:12 PM
+
+ **alexandre.barachant** :
+
+ >Some EEG amplifier also does not stream timestamps, so you don't actually know precisely the computer time corresponding to a given EEG sample. And then you have drift in the EEG amplifier clock. For all these reason, if very precise timing is required, you have hardware trigger input in most EEG hardware. it's generally a TTL input that is sampled simultaneously with the EEG and used to tag your stimulus within the EEG stream
+
