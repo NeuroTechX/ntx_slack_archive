@@ -1362,3 +1362,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Fixed! I put the old links into comments with &lt;!-- --&gt; but I had them spanning over multiple lines. For some reason this builds correctly on my local jekyll but not on github. It looks like github was probably reading the &lt;/p&gt; tags inside those comments and closing many of the paragraphs too early. This then led to the truncation. Anyways, its all fixed now. :slightly_smiling_face:
 
+10/25/2017 4:18 PM
+
+ **francescacoo** :
+
+ >Ah very good! I was trying to understand where it was coming from! Good you solved
+
