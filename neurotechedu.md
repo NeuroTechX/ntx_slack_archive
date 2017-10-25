@@ -1350,3 +1350,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Sorry but somehow Ive broken the bottom half of the Intro to Neuroscience page. It works when I do a local build with jekyll but when I push it to git the page only loads to the brain and spine line. Theres really nothing interesting happening at that part of the file and I cant figure out why the page isnt building correctly. Is there a jekyll guru that might be able to have a look?
 
+10/25/2017 10:03 AM
+
+ **francescacoo** :
+
+ >yep it looks like after the brain and spine it closes the &lt;/div&gt; ... no idea why.. I am no expert but I'll try to have a look
+
