@@ -5235,3 +5235,9 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >&gt; TTL input that is sampled simultaneously with the EEG and used to tag your stimulus within the EEG stream
 
+10/25/2017 8:06 PM
+
+ **aj** :
+
+ >I still have not found a good circuit to duplicate :confused:
+
