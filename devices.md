@@ -5178,3 +5178,12 @@ It sounds like I would use my dry electrodes for recording and wet for stimulati
 > 
 Secondly, why do you need arduino and external circuit, can't you just know when the screen is flashing white/black if you have programmed it to do so. 
 
+10/25/2017 2:03 PM
+
+ **alexandre.barachant** :
+
+ >rohit your screen does not display things instantaneously, and there is several frame of delay between the time you ask to display something and what happens in real life. 
+
+> 
+Depending on how low level your programming is, there is also a frame or two of jitter that is very difficult to fix. this greatly decrease the accuracy of evoked potential detection
+
