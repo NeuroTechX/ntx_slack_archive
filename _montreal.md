@@ -2193,3 +2193,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >is there a hacknight this week ?
 
+10/26/2017 4:46 PM
+
+ **armin** :
+
+ >Is there a hacknight today?
+
