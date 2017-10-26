@@ -2205,3 +2205,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >is there?
 
+10/26/2017 9:11 PM
+
+ **yannick** :
+
+ >I can't make it tonight. I'll be there next week (or tomorrow if people would rather switch)
+
