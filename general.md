@@ -6513,3 +6513,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >:disappointed:
 
+10/26/2017 10:41 PM
+
+ **fred-simard** :
+
+ >sounds like a scam... no offense ferdinand, but no valuable price
+
