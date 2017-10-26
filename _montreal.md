@@ -2211,3 +2211,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I can't make it tonight. I'll be there next week (or tomorrow if people would rather switch)
 
+10/26/2017 10:21 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> My schedule changed as well. I booked the conference room 3 that you can use
+
