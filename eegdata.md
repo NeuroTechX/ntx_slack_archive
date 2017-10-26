@@ -5769,3 +5769,24 @@ I am trying to build a hand orthosis controlled by a non-invasive BCI for patien
 > 
 Thank you so much for your time!
 
+10/26/2017 5:57 PM
+
+ **nicolas** :
+
+ >aj Maybe this blog post will be useful to you (uses audio triggers, but the idea is the same):
+
+> 
+<https://bakerdh.wordpress.com/2013/10/22/arduino-sound-to-ttl-trigger-for-eeg/>
+
+> 
+
+
+> 
+We used to have a very similar setup in our lab (photodiode and audio)
+
+> 
+
+
+> 
+FWIW I don't use this anymore though as I've purchased a Labjack to send triggers (<https://labjack.com/products/u3>), which is a bit more flexible to send variable trigger values from code (matlab/python) and performs very well latency-wise (&lt;1ms latency)
+
