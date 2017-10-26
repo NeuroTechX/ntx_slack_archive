@@ -6507,3 +6507,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >can't enter without paying $150
 
+10/26/2017 8:56 PM
+
+ **aj** :
+
+ >:disappointed:
+
