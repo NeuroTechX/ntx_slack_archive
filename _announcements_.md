@@ -1641,3 +1641,12 @@ If youre interested, please contact me!
 
  >Hey guys, just wanted to say that I've really enjoyed contributing to the student clubs initiative. If anyone is interested in lending a hand in our efforts and/or has any questions about where you can help please don't hesitate to message benjamindeleener or me.
 
+10/26/2017 2:20 PM
+
+ **agustnr64** :
+
+ >Hi everyone, 
+
+> 
+I am trying to build a hand orthosis controlled by a non-invasive BCI for patients with hemiplegia for a student project. I have just started with the signal processing and feature extraction. Although I have read some papers, it is not quite clear to me what kind of features do I need extract. Is there someone who knows what kind of method could I have to perform?
+
