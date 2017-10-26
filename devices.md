@@ -5259,3 +5259,24 @@ Depending on how low level your programming is, there is also a frame or two of 
 
  >can anyone recommend a phototransistor they have used before? Mine is non sensitive enough
 
+10/26/2017 4:56 AM
+
+ **rohit** :
+
+ >I have used opt101(sensitivity was really good) ic, and photo resisters in past they worked just fine.
+
+> 
+
+
+> 
+You try to use high biasing resister to increase sensitivity in case of phototransistor.
+
+> 
+
+
+> 
+<https://www.intorobotics.com/common-budgeted-arduino-light-sensors/> found this, you could refer if looking for alternates
+
+> 
+
+
