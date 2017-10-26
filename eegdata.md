@@ -5796,3 +5796,9 @@ FWIW I don't use this anymore though as I've purchased a Labjack to send trigger
 
  >aj i wrote up a post a couple years ago to do this an openbci board - <http://openbci.com/community/measuring-stimulus-timing-with-a-photoresistor/>
 
+10/26/2017 9:09 PM
+
+ **aj** :
+
+ >Hey all thanks yall
+
