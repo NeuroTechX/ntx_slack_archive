@@ -5280,3 +5280,9 @@ You try to use high biasing resister to increase sensitivity in case of phototra
 > 
 
 
+10/26/2017 6:49 AM
+
+ **harris** :
+
+ >I might be receiving a small grant for around two thousand USD and I would like to build up an EEG system from scratch that has the spatial resolution for mental command applications. I am hoping for it to use dry electrodes, and wireless. Would OpenBCI be the best route for this?
+
