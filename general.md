@@ -6501,3 +6501,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  ><https://sharpbrains.com/brainnovations-pitch-contest-guidelines-and-faqs/?utm_source=Solve+Application+Submissions+2017&amp;utm_campaign=149454663e-EMAIL_CAMPAIGN_2017_10_26&amp;utm_medium=email&amp;utm_term=0_684922af05-149454663e-156230841>
 
+10/26/2017 8:56 PM
+
+ **aj** :
+
+ >can't enter without paying $150
+
