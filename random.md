@@ -3078,3 +3078,9 @@ Although highly successful, considering the high training time and other real ti
 
  >What do you think about extreme learning machines? I read a few papers that seemed to produce good accuracy fairly quickly but I couldnt be a good judge 
 
+10/26/2017 12:52 AM
+
+ **psoulos** :
+
+ >Hey Pat, is there a full research paper covering the link you posted? It only looks like a poster.
+
