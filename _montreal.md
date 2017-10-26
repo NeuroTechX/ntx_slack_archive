@@ -2187,3 +2187,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >For this week I prefer the hacknight on Friday.
 
+10/26/2017 3:24 PM
+
+ **dj_mini** :
+
+ >is there a hacknight this week ?
+
