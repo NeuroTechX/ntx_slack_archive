@@ -5757,3 +5757,15 @@ Thank you very much jnaulty yannick
 > 
 I am trying to build a hand orthosis controlled by a non-invasive BCI for patients with hemiplegia for a student project. I have just started with the signal processing and feature extraction. Although I have read some papers, it is not quite clear to me what kind of features do I need extract. Is there someone who knows what kind of method could I have to perform?
 
+10/26/2017 2:21 PM
+
+ **agustnr64** :
+
+ >Hi everyone,
+
+> 
+I am trying to build a hand orthosis controlled by a non-invasive BCI for patients with hemiplegia for a student project. I have just started with the signal processing and feature extraction. Although I have read some papers, it is not quite clear to me what kind of features do I need extract. Is here someone who knows what kind of method could I have to perform?
+
+> 
+Thank you so much for your time!
+
