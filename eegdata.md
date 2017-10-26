@@ -5790,3 +5790,9 @@ We used to have a very similar setup in our lab (photodiode and audio)
 > 
 FWIW I don't use this anymore though as I've purchased a Labjack to send triggers (<https://labjack.com/products/u3>), which is a bit more flexible to send variable trigger values from code (matlab/python) and performs very well latency-wise (&lt;1ms latency)
 
+10/26/2017 6:16 PM
+
+ **andyh616** :
+
+ >aj i wrote up a post a couple years ago to do this an openbci board - <http://openbci.com/community/measuring-stimulus-timing-with-a-photoresistor/>
+
