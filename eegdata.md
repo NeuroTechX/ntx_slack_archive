@@ -5820,3 +5820,9 @@ FWIW I don't use this anymore though as I've purchased a Labjack to send trigger
 
  >it even works on android out of the box
 
+10/27/2017 5:22 PM
+
+ **alexandre.barachant** :
+
+ >thanks urish :slightly_smiling_face:
+
