@@ -2247,3 +2247,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >more generally, I'm down to work on DN + EEG
 
+10/27/2017 7:23 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Tickets are selling quickly for the AI and Neuroscience conference. Purchase them as soon as possible
+
