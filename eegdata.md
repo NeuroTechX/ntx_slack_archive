@@ -5802,3 +5802,9 @@ FWIW I don't use this anymore though as I've purchased a Labjack to send trigger
 
  >Hey all thanks yall
 
+10/27/2017 5:21 PM
+
+ **alexandre.barachant** :
+
+ >today we greatly improved the display on the angular-muse : <https://muse-eeg-app.firebaseapp.com/>
+
