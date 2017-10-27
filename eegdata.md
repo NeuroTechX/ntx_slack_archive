@@ -5865,3 +5865,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >yannick muse 2016 only
 
+10/27/2017 7:33 PM
+
+ **yannick** :
+
+ >I used to be cool. Now Im deprecated& I need to update my toys. :confused:
+
