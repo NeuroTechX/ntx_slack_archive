@@ -2229,3 +2229,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Friday instead?
 
+10/27/2017 1:20 PM
+
+ **yannick** :
+
+ >fred-simard are you joining us tonight? Id love to get started on DL + EEG like we discussed previously.
+
