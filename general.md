@@ -6525,3 +6525,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >Anyone have worked/is working on using deep learning to classify brain signals (EEG, ECoG, etc.)?
 
+10/27/2017 1:19 PM
+
+ **yannick** :
+
+ >Im slowly starting to look into it and Id love to discuss more about it with other people whos been trying DL+EEG. ( so Im gonna follow this thread :slightly_smiling_face: )
+
