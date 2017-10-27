@@ -5808,3 +5808,9 @@ FWIW I don't use this anymore though as I've purchased a Labjack to send trigger
 
  >today we greatly improved the display on the angular-muse : <https://muse-eeg-app.firebaseapp.com/>
 
+10/27/2017 5:21 PM
+
+ **alexandre.barachant** :
+
+ >so now you can just go to this URL and get your EEG stream in a minute
+
