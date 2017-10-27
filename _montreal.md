@@ -2235,3 +2235,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >fred-simard are you joining us tonight? Id love to get started on DL + EEG like we discussed previously.
 
+10/27/2017 3:14 PM
+
+ **fred-simard** :
+
+ >yannick I need to know ahead of time. I want to participate to hacknights, but I can't commit to an unregular schedule.
+
