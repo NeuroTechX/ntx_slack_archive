@@ -5838,3 +5838,9 @@ FWIW I don't use this anymore though as I've purchased a Labjack to send trigger
 
  >This is awesome work, guys!
 
+10/27/2017 6:14 PM
+
+ **graeme** :
+
+ >Holy cow this is an awesome app
+
