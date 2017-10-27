@@ -5286,3 +5286,12 @@ You try to use high biasing resister to increase sensitivity in case of phototra
 
  >I might be receiving a small grant for around two thousand USD and I would like to build up an EEG system from scratch that has the spatial resolution for mental command applications. I am hoping for it to use dry electrodes, and wireless. Would OpenBCI be the best route for this?
 
+10/27/2017 7:26 AM
+
+ **jmhorschig** :
+
+ >sorry to chime in rather late. The ANT-Neuro works nice, for sure, but the best impression for dry electrodes I got so far is from <http://wearablesensing.com/>  - check them out. Nice guys as well. 
+
+> 
+For a standard BCI lab, brain stimulation is actually not usual., but when going for Neuroelectrics you might want to think about adding fNIRS (<http://www.artinis.com/starstim-fnirs/> - but disclaimer, I'm an Artinis employee) . If I were you, I'd go for that, because for BCI a second modality is a much bigger plus than brain stimulation. And if you want to start up with brain stimulation and have no prior experience, maybe do not go with TMS. It's way too challenging to get a clean signal - you make life easier by starting txCS (it's also cheaper).
+
