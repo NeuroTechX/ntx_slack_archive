@@ -2271,3 +2271,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >There is also an interesting talk on Nov 2: <https://www.mcgill.ca/neuro/channels/event/wilder-penfield-lecture-2017-deep-learning-268630>
 
+10/27/2017 7:30 PM
+
+ **armin** :
+
+ >Wilder Penfield Lecture 2017: Deep Learning by Yoshua Bengio at MNI
+
