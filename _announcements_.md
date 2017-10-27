@@ -1650,3 +1650,15 @@ If youre interested, please contact me!
 > 
 I am trying to build a hand orthosis controlled by a non-invasive BCI for patients with hemiplegia for a student project. I have just started with the signal processing and feature extraction. Although I have read some papers, it is not quite clear to me what kind of features do I need extract. Is there someone who knows what kind of method could I have to perform?
 
+10/27/2017 7:23 PM
+
+ **sydneyneurotechx** :
+
+ >For those in Montreal, there will be a AI and Neuroscience conference happening from November 18-21 Tickets are selling out quick, so reserve today
+
+> 
+
+
+> 
+<http://www.crm.umontreal.ca/2017/IntArt17/index_e.php>
+
