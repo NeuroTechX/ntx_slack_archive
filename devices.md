@@ -5307,3 +5307,9 @@ This fNIRS/EEG package is also interesting: <http://www.artinis.com/nirs-eeg-pac
 > 
 Looks like you can get good coverage with this setup and there's a wireless/mobile option? I would be interested in learning more about that.
 
+10/27/2017 10:18 PM
+
+ **sydneyneurotechx** :
+
+ >So something like motor imagery?
+
