@@ -5871,3 +5871,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >I used to be cool. Now Im deprecated& I need to update my toys. :confused:
 
+10/27/2017 7:34 PM
+
+ **alexandre.barachant** :
+
+ >You had a muse before it was cool :grinning:
+
