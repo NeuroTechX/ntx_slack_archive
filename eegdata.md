@@ -5826,3 +5826,9 @@ FWIW I don't use this anymore though as I've purchased a Labjack to send trigger
 
  >thanks urish :slightly_smiling_face:
 
+10/27/2017 5:40 PM
+
+ **andyh616** :
+
+ >awesome
+
