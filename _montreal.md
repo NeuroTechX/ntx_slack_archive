@@ -2241,3 +2241,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >yannick I need to know ahead of time. I want to participate to hacknights, but I can't commit to an unregular schedule.
 
+10/27/2017 3:15 PM
+
+ **fred-simard** :
+
+ >more generally, I'm down to work on DN + EEG
+
