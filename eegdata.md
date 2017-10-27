@@ -5814,3 +5814,9 @@ FWIW I don't use this anymore though as I've purchased a Labjack to send trigger
 
  >so now you can just go to this URL and get your EEG stream in a minute
 
+10/27/2017 5:22 PM
+
+ **alexandre.barachant** :
+
+ >it even works on android out of the box
+
