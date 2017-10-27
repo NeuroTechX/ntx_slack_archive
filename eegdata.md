@@ -5877,3 +5877,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >You had a muse before it was cool :grinning:
 
+10/27/2017 7:39 PM
+
+ **alexandre.barachant** :
+
+ >Muse 2014 is Bluetooth. Muse 2016 is BLE. Having support for both of them require a different set of tools...
+
