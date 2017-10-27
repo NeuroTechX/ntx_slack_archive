@@ -5844,3 +5844,9 @@ FWIW I don't use this anymore though as I've purchased a Labjack to send trigger
 
  >Holy cow this is an awesome app
 
+10/27/2017 6:45 PM
+
+ **alexandre.barachant** :
+
+ >graeme yep. I had the same reaction :grinning:
+
