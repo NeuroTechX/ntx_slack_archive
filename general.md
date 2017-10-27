@@ -6537,3 +6537,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >Come to <#C4LSDAE95|neurodoro>. We're working on an open source project to use neural nets to classify concentration in a way that can be deployed on a mobile device
 
+10/27/2017 8:12 PM
+
+ **bciguy** :
+
+ >hassan we (alexandre.barachant, dano et al) had a nice conversation about this a few months back in <#C08PVFWH4|eegdata> you might want to look up. (I assume by DL you are referring to transfer learning specifically).
+
