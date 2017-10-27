@@ -6519,3 +6519,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >sounds like a scam... no offense ferdinand, but no valuable price
 
+10/27/2017 12:44 PM
+
+ **hassan** :
+
+ >Anyone have worked/is working on using deep learning to classify brain signals (EEG, ECoG, etc.)?
+
