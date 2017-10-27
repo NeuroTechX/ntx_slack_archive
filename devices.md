@@ -5295,3 +5295,15 @@ You try to use high biasing resister to increase sensitivity in case of phototra
 > 
 For a standard BCI lab, brain stimulation is actually not usual., but when going for Neuroelectrics you might want to think about adding fNIRS (<http://www.artinis.com/starstim-fnirs/> - but disclaimer, I'm an Artinis employee) . If I were you, I'd go for that, because for BCI a second modality is a much bigger plus than brain stimulation. And if you want to start up with brain stimulation and have no prior experience, maybe do not go with TMS. It's way too challenging to get a clean signal - you make life easier by starting txCS (it's also cheaper).
 
+10/27/2017 12:51 PM
+
+ **bryan** :
+
+ >interesting, thank you for chiming in! I will include the fNIRS/EEG/txCS in my options. The limit of 8 channels is a drawback, however, but I understand why, with so many parts integrating.
+
+> 
+This fNIRS/EEG package is also interesting: <http://www.artinis.com/nirs-eeg-package/>
+
+> 
+Looks like you can get good coverage with this setup and there's a wireless/mobile option? I would be interested in learning more about that.
+
