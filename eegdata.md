@@ -5889,3 +5889,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >& and BLE is not great for real-time EEG communication
 
+10/27/2017 9:30 PM
+
+ **graeme** :
+
+ >Seems to work with the Smith Lowdown glasses too
+
