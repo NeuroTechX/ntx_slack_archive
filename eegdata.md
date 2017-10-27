@@ -5895,3 +5895,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >Seems to work with the Smith Lowdown glasses too
 
+10/27/2017 9:48 PM
+
+ **alexandre.barachant** :
+
+ >Backward compatibility :sunglasses:
+
