@@ -2265,3 +2265,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 > 
 <http://www.crm.umontreal.ca/2017/IntArt17/index_e.php>
 
+10/27/2017 7:29 PM
+
+ **armin** :
+
+ >There is also an interesting talk on Nov 2: <https://www.mcgill.ca/neuro/channels/event/wilder-penfield-lecture-2017-deep-learning-268630>
+
