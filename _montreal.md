@@ -2223,3 +2223,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >isn't tomorrow for this week?
 
+10/27/2017 12:28 AM
+
+ **sydneyneurotechx** :
+
+ >Friday instead?
+
