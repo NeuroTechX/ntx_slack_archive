@@ -2253,3 +2253,15 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  ><!channel> Tickets are selling quickly for the AI and Neuroscience conference. Purchase them as soon as possible
 
+10/27/2017 7:23 PM
+
+ **sydneyneurotechx** :
+
+ >For those in Montreal, there will be a AI and Neuroscience conference happening from November 18-21 Tickets are selling out quick, so reserve today
+
+> 
+
+
+> 
+<http://www.crm.umontreal.ca/2017/IntArt17/index_e.php>
+
