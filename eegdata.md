@@ -5859,3 +5859,9 @@ FWIW I don't use this anymore though as I've purchased a Labjack to send trigger
 > 
 I tried on both my MacBook and Android Phone. Both devices can see and pair with the Muse from Bluetooth settings, but on both devices the app get stuck in the pairing dialogue never finding the Muse& (its a Muse 2014)
 
+10/27/2017 7:31 PM
+
+ **alexandre.barachant** :
+
+ >yannick muse 2016 only
+
