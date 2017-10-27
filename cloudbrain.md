@@ -114,3 +114,9 @@ To actually make <#C4LSDAE95|neurodoro>
 
  >dzera password ? ^^ :wink:
 
+10/27/2017 10:15 AM
+
+ **dzera** :
+
+ >Hahah no yrenard my phone took charge without me knowing :)
+
