@@ -6555,3 +6555,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >I will keep an eye on the transfer learning for sure. However, the question is transfer learning from what? 
 
+10/28/2017 4:22 AM
+
+ **bciguy** :
+
+ >that cant be right
+
