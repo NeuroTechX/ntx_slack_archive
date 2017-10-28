@@ -6549,3 +6549,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >Ok cool! I'm interested in ECoG though. bciguy I think that discussion was deleted by slack. It's not exist anymore. 
 
+10/28/2017 1:47 AM
+
+ **hassan** :
+
+ >I will keep an eye on the transfer learning for sure. However, the question is transfer learning from what? 
+
