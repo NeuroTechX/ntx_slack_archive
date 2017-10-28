@@ -6579,3 +6579,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  ><https://github.com/NeuroTechX/ntx_slack_archive/blob/master/eegdata.md>
 
+10/28/2017 4:00 PM
+
+ **yannick** :
+
+ >You can search autoencoders and youll find that discussion :slightly_smiling_face:
+
