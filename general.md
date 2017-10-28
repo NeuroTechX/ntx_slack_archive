@@ -6561,3 +6561,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >that cant be right
 
+10/28/2017 4:26 AM
+
+ **bciguy** :
+
+ >hassan i think we were discussing autoencoders, but it was a while ago
+
