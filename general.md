@@ -6585,3 +6585,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >You can search autoencoders and youll find that discussion :slightly_smiling_face:
 
+10/28/2017 8:23 PM
+
+ **bciguy** :
+
+ >yannick how cool, is the neurobotx code open? We have a rapidly growing community in the slack - iWinks User Community and as we scale this is seems like the next best thing to paying slacks expensive memberships. Any advice is greatly appreciated :pray:
+
