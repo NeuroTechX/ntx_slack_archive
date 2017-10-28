@@ -1110,3 +1110,9 @@ Really revolutionary stuff.
 > 
 Updates about job postings coming soon.
 
+10/28/2017 8:10 PM
+
+ **dano** :
+
+ >Interaction Designer wanted for Mindfulness position at Lumosity <https://twitter.com/DrBrittany/status/924339201893482496?s=09>
+
