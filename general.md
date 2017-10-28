@@ -6573,3 +6573,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >.. ie applying the automatic feature learning deep learning paradigm to eeg
 
+10/28/2017 3:59 PM
+
+ **yannick** :
+
+ ><https://github.com/NeuroTechX/ntx_slack_archive/blob/master/eegdata.md>
+
