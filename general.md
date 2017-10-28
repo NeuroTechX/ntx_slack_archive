@@ -6543,3 +6543,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >hassan we (alexandre.barachant, dano et al) had a nice conversation about this a few months back in <#C08PVFWH4|eegdata> you might want to look up. (I assume by DL you are referring to transfer learning specifically).
 
+10/28/2017 1:45 AM
+
+ **hassan** :
+
+ >Ok cool! I'm interested in ECoG though. bciguy I think that discussion was deleted by slack. It's not exist anymore. 
+
