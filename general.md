@@ -6567,3 +6567,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >hassan i think we were discussing autoencoders, but it was a while ago
 
+10/28/2017 4:27 AM
+
+ **bciguy** :
+
+ >.. ie applying the automatic feature learning deep learning paradigm to eeg
+
