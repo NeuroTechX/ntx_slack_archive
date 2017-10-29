@@ -6597,3 +6597,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >I trained a LSTM to classify ERP data accross different stimuli and participants: <https://github.com/mesca/turnkey-bci>
 
+10/29/2017 6:11 PM
+
+ **alexandre.barachant** :
+
+ >mesca did you benchmark it against other methods ?
+
