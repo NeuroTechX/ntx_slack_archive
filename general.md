@@ -6639,3 +6639,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >I think the best approach to use DL is to augment the neural data we have. I mean in image classification, the images were rotated and shifted and this is how the dataset get augmented. In neural signals...no idea
 
+10/29/2017 8:17 PM
+
+ **hassan** :
+
+ >mesca Nice work!
+
