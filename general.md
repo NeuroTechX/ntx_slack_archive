@@ -6627,3 +6627,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  ><http://dreamsessions.org>
 
+10/29/2017 8:10 PM
+
+ **hassan** :
+
+ >Thanks yannic and bciguy. I actually found myself was getting involved in that conservation :joy:
+
