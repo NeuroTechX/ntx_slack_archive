@@ -6609,3 +6609,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >Yep, against LDA (I reproduced the results from the original paper).
 
+10/29/2017 6:13 PM
+
+ **mesca** :
+
+ >+ .1 AUC
+
