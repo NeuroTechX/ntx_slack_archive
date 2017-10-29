@@ -6591,3 +6591,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >yannick how cool, is the neurobotx code open? We have a rapidly growing community in the slack - iWinks User Community and as we scale this is seems like the next best thing to paying slacks expensive memberships. Any advice is greatly appreciated :pray:
 
+10/29/2017 5:45 PM
+
+ **mesca** :
+
+ >I trained a LSTM to classify ERP data accross different stimuli and participants: <https://github.com/mesca/turnkey-bci>
+
