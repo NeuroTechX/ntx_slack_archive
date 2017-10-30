@@ -2346,3 +2346,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >yeah let me see about next week...
 
+10/30/2017 10:45 PM
+
+ **manishkar** :
+
+ >Haven't been to an event in awhile but would love to drop in for the next one, schedules-permitting
+
