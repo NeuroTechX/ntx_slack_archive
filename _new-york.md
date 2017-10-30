@@ -270,3 +270,9 @@
 
  ><!channel> I'm so sorry to say this, but the hacknight this week has to be canceled, or we need to find another spot. OpenBCI HQ is under construction for ~2weeks
 
+10/30/2017 11:08 AM
+
+ **francescacoo** :
+
+ >hey guys, anything planned between 1 and 10? I will be visiting new york and would love to join if there is any event!
+
