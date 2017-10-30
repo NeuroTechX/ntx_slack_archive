@@ -6651,3 +6651,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >hassan: data augmentation : <https://hal.inria.fr/hal-01225255/document>
 
+10/30/2017 12:55 PM
+
+ **hassan** :
+
+ >alexandre.barachant Interesting! Thanks
+
