@@ -5901,3 +5901,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >Backward compatibility :sunglasses:
 
+10/30/2017 9:13 PM
+
+ **pat** :
+
+ >alexandre.barachant is the code for that available somewhere?
+
