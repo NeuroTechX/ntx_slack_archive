@@ -2340,3 +2340,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >Any chance we could try the top hat offices sometime? If not this short notice maybe next week?
 
+10/30/2017 10:41 PM
+
+ **cbattista** :
+
+ >yeah let me see about next week...
+
