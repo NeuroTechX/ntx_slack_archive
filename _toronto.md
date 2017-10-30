@@ -2322,3 +2322,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  ><https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4867677/>
 
+10/30/2017 9:25 PM
+
+ **joshuad** :
+
+ >Hey folks which night works best for getting together this week?
+
