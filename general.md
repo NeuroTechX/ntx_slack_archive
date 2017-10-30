@@ -6663,3 +6663,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >I am not sure if our community is ready for this, as this may slow our growth, but if we each paid a $5 - $10 a month membership fee ... that would unlock a lot of growth opportunities for NTX in general. I mean, people pay more then this for Netflix.
 
+10/30/2017 6:15 PM
+
+ **ben.tam** :
+
+ >Also.... <https://get.slack.help/hc/en-us/articles/206646877-slack-for-education>
+
