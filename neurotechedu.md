@@ -1368,3 +1368,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Ah very good! I was trying to understand where it was coming from! Good you solved
 
+10/30/2017 11:07 AM
+
+ **francescacoo** :
+
+ >hey guys I am sorry I will miss the call on wednesday.. I will be back the 12th of November and hope to catch up!
+
