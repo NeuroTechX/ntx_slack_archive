@@ -2352,3 +2352,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >Haven't been to an event in awhile but would love to drop in for the next one, schedules-permitting
 
+10/30/2017 11:14 PM
+
+ **dano** :
+
+ >Very cool, Manish. It's been a little while for sure
+
