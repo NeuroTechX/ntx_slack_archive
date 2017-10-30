@@ -2277,3 +2277,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Wilder Penfield Lecture 2017: Deep Learning by Yoshua Bengio at MNI
 
+10/30/2017 4:36 PM
+
+ **ben.cuthbert** :
+
+ >I see that this is already full- I'll have to hope for next year! It's not clear to me whether the talks/workshops will be in French or English?
+
