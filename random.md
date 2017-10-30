@@ -3084,3 +3084,9 @@ Although highly successful, considering the high training time and other real ti
 
  >Hey Pat, is there a full research paper covering the link you posted? It only looks like a poster.
 
+10/30/2017 7:27 PM
+
+ **sc** :
+
+ >Listen to: In Memory Training Smackdown, One Method Dominates - <http://one.npr.org/i/558767704:559454603>
+
