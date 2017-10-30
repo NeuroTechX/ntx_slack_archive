@@ -2328,3 +2328,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >Hey folks which night works best for getting together this week?
 
+10/30/2017 9:26 PM
+
+ **cbattista** :
+
+ >wed is pretty good for me
+
