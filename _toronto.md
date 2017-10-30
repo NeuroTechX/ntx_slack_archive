@@ -2334,3 +2334,9 @@ Location: VarageSale, Suite 901 111 Peter St, Toronto
 
  >wed is pretty good for me
 
+10/30/2017 10:37 PM
+
+ **dano** :
+
+ >Any chance we could try the top hat offices sometime? If not this short notice maybe next week?
+
