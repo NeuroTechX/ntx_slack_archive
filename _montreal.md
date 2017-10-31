@@ -2331,3 +2331,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I can only do friday and probably 1 week out of 2
 
+10/31/2017 10:15 PM
+
+ **sydneyneurotechx** :
+
+ >So we make it this Friday then? Cool with everyone?
+
