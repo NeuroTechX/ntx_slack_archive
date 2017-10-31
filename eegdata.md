@@ -5907,3 +5907,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >alexandre.barachant is the code for that available somewhere?
 
+10/31/2017 9:18 AM
+
+ **alexandre.barachant** :
+
+ >pat: <https://github.com/NeuroJS/angular-muse>
+
