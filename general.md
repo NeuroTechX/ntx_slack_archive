@@ -6669,3 +6669,15 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 
  >Also.... <https://get.slack.help/hc/en-us/articles/206646877-slack-for-education>
 
+10/31/2017 5:34 PM
+
+ **yannick** :
+
+ >Check out the latest Student Club Q&amp;A, this time with NeuroTech@Berkeley.
+
+> 
+<https://medium.com/neurotechx/q-a-with-neurotech-berkeley-5cc833103ca>
+
+> 
+Great work guys! (good job on the interview mattherich!)
+
