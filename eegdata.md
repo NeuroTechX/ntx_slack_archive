@@ -5913,3 +5913,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >pat: <https://github.com/NeuroJS/angular-muse>
 
+10/31/2017 5:39 PM
+
+ **gautamkumar** :
+
+ >adastra
+
