@@ -1662,3 +1662,9 @@ I am trying to build a hand orthosis controlled by a non-invasive BCI for patien
 > 
 <http://www.crm.umontreal.ca/2017/IntArt17/index_e.php>
 
+10/31/2017 10:41 PM
+
+ **bryan_j** :
+
+ >"We have unfortunately already reached full capacity for this year's MAIN2017 event (250 participants)"
+
