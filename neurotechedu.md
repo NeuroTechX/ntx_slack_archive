@@ -1392,3 +1392,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >francescacoo ^
 
+10/31/2017 8:59 PM
+
+ **francescacoo** :
+
+ >Hey Sydney! Yes I will! I am really sorry if I kind of disappeared but it will be my priority when I get back!
+
