@@ -5331,3 +5331,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >Does anyone have any stable way of connecting with the Muse 2014?
 
+10/31/2017 9:22 PM
+
+ **harris** :
+
+ >I tried almost everything at a recent hackathon but I failed to get any data back from it
+
