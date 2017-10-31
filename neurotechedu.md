@@ -1380,3 +1380,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >ok! So far I have Ryan and John who will be in the call
 
+10/31/2017 1:30 AM
+
+ **sydneyneurotechx** :
+
+ >Were you able to work on the module at all Francesca?
+
