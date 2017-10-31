@@ -2301,3 +2301,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  ><!channel> Which day this week do you want to Hacknights? Thursday or Friday?
 
+10/31/2017 6:59 PM
+
+ **sidksv** :
+
+ >Friday
+
