@@ -5961,3 +5961,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >and Bluetooth 5 should be good enough for headset with decent channel count
 
+10/31/2017 10:33 PM
+
+ **bciguy** :
+
+ >how many channels? Even for one channel it cuts it close
+
