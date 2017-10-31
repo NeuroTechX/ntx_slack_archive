@@ -2313,3 +2313,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >thursday - can you make a poll sydneyneurotechx?
 
+10/31/2017 7:15 PM
+
+ **eferdinand** :
+
+ >Friday
+
