@@ -6687,3 +6687,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Idk if we should ever be charging for member ship. Kind of against our mission. I'm also down to, if slack is not working without paying, switch to Matrix or Gitter or something
 
+10/31/2017 10:18 PM
+
+ **graeme** :
+
+ >This write-up by urish deserves to be in the general channel:
+
