@@ -1374,3 +1374,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >hey guys I am sorry I will miss the call on wednesday.. I will be back the 12th of November and hope to catch up!
 
+10/31/2017 1:30 AM
+
+ **sydneyneurotechx** :
+
+ >ok! So far I have Ryan and John who will be in the call
+
