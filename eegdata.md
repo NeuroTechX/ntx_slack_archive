@@ -5949,3 +5949,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >alexandre.barachant google the average bandwidth for the BLE protocol, it is much lower than the older Bluetooth 2.0 protocol. There are however some new BT technologies on the horizon ..
 
+10/31/2017 10:21 PM
+
+ **alexandre.barachant** :
+
+ >yep, i see what you mean. it's not made for data streaming. saying that, for a low channel count, the choice looks okay to me.
+
