@@ -3453,3 +3453,9 @@ Let me now if this is something that inerests you :smile:
 
  >1 sentence instead of a full 3 minute elevator ride :slightly_smiling_face:
 
+10/31/2017 2:43 PM
+
+ **aliayoub22** :
+
+ >Hi everyone.  I'm Ali Ayoub, excited to get to join this community.  Currently completing a postbacc Computer Science degree, previous undergrad in Psychology.  Spent several years as a professional online poker player/coach and created neuropsychology content for professional gamers.  Just started honors research on the molecular docking problem.
+
