@@ -3459,3 +3459,9 @@ Let me now if this is something that inerests you :smile:
 
  >Hi everyone.  I'm Ali Ayoub, excited to get to join this community.  Currently completing a postbacc Computer Science degree, previous undergrad in Psychology.  Spent several years as a professional online poker player/coach and created neuropsychology content for professional gamers.  Just started honors research on the molecular docking problem.
 
+10/31/2017 5:35 PM
+
+ **yannick** :
+
+ >Hey aliayoub22! Welcome onboard. Where are you located?
+
