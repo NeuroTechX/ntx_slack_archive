@@ -2319,3 +2319,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Friday
 
+10/31/2017 8:14 PM
+
+ **armin** :
+
+ >Friday if we can change the time from 6:30 to earlier like 4:30 it would be good
+
