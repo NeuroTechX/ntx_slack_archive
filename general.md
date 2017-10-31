@@ -6693,3 +6693,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >This write-up by urish deserves to be in the general channel:
 
+10/31/2017 10:18 PM
+
+ **graeme** :
+
+ ><https://medium.com/@urish/reactive-brain-waves-af07864bb7d4>
+
