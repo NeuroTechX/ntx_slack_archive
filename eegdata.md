@@ -5937,3 +5937,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >Has anyone looked into memory consolidation and Theta training? Seems like an interesting use case of neurofeedback. <http://www.sciencedirect.com/science/article/pii/S0301051113002214>
 
+10/31/2017 10:18 PM
+
+ **bciguy** :
+
+ >alexandre.barachant yes we use BLE on Aurora. It is ideal for in/frequent *status updates*, like location, state, etc. but not ideal for raw-data throughput.
+
