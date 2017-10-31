@@ -2289,3 +2289,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I see that this is already full- I'll have to hope for next year! It's not clear to me whether the talks/workshops will be in French or English?
 
+10/31/2017 6:24 PM
+
+ **crocodoyle** :
+
+ >I think the deep learning one is going to be in English. Source: I'm helping 
+
