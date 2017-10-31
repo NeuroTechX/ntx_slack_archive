@@ -2295,3 +2295,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I think the deep learning one is going to be in English. Source: I'm helping 
 
+10/31/2017 6:52 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Which day this week do you want to Hacknights? Thursday or Friday?
+
