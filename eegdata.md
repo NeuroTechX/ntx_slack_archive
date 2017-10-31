@@ -5967,3 +5967,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >how many channels? Even for one channel it cuts it close
 
+10/31/2017 10:35 PM
+
+ **alexandre.barachant** :
+
+ >muse seems fine with 5 channels (12 bits/sample) @ 256Hz. Ganglion goes 4 channels @ 200Hz, but its 24 bits so it's way harder
+
