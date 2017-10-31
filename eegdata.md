@@ -5943,3 +5943,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >alexandre.barachant yes we use BLE on Aurora. It is ideal for in/frequent *status updates*, like location, state, etc. but not ideal for raw-data throughput.
 
+10/31/2017 10:20 PM
+
+ **bciguy** :
+
+ >alexandre.barachant google the average bandwidth for the BLE protocol, it is much lower than the older Bluetooth 2.0 protocol. There are however some new BT technologies on the horizon ..
+
