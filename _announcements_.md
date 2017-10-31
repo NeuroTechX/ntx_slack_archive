@@ -1674,3 +1674,9 @@ I am trying to build a hand orthosis controlled by a non-invasive BCI for patien
 
  >:disappointed:
 
+10/31/2017 10:41 PM
+
+ **bryan_j** :
+
+ >Great that there is so much interest!!
+
