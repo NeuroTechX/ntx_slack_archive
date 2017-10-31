@@ -5919,3 +5919,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >adastra
 
+10/31/2017 9:53 PM
+
+ **graeme** :
+
+ >The eternal tradeoff - data rate, channels, battery life, wireless bandwidth...
+
