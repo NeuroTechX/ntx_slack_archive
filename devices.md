@@ -5325,3 +5325,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >What ble chip allows that? Did they register with the Bluetooth team?
 
+10/31/2017 9:21 PM
+
+ **harris** :
+
+ >Does anyone have any stable way of connecting with the Muse 2014?
+
