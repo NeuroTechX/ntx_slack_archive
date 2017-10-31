@@ -5931,3 +5931,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >bciguy can you explain more in detail ? with the push / subscribes, it seems adapted to me.
 
+10/31/2017 10:12 PM
+
+ **sydneyneurotechx** :
+
+ >Has anyone looked into memory consolidation and Theta training? Seems like an interesting use case of neurofeedback. <http://www.sciencedirect.com/science/article/pii/S0301051113002214>
+
