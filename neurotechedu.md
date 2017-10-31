@@ -1398,3 +1398,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Hey Sydney! Yes I will! I am really sorry if I kind of disappeared but it will be my priority when I get back!
 
+10/31/2017 8:59 PM
+
+ **francescacoo** :
+
+ >What ny time is the call tomorrow? If I ll be in the hotel will WiFi I will try to join!
+
