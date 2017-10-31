@@ -1668,3 +1668,9 @@ I am trying to build a hand orthosis controlled by a non-invasive BCI for patien
 
  >"We have unfortunately already reached full capacity for this year's MAIN2017 event (250 participants)"
 
+10/31/2017 10:41 PM
+
+ **bryan_j** :
+
+ >:disappointed:
+
