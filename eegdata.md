@@ -5955,3 +5955,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >yep, i see what you mean. it's not made for data streaming. saying that, for a low channel count, the choice looks okay to me.
 
+10/31/2017 10:23 PM
+
+ **alexandre.barachant** :
+
+ >and Bluetooth 5 should be good enough for headset with decent channel count
+
