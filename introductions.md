@@ -3465,3 +3465,9 @@ Let me now if this is something that inerests you :smile:
 
  >Hey aliayoub22! Welcome onboard. Where are you located?
 
+10/31/2017 5:54 PM
+
+ **aliayoub22** :
+
+ >Hi yannick currently Windsor, Ontario but originally Toronto, Ontario
+
