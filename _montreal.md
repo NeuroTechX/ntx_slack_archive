@@ -2307,3 +2307,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Friday
 
+10/31/2017 7:09 PM
+
+ **naoto** :
+
+ >thursday - can you make a poll sydneyneurotechx?
+
