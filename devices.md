@@ -5313,3 +5313,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >So something like motor imagery?
 
+10/31/2017 11:33 AM
+
+ **aj** :
+
+ >How does the muse have a ble characteristic for everything? There is a characteristic for each eeg channel, accel, Control data, its crazy how many there are.
+
