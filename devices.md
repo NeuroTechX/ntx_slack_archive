@@ -5319,3 +5319,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >How does the muse have a ble characteristic for everything? There is a characteristic for each eeg channel, accel, Control data, its crazy how many there are.
 
+10/31/2017 11:34 AM
+
+ **aj** :
+
+ >What ble chip allows that? Did they register with the Bluetooth team?
+
