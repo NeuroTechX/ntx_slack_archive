@@ -6699,3 +6699,9 @@ Great work guys! (good job on the interview mattherich!)
 
  ><https://medium.com/@urish/reactive-brain-waves-af07864bb7d4>
 
+10/31/2017 10:44 PM
+
+ **ben.tam** :
+
+ >Yah I agree it would suck to charge people to be part of a community. Alternatively.... this is a whacky idea for sure...  but what about using a crowd equity platforms to fund our non profit? We'd structure it so that current execs of NTX maintain full control, but our community gets to buy ownership(non-voting) of NTX.
+
