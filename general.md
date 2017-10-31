@@ -6681,3 +6681,9 @@ Anyway, thanks for taking a look and Im glad you liked the paper. Weve got a b
 > 
 Great work guys! (good job on the interview mattherich!)
 
+10/31/2017 8:40 PM
+
+ **dano** :
+
+ >Idk if we should ever be charging for member ship. Kind of against our mission. I'm also down to, if slack is not working without paying, switch to Matrix or Gitter or something
+
