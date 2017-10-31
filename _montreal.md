@@ -2325,3 +2325,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Friday if we can change the time from 6:30 to earlier like 4:30 it would be good
 
+10/31/2017 8:35 PM
+
+ **fred-simard** :
+
+ >I can only do friday and probably 1 week out of 2
+
