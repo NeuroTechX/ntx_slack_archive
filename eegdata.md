@@ -5925,3 +5925,9 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >The eternal tradeoff - data rate, channels, battery life, wireless bandwidth...
 
+10/31/2017 10:11 PM
+
+ **alexandre.barachant** :
+
+ >bciguy can you explain more in detail ? with the push / subscribes, it seems adapted to me.
+
