@@ -1434,3 +1434,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Sorry unable to join poor connection.. I did some work on the flight though re ethics section!
 
+11/1/2017 11:54 PM
+
+ **ben.tam** :
+
+ >Great call, I will be working on content regarding the different consumer and medical grade EEGs available to the market. As discussed I will process this via a google doc for now and will figure out the formatting after. \
+
