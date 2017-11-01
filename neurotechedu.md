@@ -1428,3 +1428,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><!channel>: Link to call <https://hangouts.google.com/hangouts/_/neurotechx.com/sydney?pli=1&amp;authuser=2>
 
+11/1/2017 9:05 PM
+
+ **francescacoo** :
+
+ >Sorry unable to join poor connection.. I did some work on the flight though re ethics section!
+
