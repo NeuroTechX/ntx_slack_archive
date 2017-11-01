@@ -276,3 +276,9 @@
 
  >hey guys, anything planned between 1 and 10? I will be visiting new york and would love to join if there is any event!
 
+11/1/2017 3:39 AM
+
+ **sydneyneurotechx** :
+
+ >aj^. francescacoo is coming in from Ireland. Would be great if you could connect :slightly_smiling_face:
+
