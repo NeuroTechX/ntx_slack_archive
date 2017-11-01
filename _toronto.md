@@ -2490,3 +2490,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >Hey is anyone there already? Im in the cafe!
 
+11/1/2017 10:07 PM
+
+ **cbattista** :
+
+ >On my way now
+
