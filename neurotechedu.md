@@ -1464,3 +1464,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Just as a reminder, we are focusing  purely on eeg
 
+11/1/2017 11:57 PM
+
+ **sydneyneurotechx** :
+
+ >and with a preference for consumer devices.
+
