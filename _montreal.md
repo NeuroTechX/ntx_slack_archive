@@ -2343,3 +2343,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Friday sounds good
 
+11/1/2017 8:51 PM
+
+ **fred-simard** :
+
+ >Hey fortin.pasc, can't help but notice that you found your way to the Montreal channel.
+
