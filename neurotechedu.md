@@ -1404,3 +1404,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >What ny time is the call tomorrow? If I ll be in the hotel will WiFi I will try to join!
 
+11/1/2017 8:44 PM
+
+ **sydneyneurotechx** :
+
+ >francescacoo the call will be happening at 5 pm new york time
+
