@@ -2478,3 +2478,9 @@ Time: Wednesday the 1stth, 6 until 9pm
 > 
 Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
+11/1/2017 2:52 PM
+
+ **cbattista** :
+
+ >Sweet, see you guys there
+
