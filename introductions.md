@@ -3489,3 +3489,9 @@ Let me now if this is something that inerests you :smile:
 
  >Welcome Pascal!Head on over to the <#C0VFP9ST0|_montreal>  channel to get connected with it's ecosystem. You can also check out NeuroTechEDU if you are interested in learning a bit more about the field.
 
+11/1/2017 5:10 PM
+
+ **sydneyneurotechx** :
+
+ ><http://neurotechedu.com/>
+
