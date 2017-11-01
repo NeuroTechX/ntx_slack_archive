@@ -5349,3 +5349,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >You mean the bluetooth connection was bad or the electrodes signal was bad?
 
+11/1/2017 5:39 PM
+
+ **harris** :
+
+ >yannick I tried windows 10 and ubuntu but couldn't seem to get any application to connect to the stream properly
+
