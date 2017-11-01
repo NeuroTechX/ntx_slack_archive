@@ -5361,3 +5361,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >Try the MuseDirect beta on windows, or Muse-io on mac. Both should work, and we would really appreciate hearing if they don't work (plus any bugs).
 
+11/1/2017 8:46 PM
+
+ **fred-simard** :
+
+ >harris Hey, I build a C framework that does exactly that. It's a bit old and I haven't touched it in a while, but last time I checked it works well. Try to follow these steps: <https://github.com/AtlantsEmbedded/IntelliPi/wiki/Compiling-and-running-IntelliPi-on-Linux-x86-x64-(and-Raspbian)>
+
