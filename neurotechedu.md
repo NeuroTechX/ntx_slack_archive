@@ -1440,3 +1440,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Great call, I will be working on content regarding the different consumer and medical grade EEGs available to the market. As discussed I will process this via a google doc for now and will figure out the formatting after. \
 
+11/1/2017 11:56 PM
+
+ **sydneyneurotechx** :
+
+ >Awesome ben.tam. ! Glad to have you on board :slightly_smiling_face:
+
