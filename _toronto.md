@@ -2496,3 +2496,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >On my way now
 
+11/1/2017 10:11 PM
+
+ **dano** :
+
+ >Hey guys, transit was really slow this evening so I'm still 15 mins away
+
