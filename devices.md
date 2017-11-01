@@ -5343,3 +5343,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >What's your OS? Mac or Windows? There are a variety of reasons why your connection might not be stable. Did your eeg have good contact on your head?
 
+11/1/2017 5:35 PM
+
+ **yannick** :
+
+ >You mean the bluetooth connection was bad or the electrodes signal was bad?
+
