@@ -2355,3 +2355,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >It will take me 2 weeks to adapt my schedule, but I should be able to show up November 16th. Shall we begin the Deep Learning Project? yannick
 
+11/1/2017 9:10 PM
+
+ **fortin.pasc** :
+
+ >yes, Yannick pointed me here. My schedule is a bit all over the place but I am hoping to join the meet ups every now and then.
+
