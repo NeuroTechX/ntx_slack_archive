@@ -5355,3 +5355,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >yannick I tried windows 10 and ubuntu but couldn't seem to get any application to connect to the stream properly
 
+11/1/2017 6:02 PM
+
+ **graeme** :
+
+ >Try the MuseDirect beta on windows, or Muse-io on mac. Both should work, and we would really appreciate hearing if they don't work (plus any bugs).
+
