@@ -2337,3 +2337,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >So we make it this Friday then? Cool with everyone?
 
+11/1/2017 3:35 PM
+
+ **ray_cassani** :
+
+ >Friday sounds good
+
