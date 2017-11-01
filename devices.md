@@ -5367,3 +5367,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >harris Hey, I build a C framework that does exactly that. It's a bit old and I haven't touched it in a while, but last time I checked it works well. Try to follow these steps: <https://github.com/AtlantsEmbedded/IntelliPi/wiki/Compiling-and-running-IntelliPi-on-Linux-x86-x64-(and-Raspbian)>
 
+11/1/2017 8:47 PM
+
+ **sydneyneurotechx** :
+
+ >Might I suggest taking some screen caps so that we can see what errors you are getting? If you run muse-io via  a TCP connection, does it connect to the device?
+
