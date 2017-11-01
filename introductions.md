@@ -3495,3 +3495,9 @@ Let me now if this is something that inerests you :smile:
 
  ><http://neurotechedu.com/>
 
+11/1/2017 5:50 PM
+
+ **fortin.pasc** :
+
+ >thanks for the pointers, I will look it up.
+
