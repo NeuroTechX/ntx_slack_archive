@@ -2484,3 +2484,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >Sweet, see you guys there
 
+11/1/2017 10:07 PM
+
+ **oriesai** :
+
+ >Hey is anyone there already? Im in the cafe!
+
