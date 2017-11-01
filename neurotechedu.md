@@ -1452,3 +1452,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >If you can, please add a link to the google doc you will be using in the associated issue
 
+11/1/2017 11:57 PM
+
+ **sydneyneurotechx** :
+
+ ><https://github.com/NeuroTechX/learn.neurotechedu.com/issues/15>
+
