@@ -5337,3 +5337,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >I tried almost everything at a recent hackathon but I failed to get any data back from it
 
+11/1/2017 2:24 AM
+
+ **sydneyneurotechx** :
+
+ >What's your OS? Mac or Windows? There are a variety of reasons why your connection might not be stable. Did your eeg have good contact on your head?
+
