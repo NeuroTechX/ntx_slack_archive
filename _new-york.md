@@ -282,3 +282,9 @@
 
  >aj^. francescacoo is coming in from Ireland. Would be great if you could connect :slightly_smiling_face:
 
+11/1/2017 1:54 PM
+
+ **aj** :
+
+ >Hey Labs are under construction so no space to meet :(
+
