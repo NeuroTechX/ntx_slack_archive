@@ -2349,3 +2349,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Hey fortin.pasc, can't help but notice that you found your way to the Montreal channel.
 
+11/1/2017 8:50 PM
+
+ **fred-simard** :
+
+ >It will take me 2 weeks to adapt my schedule, but I should be able to show up November 16th. Shall we begin the Deep Learning Project? yannick
+
