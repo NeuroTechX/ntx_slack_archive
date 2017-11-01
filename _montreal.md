@@ -2361,3 +2361,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >yes, Yannick pointed me here. My schedule is a bit all over the place but I am hoping to join the meet ups every now and then.
 
+11/1/2017 9:11 PM
+
+ **fortin.pasc** :
+
+ >not this week though
+
