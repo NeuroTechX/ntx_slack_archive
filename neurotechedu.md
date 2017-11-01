@@ -1458,3 +1458,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><https://github.com/NeuroTechX/learn.neurotechedu.com/issues/15>
 
+11/1/2017 11:57 PM
+
+ **sydneyneurotechx** :
+
+ >Just as a reminder, we are focusing  purely on eeg
+
