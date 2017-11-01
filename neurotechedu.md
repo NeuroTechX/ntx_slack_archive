@@ -1422,3 +1422,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >If you are available, please join :slightly_smiling_face:
 
+11/1/2017 8:59 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel>: Link to call <https://hangouts.google.com/hangouts/_/neurotechx.com/sydney?pli=1&amp;authuser=2>
+
