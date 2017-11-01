@@ -1410,3 +1410,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >francescacoo the call will be happening at 5 pm new york time
 
+11/1/2017 8:44 PM
+
+ **sydneyneurotechx** :
+
+ >so in 15 minutes
+
