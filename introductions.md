@@ -3483,3 +3483,9 @@ Let me now if this is something that inerests you :smile:
 
  >Hey everyone, I'm Pascal, PhD student in electrical and computer eng. at McGill university, Montreal, Canada. Most of my experience revolves around wearable interfaces that "monitor"/"act on"/"use as input" peripheral physiological signals. I know nothing about neurotechnology and brain computer interfaces which is what I am here for and I hope I will be able to share my experience with the physiological signals with which I am familiar!
 
+11/1/2017 5:10 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome Pascal!Head on over to the <#C0VFP9ST0|_montreal>  channel to get connected with it's ecosystem. You can also check out NeuroTechEDU if you are interested in learning a bit more about the field.
+
