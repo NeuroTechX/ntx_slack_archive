@@ -288,3 +288,9 @@
 
  >Hey Labs are under construction so no space to meet :(
 
+11/1/2017 1:54 PM
+
+ **aj** :
+
+ >If you want to grab coffee dm me!
+
