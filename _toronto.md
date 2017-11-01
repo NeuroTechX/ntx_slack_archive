@@ -2418,3 +2418,63 @@ Time: Wednesday the 1stth, 6 until 9pm
 > 
 Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
+11/1/2017 2:50 PM
+
+ **dano** :
+
+ >```
+
+> 
+  _  _         _        _      _   _   
+
+> 
+ | || |__ _ __| |___ _ (_)__ _| |_| |_ 
+
+> 
+ | __ / _` / _| / / ' \| / _` | ' \  _|
+
+> 
+ |_||_\__,_\__|_\_\_||_|_\__, |_||_\__|
+
+> 
+                         |___/         
+
+> 
+```
+
+> 
+Hey guys, a last-minute call to hack -- tonight!
+
+> 
+
+
+> 
+We are getting very excited about pushing the first version of our beloved Neurodoro to store soon and will be meeting to help further things on that end. We'll probably spend most of our time working on setting up a Firebase back end and debugging some UI issues.
+
+> 
+
+
+> 
+ Also, I'll be sharing the things I came across at MozFest (lots of open neuro data and cool opportunities for projects). I really think some VR is in our future!
+
+> 
+
+
+> 
+We'll be doing things a little bit different location-wise, meeting at Death in Venice Gelato on Queen Street.
+
+> 
+
+
+> 
+See you there!
+
+> 
+
+
+> 
+Time: Wednesday the 1stth, 6 until 9pm
+
+> 
+Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
+
