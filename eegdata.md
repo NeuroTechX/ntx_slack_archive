@@ -6003,3 +6003,9 @@ Thank for you time
 
  >Ive been on the waiting list for two months...
 
+11/2/2017 3:13 PM
+
+ **graeme** :
+
+ ><https://makingscience.withgoogle.com/science-journal?lang=en>
+
