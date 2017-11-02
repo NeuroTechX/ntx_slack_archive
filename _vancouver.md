@@ -273,3 +273,9 @@ We will be having these casual dinners monthly, so no worries if you cannot make
 > 
 Looking forward to seeing you guys out there.
 
+11/2/2017 12:18 AM
+
+ **ben.tam** :
+
+ ><https://www.meetup.com/NeuroTechVAN/events/244356755/>
+
