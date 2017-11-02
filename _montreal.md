@@ -2373,3 +2373,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >no rush, participate when you can, it's not a cult ;), but the slack is already a good source of information
 
+11/2/2017 2:34 PM
+
+ **melanie** :
+
+ >hey all! thought you might be interested :  <https://www.eventbrite.ca/e/montreal-eeg-research-days-tickets-39194359384>
+
