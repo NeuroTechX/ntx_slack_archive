@@ -6051,3 +6051,9 @@ Thank for you time
 
  >works on android for sure, but i dont know anyone with an iphone
 
+11/2/2017 6:30 PM
+
+ **urish** :
+
+ >It uses Web Bluetooth, which is not available for iOS yet
+
