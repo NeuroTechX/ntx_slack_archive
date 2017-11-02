@@ -6105,3 +6105,9 @@ Thank for you time
 
  ><https://itunes.apple.com/us/app/webble/id1193531073>
 
+11/2/2017 6:34 PM
+
+ **alexandre.barachant** :
+
+ >do you know if it will becomes a standard in the future ?
+
