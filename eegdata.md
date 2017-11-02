@@ -6198,3 +6198,9 @@ roll: mirror (when I look at the face its going in opposite direction, but the 
 
  >Yes, yaw doesn't work because the current code only uses the accelerometer for estimating head position:
 
+11/2/2017 10:16 PM
+
+ **urish** :
+
+ ><https://github.com/urish/angular-muse/blob/master/src/app/head-view/head-view.component.ts#L63>
+
