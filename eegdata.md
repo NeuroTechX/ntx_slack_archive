@@ -5973,3 +5973,15 @@ I tried on both my MacBook and Android Phone. Both devices can see and pair with
 
  >muse seems fine with 5 channels (12 bits/sample) @ 256Hz. Ganglion goes 4 channels @ 200Hz, but its 24 bits so it's way harder
 
+11/2/2017 10:45 AM
+
+ **agustnr64** :
+
+ >Hi! everyone
+
+> 
+is there anyone who knows where can I find EEG recordings from Patients who suffered a stroke.
+
+> 
+Thank for you time
+
