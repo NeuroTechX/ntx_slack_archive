@@ -2502,3 +2502,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >Hey guys, transit was really slow this evening so I'm still 15 mins away
 
+11/2/2017 6:46 PM
+
+ **jee** :
+
+ >I'll be at the next hacknight!
+
