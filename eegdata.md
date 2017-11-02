@@ -6009,3 +6009,9 @@ Thank for you time
 
  ><https://makingscience.withgoogle.com/science-journal?lang=en>
 
+11/2/2017 3:13 PM
+
+ **graeme** :
+
+ >Has anybody played around with Google Science Journal? We've been using it at Interaxon to collect environmental sensor data alongside EEG, and it's one of my favourite apps.
+
