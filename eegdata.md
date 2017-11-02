@@ -6057,3 +6057,9 @@ Thank for you time
 
  >It uses Web Bluetooth, which is not available for iOS yet
 
+11/2/2017 6:30 PM
+
+ **urish** :
+
+ >However! There's a polyfill available
+
