@@ -6069,3 +6069,9 @@ Thank for you time
 
  >chrome only right ? i never tried on firefox
 
+11/2/2017 6:31 PM
+
+ **bhargava2566302** :
+
+ >but webluetooth depends on browser not on OS
+
