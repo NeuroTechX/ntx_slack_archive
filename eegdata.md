@@ -6081,3 +6081,9 @@ Thank for you time
 
  >it might not work in safari
 
+11/2/2017 6:32 PM
+
+ **urish** :
+
+ >Chrome, Opera, Samsung Internet and Mozilla Servo all support Web Bluetooth
+
