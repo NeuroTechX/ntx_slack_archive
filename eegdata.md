@@ -6027,3 +6027,9 @@ Thank for you time
 
  >Putting myself on the email address. Good to hear something from Sapien Labs. This could be really cool.
 
+11/2/2017 3:59 PM
+
+ **yannick** :
+
+ >tara ^ would you mind giving us an update on Sapien Labs database? :slightly_smiling_face:
+
