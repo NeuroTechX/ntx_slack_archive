@@ -2508,3 +2508,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >I'll be at the next hacknight!
 
+11/2/2017 11:48 PM
+
+ **joshuad** :
+
+ >Awesome! Weve been talking about next week
+
