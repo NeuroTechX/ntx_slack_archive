@@ -1470,3 +1470,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >and with a preference for consumer devices.
 
+11/2/2017 12:06 AM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Thanks everyone for the call today! I'm excited to see the progress we are making :slightly_smiling_face:
+
