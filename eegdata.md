@@ -6204,3 +6204,9 @@ roll: mirror (when I look at the face its going in opposite direction, but the 
 
  ><https://github.com/urish/angular-muse/blob/master/src/app/head-view/head-view.component.ts#L63>
 
+11/2/2017 10:17 PM
+
+ **urish** :
+
+ >feel free to send a pull request with improvements to that
+
