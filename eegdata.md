@@ -6141,3 +6141,18 @@ I took the glasses in my hand for the first time, and 3 clicks later I had my EE
 
  >Congratz urish &amp; alexandre.barachant.
 
+11/2/2017 8:03 PM
+
+ **yannick** :
+
+ >I dont have a Muse 2016 to test, but on the glasses the head movement is:
+
+> 
+yaw: not working :disappointed:  (cant turn my head left/right)
+
+> 
+pitch: reverse (when I go up it goes down.
+
+> 
+roll: mirror (when I look at the face its going in opposite direction, but the right one)
+
