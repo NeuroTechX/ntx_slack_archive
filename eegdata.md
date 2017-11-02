@@ -5985,3 +5985,9 @@ is there anyone who knows where can I find EEG recordings from Patients who suff
 > 
 Thank for you time
 
+11/2/2017 11:35 AM
+
+ **alexandre.barachant** :
+
+ >did anyone tryed this : <https://brainbase.io> looks interesting
+
