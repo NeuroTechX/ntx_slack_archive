@@ -165,3 +165,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >At 10:30am tomorrow PST, 1:30 est, there will be a talk at Google I/O on Tensorflow for Non-Experts at this link: <https://www.youtube.com/watch?v=safQDjgDVAQ>
 
+11/2/2017 12:14 AM
+
+ **sydneyneurotechx** :
+
+ >Been a while since anyone's posted in here, but neat article from Nature. "Machine learning of neural representations of suicide and emotion concepts identifies suicidal youth" <https://www.nature.com/articles/s41562-017-0234-y>
+
