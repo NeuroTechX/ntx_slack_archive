@@ -6111,3 +6111,9 @@ Thank for you time
 
  >do you know if it will becomes a standard in the future ?
 
+11/2/2017 6:34 PM
+
+ **urish** :
+
+ >I haven't tested it with the Muse though, so I can't comment whether it works
+
