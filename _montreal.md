@@ -2367,3 +2367,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >not this week though
 
+11/2/2017 12:21 AM
+
+ **fred-simard** :
+
+ >no rush, participate when you can, it's not a cult ;), but the slack is already a good source of information
+
