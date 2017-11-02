@@ -6192,3 +6192,9 @@ roll: mirror (when I look at the face its going in opposite direction, but the 
 
  >awesome AJ!
 
+11/2/2017 10:15 PM
+
+ **urish** :
+
+ >Yes, yaw doesn't work because the current code only uses the accelerometer for estimating head position:
+
