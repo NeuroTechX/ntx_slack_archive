@@ -6135,3 +6135,9 @@ I took the glasses in my hand for the first time, and 3 clicks later I had my EE
 > 
 (1 click on the link. 1 click on connect. 1 click to select the [only] device)
 
+11/2/2017 7:58 PM
+
+ **yannick** :
+
+ >Congratz urish &amp; alexandre.barachant.
+
