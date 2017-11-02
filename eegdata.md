@@ -6174,3 +6174,9 @@ roll: mirror (when I look at the face its going in opposite direction, but the 
 
  >web bluetooth!
 
+11/2/2017 9:26 PM
+
+ **aj** :
+
+ >i had to overhaul the nodejs driver to work in the browser too
+
