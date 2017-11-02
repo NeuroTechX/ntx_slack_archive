@@ -6045,3 +6045,9 @@ Thank for you time
 
  >no idea. urish is the original author, i just contributed to improve the EEG viz
 
+11/2/2017 6:30 PM
+
+ **alexandre.barachant** :
+
+ >works on android for sure, but i dont know anyone with an iphone
+
