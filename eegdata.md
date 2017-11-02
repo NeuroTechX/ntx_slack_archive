@@ -6123,3 +6123,15 @@ Thank for you time
 
  >I believe it will, I know several people who work hard to make sure it will. I hope that by the end of 2018 it'll be supported by Edge (there's a polyfill as well) and Firefox
 
+11/2/2017 7:57 PM
+
+ **yannick** :
+
+ >The app worked like a charm on Android for the Smith Lowdown Focus (Muse) Glasses.
+
+> 
+I took the glasses in my hand for the first time, and 3 clicks later I had my EEG signal. Impressive. 
+
+> 
+(1 click on the link. 1 click on connect. 1 click to select the [only] device)
+
