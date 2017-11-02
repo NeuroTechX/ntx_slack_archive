@@ -6015,3 +6015,9 @@ Thank for you time
 
  >Has anybody played around with Google Science Journal? We've been using it at Interaxon to collect environmental sensor data alongside EEG, and it's one of my favourite apps.
 
+11/2/2017 3:14 PM
+
+ **graeme** :
+
+ >They have an external sensor API that it may be possible to plug Muse or other EEG systems into: <https://github.com/google/science-journal/blob/master/api/ScienceJournalApi/README-api.md>
+
