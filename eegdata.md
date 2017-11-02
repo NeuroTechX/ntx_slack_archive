@@ -6117,3 +6117,9 @@ Thank for you time
 
  >I haven't tested it with the Muse though, so I can't comment whether it works
 
+11/2/2017 6:36 PM
+
+ **urish** :
+
+ >I believe it will, I know several people who work hard to make sure it will. I hope that by the end of 2018 it'll be supported by Edge (there's a polyfill as well) and Firefox
+
