@@ -6075,3 +6075,9 @@ Thank for you time
 
  >but webluetooth depends on browser not on OS
 
+11/2/2017 6:31 PM
+
+ **bhargava2566302** :
+
+ >it might not work in safari
+
