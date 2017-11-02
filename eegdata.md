@@ -6210,3 +6210,12 @@ roll: mirror (when I look at the face its going in opposite direction, but the 
 
  >feel free to send a pull request with improvements to that
 
+11/2/2017 10:53 PM
+
+ **yannick** :
+
+ >For those trying the app in your browser, *dont forget to enable the Experimental Web Features flag*. :slightly_smiling_face: And it should work like a charm.
+
+> 
+I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierra + Chrome (62.0.3202.75). You can see on the screen Eye Blinks &amp; Eye Movements Left/Right.
+
