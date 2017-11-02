@@ -6723,3 +6723,9 @@ Great work guys! (good job on the interview mattherich!)
 > 
 <https://spectrum.ieee.org/the-human-os/biomedical/bionics/artist-creates-a-factory-of-the-future-with-machines-controlled-by-brain-waves>
 
+11/2/2017 5:41 PM
+
+ **alexandre.barachant** :
+
+ >thats the perfect use of BCI :slightly_smiling_face:
+
