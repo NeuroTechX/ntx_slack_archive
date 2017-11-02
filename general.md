@@ -6711,3 +6711,15 @@ Great work guys! (good job on the interview mattherich!)
 
  ><http://sapienlabs.co>
 
+11/2/2017 5:39 PM
+
+ **elizastrickland** :
+
+ >Hi folks! Thought you might be interested in my article about a project from "experimental philosopher" and conceptual artist Jonathon Keats. He worked with neurotech pioneer Jose del Millan at EPFL on an installation called Mental Work, in which participants use a BCI to control shiny pointless machines: 
+
+> 
+
+
+> 
+<https://spectrum.ieee.org/the-human-os/biomedical/bionics/artist-creates-a-factory-of-the-future-with-machines-controlled-by-brain-waves>
+
