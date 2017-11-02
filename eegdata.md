@@ -6087,3 +6087,9 @@ Thank for you time
 
  >Chrome, Opera, Samsung Internet and Mozilla Servo all support Web Bluetooth
 
+11/2/2017 6:33 PM
+
+ **urish** :
+
+ >Apple however does not allow browsers to add new Web APIs, so no browsers have it on iOS
+
