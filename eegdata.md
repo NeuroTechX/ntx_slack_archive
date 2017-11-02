@@ -6162,3 +6162,9 @@ roll: mirror (when I look at the face its going in opposite direction, but the 
 
  >i just got the ganglion working with web bluetooth in the browser
 
+11/2/2017 9:26 PM
+
+ **aj** :
+
+ >yesss
+
