@@ -6039,3 +6039,9 @@ Thank for you time
 
  >Hey alexandre.barachant is the muse app supposed to work on iPhone ?
 
+11/2/2017 6:29 PM
+
+ **alexandre.barachant** :
+
+ >no idea. urish is the original author, i just contributed to improve the EEG viz
+
