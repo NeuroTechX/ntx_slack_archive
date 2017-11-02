@@ -6156,3 +6156,9 @@ pitch: reverse (when I go up it goes down.
 > 
 roll: mirror (when I look at the face its going in opposite direction, but the right one)
 
+11/2/2017 9:25 PM
+
+ **aj** :
+
+ >i just got the ganglion working with web bluetooth in the browser
+
