@@ -171,3 +171,9 @@ Aren't all the cool kids working with Tensors these days? How are they doing tha
 
  >Been a while since anyone's posted in here, but neat article from Nature. "Machine learning of neural representations of suicide and emotion concepts identifies suicidal youth" <https://www.nature.com/articles/s41562-017-0234-y>
 
+11/2/2017 7:11 PM
+
+ **psoulos** :
+
+ >That study is really cool. There is some valid criticism in the Reddit thread about it tho: <https://www.reddit.com/r/MachineLearning/comments/7a4j2t/r_machine_learning_of_neural_representations_of/>
+
