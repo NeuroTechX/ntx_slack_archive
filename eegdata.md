@@ -6063,3 +6063,9 @@ Thank for you time
 
  >However! There's a polyfill available
 
+11/2/2017 6:30 PM
+
+ **alexandre.barachant** :
+
+ >chrome only right ? i never tried on firefox
+
