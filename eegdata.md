@@ -6021,3 +6021,9 @@ Thank for you time
 
  >They have an external sensor API that it may be possible to plug Muse or other EEG systems into: <https://github.com/google/science-journal/blob/master/api/ScienceJournalApi/README-api.md>
 
+11/2/2017 3:36 PM
+
+ **dano** :
+
+ >Putting myself on the email address. Good to hear something from Sapien Labs. This could be really cool.
+
