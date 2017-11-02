@@ -249,3 +249,27 @@ This will be an exciting intersection of two revolutionary technologies: Brain C
 
  ><!channel>
 
+11/2/2017 12:18 AM
+
+ **ben.tam** :
+
+ ><!channel> 
+
+> 
+
+
+> 
+Heads up that we will be having a casual dinner tonight at Dentries Irish Pub in Point Grey. 
+
+> 
+
+
+> 
+We will be having these casual dinners monthly, so no worries if you cannot make it this time. :slightly_smiling_face: 
+
+> 
+
+
+> 
+Looking forward to seeing you guys out there.
+
