@@ -6729,3 +6729,12 @@ Great work guys! (good job on the interview mattherich!)
 
  >thats the perfect use of BCI :slightly_smiling_face:
 
+11/3/2017 6:06 PM
+
+ **dano** :
+
+ >DevFest presentation from urish showing how to build a web app that reads blinks from Muse.
+
+> 
+<https://www.youtube.com/watch?time_continue=602&amp;v=F6fI28yFtNM>
+
