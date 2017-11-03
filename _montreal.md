@@ -2379,3 +2379,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >hey all! thought you might be interested :  <https://www.eventbrite.ca/e/montreal-eeg-research-days-tickets-39194359384>
 
+11/3/2017 5:26 PM
+
+ **yannick** :
+
+ >ray_cassani you coming tonight?
+
