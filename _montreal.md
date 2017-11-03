@@ -2403,3 +2403,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I might be few minutes late. We're in the conf room
 
+11/3/2017 10:03 PM
+
+ **yannick** :
+
+ >There is an event going on at D3
+
