@@ -2391,3 +2391,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >yes I'm
 
+11/3/2017 6:43 PM
+
+ **yannick** :
+
+ >I have the Muse Glasses with me and I wanted to try Alex B. P300 experiment. Lets Nerd Out.
+
