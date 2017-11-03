@@ -1116,3 +1116,9 @@ Updates about job postings coming soon.
 
  >Interaction Designer wanted for Mindfulness position at Lumosity <https://twitter.com/DrBrittany/status/924339201893482496?s=09>
 
+11/3/2017 4:11 PM
+
+ **bciguy** :
+
+ >isnt this the company that got sued for false claims?
+
