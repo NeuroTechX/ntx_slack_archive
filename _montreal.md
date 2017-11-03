@@ -2409,3 +2409,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >There is an event going on at D3
 
+11/3/2017 10:26 PM
+
+ **sydneyneurotechx** :
+
+ >It's the window conference room
+
