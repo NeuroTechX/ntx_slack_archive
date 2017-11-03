@@ -6225,3 +6225,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >We're getting close - for anyone who has signed up on brainbase we will be sending out invitations soon - don't want to put an exact date on it in case we find some new bugs but I hope we will be ready by the end of next week.
 
+11/3/2017 6:57 PM
+
+ **tara** :
+
+ >For those who signed up a while ago - thanks for your patience!
+
