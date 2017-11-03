@@ -1488,3 +1488,15 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >of the past year
 
+11/3/2017 8:52 PM
+
+ **jnaulty** :
+
+ >sydneyneurotechx 
+
+> 
+<https://github.com/NeuroTechX/learn.neurotechedu.com/issues/23>
+
+> 
+:smile:
+
