@@ -2514,3 +2514,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >Awesome! Weve been talking about next week
 
+11/3/2017 1:52 PM
+
+ **bryan_j** :
+
+ >Any thoughts on the date yet Josh?!
+
