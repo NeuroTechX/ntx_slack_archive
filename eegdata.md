@@ -6219,3 +6219,9 @@ roll: mirror (when I look at the face its going in opposite direction, but the 
 > 
 I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierra + Chrome (62.0.3202.75). You can see on the screen Eye Blinks &amp; Eye Movements Left/Right.
 
+11/3/2017 6:29 PM
+
+ **tara** :
+
+ >We're getting close - for anyone who has signed up on brainbase we will be sending out invitations soon - don't want to put an exact date on it in case we find some new bugs but I hope we will be ready by the end of next week.
+
