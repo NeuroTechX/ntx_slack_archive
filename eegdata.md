@@ -6237,3 +6237,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >What is the range that based on it you would consider if a spike in the neural data is usual or not. Also, if you found such a spike, would you exclude the whole channel or would you try  to "cut off" this piece of spike?
 
+11/4/2017 1:49 PM
+
+ **andyh616** :
+
+ >By spike do you mean an artifact i.e. Noise in the data, or spike as in a neuron spike. Assuming you mean the former, there is no real "standard" for artifact rejection, but you could use something like a change in activity from one moment to the next that exceeds some threshold like 3 standard deviations from the mean. You can likely salvage the channel assuming it's not flooded w artifact
+
