@@ -6231,3 +6231,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >For those who signed up a while ago - thanks for your patience!
 
+11/4/2017 1:55 AM
+
+ **hassan** :
+
+ >What is the range that based on it you would consider if a spike in the neural data is usual or not. Also, if you found such a spike, would you exclude the whole channel or would you try  to "cut off" this piece of spike?
+
