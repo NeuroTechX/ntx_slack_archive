@@ -3501,3 +3501,9 @@ Let me now if this is something that inerests you :smile:
 
  >thanks for the pointers, I will look it up.
 
+11/5/2017 9:42 PM
+
+ **gregasmaximus** :
+
+ >Hi, my name is Greg. I have a Ph.D in electrical engineering and 18 years experience in the field, with most of my work in radar systems and phased array antennas. However, I have had long standing interests in neuroscience, machine learning and the intersection of the two. I'm a hardware and software hacker and am interested in exploring brain / computer interfaces. So I have a strong technical background, but am new to this field. I'm located near Pasadena, California.
+
