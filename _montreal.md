@@ -2457,3 +2457,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Nope, thats what HackNights are for :slightly_smiling_face: Finding what toys we want to play with
 
+11/5/2017 8:39 PM
+
+ **fred-simard** :
+
+ >Sounds good, I'll try to stay naive then. I'll show up Nov 17, if you start ahead, let me know and I'll make sure to keep up on my own.
+
