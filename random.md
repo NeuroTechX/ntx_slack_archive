@@ -3096,3 +3096,9 @@ Although highly successful, considering the high training time and other real ti
 
  >Gift of Gaba: <http://www.bbc.com/news/health-41847030>
 
+11/5/2017 11:55 PM
+
+ **sydneyneurotechx** :
+
+ ><https://www.technologyreview.com/s/532291/fmri-data-reveals-the-number-of-parallel-processes-running-in-the-brain/>
+
