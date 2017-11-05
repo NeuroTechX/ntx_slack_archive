@@ -1530,3 +1530,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Thanks for putting that together. It will definitely help
 
+11/5/2017 12:30 AM
+
+ **sydneyneurotechx** :
+
+ ><!channel>: Time for our weekly check-in for EDU! Please select a time for our next call. <https://doodle.com/poll/bgz53xcthf68rtfk>
+
