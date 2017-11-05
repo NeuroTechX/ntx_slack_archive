@@ -2469,3 +2469,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Side note, I plan on doing it in python, but that shouldn't restrain anyone from trying something else.
 
+11/5/2017 8:49 PM
+
+ **yannick** :
+
+ >Ill also be Pythoning.
+
