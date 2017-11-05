@@ -2451,3 +2451,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >yannick Regarding the deep net hands-on you suggested. Did you have a framework in mind? and a dataset?
 
+11/5/2017 7:55 PM
+
+ **yannick** :
+
+ >Nope, thats what HackNights are for :slightly_smiling_face: Finding what toys we want to play with
+
