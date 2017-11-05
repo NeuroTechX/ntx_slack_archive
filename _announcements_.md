@@ -1680,3 +1680,15 @@ I am trying to build a hand orthosis controlled by a non-invasive BCI for patien
 
  >Great that there is so much interest!!
 
+11/5/2017 8:46 PM
+
+ **yannick** :
+
+ >Hey <!channel>,
+
+> 
+NeuroTechX is currently looking for a Community Manager for Canada (aka Canadian Connectome). If you are located in Canada and would like to get involved and help NTX chapters and community, heres your chance!
+
+> 
+<http://neurotechx.com/opportunities/CommunityManagerCanada.html>
+
