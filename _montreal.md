@@ -2463,3 +2463,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Sounds good, I'll try to stay naive then. I'll show up Nov 17, if you start ahead, let me know and I'll make sure to keep up on my own.
 
+11/5/2017 8:40 PM
+
+ **fred-simard** :
+
+ >Side note, I plan on doing it in python, but that shouldn't restrain anyone from trying something else.
+
