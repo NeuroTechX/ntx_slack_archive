@@ -6243,3 +6243,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >By spike do you mean an artifact i.e. Noise in the data, or spike as in a neuron spike. Assuming you mean the former, there is no real "standard" for artifact rejection, but you could use something like a change in activity from one moment to the next that exceeds some threshold like 3 standard deviations from the mean. You can likely salvage the channel assuming it's not flooded w artifact
 
+11/5/2017 11:38 PM
+
+ **pierre** :
+
+ >Seems like there's a couple papers on EOG, ECG, and line noise artifact removal from EEG data using similar techniques, but I'm most interested in filtering out movement artifacts
+
