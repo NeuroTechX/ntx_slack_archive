@@ -2445,3 +2445,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >NTX always big
 
+11/5/2017 7:23 PM
+
+ **fred-simard** :
+
+ >yannick Regarding the deep net hands-on you suggested. Did you have a framework in mind? and a dataset?
+
