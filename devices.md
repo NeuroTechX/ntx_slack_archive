@@ -5373,3 +5373,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >Might I suggest taking some screen caps so that we can see what errors you are getting? If you run muse-io via  a TCP connection, does it connect to the device?
 
+11/5/2017 11:40 PM
+
+ **mhough** :
+
+ >Hey fred-simard I just saw your message and GitHub. Nice! You are here in Montreal? I would be interested in meeting up and chatting about some extensions to what you have for a super small system prototype.
+
