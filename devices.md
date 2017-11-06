@@ -5391,3 +5391,12 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >just release new firmware and drivers for openbci cyton over ble
 
+11/6/2017 8:46 AM
+
+ **jmhorschig** :
+
+ >Hi Bryan,
+
+> 
+The 8-channel limit is with this specific setup, we have a couple of other mobile-devices in production right now that will allow 24-channel NIRS. So, yes, there are wireless options. Best would be to take this outside slack (mail me <mailto:jorn@artinis.com|jorn@artinis.com>).
+
