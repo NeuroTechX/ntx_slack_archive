@@ -6249,3 +6249,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >Seems like there's a couple papers on EOG, ECG, and line noise artifact removal from EEG data using similar techniques, but I'm most interested in filtering out movement artifacts
 
+11/6/2017 9:45 PM
+
+ **elsehow** :
+
+ >yannick thank you for the tip on getting lowdown working with the muse app!! one thing: the head orientation appears to be flipped on the vertical access (when i tilt my head down, the avatar is tilted up).
+
