@@ -3513,3 +3513,9 @@ Let me now if this is something that inerests you :smile:
 
  >Welcome gregasmaximus! Great to have you as part of the community
 
+11/6/2017 7:33 PM
+
+ **dano** :
+
+ >Welcome, man! You should check in with the LA chapter
+
