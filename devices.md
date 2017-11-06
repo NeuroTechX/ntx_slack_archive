@@ -5379,3 +5379,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  >Hey fred-simard I just saw your message and GitHub. Nice! You are here in Montreal? I would be interested in meeting up and chatting about some extensions to what you have for a super small system prototype.
 
+11/6/2017 12:41 AM
+
+ **aj** :
+
+ ><http://openbci.com/community/cyton-ble-code-now-in-alpha/>
+
