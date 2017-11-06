@@ -678,3 +678,12 @@ We can meet you in a few days
 
  >brian.westerman wednesday nights are hack nights in SF :slightly_smiling_face:
 
+11/6/2017 8:44 PM
+
+ **ariawave** :
+
+ >Hack nights remotely or do people get together? 
+
+> 
+CC jnaulty brian.westerman
+
