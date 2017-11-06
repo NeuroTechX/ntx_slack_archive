@@ -2538,3 +2538,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >Nice! We could reach out to Symbility or Paytm if needed! Not sure if they will be available last minute though. 
 
+11/6/2017 8:27 PM
+
+ **joshuad** :
+
+ >Cool, perhaps next week, feel free to send over some contact info if you have it, thanks!
+
