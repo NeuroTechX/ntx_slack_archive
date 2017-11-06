@@ -3102,3 +3102,9 @@ Although highly successful, considering the high training time and other real ti
 
  ><https://www.technologyreview.com/s/532291/fmri-data-reveals-the-number-of-parallel-processes-running-in-the-brain/>
 
+11/6/2017 1:12 AM
+
+ **ben.tam** :
+
+ >i.e a person with ADHD might have more parallel processes occurring at any given time
+
