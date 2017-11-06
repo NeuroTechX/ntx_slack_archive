@@ -5385,3 +5385,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 
  ><http://openbci.com/community/cyton-ble-code-now-in-alpha/>
 
+11/6/2017 12:41 AM
+
+ **aj** :
+
+ >just release new firmware and drivers for openbci cyton over ble
+
