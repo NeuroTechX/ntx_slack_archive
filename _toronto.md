@@ -2544,3 +2544,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >Cool, perhaps next week, feel free to send over some contact info if you have it, thanks!
 
+11/6/2017 9:51 PM
+
+ **bryan_j** :
+
+ >Alright I will see if we have our contacts are at the organization(s) still, and can send them your way. Thanks!
+
