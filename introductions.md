@@ -3519,3 +3519,9 @@ Let me now if this is something that inerests you :smile:
 
  >Welcome, man! You should check in with the LA chapter
 
+11/6/2017 7:34 PM
+
+ **dano** :
+
+ >adam and andrewjsauer are the organizers
+
