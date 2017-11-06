@@ -3525,3 +3525,9 @@ Let me now if this is something that inerests you :smile:
 
  >adam and andrewjsauer are the organizers
 
+11/6/2017 7:36 PM
+
+ **andrewjsauer** :
+
+ >hey gregasmaximus!
+
