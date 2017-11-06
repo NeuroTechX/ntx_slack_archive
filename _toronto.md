@@ -2520,3 +2520,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >Any thoughts on the date yet Josh?!
 
+11/6/2017 2:53 PM
+
+ **bryan_j** :
+
+ >FYI!
+
