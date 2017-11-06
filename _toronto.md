@@ -2526,3 +2526,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >FYI!
 
+11/6/2017 4:16 PM
+
+ **joshuad** :
+
+ >Planning on Wednesday the 8th, just need to confirm a location.
+
