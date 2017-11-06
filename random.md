@@ -3108,3 +3108,15 @@ Although highly successful, considering the high training time and other real ti
 
  >i.e a person with ADHD might have more parallel processes occurring at any given time
 
+11/6/2017 1:11 AM
+
+ **ben.tam** :
+
+ >"Independent component analysis reveals that about 50 independent processes are at work in human brains performing the complex visuo-motor tasks...implies that parallelism in the brain does not occur on the level of individual neurons but on a much higher structural and functional level, and that there are about 50 of these." 
+
+> 
+
+
+> 
+I wonder if this is potential way to quantify the degree of ADHD a person has. Haha.
+
