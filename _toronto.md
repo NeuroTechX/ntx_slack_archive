@@ -2532,3 +2532,9 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >Planning on Wednesday the 8th, just need to confirm a location.
 
+11/6/2017 7:33 PM
+
+ **bryan_j** :
+
+ >Nice! We could reach out to Symbility or Paytm if needed! Not sure if they will be available last minute though. 
+
