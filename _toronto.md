@@ -2640,3 +2640,9 @@ NTTO will be hosting a booth at the upcoming We are Wearables event on the 29th 
 > 
 See you guys then!
 
+11/7/2017 10:07 PM
+
+ **bryan_j** :
+
+ >Awesome :)
+
