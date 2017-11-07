@@ -3555,3 +3555,9 @@ Let me now if this is something that inerests you :smile:
 
  >Hi prasanna.utsa and welcome, what lab are you working for in Grenoble ?
 
+11/7/2017 6:07 PM
+
+ **yrenard** :
+
+ >we have a whole bunch of Grenoble people here :slightly_smiling_face: we should almost have a #_grenoble_ channel running by now
+
