@@ -2583,3 +2583,60 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 > 
 ```
 
+11/7/2017 10:05 PM
+
+ **dano** :
+
+ >```
+
+> 
+ _   _            _          _       _     _   
+
+> 
+| | | |          | |        (_)     | |   | |  
+
+> 
+| |_| | __ _  ___| | ___ __  _  __ _| |__ | |_ 
+
+> 
+|  _  |/ _` |/ __| |/ / '_ \| |/ _` | '_ \| __|
+
+> 
+| | | | (_| | (__|   &lt;| | | | | (_| | | | | |_ 
+
+> 
+\_| |_/\__,_|\___|_|\_\_| |_|_|\__, |_| |_|\__|
+
+> 
+                                __/ |          
+
+> 
+                               |___/           
+
+> 
+```
+
+> 
+
+
+> 
+Hey Toronto! We are coding in the city again tomorrow night. Come bring your friends, talk about neuroscience, fiddle around with your passion projects, and let us record your brainwaves!
+
+> 
+
+
+> 
+We'll be at Interaxon's meditation room this time, 511 King St W. Getting started at *7pm* and going until whenever.
+
+> 
+
+
+> 
+NTTO will be hosting a booth at the upcoming We are Wearables event on the 29th and we'd love to have some new demos to show off. The neurodoro team's in a mad dash towards creating a store-ready, data-gathering version of the app to be ready by then and we've also got a pretty well defined EEG/VR project to tackle if anyone's interested in writing some JS.
+
+> 
+
+
+> 
+See you guys then!
+
