@@ -3126,3 +3126,15 @@ I wonder if this is potential way to quantify the degree of ADHD a person has. H
 
  >I thought ADHD was more like an inability to keep on one process rather than having too many processes
 
+11/7/2017 5:06 PM
+
+ **sydneyneurotechx** :
+
+ >For those interested, there's a project called Big Brain <https://bigbrain.loris.ca/main.php?test_name=bigbrain>
+
+> 
+
+
+> 
+which is a very high resolution scan of a brain (highest resolution at 40 micrometers) mhough could share more details on the project :slightly_smiling_face:.
+
