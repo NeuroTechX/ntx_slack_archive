@@ -2550,3 +2550,36 @@ Location: 536 Queen St W, Toronto, ON M5V 2B5, Toronto
 
  >Alright I will see if we have our contacts are at the organization(s) still, and can send them your way. Thanks!
 
+11/7/2017 9:59 PM
+
+ **dano** :
+
+ >```
+
+> 
+ _   _            _          _       _     _   
+
+> 
+| | | |          | |        (_)     | |   | |  
+
+> 
+| |_| | __ _  ___| | ___ __  _  __ _| |__ | |_ 
+
+> 
+|  _  |/ _` |/ __| |/ / '_ \| |/ _` | '_ \| __|
+
+> 
+| | | | (_| | (__|   &lt;| | | | | (_| | | | | |_ 
+
+> 
+\_| |_/\__,_|\___|_|\_\_| |_|_|\__, |_| |_|\__|
+
+> 
+                                __/ |          
+
+> 
+                               |___/           
+
+> 
+```
+
