@@ -6255,3 +6255,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >yannick thank you for the tip on getting lowdown working with the muse app!! one thing: the head orientation appears to be flipped on the vertical access (when i tilt my head down, the avatar is tilted up).
 
+11/7/2017 4:53 PM
+
+ **hectordomorozco** :
+
+ >Friends, have you checked out the ieee hackathon in Boston?
+
