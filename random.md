@@ -3120,3 +3120,9 @@ Although highly successful, considering the high training time and other real ti
 > 
 I wonder if this is potential way to quantify the degree of ADHD a person has. Haha.
 
+11/7/2017 2:42 AM
+
+ **psychopomp** :
+
+ >I thought ADHD was more like an inability to keep on one process rather than having too many processes
+
