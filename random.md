@@ -3156,3 +3156,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >I might need fred-simard for some of that:) as it has neuromorphic chips and robotics
 
+11/7/2017 5:16 PM
+
+ **mhough** :
+
+ >Got to run for now
+
