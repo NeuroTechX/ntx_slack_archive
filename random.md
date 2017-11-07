@@ -3150,3 +3150,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >I'd like to do the same with the HBP too
 
+11/7/2017 5:15 PM
+
+ **mhough** :
+
+ >I might need fred-simard for some of that:) as it has neuromorphic chips and robotics
+
