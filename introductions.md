@@ -3561,3 +3561,9 @@ Let me now if this is something that inerests you :smile:
 
  >we have a whole bunch of Grenoble people here :slightly_smiling_face: we should almost have a #_grenoble_ channel running by now
 
+11/7/2017 7:21 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome prasanna.utsa! I'll be in Austin Texas for BodyHackingCon in February. If you happen to be around, let's meet!
+
