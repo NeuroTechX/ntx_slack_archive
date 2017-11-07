@@ -1122,3 +1122,12 @@ Updates about job postings coming soon.
 
  >isnt this the company that got sued for false claims?
 
+11/7/2017 1:26 PM
+
+ **eferdinand** :
+
+ >Internship for g.tec customers
+
+> 
+As a special education service, g.tec has open internships or thesis possibilities in order to learn EEG/BCI skills for your lab. Apply now! Send your internship/thesis applications to Christoph Guger <mailto:guger@gtec.at|guger@gtec.at>.
+
