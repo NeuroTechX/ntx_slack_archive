@@ -2475,3 +2475,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Ill also be Pythoning.
 
+11/7/2017 4:29 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Friday or Thursday this week?
+
