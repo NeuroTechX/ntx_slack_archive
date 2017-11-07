@@ -3543,3 +3543,9 @@ Let me now if this is something that inerests you :smile:
 
  >Thanks for the warm welcomes, all.
 
+11/7/2017 5:55 PM
+
+ **prasanna.utsa** :
+
+ >Hi My name is Prasanna, Im a PhD Candidate.  I have a Computer Engineering background and a strong background in Software Engineering.  I have a strong interest in integrating BCI with Intelligent systems to bring in the Human in the Loop aspect.  Presently in Grenoble, France, but will be in San Antonio, TX shortly.. A Big Texas Hi to everyone!
+
