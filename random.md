@@ -3144,3 +3144,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >Yeah if people would be interested in making a hacknight where we are looking at it and playing with some of the tools people are developing for working with it including haptics and VR, I would could videconf in and see what we can do
 
+11/7/2017 5:15 PM
+
+ **mhough** :
+
+ >I'd like to do the same with the HBP too
+
