@@ -6717,3 +6717,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >it's more robust than the euclidean mean
 
+11/8/2017 11:43 PM
+
+ **andyh616** :
+
+ >ah roger that, i will pass it on :slightly_smiling_face:
+
