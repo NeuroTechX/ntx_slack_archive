@@ -1131,3 +1131,9 @@ Updates about job postings coming soon.
 > 
 As a special education service, g.tec has open internships or thesis possibilities in order to learn EEG/BCI skills for your lab. Apply now! Send your internship/thesis applications to Christoph Guger <mailto:guger@gtec.at|guger@gtec.at>.
 
+11/8/2017 4:01 AM
+
+ **dano** :
+
+ >Yep! I imagine they're trying all kinds of things now
+
