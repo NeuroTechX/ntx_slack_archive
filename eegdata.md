@@ -6657,3 +6657,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >hence, no 'new' information
 
+11/8/2017 11:38 PM
+
+ **alexandre.barachant** :
+
+ >exactly
+
