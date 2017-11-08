@@ -6291,3 +6291,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >Thanks for sharing this!
 
+11/8/2017 10:33 PM
+
+ **andyh616** :
+
+ >one problem i see with mapping between EEG/iEEG that there is not a lot of training data (i.e. simultaneous EEG/iEEG) to train any sort of model, and whatever model is produced would probably be dependent on the task.  another issue that would make this not feasible is that there are likely many brain states that contribute to the same EEG topography, so there's a degrees of freedom mismatch there
+
