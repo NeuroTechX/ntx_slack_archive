@@ -2523,3 +2523,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Should we just stick with Friday?
 
+11/8/2017 9:56 PM
+
+ **ray_cassani** :
+
+ >Both days are fine for me
+
