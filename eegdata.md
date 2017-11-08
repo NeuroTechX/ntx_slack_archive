@@ -6261,3 +6261,15 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >Friends, have you checked out the ieee hackathon in Boston?
 
+11/8/2017 6:26 PM
+
+ **psoulos** :
+
+ >In the following research, they take the same photo with a DSLR and a few camera phones. Then they use machine learning to map from the phone's lower quality image to the DSLR's high quality image. Is there any literature on a similar technique with EEG and ECog. Collect eeg and ecog data and create a mapping from eeg signal to ecog signal. alexandre.barachant elsehow 
+
+> 
+
+
+> 
+<http://people.ee.ethz.ch/~ihnatova/>
+
