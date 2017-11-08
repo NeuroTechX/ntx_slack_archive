@@ -6414,3 +6414,9 @@ what you get is that you split the signal in smaller pieces and its can be easie
 
  >i think thats the larger concern
 
+11/8/2017 10:56 PM
+
+ **elsehow** :
+
+ >the claim is that the output signal is of arbitrary resolution
+
