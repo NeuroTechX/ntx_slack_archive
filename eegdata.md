@@ -6450,3 +6450,12 @@ what you get is that you split the signal in smaller pieces and its can be easie
 
  >not in the dataset
 
+11/8/2017 11:07 PM
+
+ **alexandre.barachant** :
+
+ >yes, but i mean what you get is not the data you would have recorded if you had an electrode at this position in the brain for this particular subject.
+
+> 
+still, it's a cool idea :slightly_smiling_face:
+
