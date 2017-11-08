@@ -6426,3 +6426,9 @@ what you get is that you split the signal in smaller pieces and its can be easie
 
  >sure
 
+11/8/2017 11:03 PM
+
+ **andyh616** :
+
+ >doesn't give a mapping between iEEG and EEG, but it could potentially help to do better source estimation with fewer electrodes
+
