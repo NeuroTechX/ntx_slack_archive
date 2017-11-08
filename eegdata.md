@@ -6345,3 +6345,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >alexandre.barachant lol ^
 
+11/8/2017 10:51 PM
+
+ **elsehow** :
+
+ >yes, like waifu2x
+
