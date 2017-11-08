@@ -6393,3 +6393,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >because the correlations that the learner learns between EEG and ECOG may be spurious
 
+11/8/2017 10:55 PM
+
+ **elsehow** :
+
+ >we have no way of knowing that ther eis some pure function mapping EEG to ECOG
+
