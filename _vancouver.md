@@ -279,3 +279,9 @@ Looking forward to seeing you guys out there.
 
  ><https://www.meetup.com/NeuroTechVAN/events/244356755/>
 
+11/8/2017 7:57 PM
+
+ **elgin** :
+
+ >Hi ben.tam, at the Vr workshop, you said there might be some sort of discounts on Muses for Neurotech members.  Do you know if there are any discounts on OpenBCI hardware?
+
