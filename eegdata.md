@@ -6489,3 +6489,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >i think that is referring to a scenario where electrode N is missing from all subjects
 
+11/8/2017 11:11 PM
+
+ **alexandre.barachant** :
+
+ >yes, this is what i mean
+
