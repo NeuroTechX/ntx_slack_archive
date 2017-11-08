@@ -6627,3 +6627,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >mm, yes that is true..
 
+11/8/2017 11:35 PM
+
+ **alexandre.barachant** :
+
+ >let say you only have one electrode for a single subject, then the reconstruction at any position is just proportional to this single electrode
+
