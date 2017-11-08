@@ -6381,3 +6381,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >sure, but its just inheriting any incidental correlations in the original corpus
 
+11/8/2017 10:55 PM
+
+ **psoulos** :
+
+ >why do you say incidental?
+
