@@ -6387,3 +6387,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >why do you say incidental?
 
+11/8/2017 10:55 PM
+
+ **elsehow** :
+
+ >because the correlations that the learner learns between EEG and ECOG may be spurious
+
