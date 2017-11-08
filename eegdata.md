@@ -6432,3 +6432,9 @@ what you get is that you split the signal in smaller pieces and its can be easie
 
  >doesn't give a mapping between iEEG and EEG, but it could potentially help to do better source estimation with fewer electrodes
 
+11/8/2017 11:05 PM
+
+ **alexandre.barachant** :
+
+ >no, you don't add any new information in your dataset, you just leak information from other subject into one subject. the information content of the whole dataset remain the same
+
