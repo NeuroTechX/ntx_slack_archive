@@ -6753,3 +6753,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >you can build a webservice where you upload a EEG dataset, and select a new montage, and it will just generate the projection matrix
 
+11/8/2017 11:48 PM
+
+ **andyh616** :
+
+ >could also build a huge database of EEG data in the same space, which could be very useful
+
