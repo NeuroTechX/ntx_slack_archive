@@ -6465,3 +6465,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >sure, but its a potentially good guess!
 
+11/8/2017 11:09 PM
+
+ **alexandre.barachant** :
+
+ >but this is made clear in the discussion
+
