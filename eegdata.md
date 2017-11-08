@@ -6495,3 +6495,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >yes, this is what i mean
 
+11/8/2017 11:13 PM
+
+ **andyh616** :
+
+ >i'm on board with that, i guess the point im trying to make is that the full elec-by-elec covariance matrix in your dataset can be leveraged to infer activity in an individual subject, and this in turn could be leveraged to improve source reconstruction for that subject
+
