@@ -6375,3 +6375,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >so the eeg-&gt;ecog would learn to map from eeg to more likely ecog states
 
+11/8/2017 10:54 PM
+
+ **elsehow** :
+
+ >sure, but its just inheriting any incidental correlations in the original corpus
+
