@@ -6537,3 +6537,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >with the low-res-&gt;high-res GAN, it is probably not possible to go EEG-&gt;iEEG
 
+11/8/2017 11:17 PM
+
+ **andyh616** :
+
+ >right alexandre.barachant?
+
