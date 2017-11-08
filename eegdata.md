@@ -6408,3 +6408,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 > 
 what you get is that you split the signal in smaller pieces and its can be easier to interpret. but you don't actually improve the information content of the original signal
 
+11/8/2017 10:56 PM
+
+ **elsehow** :
+
+ >i think thats the larger concern
+
