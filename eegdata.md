@@ -6603,3 +6603,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >okay, so again there is no increase on information content of the signal.
 
+11/8/2017 11:34 PM
+
+ **andyh616** :
+
+ >well, the correlation matrix is created from all subjects
+
