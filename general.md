@@ -6888,3 +6888,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >we'll have a full dossier :wink:
 
+11/8/2017 10:54 PM
+
+ **micslab** :
+
+ >Is there anyone from neurable in our group? Please connect on the <#C44MX942K|_australia> channel if so.
+
