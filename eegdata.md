@@ -6309,3 +6309,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >:thumbsup: right, definitely agree
 
+11/8/2017 10:47 PM
+
+ **alexandre.barachant** :
+
+ >or saying it differently, what you get with the DSLR is not an image with intrinsically DSLR quality, but something that is has the same property of a DSLR picture. It is the same for the GAN that improve resolution in image. you interpolate nicely and smartly so that the higher res image does not look pixelated, but you dont actually see what "between" pixels of the original image
+
