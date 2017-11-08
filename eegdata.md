@@ -6645,3 +6645,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >so, each 'new' location is just a linear weighted combination of the subjects elctrodes, where the weights are derived from the full correlation matrix
 
+11/8/2017 11:38 PM
+
+ **alexandre.barachant** :
+
+ >it's actually a very good idea. and i think we can use that to find common representation of EEG signal (for transfert between dataset, or interpolation, etc)
+
