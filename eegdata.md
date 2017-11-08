@@ -6357,3 +6357,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >it effectively uses a corpus to guess whats beteween the pixels
 
+11/8/2017 10:51 PM
+
+ **elsehow** :
+
+ >using these imagined pixels for analysis (like blowing up a license plate) is as silly as what that paper seems to be proposing, no?
+
