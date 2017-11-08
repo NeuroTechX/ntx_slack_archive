@@ -6798,3 +6798,9 @@ Great work guys! (good job on the interview mattherich!)
 
  ><https://www.synaptivemedical.com/>
 
+11/8/2017 10:05 PM
+
+ **graeme** :
+
+ >Where they have a high-resolution static magnet MRI with head coils in the basement
+
