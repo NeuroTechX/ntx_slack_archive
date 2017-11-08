@@ -6303,3 +6303,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >The main issues of these methods is that they are just "filling the blanks" and are not actually increasing the information content of your image. If you apply that to EEG to map to EEG, you will not gain the spectral resolution of the Ecog, and you merely will get similar resultat to what you can get with source separation
 
+11/8/2017 10:40 PM
+
+ **andyh616** :
+
+ >:thumbsup: right, definitely agree
+
