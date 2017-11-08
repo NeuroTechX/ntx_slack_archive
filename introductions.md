@@ -3579,3 +3579,9 @@ Let me now if this is something that inerests you :smile:
 
  >Hi all, I'm Keith, postdoctoral research associate at the University of British Columbia, Canada. Serious background with molecular &amp; genetic brain development, developmental disabilities, fMRI and EEG, and most recently Machine Learning. Interested in any discussions of high-risk, cutting-edge ideas regarding real-time processing of functional neuro- datasets and cost-effective brain-computer-interfaces. Looking forward to brainstorming ideas!
 
+11/8/2017 9:37 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome kmclar1! I'd sugest joing the <#C0VTMQ5CH|_vancouver>  channel if you haven't already. You are at the right place for cost effective eeg/bci's. Some good places to start
+
