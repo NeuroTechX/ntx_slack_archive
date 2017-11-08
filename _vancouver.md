@@ -285,3 +285,15 @@ Looking forward to seeing you guys out there.
 
  >Hi ben.tam, at the Vr workshop, you said there might be some sort of discounts on Muses for Neurotech members.  Do you know if there are any discounts on OpenBCI hardware?
 
+11/8/2017 10:30 PM
+
+ **ben.tam** :
+
+ >elgin Hey! I am abit uncertain on the exact details to be honest
+
+> 
+
+
+> 
+yannick Can you please fill in the details here..?
+
