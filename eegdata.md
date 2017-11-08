@@ -6279,3 +6279,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >psoulos we are doing something similar to this with ECog to fMRI levels of resolution - check it out here:<https://www.biorxiv.org/content/early/2017/03/27/121020>
 
+11/8/2017 8:07 PM
+
+ **andyh616** :
+
+ >its based on gaussian process regression, but could be extended to use deep learning methods
+
