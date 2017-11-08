@@ -6483,3 +6483,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >&gt; Taken to the logical extreme, we could not hope to accurately recover activity patterns from brain areas where no recordings existed from any patient.
 
+11/8/2017 11:11 PM
+
+ **andyh616** :
+
+ >i think that is referring to a scenario where electrode N is missing from all subjects
+
