@@ -2664,3 +2664,9 @@ See you guys then!
 
  >I will be there but probably won't be able to roll up until a bit after 8pm
 
+11/8/2017 5:08 PM
+
+ **bryan_j** :
+
+ >Great read. I personally like to acquire an additional 1-2% of fat per meal :stuck_out_tongue:
+
