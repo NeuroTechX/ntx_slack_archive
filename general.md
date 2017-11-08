@@ -6852,3 +6852,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >You gonna be around tonight, graeme?
 
+11/8/2017 10:12 PM
+
+ **bryan_j** :
+
+ >We would be happy to help organize and contribute! Thank you!!
+
