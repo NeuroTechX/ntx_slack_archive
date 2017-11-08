@@ -6543,3 +6543,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >right alexandre.barachant?
 
+11/8/2017 11:20 PM
+
+ **alexandre.barachant** :
+
+ >or at least if you map it, you will just get something similar with source reconstruction
+
