@@ -6840,3 +6840,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >I love the work they do at Synaptive. I'm excited to see that two of my favorite Toronto companies will be so close together.
 
+11/8/2017 10:12 PM
+
+ **dano** :
+
+ >Ooohh future hack space
+
