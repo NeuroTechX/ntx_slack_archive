@@ -6705,3 +6705,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >i think we average is z-world
 
+11/8/2017 11:43 PM
+
+ **alexandre.barachant** :
+
+ >i mean this one :
+
