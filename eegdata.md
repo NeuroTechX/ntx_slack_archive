@@ -6363,3 +6363,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >using these imagined pixels for analysis (like blowing up a license plate) is as silly as what that paper seems to be proposing, no?
 
+11/8/2017 10:53 PM
+
+ **psoulos** :
+
+ >well in the space of ecog readings, a lot may be improbable
+
