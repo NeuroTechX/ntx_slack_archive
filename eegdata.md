@@ -6777,3 +6777,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >pinp me when the code is available
 
+11/8/2017 11:52 PM
+
+ **andyh616** :
+
+ >will do, should be up soon after SFN (late Nov-ish)
+
