@@ -6744,3 +6744,9 @@ Great work guys! (good job on the interview mattherich!)
 
  ><http://news.berkeley.edu/2016/08/03/sprinkling-of-neural-dust-opens-door-to-electroceuticals/> looks like a neural dust prototype
 
+11/8/2017 10:46 AM
+
+ **pia.michel** :
+
+ >Are there people here working with BCIs for communication in locked-in?
+
