@@ -6567,3 +6567,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >okay, i'm reading the paper so i will stop making guess :slightly_smiling_face:
 
+11/8/2017 11:24 PM
+
+ **andyh616** :
+
+ >but the trick is that each subject contributes a unique set of electrodes to the model
+
