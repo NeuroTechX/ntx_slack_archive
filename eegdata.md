@@ -6399,3 +6399,12 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >we have no way of knowing that ther eis some pure function mapping EEG to ECOG
 
+11/8/2017 10:56 PM
+
+ **alexandre.barachant** :
+
+ >it's actually the same idea as source reconstruction used intensively in MEG and EEG.
+
+> 
+what you get is that you split the signal in smaller pieces and its can be easier to interpret. but you don't actually improve the information content of the original signal
+
