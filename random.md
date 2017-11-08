@@ -3162,3 +3162,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >Got to run for now
 
+11/8/2017 4:26 PM
+
+ **dano** :
+
+ >Yikes, Francois Chollet calling out Dopamine Labs X
+
