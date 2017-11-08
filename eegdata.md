@@ -6273,3 +6273,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 > 
 <http://people.ee.ethz.ch/~ihnatova/>
 
+11/8/2017 8:06 PM
+
+ **andyh616** :
+
+ >psoulos we are doing something similar to this with ECog to fMRI levels of resolution - check it out here:<https://www.biorxiv.org/content/early/2017/03/27/121020>
+
