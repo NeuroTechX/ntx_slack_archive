@@ -759,3 +759,9 @@ Can we be a student chapter of Neurotechx as well? We can't change the name of t
 
  >Education Changes the World! Check out our latest Q&amp;A with Sayan Faraz and his team from NeurotechUofT student club to see how they push neurotech innovation at the University of Toronto: <https://medium.com/neurotechx/q-a-with-neurotechuoft-d46c06f15126>
 
+11/8/2017 10:45 AM
+
+ **pia.michel** :
+
+ >Is there a student club in the Netherlands or people interested in getting together?
+
