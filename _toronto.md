@@ -2658,3 +2658,9 @@ See you guys then!
 > 
 <https://www.forbes.com/sites/davidkatz/2017/11/02/why-canada-is-blocking-sales-of-soylent/#b93e936388d2>
 
+11/8/2017 2:59 PM
+
+ **cbattista** :
+
+ >I will be there but probably won't be able to roll up until a bit after 8pm
+
