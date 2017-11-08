@@ -6444,3 +6444,9 @@ what you get is that you split the signal in smaller pieces and its can be easie
 
  >right, that's why i said new information at the subject level
 
+11/8/2017 11:06 PM
+
+ **andyh616** :
+
+ >not in the dataset
+
