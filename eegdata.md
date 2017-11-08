@@ -6561,3 +6561,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >mmm, i think you could say that. how every piece of brain talks to every other piece of brain..assuming linearity and stationarity (which we know is probably not quite right)
 
+11/8/2017 11:24 PM
+
+ **alexandre.barachant** :
+
+ >okay, i'm reading the paper so i will stop making guess :slightly_smiling_face:
+
