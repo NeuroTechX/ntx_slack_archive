@@ -6615,3 +6615,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >the inference is done per subject
 
+11/8/2017 11:34 PM
+
+ **alexandre.barachant** :
+
+ >yes, but the corelation matrix is just used to estimates the weight of the projection from the current signal
+
