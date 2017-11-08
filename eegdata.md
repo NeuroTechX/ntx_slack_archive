@@ -6651,3 +6651,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >it's actually a very good idea. and i think we can use that to find common representation of EEG signal (for transfert between dataset, or interpolation, etc)
 
+11/8/2017 11:38 PM
+
+ **andyh616** :
+
+ >hence, no 'new' information
+
