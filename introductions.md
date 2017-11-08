@@ -3573,3 +3573,9 @@ Let me now if this is something that inerests you :smile:
 
  ><https://bodyhackingcon.com/>
 
+11/8/2017 7:10 PM
+
+ **kmclar1** :
+
+ >Hi all, I'm Keith, postdoctoral research associate at the University of British Columbia, Canada. Serious background with molecular &amp; genetic brain development, developmental disabilities, fMRI and EEG, and most recently Machine Learning. Interested in any discussions of high-risk, cutting-edge ideas regarding real-time processing of functional neuro- datasets and cost-effective brain-computer-interfaces. Looking forward to brainstorming ideas!
+
