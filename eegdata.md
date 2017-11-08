@@ -6765,3 +6765,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >yes,
 
+11/8/2017 11:51 PM
+
+ **alexandre.barachant** :
+
+ >i like this idea very much
+
