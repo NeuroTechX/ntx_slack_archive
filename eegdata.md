@@ -6681,3 +6681,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >ah! thats a neat idea!
 
+11/8/2017 11:41 PM
+
+ **alexandre.barachant** :
+
+ >of course, it's assuming you roughly have the same coverage (at least on the part of the brain that matters)
+
