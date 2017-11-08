@@ -2529,3 +2529,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Both days are fine for me
 
+11/8/2017 11:54 PM
+
+ **fred-simard** :
+
+ >I'm looking into the effect of various bias circuit configuration. Red and green arr two different circuits.
+
