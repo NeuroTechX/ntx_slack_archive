@@ -6639,3 +6639,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >yep, totally - i see where you are going :the_horns:
 
+11/8/2017 11:38 PM
+
+ **andyh616** :
+
+ >so, each 'new' location is just a linear weighted combination of the subjects elctrodes, where the weights are derived from the full correlation matrix
+
