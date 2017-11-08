@@ -147,3 +147,12 @@ We're in the US this month and are currently in transit to Boston! We'll be in t
 
  >Hello Boston Neurohackers! We just had  our first admin meeting of the season. We hope to have our next event later this year and will keep you updated!
 
+11/8/2017 2:29 PM
+
+ **keaton** :
+
+ >Reposting this from <#C08PVFWH4|eegdata> here - looks interesting!
+
+> 
+<https://brain.ieee.org/news/call-participation-ieee-brain-data-bank-challenge-boston/>
+
