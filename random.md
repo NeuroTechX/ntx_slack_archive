@@ -3177,3 +3177,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 > 
 <https://twitter.com/fchollet/status/928107892518957056>
 
+11/8/2017 5:51 PM
+
+ **dopamine_matt** :
+
+ >dano all good.  we love it
+
