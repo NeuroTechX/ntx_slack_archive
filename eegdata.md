@@ -6438,3 +6438,9 @@ what you get is that you split the signal in smaller pieces and its can be easie
 
  >no, you don't add any new information in your dataset, you just leak information from other subject into one subject. the information content of the whole dataset remain the same
 
+11/8/2017 11:06 PM
+
+ **andyh616** :
+
+ >right, that's why i said new information at the subject level
+
