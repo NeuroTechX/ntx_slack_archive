@@ -6477,3 +6477,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >yea
 
+11/8/2017 11:09 PM
+
+ **alexandre.barachant** :
+
+ >&gt; Taken to the logical extreme, we could not hope to accurately recover activity patterns from brain areas where no recordings existed from any patient.
+
