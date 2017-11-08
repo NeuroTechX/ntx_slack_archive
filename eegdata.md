@@ -6531,3 +6531,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >what is the consensus?
 
+11/8/2017 11:16 PM
+
+ **andyh616** :
+
+ >with the low-res-&gt;high-res GAN, it is probably not possible to go EEG-&gt;iEEG
+
