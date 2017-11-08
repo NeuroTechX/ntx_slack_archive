@@ -6351,3 +6351,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >yes, like waifu2x
 
+11/8/2017 10:51 PM
+
+ **elsehow** :
+
+ >it effectively uses a corpus to guess whats beteween the pixels
+
