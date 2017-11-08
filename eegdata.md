@@ -6699,3 +6699,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >is it just euclidean now?
 
+11/8/2017 11:43 PM
+
+ **andyh616** :
+
+ >i think we average is z-world
+
