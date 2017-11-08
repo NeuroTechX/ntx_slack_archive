@@ -2511,3 +2511,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I'm more leaning towards Friday. depends on what the other members prefer <!channel> 
 
+11/8/2017 9:22 PM
+
+ **sydneyneurotechx** :
+
+ >Flexible to both
+
