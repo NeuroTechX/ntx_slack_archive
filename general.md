@@ -6822,3 +6822,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >oh wow!
 
+11/8/2017 10:07 PM
+
+ **graeme** :
+
+ >And we'll be hosting some brainstorming sessions, hopefully involving NeuroTechTO and NeuroTechHA members, on the design of our new lab space where we'll host some future hack nights
+
