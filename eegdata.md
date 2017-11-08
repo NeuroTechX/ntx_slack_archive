@@ -6573,3 +6573,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >but the trick is that each subject contributes a unique set of electrodes to the model
 
+11/8/2017 11:29 PM
+
+ **alexandre.barachant** :
+
+ >okay, i read the method, and i better understand
+
