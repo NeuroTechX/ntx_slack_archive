@@ -6810,3 +6810,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Also, we're moving offices (around the corner) into the same building as Synaptive Medical
 
+11/8/2017 10:07 PM
+
+ **graeme** :
+
+ >(Finally we can break out our ActiChamp again!)
+
