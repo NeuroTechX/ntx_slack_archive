@@ -3585,3 +3585,9 @@ Let me now if this is something that inerests you :smile:
 
  >Welcome kmclar1! I'd sugest joing the <#C0VTMQ5CH|_vancouver>  channel if you haven't already. You are at the right place for cost effective eeg/bci's. Some good places to start
 
+11/8/2017 9:38 PM
+
+ **sydneyneurotechx** :
+
+ ><http://learn.neurotechedu.com|learn.neurotechedu.com>
+
