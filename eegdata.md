@@ -6555,3 +6555,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >andyh616 isn't your method mainly "estimating" the mixing model of the brain from the data ?
 
+11/8/2017 11:23 PM
+
+ **andyh616** :
+
+ >mmm, i think you could say that. how every piece of brain talks to every other piece of brain..assuming linearity and stationarity (which we know is probably not quite right)
+
