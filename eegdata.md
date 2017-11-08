@@ -6333,3 +6333,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >I agree that the model would be dependent on the task/individual subject/specific recording devices
 
+11/8/2017 10:50 PM
+
+ **alexandre.barachant** :
+
+ >you mean like this ? <https://www.youtube.com/watch?v=I_8ZH1Ggjk0>
+
