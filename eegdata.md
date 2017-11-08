@@ -6507,3 +6507,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >ho yep for sure, i'm on board too
 
+11/8/2017 11:15 PM
+
+ **psoulos** :
+
+ >:upside_down_face: this conversation quickly went beyond me
+
