@@ -6579,3 +6579,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >okay, i read the method, and i better understand
 
+11/8/2017 11:30 PM
+
+ **alexandre.barachant** :
+
+ >you use the average brain correlation matrix to infer signal in one position from an existing set of signal
+
