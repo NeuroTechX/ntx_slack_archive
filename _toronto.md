@@ -2646,3 +2646,15 @@ See you guys then!
 
  >Awesome :)
 
+11/8/2017 3:59 AM
+
+ **dano** :
+
+ >Great breakdown of why the CFIA has likely banned Soylent in Canada. Outdated and bureaucratic standards. Hopefully we won't have to wait too long!
+
+> 
+
+
+> 
+<https://www.forbes.com/sites/davidkatz/2017/11/02/why-canada-is-blocking-sales-of-soylent/#b93e936388d2>
+
