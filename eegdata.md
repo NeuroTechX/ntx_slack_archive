@@ -6729,3 +6729,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >(but you might have trouble because you need SPD matrix, so you need regularisation)
 
+11/8/2017 11:45 PM
+
+ **andyh616** :
+
+ >thanks for the ref, ill give lucy (first author) the link :slightly_smiling_face:
+
