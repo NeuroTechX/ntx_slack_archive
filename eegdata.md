@@ -6369,3 +6369,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >well in the space of ecog readings, a lot may be improbable
 
+11/8/2017 10:53 PM
+
+ **psoulos** :
+
+ >so the eeg-&gt;ecog would learn to map from eeg to more likely ecog states
+
