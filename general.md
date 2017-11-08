@@ -6756,3 +6756,9 @@ Great work guys! (good job on the interview mattherich!)
 
  ><http://www.businesswire.com/news/home/20171107005634/en/Interaxon-Announces-11.6-Million-USD-Series-B-1>
 
+11/8/2017 5:43 PM
+
+ **aj** :
+
+ >Whoa
+
