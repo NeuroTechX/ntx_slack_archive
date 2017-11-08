@@ -6459,3 +6459,9 @@ what you get is that you split the signal in smaller pieces and its can be easie
 > 
 still, it's a cool idea :slightly_smiling_face:
 
+11/8/2017 11:09 PM
+
+ **andyh616** :
+
+ >sure, but its a potentially good guess!
+
