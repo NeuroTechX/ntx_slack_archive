@@ -6858,3 +6858,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >We would be happy to help organize and contribute! Thank you!!
 
+11/8/2017 10:12 PM
+
+ **graeme** :
+
+ >no but make sure you collect ideas for the new lab
+
