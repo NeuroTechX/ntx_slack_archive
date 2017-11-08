@@ -6285,3 +6285,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >its based on gaussian process regression, but could be extended to use deep learning methods
 
+11/8/2017 8:13 PM
+
+ **psoulos** :
+
+ >Thanks for sharing this!
+
