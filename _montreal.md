@@ -2499,3 +2499,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >What is the difference between the red and green line?
 
+11/8/2017 2:01 PM
+
+ **ntremblay** :
+
+ >Hello all, any update about the Hacknight this week, Thursday or Friday?
+
