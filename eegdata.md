@@ -6663,3 +6663,15 @@ still, it's a cool idea :slightly_smiling_face:
 
  >exactly
 
+11/8/2017 11:40 PM
+
+ **alexandre.barachant** :
+
+ >so let say you build a classifier for P300 data, and you have a very nice classifier but all your data are from a single electrode montage.
+
+> 
+And the you get a new montage, so you are f**ck. your only solution is to get the minimal common denominator.
+
+> 
+with your method, you can estimate the weights that goes from one montage to another one, and then apply your old classifier on the new data
+
