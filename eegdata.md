@@ -6297,3 +6297,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >one problem i see with mapping between EEG/iEEG that there is not a lot of training data (i.e. simultaneous EEG/iEEG) to train any sort of model, and whatever model is produced would probably be dependent on the task.  another issue that would make this not feasible is that there are likely many brain states that contribute to the same EEG topography, so there's a degrees of freedom mismatch there
 
+11/8/2017 10:38 PM
+
+ **alexandre.barachant** :
+
+ >The main issues of these methods is that they are just "filling the blanks" and are not actually increasing the information content of your image. If you apply that to EEG to map to EEG, you will not gain the spectral resolution of the Ecog, and you merely will get similar resultat to what you can get with source separation
+
