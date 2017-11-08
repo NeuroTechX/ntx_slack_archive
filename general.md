@@ -6894,3 +6894,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Is there anyone from neurable in our group? Please connect on the <#C44MX942K|_australia> channel if so.
 
+11/8/2017 10:59 PM
+
+ **yrenard** :
+
+ >adamm_neurable ^^
+
