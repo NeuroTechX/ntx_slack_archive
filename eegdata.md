@@ -6735,3 +6735,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >thanks for the ref, ill give lucy (first author) the link :slightly_smiling_face:
 
+11/8/2017 11:47 PM
+
+ **andyh616** :
+
+ >i like this idea of using superEEG to transfer classifiers across datasets
+
