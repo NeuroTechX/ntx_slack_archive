@@ -2694,3 +2694,9 @@ See you guys then!
 
  >hi all!
 
+11/8/2017 6:51 PM
+
+ **alice** :
+
+ >Ooo, interested in what this eeg/vr project is. Been looming for a chance to get my feet wet in the world of neurotech.
+
