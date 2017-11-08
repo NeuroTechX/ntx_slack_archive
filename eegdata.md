@@ -6759,3 +6759,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >could also build a huge database of EEG data in the same space, which could be very useful
 
+11/8/2017 11:48 PM
+
+ **alexandre.barachant** :
+
+ >yes,
+
