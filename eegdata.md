@@ -6321,3 +6321,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >well you're inferring what's in between probabilistically
 
+11/8/2017 10:48 PM
+
+ **psoulos** :
+
+ >so there's a chance that it's wrong, but with the right training data it can approach the ground truth
+
