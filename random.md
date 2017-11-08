@@ -3168,3 +3168,12 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >Yikes, Francois Chollet calling out Dopamine Labs X
 
+11/8/2017 4:27 PM
+
+ **dano** :
+
+ >Yikes, Francois Chollet calling out Dopamine Labs :grin: dopamine_matt 
+
+> 
+<https://twitter.com/fchollet/status/928107892518957056>
+
