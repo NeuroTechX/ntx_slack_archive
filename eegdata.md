@@ -6525,3 +6525,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >cool - i think we are in agreeement :slightly_smiling_face: :party_parrot:
 
+11/8/2017 11:16 PM
+
+ **psoulos** :
+
+ >what is the consensus?
+
