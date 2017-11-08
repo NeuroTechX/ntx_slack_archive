@@ -2517,3 +2517,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Flexible to both
 
+11/8/2017 9:22 PM
+
+ **sydneyneurotechx** :
+
+ >Should we just stick with Friday?
+
