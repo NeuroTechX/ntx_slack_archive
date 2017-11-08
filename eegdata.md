@@ -6621,3 +6621,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >yes, but the corelation matrix is just used to estimates the weight of the projection from the current signal
 
+11/8/2017 11:35 PM
+
+ **andyh616** :
+
+ >mm, yes that is true..
+
