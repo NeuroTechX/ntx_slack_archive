@@ -2682,3 +2682,9 @@ See you guys then!
 
  >btw, looking forward to seeing yall at the hacknight tonight!
 
+11/8/2017 5:41 PM
+
+ **iambobbyrichter** :
+
+ >yo! thanks for the intro dano
+
