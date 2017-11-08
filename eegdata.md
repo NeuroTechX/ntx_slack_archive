@@ -6675,3 +6675,9 @@ And the you get a new montage, so you are f**ck. your only solution is to get th
 > 
 with your method, you can estimate the weights that goes from one montage to another one, and then apply your old classifier on the new data
 
+11/8/2017 11:41 PM
+
+ **andyh616** :
+
+ >ah! thats a neat idea!
+
