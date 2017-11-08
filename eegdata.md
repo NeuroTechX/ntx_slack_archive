@@ -6591,3 +6591,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >yep! eq 10 is the inference bit
 
+11/8/2017 11:32 PM
+
+ **andyh616** :
+
+ >its basically gaussian process regression over space
+
