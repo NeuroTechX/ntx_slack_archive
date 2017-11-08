@@ -6738,3 +6738,9 @@ Great work guys! (good job on the interview mattherich!)
 > 
 <https://www.youtube.com/watch?time_continue=602&amp;v=F6fI28yFtNM>
 
+11/8/2017 2:20 AM
+
+ **elsehow** :
+
+ ><http://news.berkeley.edu/2016/08/03/sprinkling-of-neural-dust-opens-door-to-electroceuticals/> looks like a neural dust prototype
+
