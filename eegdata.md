@@ -6687,3 +6687,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >of course, it's assuming you roughly have the same coverage (at least on the part of the brain that matters)
 
+11/8/2017 11:42 PM
+
+ **alexandre.barachant** :
+
+ >(BTW, you shoud use a log-euclidean metric for averaging your correlation matrix)
+
