@@ -2700,3 +2700,9 @@ See you guys then!
 
  >Ooo, interested in what this eeg/vr project is. Been looming for a chance to get my feet wet in the world of neurotech.
 
+11/8/2017 10:06 PM
+
+ **bryan_j** :
+
+ >Interesting! Pls tell more :)
+
