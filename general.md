@@ -6774,3 +6774,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Thanks sydneyneurotechx
 
+11/8/2017 10:04 PM
+
+ **graeme** :
+
+ >We even get to spend a little bit of it on research and hiring some engineers and scientists
+
