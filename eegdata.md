@@ -6327,3 +6327,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >so there's a chance that it's wrong, but with the right training data it can approach the ground truth
 
+11/8/2017 10:49 PM
+
+ **psoulos** :
+
+ >I agree that the model would be dependent on the task/individual subject/specific recording devices
+
