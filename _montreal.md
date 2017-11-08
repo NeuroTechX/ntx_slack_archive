@@ -2505,3 +2505,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Hello all, any update about the Hacknight this week, Thursday or Friday?
 
+11/8/2017 7:20 PM
+
+ **eferdinand** :
+
+ >I'm more leaning towards Friday. depends on what the other members prefer <!channel> 
+
