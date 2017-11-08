@@ -6585,3 +6585,9 @@ still, it's a cool idea :slightly_smiling_face:
 
  >you use the average brain correlation matrix to infer signal in one position from an existing set of signal
 
+11/8/2017 11:32 PM
+
+ **andyh616** :
+
+ >yep! eq 10 is the inference bit
+
