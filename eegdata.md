@@ -6693,3 +6693,9 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >(BTW, you shoud use a log-euclidean metric for averaging your correlation matrix)
 
+11/8/2017 11:42 PM
+
+ **andyh616** :
+
+ >is it just euclidean now?
+
