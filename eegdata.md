@@ -6339,3 +6339,9 @@ I tested: Smith Lowdown Focus (aka Muse Glasses) via muse-eeg-app on MacOS Sierr
 
  >you mean like this ? <https://www.youtube.com/watch?v=I_8ZH1Ggjk0>
 
+11/8/2017 10:51 PM
+
+ **elsehow** :
+
+ >alexandre.barachant lol ^
+
