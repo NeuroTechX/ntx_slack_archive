@@ -6912,3 +6912,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >^ I think this should be a must-read for all of us. This tech that we're intellectually and professionally interested in will, without a doubt, raise some ethical issues in the future. These are solid recommendations that I personally intend on paying attention to in the years to come.
 
+11/9/2017 5:21 PM
+
+ **bryan_j** :
+
+ >Was at a panel discussion last night where the main consideration/concern was the ethical implications and regulation of medical technologies. 
+
