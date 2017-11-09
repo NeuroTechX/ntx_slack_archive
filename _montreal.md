@@ -2541,3 +2541,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Yes sydneyneurotechx i guess Friday is better
 
+11/9/2017 12:43 AM
+
+ **ntremblay** :
+
+ >So Friday this week?
+
