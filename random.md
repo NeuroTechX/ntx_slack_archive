@@ -3189,3 +3189,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >Lol: <http://www.newsweek.com/artificial-intelligence-hijack-brain-computer-interface-control-decisions-ai-705511>
 
+11/9/2017 4:59 AM
+
+ **sydneyneurotechx** :
+
+ >Credit goes to mrkrause for the find. <https://grants.nih.gov/grants/guide/notice-files/NOT-NS-18-014.html>
+
