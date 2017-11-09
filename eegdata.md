@@ -6783,3 +6783,15 @@ with your method, you can estimate the weights that goes from one montage to ano
 
  >will do, should be up soon after SFN (late Nov-ish)
 
+11/9/2017 12:06 AM
+
+ **alexandre.barachant** :
+
+ >But i think the paper would deserve a more clear statement about what does this method. 
+
+> 
+it's a linear interpolation, and your predicted signal is just a linear combination of your electrode signal. 
+
+> 
+It should defenetly be linked to source reconstruction methods, and i'm even wondering if we can see it as a special case of beamforming
+
