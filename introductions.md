@@ -3645,3 +3645,24 @@ I am part of the new students group NeuroMADS: <http://neuromads.sitemantic.com/
 
  >Hello everyone,
 
+11/9/2017 2:58 PM
+
+ **macasal96** :
+
+ >Hello everyone,
+
+> 
+I am Miguel. I am from UPF in Barcelona, Spain. I am working in a BCI project with the rest of my group NeuroMADS. Our website: <http://neuromads.sitemantic.com/neuromads/>
+
+> 
+
+
+> 
+Nice to meet you and hope to help you!!
+
+> 
+
+
+> 
+Miguel
+
