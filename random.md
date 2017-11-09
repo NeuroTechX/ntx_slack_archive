@@ -3213,3 +3213,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >dopamine_matt that tweet going viral on my feed right now >/
 
+11/9/2017 8:42 PM
+
+ **dopamine_matt** :
+
+ >aj so weird.  the article came out nearly two months ago to the day.
+
