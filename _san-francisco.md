@@ -693,3 +693,9 @@ CC jnaulty brian.westerman
 
  >Hey! Im in SF the 10th-19th just to program BCIs and such. Ill be at the jack night and will have a bunch of tech with me! Message me if you want to hack!
 
+11/9/2017 8:34 PM
+
+ **aj** :
+
+ >I can update every OpenBCI device to the latest firmware and debug any problem you have with them! I have all my programmers and flashers.
+
