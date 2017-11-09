@@ -2535,3 +2535,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I'm looking into the effect of various bias circuit configuration. Red and green arr two different circuits.
 
+11/9/2017 12:05 AM
+
+ **eferdinand** :
+
+ >Yes sydneyneurotechx i guess Friday is better
+
