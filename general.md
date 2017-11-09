@@ -6900,3 +6900,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >adamm_neurable ^^
 
+11/9/2017 5:10 AM
+
+ **sydneyneurotechx** :
+
+ ><http://www.nature.com/news/four-ethical-priorities-for-neurotechnologies-and-ai-1.22960?WT.mc_id=FBK_NatureNews&amp;sf153607645=1>
+
