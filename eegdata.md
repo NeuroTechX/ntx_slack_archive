@@ -6807,3 +6807,9 @@ It should defenetly be linked to source reconstruction methods, and i'm even won
 
  >hmm, ill have to think more about it as 'a special case of beamforming'.  thanks for the feedback alexandre.barachant!
 
+11/9/2017 12:17 AM
+
+ **andyh616** :
+
+ >agree about doing this in FFT space, its in the list
+
