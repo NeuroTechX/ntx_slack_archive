@@ -6918,3 +6918,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Was at a panel discussion last night where the main consideration/concern was the ethical implications and regulation of medical technologies. 
 
+11/9/2017 5:22 PM
+
+ **bryan_j** :
+
+ >All this to say it is a concern across the board, and needs to be addressed. Looking forward to reading this tonight!
+
