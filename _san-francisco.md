@@ -699,3 +699,9 @@ CC jnaulty brian.westerman
 
  >I can update every OpenBCI device to the latest firmware and debug any problem you have with them! I have all my programmers and flashers.
 
+11/9/2017 8:34 PM
+
+ **aj** :
+
+ ><!channel> see above!
+
