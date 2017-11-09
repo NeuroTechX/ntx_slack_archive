@@ -3195,3 +3195,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >Credit goes to mrkrause for the find. <https://grants.nih.gov/grants/guide/notice-files/NOT-NS-18-014.html>
 
+11/9/2017 5:01 AM
+
+ **sydneyneurotechx** :
+
+ >I wonder what could be some neuro emojis to help explain scientific papers :smile:
+
