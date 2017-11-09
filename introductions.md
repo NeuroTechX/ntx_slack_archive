@@ -3591,3 +3591,9 @@ Let me now if this is something that inerests you :smile:
 
  ><http://learn.neurotechedu.com|learn.neurotechedu.com>
 
+11/9/2017 3:00 AM
+
+ **ben.tam** :
+
+ >Hey kmclar1 exciting seeing you here. Great chatting with you last week about your work. We are glad to have you in our community forum!
+
