@@ -6906,3 +6906,9 @@ Great work guys! (good job on the interview mattherich!)
 
  ><http://www.nature.com/news/four-ethical-priorities-for-neurotechnologies-and-ai-1.22960?WT.mc_id=FBK_NatureNews&amp;sf153607645=1>
 
+11/9/2017 5:18 PM
+
+ **dano** :
+
+ >^ I think this should be a must-read for all of us. This tech that we're intellectually and professionally interested in will, without a doubt, raise some ethical issues in the future. These are solid recommendations that I personally intend on paying attention to in the years to come.
+
