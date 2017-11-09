@@ -6801,3 +6801,9 @@ It should defenetly be linked to source reconstruction methods, and i'm even won
 
  >some cool extension would be to actually do that in the FFT space, using cosprectrum matrices instead of correlation
 
+11/9/2017 12:17 AM
+
+ **andyh616** :
+
+ >hmm, ill have to think more about it as 'a special case of beamforming'.  thanks for the feedback alexandre.barachant!
+
