@@ -6840,3 +6840,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >we also had a discussion about repurposing the algorithm as a tool to define a common space for EEG datasets with various numbers of electrodes, electrode placements etc
 
+11/9/2017 1:39 PM
+
+ **andyh616** :
+
+ >hey alexandre.barachant, is the rationale for using log-euclidean mean that it is more robust to numerical rounding errors? or is there another reason?  Currently, we are computing correlation matrices, fisher's z scoring them and averaging, then inverting the fisher's transform to bring it back to correlation
+
