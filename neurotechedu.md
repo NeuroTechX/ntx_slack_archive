@@ -1536,3 +1536,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><!channel>: Time for our weekly check-in for EDU! Please select a time for our next call. <https://doodle.com/poll/bgz53xcthf68rtfk>
 
+11/9/2017 6:40 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Next call is November 14th at 5 pm eastern. :slightly_smiling_face: Sending out the invite
+
