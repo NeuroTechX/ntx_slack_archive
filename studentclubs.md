@@ -771,3 +771,9 @@ Can we be a student chapter of Neurotechx as well? We can't change the name of t
 
  >There is no Student Club in the Netherlands, but it would be awesome. Are you a student there?
 
+11/9/2017 7:09 AM
+
+ **pia.michel** :
+
+ >Yes, Im at the University of Amsterdam
+
