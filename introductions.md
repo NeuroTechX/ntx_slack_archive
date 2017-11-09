@@ -3672,3 +3672,12 @@ Miguel
 
  >Welcome on board agustnr64 alonso.amado.david &amp; macasal96. You should also join <#C1KFVAXCH|_barcelona> channel to connect with other people from Barcelona.
 
+11/9/2017 3:51 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome agustnr64!
+
+> 
+
+
