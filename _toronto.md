@@ -2706,3 +2706,90 @@ See you guys then!
 
  >Interesting! Pls tell more :)
 
+11/9/2017 6:04 PM
+
+ **bryan_j** :
+
+ >Hello NeuroTechTO members!
+
+> 
+
+
+> 
+The day has finally come. We have our fall community Meetup, tonight starting at 5:45pm! his event has been organized in partnership with our student clubs, NeuroTechUofT (at the University of Toronto) and the recently formed NeuroTechYU (at York University). e aim to provide attendees with an understanding of some possible steps they may take to develop as a professional in a field related to neurotechnology. 
+
+> 
+If you haven't yet registered, please do so here.
+
+> 
+
+
+> 
+AGENDA
+
+> 
+5:45pm - 6:10pm: Registration, networking
+
+> 
+6:10pm - 7:00pm: Keynote speaker: Chris Aimone (Interaxon)
+
+> 
+7:00pm - 7:40pm: Panel discussion
+
+> 
+7:30pm - 8:30pm: Food, networking, breakout discussions
+
+> 
+
+
+> 
+DIRECTIONS
+
+> 
+Location: OISE building, Room 2212
+
+> 
+252 Bloor Street West, Toronto
+
+> 
+
+
+> 
+It is just west of the St. George subway station
+
+> 
+Google Maps: <https://goo.gl/G9rbH5­>
+
+> 
+
+
+> 
+JOIN THE CONVERSATION
+
+> 
+Twitter: follow us @NeuroTechTO and share using #NTTO
+
+> 
+Facebook: search for NeuroTechX
+
+> 
+Slack: search for the NeuroTechX workspace
+
+> 
+
+
+> 
+As always, thank you for your interest in and dedication to our community.
+
+> 
+
+
+> 
+See you soon!
+
+> 
+
+
+> 
+NeuroTechTO
+
