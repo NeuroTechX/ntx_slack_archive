@@ -5400,3 +5400,9 @@ Looks like you can get good coverage with this setup and there's a wireless/mobi
 > 
 The 8-channel limit is with this specific setup, we have a couple of other mobile-devices in production right now that will allow 24-channel NIRS. So, yes, there are wireless options. Best would be to take this outside slack (mail me <mailto:jorn@artinis.com|jorn@artinis.com>).
 
+11/9/2017 11:51 PM
+
+ **adamm_neurable** :
+
+ >Does anyone know of any commercial "in-ear" EEG devices? Ear-buds/plugs? I know of the cEEGrid and the failed United Science "Aware" Kickstarter plus a handful of researchers who have hacked Muses and Neurosky's strip for ear-buds....but does anyone know of any other organization who is actively working on or selling EEG/Ear devices?
+
