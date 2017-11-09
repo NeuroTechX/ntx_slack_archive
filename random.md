@@ -3219,3 +3219,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >aj so weird.  the article came out nearly two months ago to the day.
 
+11/9/2017 8:42 PM
+
+ **dopamine_matt** :
+
+ >we get press ALL THE TIME and in much bigger publications than techcrunch.  no idea why this one took off the way that it did
+
