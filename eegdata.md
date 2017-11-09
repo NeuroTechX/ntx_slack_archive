@@ -6795,3 +6795,9 @@ it's a linear interpolation, and your predicted signal is just a linear combinat
 > 
 It should defenetly be linked to source reconstruction methods, and i'm even wondering if we can see it as a special case of beamforming
 
+11/9/2017 12:08 AM
+
+ **alexandre.barachant** :
+
+ >some cool extension would be to actually do that in the FFT space, using cosprectrum matrices instead of correlation
+
