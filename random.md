@@ -3201,3 +3201,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >I wonder what could be some neuro emojis to help explain scientific papers :smile:
 
+11/9/2017 6:00 PM
+
+ **bryan_j** :
+
+ >Awesome :slightly_smiling_face:
+
