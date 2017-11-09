@@ -6876,3 +6876,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >interesting! i'll check it out to see if it improves our reconstruction accuracy.  also, i'll expose the distance function as an argument in the software so the user can use euclidean, log-euclidean, riemannian..
 
+11/9/2017 1:48 PM
+
+ **alexandre.barachant** :
+
+ >well, i would say try first, no need to expose an extra parameter if it is not useful
+
