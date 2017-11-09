@@ -6864,3 +6864,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >for some application it actually improve a lot the performance. for some other it does not matter that much
 
+11/9/2017 1:46 PM
+
+ **alexandre.barachant** :
+
+ >but in essence, the log-euclidean mean is more robust because the log will downplay the effect on artifacts
+
