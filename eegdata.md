@@ -6858,3 +6858,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >aaahh, i see
 
+11/9/2017 1:46 PM
+
+ **alexandre.barachant** :
+
+ >for some application it actually improve a lot the performance. for some other it does not matter that much
+
