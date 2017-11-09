@@ -6894,3 +6894,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >i trend to think its not a good idea to add extra parameter just because we can :slightly_smiling_face:
 
+11/9/2017 1:50 PM
+
+ **andyh616** :
+
+ >yup! i agree :slightly_smiling_face:
+
