@@ -3627,3 +3627,15 @@ Regards
 > 
 <http://neuromads.sitemantic.com/neuromads/>
 
+11/9/2017 2:53 PM
+
+ **alonso.amado.david** :
+
+ >Hi, 
+
+> 
+I am David, a biomedical engineering student from UPF, Barcelona.
+
+> 
+I am part of the new students group NeuroMADS: <http://neuromads.sitemantic.com/neuromads/>
+
