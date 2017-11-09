@@ -6834,3 +6834,9 @@ It should defenetly be linked to source reconstruction methods, and i'm even won
 > 
 some cool extension would be to actually do that in the FFT space, using cosprectrum matrices instead of correlation"
 
+11/9/2017 12:27 AM
+
+ **andyh616** :
+
+ >we also had a discussion about repurposing the algorithm as a tool to define a common space for EEG datasets with various numbers of electrodes, electrode placements etc
+
