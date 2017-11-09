@@ -2565,3 +2565,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  ><https://youtu.be/DohLNxWkjmk>
 
+11/9/2017 6:16 PM
+
+ **sidksv** :
+
+ ><!channel> hoping to see some Jedis tomorrow night.
+
