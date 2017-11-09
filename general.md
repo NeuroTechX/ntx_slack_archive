@@ -6924,3 +6924,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >All this to say it is a concern across the board, and needs to be addressed. Looking forward to reading this tonight!
 
+11/9/2017 5:23 PM
+
+ **davidevaleriani** :
+
+ >very interesting article, thanks for sharing it sydneyneurotechx
+
