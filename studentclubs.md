@@ -765,3 +765,9 @@ Can we be a student chapter of Neurotechx as well? We can't change the name of t
 
  >Is there a student club in the Netherlands or people interested in getting together?
 
+11/9/2017 4:31 AM
+
+ **yannick** :
+
+ >There is no Student Club in the Netherlands, but it would be awesome. Are you a student there?
+
