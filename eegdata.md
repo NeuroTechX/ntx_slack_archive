@@ -6882,3 +6882,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >well, i would say try first, no need to expose an extra parameter if it is not useful
 
+11/9/2017 1:49 PM
+
+ **andyh616** :
+
+ >:thumbsup:
+
