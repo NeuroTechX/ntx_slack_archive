@@ -3597,3 +3597,33 @@ Let me now if this is something that inerests you :smile:
 
  >Hey kmclar1 exciting seeing you here. Great chatting with you last week about your work. We are glad to have you in our community forum!
 
+11/9/2017 11:54 AM
+
+ **agustnr64** :
+
+ >Hello everyone,
+
+> 
+My name is Agustin I am a biomedical engineering student in Barcelona, Spain.
+
+> 
+From today my group and me are part of the NeurotechX community. We recently founded a student club at Pompeu Fabra University, our club is called Neuromads (I leave a link at the end).
+
+> 
+We are starting to develop projects and we want to participate in neurotechX competitions, we are very motivated and we want to work :slightly_smiling_face:
+
+> 
+
+
+> 
+I hope we can collaborate together in the future.
+
+> 
+Regards
+
+> 
+
+
+> 
+<http://neuromads.sitemantic.com/neuromads/>
+
