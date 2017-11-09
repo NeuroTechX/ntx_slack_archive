@@ -777,3 +777,24 @@ Can we be a student chapter of Neurotechx as well? We can't change the name of t
 
  >Yes, Im at the University of Amsterdam
 
+11/9/2017 11:51 AM
+
+ **agustnr64** :
+
+ >Hello everyone,
+
+> 
+My name is Agustin I am a biomedical engineering student in barcelona, Spain. From today my group and I are part of the neurotechX community. We recently founded a student club at Pompue Fabra University, our club is called Neuromads (I leave a link at the end).
+
+> 
+We are starting to develop projects and we want to participate in neurotechX competitions, we are very motivated and we want to work :slightly_smiling_face:
+
+> 
+
+
+> 
+I hope we can collaborate together in the future.
+
+> 
+regards
+
