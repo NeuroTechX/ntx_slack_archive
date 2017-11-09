@@ -687,3 +687,9 @@ We can meet you in a few days
 > 
 CC jnaulty brian.westerman
 
+11/9/2017 6:13 PM
+
+ **aj** :
+
+ >Hey! Im in SF the 10th-19th just to program BCIs and such. Ill be at the jack night and will have a bunch of tech with me! Message me if you want to hack!
+
