@@ -6846,3 +6846,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >hey alexandre.barachant, is the rationale for using log-euclidean mean that it is more robust to numerical rounding errors? or is there another reason?  Currently, we are computing correlation matrices, fisher's z scoring them and averaging, then inverting the fisher's transform to bring it back to correlation
 
+11/9/2017 1:45 PM
+
+ **alexandre.barachant** :
+
+ >the rational for log-euclidean mean is that correlation matrices are SPD matrices (usually) so they belong to the manifold of SPD matrices. the proper way to average them is to use the log-euclidean metric (or even better, the riemannian metric, but it can be very computational)
+
