@@ -765,3 +765,9 @@ CC jnaulty brian.westerman
 
  >You need to be cool to be on that list. Are you cool perrotta? :slightly_smiling_face:
 
+11/10/2017 11:17 PM
+
+ **perrotta** :
+
+ >I hope Im cool! :slightly_smiling_face: Ive been wanting to come to SF hacknights but just figured they werent happening since I never saw much posted here.
+
