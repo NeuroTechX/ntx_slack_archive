@@ -6936,3 +6936,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >graeme Congratulations!!! For sure; wed love to get involved with this :smiley:
 
+11/10/2017 5:30 PM
+
+ **dan** :
+
+ >Hello! If there are any Chicagoans in the group, come on over to <#C42AR7X5X|chicago>!
+
