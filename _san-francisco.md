@@ -735,3 +735,9 @@ CC jnaulty brian.westerman
 
  >whoops I think it was the wrong aj Keller! :sweat_smile: Removed him, but I can't find you on fb... andreacoravos I added you (for sure..)
 
+11/10/2017 3:56 PM
+
+ **aj** :
+
+ >Oh yea Im not really whats your name on fb?
+
