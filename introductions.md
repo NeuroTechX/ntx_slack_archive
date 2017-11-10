@@ -3693,3 +3693,9 @@ Miguel
 
  >Welcome macasal96!
 
+11/10/2017 5:29 PM
+
+ **dan** :
+
+ >Hello! If there are any Chicagoans in the group, come on over to <#C42AR7X5X|chicago>!
+
