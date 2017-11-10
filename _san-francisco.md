@@ -783,3 +783,9 @@ CC jnaulty brian.westerman
 
  >Rule number one of NeuroTechSF HackNights& You dont talk about NeuroTechSF HackNights.
 
+11/10/2017 11:56 PM
+
+ **aj** :
+
+ >Ive never felt cooler then when Paul put me on the list #bciGoals
+
