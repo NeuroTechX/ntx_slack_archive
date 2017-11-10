@@ -723,3 +723,9 @@ CC jnaulty brian.westerman
 
  >oh paulsukhanov can you add me too? Im @coravos on Facebook
 
+11/10/2017 1:46 PM
+
+ **aj** :
+
+ >paulsukhanov did you add pushtheworldaj?
+
