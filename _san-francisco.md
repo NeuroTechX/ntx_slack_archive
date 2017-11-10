@@ -729,3 +729,9 @@ CC jnaulty brian.westerman
 
  >paulsukhanov did you add pushtheworldaj?
 
+11/10/2017 3:45 PM
+
+ **paulsukhanov** :
+
+ >whoops I think it was the wrong aj Keller! :sweat_smile: Removed him, but I can't find you on fb... andreacoravos I added you (for sure..)
+
