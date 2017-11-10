@@ -2619,3 +2619,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Great. Is there anything special I should bring other than my laptop? I sadly have no cool neuro-gadgets (yet).
 
+11/10/2017 6:47 PM
+
+ **yannick** :
+
+ >No need for anything else. Just bring your laptop, your curiosity and your smile :slightly_smiling_face:
+
