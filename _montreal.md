@@ -2589,3 +2589,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >6:30-9:00
 
+11/10/2017 4:56 PM
+
+ **sydneyneurotechx** :
+
+ >District 3 innovation center
+
