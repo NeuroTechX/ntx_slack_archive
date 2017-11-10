@@ -777,3 +777,9 @@ CC jnaulty brian.westerman
 
  >SF HackNights are like fight club.
 
+11/10/2017 11:43 PM
+
+ **yannick** :
+
+ >Rule number one of NeuroTechSF HackNights& You dont talk about NeuroTechSF HackNights.
+
