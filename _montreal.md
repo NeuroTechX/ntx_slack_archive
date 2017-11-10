@@ -2577,3 +2577,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Hey, I am thinking of joining you guys tonight. Can I have more details for the location/time.
 
+11/10/2017 4:34 PM
+
+ **crocodoyle** :
+
+ >I think it's usually like 
+
