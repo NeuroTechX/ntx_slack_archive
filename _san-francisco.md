@@ -747,3 +747,9 @@ CC jnaulty brian.westerman
 
  >I'm Paul Sukhanov (I think technically paul.sukhanov.3)
 
+11/10/2017 4:42 PM
+
+ **aj** :
+
+ >okay i found you!
+
