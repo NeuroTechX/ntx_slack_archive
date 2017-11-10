@@ -5406,3 +5406,15 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >Does anyone know of any commercial "in-ear" EEG devices? Ear-buds/plugs? I know of the cEEGrid and the failed United Science "Aware" Kickstarter plus a handful of researchers who have hacked Muses and Neurosky's strip for ear-buds....but does anyone know of any other organization who is actively working on or selling EEG/Ear devices?
 
+11/10/2017 3:28 PM
+
+ **dano** :
+
+ >Looks like the Mandic lab in the UK is doing the most focused work on in ear EEG devices. However, it doesn't look like they've started to commercialize yet.
+
+> 
+
+
+> 
+<https://www.nature.com/articles/s41598-017-06925-2>
+
