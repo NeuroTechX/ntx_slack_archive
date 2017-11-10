@@ -2607,3 +2607,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Room 600
 
+11/10/2017 4:57 PM
+
+ **sydneyneurotechx** :
+
+ >Window conference room :)
+
