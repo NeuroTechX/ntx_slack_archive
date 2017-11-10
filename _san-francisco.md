@@ -771,3 +771,9 @@ CC jnaulty brian.westerman
 
  >I hope Im cool! :slightly_smiling_face: Ive been wanting to come to SF hacknights but just figured they werent happening since I never saw much posted here.
 
+11/10/2017 11:42 PM
+
+ **yannick** :
+
+ >SF HackNights are like fight club.
+
