@@ -2613,3 +2613,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Window conference room :)
 
+11/10/2017 4:58 PM
+
+ **fortin.pasc** :
+
+ >Great. Is there anything special I should bring other than my laptop? I sadly have no cool neuro-gadgets (yet).
+
