@@ -2571,3 +2571,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  ><!channel> hoping to see some Jedis tomorrow night.
 
+11/10/2017 12:31 PM
+
+ **fortin.pasc** :
+
+ >Hey, I am thinking of joining you guys tonight. Can I have more details for the location/time.
+
