@@ -759,3 +759,9 @@ CC jnaulty brian.westerman
 
  >Could you add me as well please! Thanks! mvperrotta
 
+11/10/2017 10:40 PM
+
+ **yannick** :
+
+ >You need to be cool to be on that list. Are you cool perrotta? :slightly_smiling_face:
+
