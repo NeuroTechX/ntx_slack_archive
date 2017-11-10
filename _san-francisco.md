@@ -711,3 +711,9 @@ CC jnaulty brian.westerman
 
  >(PS I just added you to the group)
 
+11/10/2017 12:59 AM
+
+ **paulsukhanov** :
+
+ >Hey aj SF hack nights are usually coordinated on the facebook messenger group - you might have more luck messaging there!
+
