@@ -1542,3 +1542,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><!channel> Next call is November 14th at 5 pm eastern. :slightly_smiling_face: Sending out the invite
 
+11/11/2017 2:49 PM
+
+ **ryanlintott** :
+
+ >Just a quick question about consistency on the site. Are we going with UK, US, or Canadian English?
+
