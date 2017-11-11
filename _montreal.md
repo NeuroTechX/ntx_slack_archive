@@ -2625,3 +2625,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >No need for anything else. Just bring your laptop, your curiosity and your smile :slightly_smiling_face:
 
+11/11/2017 1:11 PM
+
+ **fortin.pasc** :
+
+ >Thank you all for yesterday evening, it was nice meeting you.
+
