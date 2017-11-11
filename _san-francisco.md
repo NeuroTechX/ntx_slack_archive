@@ -801,3 +801,9 @@ CC jnaulty brian.westerman
 
  >Hey guys :slightly_smiling_face: Just to be clear, this facebook group is to coordinate the Wednesday night meetup. Not for general neurotech discussions - which should happend on this slack channel. I created the facebook group a long time ago for privacy purposes when sharing personal information such as my garage address, etc..
 
+11/11/2017 6:58 PM
+
+ **marion** :
+
+ >So dont worry, you are not missing out if you are not on this group. However, if you would like to coordinate or have more info about the next hack night, someone will gladly add you.
+
