@@ -789,3 +789,9 @@ CC jnaulty brian.westerman
 
  >Ive never felt cooler then when Paul put me on the list #bciGoals
 
+11/11/2017 8:36 AM
+
+ **paulsukhanov** :
+
+ >Hahah
+
