@@ -1572,3 +1572,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >If neurotechX started in Canada maybe it should be Canadian English? :slightly_smiling_face: Honestly I dont think it matters which one we choose, just that theres a standard so the spellings are consistent.
 
+11/12/2017 4:47 PM
+
+ **ryanlintott** :
+
+ >US probably makes the most sense as its potentially the largest audience
+
