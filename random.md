@@ -3225,3 +3225,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >we get press ALL THE TIME and in much bigger publications than techcrunch.  no idea why this one took off the way that it did
 
+11/12/2017 7:51 PM
+
+ **aj** :
+
+ >anyone have experience with quantum programming?
+
