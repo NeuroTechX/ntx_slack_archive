@@ -1566,3 +1566,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Maybe US if that's where we have / are likely to have most readers, and based on co-founders? Mostly I just think consistency is important, any of them could work 
 
+11/12/2017 4:47 PM
+
+ **ryanlintott** :
+
+ >If neurotechX started in Canada maybe it should be Canadian English? :slightly_smiling_face: Honestly I dont think it matters which one we choose, just that theres a standard so the spellings are consistent.
+
