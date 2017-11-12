@@ -1560,3 +1560,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >What would be better?
 
+11/12/2017 6:52 AM
+
+ **sheida** :
+
+ >Maybe US if that's where we have / are likely to have most readers, and based on co-founders? Mostly I just think consistency is important, any of them could work 
+
