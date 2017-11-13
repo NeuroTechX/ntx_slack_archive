@@ -1620,3 +1620,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Def doesn't matter as l no as its consistent, I'm writing a book for oxford press in US English lol
 
+11/13/2017 11:15 PM
+
+ **sheida** :
+
+ >And I'm Canadian 
+
