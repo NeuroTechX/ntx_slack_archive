@@ -6990,3 +6990,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >For the fixed challenge competition, the instructions say "home-made acquisition board" do they mean fully homemade i.e. design and print the PCB in a microfabrication lab or can we buy a raspberry pi and work from there?
 
+11/13/2017 7:32 PM
+
+ **yannick** :
+
+ >omrin I guess you are talking about the <#C08S3426L|studentclubs> competition, if you dont mind asking your question there :slightly_smiling_face:
+
