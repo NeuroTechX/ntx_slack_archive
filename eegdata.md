@@ -6960,3 +6960,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Another <#C4LSDAE95|neurodoro>
 
+11/13/2017 3:19 PM
+
+ **alexandre.barachant** :
+
+ >awesome. can you share the architecture ?
+
