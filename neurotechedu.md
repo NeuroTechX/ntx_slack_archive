@@ -1650,3 +1650,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >USA dominates the interest :smile:
 
+11/13/2017 11:52 PM
+
+ **sydneyneurotechx** :
+
+ >So I guess for now, US spelling would be best. But I'm putting my foot down and saying that we should use the metric system.
+
