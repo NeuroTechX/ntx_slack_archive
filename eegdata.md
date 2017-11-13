@@ -6942,3 +6942,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >What exactly would you like to detect or predict?
 
+11/13/2017 1:43 PM
+
+ **alexandre.barachant** :
+
+ >the nuclear option =&gt; <https://github.com/alexandrebarachant/Grasp-and-lift-EEG-challenge>
+
