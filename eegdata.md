@@ -6918,3 +6918,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >There have been some competitions on Kaggle involving continuous EEG :
 
+11/13/2017 1:40 PM
+
+ **ruudkalis** :
+
+ ><https://www.kaggle.com/c/seizure-prediction>
+
