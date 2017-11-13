@@ -3243,3 +3243,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >Yessss
 
+11/13/2017 3:27 AM
+
+ **ben.tam** :
+
+ ><http://livestreamsc17.eventzilla.net/web/event?eventid=2138923747>
+
