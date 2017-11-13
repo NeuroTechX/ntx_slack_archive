@@ -6912,3 +6912,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Hello! Is anyone here doing any ML on whole brain continuous EEG? (rather than ERP)
 
+11/13/2017 1:39 PM
+
+ **ruudkalis** :
+
+ >There have been some competitions on Kaggle involving continuous EEG :
+
