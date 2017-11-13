@@ -2850,3 +2850,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  >Yusssss - did we get Alexander from the last Meetup on this list dano?
 
+11/13/2017 9:30 PM
+
+ **bryan_j** :
+
+ >The EEG/VR guy?
+
