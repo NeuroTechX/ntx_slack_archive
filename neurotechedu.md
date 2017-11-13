@@ -1602,3 +1602,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Again, its not a major issue, just good to have a standard so we dont end up changing the spelling back and forth.  Also, if you use <http://Atom.io|Atom.io> for your edits you can install the spell-checker and set it to the language you like en-US, en-CA or en-UK
 
+11/13/2017 11:22 AM
+
+ **ryanlintott** :
+
+ >though so far none of the languages like the word epoching :slightly_smiling_face:
+
