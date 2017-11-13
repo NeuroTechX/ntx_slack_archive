@@ -6966,3 +6966,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >awesome. can you share the architecture ?
 
+11/13/2017 3:21 PM
+
+ **dano** :
+
+ >Here's our code: <https://github.com/NeuroTechX/neurodoro/blob/5e38b0286d8424765db9186e13d2747212f6b5d8/classifier/neural_nets/juniper/eeg_rnn.py>
+
