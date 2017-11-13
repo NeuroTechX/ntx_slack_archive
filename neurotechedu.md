@@ -1614,3 +1614,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >thanks Ryan, I absolutely agree that it's important :slightly_smiling_face: I was just joking a bit. Not being a native speaker I am sure it would be hard for me to realize about the differences, but thanks for pointing out the spell-checker on Atom! As soon as we decide the standard I will set it up!
 
+11/13/2017 11:15 PM
+
+ **sheida** :
+
+ >Def doesn't matter as l no as its consistent, I'm writing a book for oxford press in US English lol
+
