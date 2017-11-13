@@ -2793,3 +2793,54 @@ See you soon!
 > 
 NeuroTechTO
 
+11/13/2017 3:25 PM
+
+ **dano** :
+
+ >```
+
+> 
+```
+
+> 
+Hey everybody,
+
+> 
+
+
+> 
+As promised, the frenetic once-a-week hacknight frequency continues. This week, we're moving back to our traditional Thursday time slot (sorry, Tom!), and checking out a fresh new location.
+
+> 
+
+
+> 
+Goodbye VarageSale, hello Top Hat!
+
+> 
+
+
+> 
+Time: Thursday the 16th, 6pm - 9pmish
+
+> 
+Location: Top Hat, 151 Bloor St W, Suite 200.
+
+> 
+
+
+> 
+Other things to keep in mind:
+
+> 
+
+
+> 
+NeuroTechTO is going to be hosting a booth at the upcoming Tech for Good meetup by We Are Wearables at MaRS on November 29th. We'll be demoing EEG 101, Neurodoro, and either the T-rex Blinks Runner or the Dharma Defender VR game I've been working on. Definitely consider coming out, and if you want us to talk about your project, let us know.
+
+> 
+
+
+> 
+NeuroTechX is looking for a Canadian Community Manager. If you want to make some connections in the neurotech scene, gain some leadership and organizational experience, and help the community grow you should consider giving it a shot. It's a volunteer position, but should only take about 5 hours per week.
+
