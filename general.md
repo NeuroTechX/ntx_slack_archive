@@ -6942,3 +6942,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Hello! If there are any Chicagoans in the group, come on over to <#C42AR7X5X|chicago>!
 
+11/13/2017 3:45 PM
+
+ **justme** :
+
+ >Hello somebody know something about smart drug like qualia
+
