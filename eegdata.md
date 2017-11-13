@@ -6954,3 +6954,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >there is a model for many type of feature (raw data, bandpower, covariance) and even some CNN and RNN
 
+11/13/2017 3:05 PM
+
+ **dano** :
+
+ >Another <#C4LSDAE95|neurodoro>
+
