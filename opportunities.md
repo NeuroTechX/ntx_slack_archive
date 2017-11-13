@@ -1137,3 +1137,9 @@ As a special education service, g.tec has open internships or thesis possibiliti
 
  >Yep! I imagine they're trying all kinds of things now
 
+11/13/2017 4:30 PM
+
+ **dano** :
+
+ >This position is still open
+
