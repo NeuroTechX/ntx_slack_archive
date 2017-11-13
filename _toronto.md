@@ -2844,3 +2844,9 @@ NeuroTechTO is going to be hosting a booth at the upcoming Tech for Good meetup 
 > 
 NeuroTechX is looking for a Canadian Community Manager. If you want to make some connections in the neurotech scene, gain some leadership and organizational experience, and help the community grow you should consider giving it a shot. It's a volunteer position, but should only take about 5 hours per week.
 
+11/13/2017 9:30 PM
+
+ **bryan_j** :
+
+ >Yusssss - did we get Alexander from the last Meetup on this list dano?
+
