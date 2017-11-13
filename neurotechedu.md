@@ -1596,3 +1596,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >ugh, hope someone will check my spelling then, or it will be ItalianEnglish (nah, but maybe Irish English? ) :grimacing:
 
+11/13/2017 11:21 AM
+
+ **ryanlintott** :
+
+ >Again, its not a major issue, just good to have a standard so we dont end up changing the spelling back and forth.  Also, if you use <http://Atom.io|Atom.io> for your edits you can install the spell-checker and set it to the language you like en-US, en-CA or en-UK
+
