@@ -6948,3 +6948,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >the nuclear option =&gt; <https://github.com/alexandrebarachant/Grasp-and-lift-EEG-challenge>
 
+11/13/2017 1:46 PM
+
+ **alexandre.barachant** :
+
+ >there is a model for many type of feature (raw data, bandpower, covariance) and even some CNN and RNN
+
