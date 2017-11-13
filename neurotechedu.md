@@ -1590,3 +1590,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >What is the standard for most of the world? UK?
 
+11/13/2017 11:19 AM
+
+ **francescacoo** :
+
+ >ugh, hope someone will check my spelling then, or it will be ItalianEnglish (nah, but maybe Irish English? ) :grimacing:
+
