@@ -3249,3 +3249,33 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  ><http://livestreamsc17.eventzilla.net/web/event?eventid=2138923747>
 
+11/13/2017 3:28 AM
+
+ **ben.tam** :
+
+ >D-Wave is the world leader in quantum computing technology. Register for the livestream to hear about the latest advances in quantum computing, software tools, and applications, and how it can be applied to problems in optimization, machine learning, sampling and cyber security.
+
+> 
+
+
+> 
+Agenda:
+
+> 
+
+
+> 
+ - The state of quantum computing
+
+> 
+- Introduction to the D-Wave 2000Q quantum computer, the most advanced quantum computer in the world
+
+> 
+- Software tools and the expanding ecosystem
+
+> 
+- Application examples
+
+> 
+- Q&amp;A
+
