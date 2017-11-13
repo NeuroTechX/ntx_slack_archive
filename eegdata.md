@@ -6972,3 +6972,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Here's our code: <https://github.com/NeuroTechX/neurodoro/blob/5e38b0286d8424765db9186e13d2747212f6b5d8/classifier/neural_nets/juniper/eeg_rnn.py>
 
+11/13/2017 6:47 PM
+
+ **andyh616** :
+
+ >super cool MEG decoding poster at SFN - <http://lauragwilliams.github.io/d/posters/Gwilliams_SNL_2017.pdf>
+
