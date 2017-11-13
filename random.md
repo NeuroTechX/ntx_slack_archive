@@ -3237,3 +3237,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >aj Brooo I added you to the <#C5RB2U1MW|quantum_systems> channel
 
+11/13/2017 3:26 AM
+
+ **aj** :
+
+ >Yessss
+
