@@ -6930,3 +6930,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Hey Ruud! Thanks! I was thinking more on scalp non-invasive EEG
 
+11/13/2017 1:41 PM
+
+ **ruudkalis** :
+
+ >You can try to apply similar ML methods
+
