@@ -804,3 +804,15 @@ regards
 
  >For the fixed challenge competition, the instructions say "home-made acquisition board" do they mean fully homemade i.e. design and print the PCB in a microfabrication lab or can we buy a raspberry pi and work from there?
 
+11/13/2017 8:56 PM
+
+ **yannick** :
+
+ >You can use existing parts. We are currently trying to define a fair evaluation grid as we want to encourage people to both have a good signal quality and learn the electronics behind it. That being said, it is hard to do everything from scratch and get a good quality. So we want the students to pick their own fight. Either they buy parts and have a better signal or they do it themselves and might have a poorer quality.
+
+> 
+The burden will be on the evaluation jury to come up with a fair evaluation system. 
+
+> 
+Well try to send more information soon.
+
