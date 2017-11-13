@@ -3231,3 +3231,9 @@ which is a very high resolution scan of a brain (highest resolution at 40 microm
 
  >anyone have experience with quantum programming?
 
+11/13/2017 3:24 AM
+
+ **ben.tam** :
+
+ >aj Brooo I added you to the <#C5RB2U1MW|quantum_systems> channel
+
