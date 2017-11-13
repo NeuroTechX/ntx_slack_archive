@@ -816,3 +816,9 @@ The burden will be on the evaluation jury to come up with a fair evaluation syst
 > 
 Well try to send more information soon.
 
+11/13/2017 9:01 PM
+
+ **yannick** :
+
+ >benjamindeleener might have something to add ^
+
