@@ -6906,3 +6906,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >thanks
 
+11/13/2017 1:22 PM
+
+ **rahman.shama** :
+
+ >Hello! Is anyone here doing any ML on whole brain continuous EEG? (rather than ERP)
+
