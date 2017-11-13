@@ -1584,3 +1584,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Good question eh?
 
+11/13/2017 4:04 AM
+
+ **sydneyneurotechx** :
+
+ >What is the standard for most of the world? UK?
+
