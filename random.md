@@ -3279,3 +3279,9 @@ Agenda:
 > 
 - Q&amp;A
 
+11/13/2017 3:31 AM
+
+ **ben.tam** :
+
+ >Some of the board directors of D-wave were actually at our last NeuroTechVan event where we talked about potential of quantum computation occurring naturally within the wetware of the mind. <https://www.youtube.com/watch?v=5qbRBT_WjH4&amp;t=738s>
+
