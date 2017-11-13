@@ -6924,3 +6924,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  ><https://www.kaggle.com/c/seizure-prediction>
 
+11/13/2017 1:41 PM
+
+ **rahman.shama** :
+
+ >Hey Ruud! Thanks! I was thinking more on scalp non-invasive EEG
+
