@@ -6996,3 +6996,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >omrin I guess you are talking about the <#C08S3426L|studentclubs> competition, if you dont mind asking your question there :slightly_smiling_face:
 
+11/13/2017 10:22 PM
+
+ **pia.michel** :
+
+ >no, nothing so far
+
