@@ -6978,3 +6978,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >They tell it could litteraly change our brain fonction
 
+11/13/2017 5:28 PM
+
+ **justme** :
+
+ >Combine with norotechx developper it can be realy big
+
