@@ -798,3 +798,9 @@ I hope we can collaborate together in the future.
 > 
 regards
 
+11/13/2017 8:49 PM
+
+ **omrin** :
+
+ >For the fixed challenge competition, the instructions say "home-made acquisition board" do they mean fully homemade i.e. design and print the PCB in a microfabrication lab or can we buy a raspberry pi and work from there?
+
