@@ -1608,3 +1608,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >though so far none of the languages like the word epoching :slightly_smiling_face:
 
+11/13/2017 1:05 PM
+
+ **francescacoo** :
+
+ >thanks Ryan, I absolutely agree that it's important :slightly_smiling_face: I was just joking a bit. Not being a native speaker I am sure it would be hard for me to realize about the differences, but thanks for pointing out the spell-checker on Atom! As soon as we decide the standard I will set it up!
+
