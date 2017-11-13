@@ -6984,3 +6984,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Combine with norotechx developper it can be realy big
 
+11/13/2017 6:43 PM
+
+ **omrin** :
+
+ >For the fixed challenge competition, the instructions say "home-made acquisition board" do they mean fully homemade i.e. design and print the PCB in a microfabrication lab or can we buy a raspberry pi and work from there?
+
