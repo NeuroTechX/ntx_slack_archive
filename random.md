@@ -3285,3 +3285,9 @@ Agenda:
 
  >Some of the board directors of D-wave were actually at our last NeuroTechVan event where we talked about potential of quantum computation occurring naturally within the wetware of the mind. <https://www.youtube.com/watch?v=5qbRBT_WjH4&amp;t=738s>
 
+11/13/2017 5:42 AM
+
+ **sydneyneurotechx** :
+
+ >Arivis Imaging has some cool VR demos they have done with different brain mappings. This one was showed at SFN <https://www.youtube.com/watch?v=kuDmqgQi2TU&amp;feature=youtu.be&amp;app=desktop>
+
