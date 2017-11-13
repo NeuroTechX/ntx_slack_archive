@@ -6936,3 +6936,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >You can try to apply similar ML methods
 
+11/13/2017 1:42 PM
+
+ **ruudkalis** :
+
+ >What exactly would you like to detect or predict?
+
