@@ -7002,3 +7002,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >no, nothing so far
 
+11/14/2017 3:03 PM
+
+ **alexander.chudinov** :
+
+ >Are there any uni opportunities regarding neurotech?
+
