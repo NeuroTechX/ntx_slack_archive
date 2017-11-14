@@ -5424,3 +5424,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >fred-simard ^
 
+11/14/2017 11:15 PM
+
+ **ben.cuthbert** :
+
+ >MUSE 2016: Has anybody had any luck decoding bluetooth packets containing accelerometer/gyroscope data? I've used alexandre.barachants post as a guide (<http://alexandre.barachant.org/blog/2017/01/27/reverse-engineering-muse-eeg-headband-bluetooth-protocol.html>) and messed around with the awesome muse-lsl repo, but I can't make sense of the data I get from non-eeg handles. Thanks in advance!
+
