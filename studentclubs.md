@@ -828,3 +828,9 @@ Well try to send more information soon.
 
  >omrin I agree with Yannick. Getting a good EEG signal using a custom homemade electronic board is difficult but I strongly encourage you to try the hard way. What you will get with the Raspberry Pi or an Arduino will be very limited and you will not be able to improve it much. Starting with EEG-friendly acquisition chips (i.e., high-resolution analog-digital converter) that are available on the market (like the ADS1299) is a good option if you dont know where to start with EEG acquisition. If you want to learn a lot in a short amount of time, try building your own EEG acquisition system with custom filters and amplifiers. We can provide you with some references and books on biosignal acquisition if you need some inspiration and guidance.
 
+11/14/2017 3:18 PM
+
+ **omrin** :
+
+ >Thanks benjamindeleener, that clarifies this project a lot.  I'll look on the awesome-bci resource to see which books would be good to read.
+
