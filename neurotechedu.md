@@ -1680,3 +1680,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Yeah I also will be at a work dinner :confused: but I will bring with me the laptop and told them I will run out for our call :smile:
 
+11/14/2017 3:36 PM
+
+ **francescacoo** :
+
+ >btw I finally updated the ethic section.. I am sure it still needs to be revised, but I tried to identify some main points. I need to add references (and I have seen the article sydney posted in general.. will read it and update the section if needed!)
+
