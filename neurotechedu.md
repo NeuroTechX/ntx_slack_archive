@@ -1704,3 +1704,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><!channel> should we postpone?
 
+11/14/2017 9:35 PM
+
+ **francescacoo** :
+
+ >Ok I am still quite behind this call.. I could in one hour if ok? Or later.. I am really sorry about that it's just taking longer than expected
+
