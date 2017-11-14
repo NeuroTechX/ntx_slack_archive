@@ -7020,3 +7020,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Always :slightly_smiling_face:
 
+11/14/2017 5:50 PM
+
+ **benbrain** :
+
+ >from someone with an undergrad in neuroscience, i highly recommend taking a minor in computer science if you're going to specialize in neuroscience as technical skills are vital
+
