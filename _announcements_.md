@@ -1725,3 +1725,9 @@ We would like to have a large amount of people be available for the town hall. T
 > 
 <https://doodle.com/poll/vy4fqa3hn8zh96zn>
 
+11/14/2017 1:51 AM
+
+ **bryan_j** :
+
+ >Yesssssss :)
+
