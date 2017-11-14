@@ -6996,3 +6996,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >sydneyneurotechx I believe so. the idea of the capsule learning rotation invariance can be applied to dealing with transfer across session / subject (for many activity, i believe there is a lot of similarity between subject, but often the 'point of view' in EEG signal is different because of the variation in cortical organization and shape). The connection between capusle is also interesting, because a specific brain pattern is often composed of many "independant" patterns distributed across the brain (fox exemple, synchronization and desynchronization in the contra an ipsilateral motor cortex for decoding imagined movement)
 
+11/14/2017 2:16 PM
+
+ **alexandre.barachant** :
+
+ >saying that, the capsule net seems to be tailored for image recognition, so it might be a little tricky to adapt
+
