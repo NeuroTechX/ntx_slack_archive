@@ -1716,3 +1716,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Im fine for the current time, I can do an hour later if needed and Im happy to postpone to another day as well.
 
+11/14/2017 9:37 PM
+
+ **ryanlintott** :
+
+ >Theres no dont mind answer in the poll. :slightly_smiling_face:
+
