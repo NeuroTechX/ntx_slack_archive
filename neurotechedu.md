@@ -1746,3 +1746,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Ok. Let me send out a new doodle for next week.
 
+11/14/2017 9:59 PM
+
+ **ryanlintott** :
+
+ >thanks
+
