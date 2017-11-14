@@ -1656,3 +1656,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >So I guess for now, US spelling would be best. But I'm putting my foot down and saying that we should use the metric system.
 
+11/14/2017 3:01 AM
+
+ **jfrayshe** :
+
+ >Im with Sydney, I think we should keep it with what the analytics tells us for now, and definitely use the metric system
+
