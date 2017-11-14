@@ -6978,3 +6978,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >super cool MEG decoding poster at SFN - <http://lauragwilliams.github.io/d/posters/Gwilliams_SNL_2017.pdf>
 
+11/14/2017 12:56 AM
+
+ **d.adamos** :
+
+ >Hi rahman.shama, our latest work focuses on passive music listening + continuous EEG recording.  <https://qz.com/812498/eeg-brain-scans-can-tell-if-you-like-a-song-better-than-any-music-streaming-service-algorithm/>
+
