@@ -7032,3 +7032,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Also is there a particular element of neurotech you would like to work on? alexander.chudinov? Do you want to work on the hardware? Would you prefer to do analysis of the data? Or do it all and build a BCI for a specific use case? Having a physics background can also be beneficial if you want to work with MRI/Ultrasound/NIRS
 
+11/14/2017 6:48 PM
+
+ **sydneyneurotechx** :
+
+ >I'd also look into biomedical engineering. It all depends on what you would like to do. Neurotech is a big field :slightly_smiling_face:
+
