@@ -1668,3 +1668,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Hey guys! Unfortunately i just got into work and I've been asked to help meet a deadline that will cut over our meeting tonight, so I regret to say that I won't be able to attend our call. I'll drop a quick upadte as to what has been done on my end: ERP is all updated and ready to go (formatting wise) though the original creators may want to review the content. Introduction to BCI: software tools is also created and input into the content is welcome. I just need to add images and it will be good to go. Ryan did me a favour and fixed the formatting for Oscillations so that should be functional now. Goals before our next meeting: fix any outstanding formatting issues with Oscillations, ERP, and Software tools to Use, and move onto to getting any outstanding content live before 2018. sydneyneurotechx I'll touch base with you later on about this meeting. Thanks guys, my apologies again. 
 
+11/14/2017 2:57 PM
+
+ **sheida** :
+
+ >I just realized the time of the call, I'm teaching until around 5:30 but I can try to let class out early and join after 
+
