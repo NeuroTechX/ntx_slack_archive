@@ -3291,3 +3291,9 @@ Agenda:
 
  >Arivis Imaging has some cool VR demos they have done with different brain mappings. This one was showed at SFN <https://www.youtube.com/watch?v=kuDmqgQi2TU&amp;feature=youtu.be&amp;app=desktop>
 
+11/14/2017 9:06 PM
+
+ **sydneyneurotechx** :
+
+ >The DEF CON 25 Biohacking village Talks are up. Some really interesting ones. For example, if you ever plan to get a IOT sex toy, Don't. <https://www.youtube.com/watch?list=PL9fPq3eQfaaAdFN2gUrSPchLpQklSEdxo&amp;time_continue=2&amp;v=g3lvY5an4-E>
+
