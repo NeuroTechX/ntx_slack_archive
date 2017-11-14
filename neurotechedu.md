@@ -1740,3 +1740,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >sorry
 
+11/14/2017 9:59 PM
+
+ **sydneyneurotechx** :
+
+ >Ok. Let me send out a new doodle for next week.
+
