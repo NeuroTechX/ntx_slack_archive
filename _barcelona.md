@@ -348,3 +348,33 @@ You can meet without me today or you can wait for me next week. Im in the MTL t
 
  >we didn't set up the call yet, wasn't sure if you were joining :stuck_out_tongue:
 
+11/14/2017 4:59 PM
+
+ **agustnr64** :
+
+ >Hello everyone,
+
+> 
+My name is Agustin I am a biomedical engineering student in Barcelona, Spain.
+
+> 
+I am part of  Neuromads, the recently student club founded  at Pompeu Fabra University, Barcelona (I leave a link at the end).
+
+> 
+We are starting to develop projects and we want to participate in neurotechX competitions, we are very motivated and we want to work :slightly_smiling_face:
+
+> 
+
+
+> 
+If anybody wants to join to our group or want to be mentor, we will glad to meet you and talk it about
+
+> 
+I hope we can collaborate together in the future.
+
+> 
+Regards
+
+> 
+<http://neuromads.sitemantic.com/neuromads/>
+
