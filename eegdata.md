@@ -6984,3 +6984,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Hi rahman.shama, our latest work focuses on passive music listening + continuous EEG recording.  <https://qz.com/812498/eeg-brain-scans-can-tell-if-you-like-a-song-better-than-any-music-streaming-service-algorithm/>
 
+11/14/2017 1:02 AM
+
+ **sydneyneurotechx** :
+
+ >Any potential opportunities with Hinton's capsule networks and eeg data? <https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b>
+
