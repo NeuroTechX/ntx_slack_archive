@@ -1710,3 +1710,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Ok I am still quite behind this call.. I could in one hour if ok? Or later.. I am really sorry about that it's just taking longer than expected
 
+11/14/2017 9:37 PM
+
+ **ryanlintott** :
+
+ >Im fine for the current time, I can do an hour later if needed and Im happy to postpone to another day as well.
+
