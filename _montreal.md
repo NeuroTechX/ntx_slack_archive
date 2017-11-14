@@ -2631,3 +2631,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Thank you all for yesterday evening, it was nice meeting you.
 
+11/14/2017 12:45 AM
+
+ **naoto** :
+
+ >fortin.pasc did you bring your brain at least?
+
