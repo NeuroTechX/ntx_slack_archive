@@ -1722,3 +1722,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Theres no dont mind answer in the poll. :slightly_smiling_face:
 
+11/14/2017 9:57 PM
+
+ **sydneyneurotechx** :
+
+ >I have some work I need to do for after. How about we do the call next week on Tuesday at the same time?
+
