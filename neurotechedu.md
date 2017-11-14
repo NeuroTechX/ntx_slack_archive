@@ -1776,3 +1776,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Ok will reply to the doodle thanks and sorry !
 
+11/14/2017 10:19 PM
+
+ **sheida** :
+
+ >Just seeing this now, explains why I couldn't join :see_no_evil:
+
