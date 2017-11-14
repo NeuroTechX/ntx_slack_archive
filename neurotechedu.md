@@ -1698,3 +1698,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Hmm who is joining actually? I might be a bit late maybe we could postpone a bit? If we are all ok of course.. 
 
+11/14/2017 8:59 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> should we postpone?
+
