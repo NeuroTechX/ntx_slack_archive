@@ -6990,3 +6990,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Any potential opportunities with Hinton's capsule networks and eeg data? <https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b>
 
+11/14/2017 2:15 PM
+
+ **alexandre.barachant** :
+
+ >sydneyneurotechx I believe so. the idea of the capsule learning rotation invariance can be applied to dealing with transfer across session / subject (for many activity, i believe there is a lot of similarity between subject, but often the 'point of view' in EEG signal is different because of the variation in cortical organization and shape). The connection between capusle is also interesting, because a specific brain pattern is often composed of many "independant" patterns distributed across the brain (fox exemple, synchronization and desynchronization in the contra an ipsilateral motor cortex for decoding imagined movement)
+
