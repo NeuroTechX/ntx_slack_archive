@@ -1686,3 +1686,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >btw I finally updated the ethic section.. I am sure it still needs to be revised, but I tried to identify some main points. I need to add references (and I have seen the article sydney posted in general.. will read it and update the section if needed!)
 
+11/14/2017 6:51 PM
+
+ **sydneyneurotechx** :
+
+ >Ok! See some of you tonight!
+
