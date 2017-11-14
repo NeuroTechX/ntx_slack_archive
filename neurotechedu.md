@@ -1674,3 +1674,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >I just realized the time of the call, I'm teaching until around 5:30 but I can try to let class out early and join after 
 
+11/14/2017 3:35 PM
+
+ **francescacoo** :
+
+ >Yeah I also will be at a work dinner :confused: but I will bring with me the laptop and told them I will run out for our call :smile:
+
