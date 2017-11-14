@@ -1701,3 +1701,27 @@ NeuroTechX is currently looking for a Community Manager for Canada (aka Canadian
 > 
 As a special education service, g.tec has open internships or thesis possibilities in order to learn EEG/BCI skills for your lab. Apply now! Send your internship/thesis applications to Christoph Guger <mailto:guger@gtec.at|guger@gtec.at>.
 
+11/14/2017 12:43 AM
+
+ **yannick** :
+
+ >:ntxblack: <!channel> :ntxblue: 
+
+> 
+
+
+> 
+NeuroTechX would like to invite you all to the first ever NeuroTechX Virtual Town Hall.   We have grown to become quite big as a community in the past 2 years,  starting as a small group of less than 50 to becoming  2000 on Slack. However the cost of growth is that it becomes difficult to engage with everyone. We cant truly be a strong community if we only hear the opinions of a few. For those who are new, this town hall we will be covering some of the initiatives that we are working on as well as give you some insights as to where we will be going for 2018. You will also be given an opportunity to share your opinions and suggestions on how to improve the community as well as learn about ways that you can contribute to the NeuroTechX mission. 
+
+> 
+
+
+> 
+We would like to have a large amount of people be available for the town hall. Therefore, please let us know which days would be best for you to attend by filling out the Doodle below. If you are unable to make it to any of the suggested times but would still be interested in participating, please inform us in the Doodle. If enough people cannot make the suggested time, we will change it. 
+
+> 
+
+
+> 
+<https://doodle.com/poll/vy4fqa3hn8zh96zn>
+
