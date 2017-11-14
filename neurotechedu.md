@@ -1728,3 +1728,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >I have some work I need to do for after. How about we do the call next week on Tuesday at the same time?
 
+11/14/2017 9:58 PM
+
+ **ryanlintott** :
+
+ >I can do Mon, Wed and Fri but not Tues or Thurs
+
