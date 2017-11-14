@@ -1734,3 +1734,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >I can do Mon, Wed and Fri but not Tues or Thurs
 
+11/14/2017 9:58 PM
+
+ **ryanlintott** :
+
+ >sorry
+
