@@ -7026,3 +7026,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >from someone with an undergrad in neuroscience, i highly recommend taking a minor in computer science if you're going to specialize in neuroscience as technical skills are vital
 
+11/14/2017 6:47 PM
+
+ **sydneyneurotechx** :
+
+ >Also is there a particular element of neurotech you would like to work on? alexander.chudinov? Do you want to work on the hardware? Would you prefer to do analysis of the data? Or do it all and build a BCI for a specific use case? Having a physics background can also be beneficial if you want to work with MRI/Ultrasound/NIRS
+
