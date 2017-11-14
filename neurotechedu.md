@@ -1692,3 +1692,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Ok! See some of you tonight!
 
+11/14/2017 8:20 PM
+
+ **francescacoo** :
+
+ >Hmm who is joining actually? I might be a bit late maybe we could postpone a bit? If we are all ok of course.. 
+
