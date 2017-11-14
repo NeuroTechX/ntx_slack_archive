@@ -7008,3 +7008,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Are there any uni opportunities regarding neurotech?
 
+11/14/2017 4:03 PM
+
+ **alexander.chudinov** :
+
+ >Is neuroscience a good start?
+
