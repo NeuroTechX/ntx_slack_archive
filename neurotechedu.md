@@ -1662,3 +1662,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Im with Sydney, I think we should keep it with what the analytics tells us for now, and definitely use the metric system
 
+11/14/2017 1:33 PM
+
+ **jfrayshe** :
+
+ >Hey guys! Unfortunately i just got into work and I've been asked to help meet a deadline that will cut over our meeting tonight, so I regret to say that I won't be able to attend our call. I'll drop a quick upadte as to what has been done on my end: ERP is all updated and ready to go (formatting wise) though the original creators may want to review the content. Introduction to BCI: software tools is also created and input into the content is welcome. I just need to add images and it will be good to go. Ryan did me a favour and fixed the formatting for Oscillations so that should be functional now. Goals before our next meeting: fix any outstanding formatting issues with Oscillations, ERP, and Software tools to Use, and move onto to getting any outstanding content live before 2018. sydneyneurotechx I'll touch base with you later on about this meeting. Thanks guys, my apologies again. 
+
