@@ -7002,3 +7002,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >saying that, the capsule net seems to be tailored for image recognition, so it might be a little tricky to adapt
 
+11/15/2017 12:37 AM
+
+ **fred-simard** :
+
+ >sydneyneurotechx One of the goal aimed by Geoff, when he presents the capsule network, is to reduce the number of data samples required for the network to learn advanced invariant representation. Any steps toward speeding up the training of the powerful deep nets is bound to be ground breaking. In consumer EEG, that means better and more individualized data analytics, shorter after device unboxing.
+
