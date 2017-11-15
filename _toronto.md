@@ -2856,3 +2856,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  >The EEG/VR guy?
 
+11/15/2017 11:20 PM
+
+ **dano** :
+
+ >Does anyone know how to use Adobr After Effects?
+
