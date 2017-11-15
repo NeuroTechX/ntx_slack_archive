@@ -1782,3 +1782,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Just seeing this now, explains why I couldn't join :see_no_evil:
 
+11/15/2017 9:48 AM
+
+ **francescacoo** :
+
+ >Hi yep also the times displayed for Europe are all during my working hours unfortunately.. maybe something wrong in the settings?
+
