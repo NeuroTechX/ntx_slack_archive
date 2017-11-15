@@ -3699,3 +3699,9 @@ Miguel
 
  >Hello! If there are any Chicagoans in the group, come on over to <#C42AR7X5X|chicago>!
 
+11/15/2017 5:56 AM
+
+ **yaxelp** :
+
+ >Hello everyone! I'm a nerd from Orlando, FL. I bought some EEG electrodes and I came here to figure out what to do with them
+
