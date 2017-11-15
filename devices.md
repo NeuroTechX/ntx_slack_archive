@@ -5454,3 +5454,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >Hey aj will you be going to hacknight tomorrow in SF?
 
+11/15/2017 6:48 AM
+
+ **aj** :
+
+ >mhough 100%
+
