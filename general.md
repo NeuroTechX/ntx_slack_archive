@@ -7053,3 +7053,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Not a game changer, but still: <https://www.kickstarter.com/projects/neurotinker/neurobytes-electronic-neuron-simulators>
 
+11/15/2017 10:37 PM
+
+ **alisa** :
+
+ >Hello! My name is Alisa and I am an undergraduate neuroscience student writing on behalf of NeurotechUofT. Would anyone here be very good with EMG?
+
