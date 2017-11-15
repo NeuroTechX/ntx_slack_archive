@@ -7014,3 +7014,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >sydneyneurotechx fred-simard alexandre.barachant love the conversation on this and was certainly researching around his paper. Partly because of previous comments about his own direction post-backprop and lots of things in this particular paper, there is lots to like for vision scientists:) I was introduced to geometric algebra by physicists trying to understand what the visual system was managing to accomplish and even if we aren't on best track forward, its certainly a rich source of ideas to draw from. Karl Pribram always thought so:) Following that particular approach, there are reasons to move to a conformal geometry for the new invariants that you can then estimate. The kind of problems they are trying to solve in robotics is perhaps a better context for seeing the need for this. I liked the fact that his paper is using a more complex MNIST no matter what. Sorry this isn't very put together but I think its great direction and yes I think its even good for EEG.
 
+11/15/2017 5:46 AM
+
+ **mhough** :
+
+ >Hey @andy616 thanks for sharing the super EEG paper. The paper and the brief discussion of it with psoulos and alexandre.barachant was very thought provoking. I'd be very interested in playing with the toolbox when its available. Is that MATLAB or python? Michele used GPy for his re-implementation of Haak et al. paper from this Summer so GPs are something that I have been looking at recently. Did you see the paper from Google Brain recently on DNNs as GPs?
+
