@@ -5460,3 +5460,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >mhough 100%
 
+11/15/2017 7:08 AM
+
+ **mhough** :
+
+ >Cool man. Didn't think I would be in town but thank you for the silver lining:)
+
