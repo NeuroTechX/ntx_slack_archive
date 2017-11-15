@@ -3711,3 +3711,9 @@ Miguel
 
  >Hey yaxelp, welcome on board! Keep on nerding out with electrodes, youre at the right place to meet other EEG nerds :slightly_smiling_face: (e.g. me)
 
+11/15/2017 6:08 PM
+
+ **sydneyneurotechx** :
+
+ >Welcome yaxelp!
+
