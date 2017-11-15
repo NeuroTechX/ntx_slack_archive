@@ -7047,3 +7047,9 @@ Great work guys! (good job on the interview mattherich!)
 > 
 <https://www.forbes.com/30-under-30/2018/science/#1cba36773eac>
 
+11/15/2017 10:29 PM
+
+ **fred-simard** :
+
+ >Not a game changer, but still: <https://www.kickstarter.com/projects/neurotinker/neurobytes-electronic-neuron-simulators>
+
