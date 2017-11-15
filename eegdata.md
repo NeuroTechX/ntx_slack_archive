@@ -7026,3 +7026,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Hey mhough, no problem! It's a python toolbox and it will be available in the next month or so. I will announce it on here. I have not seen the google brain paper but will check it out. Thanks for the ref!
 
+11/15/2017 8:03 PM
+
+ **mhough** :
+
+ >Perfect. Thanks
+
