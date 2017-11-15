@@ -1794,3 +1794,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >So Ive finally pushed some changes to the Intro to Neuroscience section. Ive only worked on the intro section, neuroscience and the divisions of the nervous system so far but Im mostly happy with it. Im going to move on to the sections below next.
 
+11/15/2017 4:43 PM
+
+ **ryanlintott** :
+
+ >Also, in doing some research I ended up watching this whole video series on the subject that I found very helpful, informative and entertaining. <https://www.youtube.com/watch?v=qPix_X-9t7E>
+
