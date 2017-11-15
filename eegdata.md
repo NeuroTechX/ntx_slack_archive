@@ -7008,3 +7008,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >sydneyneurotechx One of the goal aimed by Geoff, when he presents the capsule network, is to reduce the number of data samples required for the network to learn advanced invariant representation. Any steps toward speeding up the training of the powerful deep nets is bound to be ground breaking. In consumer EEG, that means better and more individualized data analytics, shorter after device unboxing.
 
+11/15/2017 3:38 AM
+
+ **mhough** :
+
+ >sydneyneurotechx fred-simard alexandre.barachant love the conversation on this and was certainly researching around his paper. Partly because of previous comments about his own direction post-backprop and lots of things in this particular paper, there is lots to like for vision scientists:) I was introduced to geometric algebra by physicists trying to understand what the visual system was managing to accomplish and even if we aren't on best track forward, its certainly a rich source of ideas to draw from. Karl Pribram always thought so:) Following that particular approach, there are reasons to move to a conformal geometry for the new invariants that you can then estimate. The kind of problems they are trying to solve in robotics is perhaps a better context for seeing the need for this. I liked the fact that his paper is using a more complex MNIST no matter what. Sorry this isn't very put together but I think its great direction and yes I think its even good for EEG.
+
