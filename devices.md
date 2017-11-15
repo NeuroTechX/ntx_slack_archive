@@ -5436,3 +5436,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >ben.cuthbert I think urish did decide accelerometer data for his muse-js package
 
+11/15/2017 12:21 AM
+
+ **ray_cassani** :
+
+ >hey yannick, do we have a Muse 2016 at NT Montreal?  I'd like to give a try with those packages in the <#C073X2ZQW|hacknights>
+
