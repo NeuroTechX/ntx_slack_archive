@@ -7038,3 +7038,12 @@ Great work guys! (good job on the interview mattherich!)
 
  >I'd also look into biomedical engineering. It all depends on what you would like to do. Neurotech is a big field :slightly_smiling_face:
 
+11/15/2017 1:59 AM
+
+ **yannick** :
+
+ >Congratulations to conor (CEO of OpenBCI) for his Forbes 30 under 30 nomination. OpenBCI has allowed a lot of people to learn more about bio-signals like EMG and EEG and has tirelessly been spreading the values of open source and accessibility over the past few years.
+
+> 
+<https://www.forbes.com/30-under-30/2018/science/#1cba36773eac>
+
