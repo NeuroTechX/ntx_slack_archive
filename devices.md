@@ -5442,3 +5442,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >hey yannick, do we have a Muse 2016 at NT Montreal?  I'd like to give a try with those packages in the <#C073X2ZQW|hacknights>
 
+11/15/2017 12:22 AM
+
+ **sydneyneurotechx** :
+
+ >We do ray_cassani
+
