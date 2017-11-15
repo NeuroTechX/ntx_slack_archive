@@ -3717,3 +3717,9 @@ Miguel
 
  >Welcome yaxelp!
 
+11/15/2017 6:11 PM
+
+ **hannakvr** :
+
+ >hello everyone! glad to be joining the NeuroTechX slack. at the moment, i do research at usc's neuroimaging and informatics institute in los angeles with one of the current projects being the human and mouse connectome project. i do contractual work as a data analyst for a consumer neuro research firm in SF as well. my love for neuroscience, psychology, and tech stemmed from working with EEG and tDCS on a clinical and research basis. i look forward to chatting and collaborating with seemingly cool and like-minded people :slightly_smiling_face:
+
