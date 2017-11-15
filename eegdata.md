@@ -7020,3 +7020,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Hey @andy616 thanks for sharing the super EEG paper. The paper and the brief discussion of it with psoulos and alexandre.barachant was very thought provoking. I'd be very interested in playing with the toolbox when its available. Is that MATLAB or python? Michele used GPy for his re-implementation of Haak et al. paper from this Summer so GPs are something that I have been looking at recently. Did you see the paper from Google Brain recently on DNNs as GPs?
 
+11/15/2017 7:24 PM
+
+ **andyh616** :
+
+ >Hey mhough, no problem! It's a python toolbox and it will be available in the next month or so. I will announce it on here. I have not seen the google brain paper but will check it out. Thanks for the ref!
+
