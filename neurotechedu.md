@@ -1788,3 +1788,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Hi yep also the times displayed for Europe are all during my working hours unfortunately.. maybe something wrong in the settings?
 
+11/15/2017 4:43 PM
+
+ **ryanlintott** :
+
+ >So Ive finally pushed some changes to the Intro to Neuroscience section. Ive only worked on the intro section, neuroscience and the divisions of the nervous system so far but Im mostly happy with it. Im going to move on to the sections below next.
+
