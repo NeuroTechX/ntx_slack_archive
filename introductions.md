@@ -3705,3 +3705,9 @@ Miguel
 
  >Hello everyone! I'm a nerd from Orlando, FL. I bought some EEG electrodes and I came here to figure out what to do with them
 
+11/15/2017 12:51 PM
+
+ **yannick** :
+
+ >Hey yaxelp, welcome on board! Keep on nerding out with electrodes, youre at the right place to meet other EEG nerds :slightly_smiling_face: (e.g. me)
+
