@@ -7059,3 +7059,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Hello! My name is Alisa and I am an undergraduate neuroscience student writing on behalf of NeurotechUofT. Would anyone here be very good with EMG?
 
+11/15/2017 10:38 PM
+
+ **alisa** :
+
+ >We need emergency help regarding a non-NeurotechX competition project.
+
