@@ -5484,3 +5484,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >You are welcome :slightly_smiling_face: What are you building?
 
+11/16/2017 11:39 AM
+
+ **alexandre.barachant** :
+
+ >albertle what is MMG ?
+
