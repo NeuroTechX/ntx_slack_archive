@@ -2643,3 +2643,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Yep! It was a lot of fun. 
 
+11/16/2017 1:30 AM
+
+ **sydneyneurotechx** :
+
+ >See everyone on Friday at 6:30?
+
