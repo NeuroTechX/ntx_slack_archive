@@ -7065,3 +7065,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >We need emergency help regarding a non-NeurotechX competition project.
 
+11/16/2017 2:01 AM
+
+ **yrenard** :
+
+ >alisa I can probably help with this
+
