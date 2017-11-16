@@ -2886,3 +2886,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  >Thanks for letting us know Maria! See you on November 29
 
+11/16/2017 10:35 PM
+
+ **cbattista** :
+
+ ><!here> for tonight's hack night, you may will probably need to be let into the building - so either post a message or call/text me at <tel:416-529-3387|416-529-3387> (o
+
