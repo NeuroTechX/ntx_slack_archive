@@ -378,3 +378,21 @@ Regards
 > 
 <http://neuromads.sitemantic.com/neuromads/>
 
+11/16/2017 4:37 PM
+
+ **firassafieddine** :
+
+ >hello agustnr64 
+
+> 
+Happy to hear from you
+
+> 
+Thats great news, I am architect/technology enthusiast based in Barcelona, and been working on Neuroscience for a while now.
+
+> 
+There was some meeting we had a couple months ago, to make some noise and reach out the neuro-community in Barcelona, but it is going very slow.
+
+> 
+I will check the website you sent, and would certainly like to know more and checkout the work you guys do
+
