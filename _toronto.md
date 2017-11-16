@@ -2874,3 +2874,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  ><!channel>
 
+11/16/2017 1:10 AM
+
+ **mariaisdopamine** :
+
+ >Hey guys I won't be at the hack night tomorrow but I will see you at the Wearables event! 
+
