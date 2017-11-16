@@ -1806,3 +1806,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >I have put my availability, but for the days during the week I would still be in the office, so I can join only via chat and audio but not talk...
 
+11/16/2017 2:57 PM
+
+ **francescacoo** :
+
+ >thanks for the link Ryan! I will watch it for sure!
+
