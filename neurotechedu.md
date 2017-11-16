@@ -1818,3 +1818,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Cool video ryanlintott
 
+11/16/2017 7:03 PM
+
+ **sydneyneurotechx** :
+
+ >ryanlintott Can you provide your availablilities for the doodle?
+
