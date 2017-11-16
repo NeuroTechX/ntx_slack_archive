@@ -1812,3 +1812,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >thanks for the link Ryan! I will watch it for sure!
 
+11/16/2017 7:03 PM
+
+ **sydneyneurotechx** :
+
+ >Cool video ryanlintott
+
