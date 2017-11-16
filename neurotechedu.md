@@ -1800,3 +1800,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Also, in doing some research I ended up watching this whole video series on the subject that I found very helpful, informative and entertaining. <https://www.youtube.com/watch?v=qPix_X-9t7E>
 
+11/16/2017 2:57 PM
+
+ **francescacoo** :
+
+ >I have put my availability, but for the days during the week I would still be in the office, so I can join only via chat and audio but not talk...
+
