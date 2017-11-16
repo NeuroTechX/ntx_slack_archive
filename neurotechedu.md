@@ -1824,3 +1824,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >ryanlintott Can you provide your availablilities for the doodle?
 
+11/16/2017 7:07 PM
+
+ **ryanlintott** :
+
+ >I would but the time zones seem wrong.
+
