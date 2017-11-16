@@ -7107,3 +7107,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >For those of you interested in computational neuroscience, Numenta's new theory is out. The companion video is great at summarizing how columns and minicolums in the cortex treat sensory and proprioception information to recognize objects <http://www.businesswire.com/news/home/20171115006003/en/Numenta-Publishes-New-Theory-Solve-Mystery-Brain>
 
+11/16/2017 10:46 PM
+
+ **chriscrawford** :
+
+ >Anyone have a reference to changes in the cost of physio sensors over the past decade?
+
