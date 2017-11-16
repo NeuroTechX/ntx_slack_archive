@@ -5490,3 +5490,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >albertle what is MMG ?
 
+11/16/2017 1:18 PM
+
+ **albertle** :
+
+ >alexandre.barachant sorry, I should have been clear that that picture is not ours. I'm not sure what MMG is; just the EMG plots are relevant to what we were seeing. 
+
