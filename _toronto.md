@@ -2880,3 +2880,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  >Hey guys I won't be at the hack night tomorrow but I will see you at the Wearables event! 
 
+11/16/2017 3:19 AM
+
+ **bryan_j** :
+
+ >Thanks for letting us know Maria! See you on November 29
+
