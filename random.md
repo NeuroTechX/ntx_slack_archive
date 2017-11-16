@@ -3297,3 +3297,9 @@ Agenda:
 
  >The DEF CON 25 Biohacking village Talks are up. Some really interesting ones. For example, if you ever plan to get a IOT sex toy, Don't. <https://www.youtube.com/watch?list=PL9fPq3eQfaaAdFN2gUrSPchLpQklSEdxo&amp;time_continue=2&amp;v=g3lvY5an4-E>
 
+11/16/2017 1:48 PM
+
+ **sc** :
+
+ ><https://www.wired.com/story/inside-the-race-to-build-a-brain-machine-interface/amp>
+
