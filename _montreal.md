@@ -2649,3 +2649,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >See everyone on Friday at 6:30?
 
+11/16/2017 2:20 AM
+
+ **fred-simard** :
+
+ >i'll be there
+
