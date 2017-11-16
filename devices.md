@@ -5502,3 +5502,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >Most likely mechanomyogram
 
+11/16/2017 7:06 PM
+
+ **ben.cuthbert** :
+
+ >We've got a couple of ideas.. for now we're just trying to get a solid handle on interfacing with the muse
+
