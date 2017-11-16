@@ -5478,3 +5478,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >Great! I'm checking it out now. Looks like you got battery &amp; temperature info too- that's wicked!
 
+11/16/2017 9:42 AM
+
+ **urish** :
+
+ >You are welcome :slightly_smiling_face: What are you building?
+
