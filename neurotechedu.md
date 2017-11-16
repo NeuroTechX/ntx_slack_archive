@@ -1860,3 +1860,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >All done
 
+11/16/2017 10:29 PM
+
+ **jfrayshe** :
+
+ >Lol I saw the AM times but signed up anyways because i figured i could use an early rise
+
