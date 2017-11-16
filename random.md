@@ -3309,3 +3309,9 @@ Agenda:
 
  >Thanks for sharing. Nice to see an update. My thesis is concerned with designing a BCI to improve memory. This guy, Johnson, is not a scientist, but Ed Boydon, the MIT guy he hired, is good. It looks like they have pivoted to trying to come up with better recording devices, like Musk and Neuralink. This makes them a neural device mfg. Will be interesting to see if they come up with anything useful that can compete with established stalwarts like TDT or Blackrock. I didn't see them at SfN this year, although I could've missed them.
 
+11/16/2017 5:37 PM
+
+ **rohit** :
+
+ ><https://blog.hackster.io/design-and-modify-a-simulated-brain-using-neurobytes-f1e375d52d0>
+
