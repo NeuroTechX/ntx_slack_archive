@@ -7071,3 +7071,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >alisa I can probably help with this
 
+11/16/2017 3:25 PM
+
+ **dano** :
+
+ >Those Neurobytes are actually great fun and have a lot of potential as a neuroscience teaching tool. teon was showing them off at the Mozilla Working Open Workshop
+
