@@ -7032,3 +7032,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Perfect. Thanks
 
+11/17/2017 11:22 PM
+
+ **graeme** :
+
+ >sydneyneurotechx
+
