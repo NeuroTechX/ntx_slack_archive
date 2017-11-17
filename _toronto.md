@@ -2892,3 +2892,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  ><!here> for tonight's hack night, you may will probably need to be let into the building - so either post a message or call/text me at <tel:416-529-3387|416-529-3387> (o
 
+11/17/2017 12:12 AM
+
+ **alexltheodorou** :
+
+ >dano  I forgot my charger cable with Christian.. Just hold on to it and I'll grab it next event.. Thanks! 
+
