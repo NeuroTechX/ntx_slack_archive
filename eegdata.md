@@ -7038,3 +7038,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >sydneyneurotechx
 
+11/17/2017 11:25 PM
+
+ **graeme** :
+
+ >sydneyneurotechx alexandre.barachant andyh616 fred-simard hubertjb because of where we're located, we can pitch Geoff's lab at Vector on a capsule network EEG project supported by some of the Ontario/Canada funding agencies, in partnership with Muse. Is there interest in doing this?
+
