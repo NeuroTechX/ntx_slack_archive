@@ -3735,3 +3735,9 @@ Miguel
 
  >Welcome hannakvr!
 
+11/17/2017 3:52 PM
+
+ **dano** :
+
+ >Welcome! Any interest in working with tDCS outside of the clinic? I've been wanting to try it for a while
+
