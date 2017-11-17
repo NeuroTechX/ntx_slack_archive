@@ -5508,3 +5508,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >We've got a couple of ideas.. for now we're just trying to get a solid handle on interfacing with the muse
 
+11/17/2017 12:26 PM
+
+ **urish** :
+
+ >Which ideas?
+
