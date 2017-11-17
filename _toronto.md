@@ -2898,3 +2898,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  >dano  I forgot my charger cable with Christian.. Just hold on to it and I'll grab it next event.. Thanks! 
 
+11/17/2017 12:18 AM
+
+ **dano** :
+
+ >No worries, man. We got ya
+
