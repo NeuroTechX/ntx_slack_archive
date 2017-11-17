@@ -3315,3 +3315,18 @@ Agenda:
 
  ><https://blog.hackster.io/design-and-modify-a-simulated-brain-using-neurobytes-f1e375d52d0>
 
+11/17/2017 2:25 PM
+
+ **yannick** :
+
+ >*neuromobile* (BCI Driving) - to be presented on Dec. 13th (2017) in Russia.
+
+> 
+<https://rg.ru/2017/11/16/reg-pfo/kakim-budet-pervyj-rossijskij-avtomobil-upravliaemyj-siloj-mysli.html>
+
+> 
+(Russian page, but you can translate)
+
+> 
+Anyone knows anything about that project?
+
