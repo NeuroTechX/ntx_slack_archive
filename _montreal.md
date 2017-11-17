@@ -2661,3 +2661,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I booked the windows conference room
 
+11/17/2017 10:46 PM
+
+ **sydneyneurotechx** :
+
+ >gotta work on a presentation so I won't be there
+
