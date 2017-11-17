@@ -7113,3 +7113,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Anyone have a reference to changes in the cost of physio sensors over the past decade?
 
+11/17/2017 6:15 PM
+
+ **bryan_j** :
+
+ >I wonder if we could get some?!
+
