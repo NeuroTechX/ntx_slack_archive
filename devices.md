@@ -5538,3 +5538,12 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >wifi direct working hells yea with openbci wifi streaming 2000Hz with no dropped packets.
 
+11/18/2017 8:16 PM
+
+ **urish** :
+
+ >my project for today:
+
+> 
+<https://twitter.com/UriShaked/status/931889030479908864>
+
