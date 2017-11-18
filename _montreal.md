@@ -2685,3 +2685,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Sorry can't make it tonight guys, had to take care of my son he got sick this afternoon...
 
+11/18/2017 1:22 AM
+
+ **naoto** :
+
+ >is anyone bringing alcohol swabs to MAIN tomorrow? I forgot my stock at the lab
+
