@@ -7050,3 +7050,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Sounds like an interesting proposal on my side
 
+11/18/2017 3:56 AM
+
+ **sydneyneurotechx** :
+
+ >What does  everyone else think?
+
