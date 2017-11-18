@@ -5526,3 +5526,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >Apparently to help with communication of Locked in patients
 
+11/18/2017 3:58 AM
+
+ **sydneyneurotechx** :
+
+ >Anything unique in their approach?
+
