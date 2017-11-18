@@ -5514,3 +5514,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >Which ideas?
 
+11/18/2017 3:57 AM
+
+ **sydneyneurotechx** :
+
+ >Anyone with any thoughts around gtec's new system?
+
