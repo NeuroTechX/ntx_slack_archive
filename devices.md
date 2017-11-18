@@ -5520,3 +5520,9 @@ The 8-channel limit is with this specific setup, we have a couple of other mobil
 
  >Anyone with any thoughts around gtec's new system?
 
+11/18/2017 3:58 AM
+
+ **sydneyneurotechx** :
+
+ >Apparently to help with communication of Locked in patients
+
