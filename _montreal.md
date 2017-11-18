@@ -2679,3 +2679,9 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >Im getting a coffee. I'll be there in 5 min
 
+11/18/2017 12:54 AM
+
+ **eferdinand** :
+
+ >Sorry can't make it tonight guys, had to take care of my son he got sick this afternoon...
+
