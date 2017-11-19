@@ -7062,3 +7062,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >Sounds interesting but I've got too many thing going on at the moment to contribute anything meaningful :flushed:
 
+11/19/2017 5:03 PM
+
+ **dano** :
+
+ >I was just thinking about this last night. Count me in
+
