@@ -2745,3 +2745,9 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 
  >yannick Theano will stop be supported soon
 
+11/19/2017 5:30 PM
+
+ **sydneyneurotechx** :
+
+ ><https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ>
+
