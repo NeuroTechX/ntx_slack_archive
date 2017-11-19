@@ -7125,3 +7125,9 @@ Great work guys! (good job on the interview mattherich!)
 
  ><https://arxiv.org/abs/1710.00633>
 
+11/19/2017 2:29 AM
+
+ **hassan** :
+
+ >Anybody knows if there are characterizations for the ECoG signals from the seizure site or foci? I mean when this site is not in the "seizure state"
+
