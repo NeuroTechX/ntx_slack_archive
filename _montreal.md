@@ -2697,3 +2697,39 @@ Maybe a project for HackNights? :stuck_out_tongue:
 
  >I will bring some
 
+11/19/2017 1:50 PM
+
+ **yannick** :
+
+ >Hey, on Friday night, during HackNight, Fred &amp; I started working on Deep Learning for EEG, we started by reproducing this example: <https://github.com/pbashivan/EEGLearn>
+
+> 
+(Creates an image with the features and train a conv net on it.)
+
+> 
+Python, Theano &amp; Lasagne.
+
+> 
+
+
+> 
+In 2 weeks (Friday Dec. 1st), well continue EEG DL, reproducing the BrainDecode example(s).
+
+> 
+<https://robintibor.github.io/braindecode/>
+
+> 
+<https://github.com/robintibor/braindecode/>
+
+> 
+
+
+> 
+You are welcome to join our journey to develop Deep Learning for EEG skills (were also developing our Python skills along the way, since we are both coming from a C/C++ &amp; Matlab background)
+
+> 
+
+
+> 
+Our short term goal is to (1) train a Deep Net to identify blinks in the EEG signal and then (2) train an EEG generator to be able to remove the blink and replace it it fake plausible EEG data.  (no end goal or project, just for fun of developing some skills)
+
