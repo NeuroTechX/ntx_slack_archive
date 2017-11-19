@@ -7056,3 +7056,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >What does  everyone else think?
 
+11/19/2017 3:13 PM
+
+ **andyh616** :
+
+ >Sounds interesting but I've got too many thing going on at the moment to contribute anything meaningful :flushed:
+
