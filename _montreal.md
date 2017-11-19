@@ -2733,3 +2733,9 @@ You are welcome to join our journey to develop Deep Learning for EEG skills (we
 > 
 Our short term goal is to (1) train a Deep Net to identify blinks in the EEG signal and then (2) train an EEG generator to be able to remove the blink and replace it it fake plausible EEG data.  (no end goal or project, just for fun of developing some skills)
 
+11/19/2017 4:59 PM
+
+ **fred-simard** :
+
+ >yannick It was a blast, thanks for showing my own to setup and work with anaconda, looking forward to dec 1st.
+
