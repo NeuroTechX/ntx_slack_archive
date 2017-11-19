@@ -2751,3 +2751,9 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 
  ><https://groups.google.com/forum/#!msg/theano-users/7Poq8BZutbY/rNCIfvAEAwAJ>
 
+11/19/2017 5:36 PM
+
+ **yannick** :
+
+ >Hey I know. The next example we will reproduce is with Tensorflow and Keras.
+
