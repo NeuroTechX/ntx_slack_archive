@@ -7068,3 +7068,9 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >I was just thinking about this last night. Count me in
 
+11/19/2017 7:46 PM
+
+ **graeme** :
+
+ >dano we could bring Avertus into this project too. 
+
