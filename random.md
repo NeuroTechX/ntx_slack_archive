@@ -3336,3 +3336,9 @@ Anyone knows anything about that project?
 
  >Microsoft files a rash of patents on computer mind control <https://mspoweruser.com/microsoft-files-rash-patents-computer-mind-control/>
 
+11/19/2017 9:35 PM
+
+ **yannick** :
+
+ >Very interesting!!! Thanks for sharing!
+
