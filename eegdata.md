@@ -7116,3 +7116,12 @@ Some people say that with times series data, you cannot just mix the samples bec
 
  >you can see me starting from 9'
 
+11/20/2017 7:57 PM
+
+ **yannick** :
+
+ >My take away from the video: your laptop need a NeuroTechX sticker& hahaha :stuck_out_tongue:
+
+> 
+Awesome video.
+
