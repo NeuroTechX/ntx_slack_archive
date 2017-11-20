@@ -1878,3 +1878,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >ups I might have made a mistake.. I was updating my page and I saw a pull request from jnaulty.. I thought it was on my page, so I merged the pull request... then I realized it was on the global readme and I reverted.. just to let you know if you see strange activities that's the reason :face_with_rolling_eyes:
 
+11/20/2017 1:12 PM
+
+ **francescacoo** :
+
+ >Question: I still need to write the safety section. I am doing some research but not finding a lot. I can find things about invasive eeg dangers, but not really on non-invasive. Do you have any idea on where I could look? Thanks!
+
