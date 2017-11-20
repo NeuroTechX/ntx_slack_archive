@@ -7104,3 +7104,9 @@ Some people say that with times series data, you cannot just mix the samples bec
 
  >Whats the idea Graeme? Anything you can disclose? Or you want to start a private chat with interested people?
 
+11/20/2017 6:16 PM
+
+ **alexandre.barachant** :
+
+ >if you speak french : <https://www.facebook.com/LeHuffPost/videos/1558975550818688/>
+
