@@ -1902,3 +1902,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >I can ask her if she has some recommendations and maybe she could contribute to it
 
+11/20/2017 8:56 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> Making the next call for Saturday November 25 at 11 am Eastern
+
