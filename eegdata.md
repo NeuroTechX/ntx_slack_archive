@@ -7098,3 +7098,9 @@ Some people say that with times series data, you cannot just mix the samples bec
 
  >I'm working on a deep net project with Yannick, but would this be an open source initiative or would the IP belong to Muse?
 
+11/20/2017 6:14 PM
+
+ **yannick** :
+
+ >Whats the idea Graeme? Anything you can disclose? Or you want to start a private chat with interested people?
+
