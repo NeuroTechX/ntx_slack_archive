@@ -7110,3 +7110,9 @@ Some people say that with times series data, you cannot just mix the samples bec
 
  >if you speak french : <https://www.facebook.com/LeHuffPost/videos/1558975550818688/>
 
+11/20/2017 6:19 PM
+
+ **alexandre.barachant** :
+
+ >you can see me starting from 9'
+
