@@ -7092,3 +7092,9 @@ Some people say that with times series data, you cannot just mix the samples bec
 
  >you should use time-frequency features on sliding windows, rather than frequency features (due to the stationary hypothesis of Fourier transform)
 
+11/20/2017 3:23 PM
+
+ **fred-simard** :
+
+ >I'm working on a deep net project with Yannick, but would this be an open source initiative or would the IP belong to Muse?
+
