@@ -2757,3 +2757,9 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 
  >Hey I know. The next example we will reproduce is with Tensorflow and Keras.
 
+11/20/2017 4:25 PM
+
+ **melanie** :
+
+ >what time do you usually meet?
+
