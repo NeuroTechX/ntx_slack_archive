@@ -2763,3 +2763,9 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 
  >what time do you usually meet?
 
+11/20/2017 8:44 PM
+
+ **ben.cuthbert** :
+
+ >y
+
