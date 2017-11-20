@@ -1908,3 +1908,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><!channel> Making the next call for Saturday November 25 at 11 am Eastern
 
+11/20/2017 8:56 PM
+
+ **sydneyneurotechx** :
+
+ >Will send out invite
+
