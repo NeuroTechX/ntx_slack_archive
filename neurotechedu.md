@@ -1890,3 +1890,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >haha thanks for letting us know francescacoo
 
+11/20/2017 8:55 PM
+
+ **sydneyneurotechx** :
+
+ >I'm having a call with someone who is interested in writing content on Neurotech and ethics
+
