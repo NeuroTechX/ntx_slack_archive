@@ -396,3 +396,9 @@ There was some meeting we had a couple months ago, to make some noise and reach 
 > 
 I will check the website you sent, and would certainly like to know more and checkout the work you guys do
 
+11/20/2017 2:44 PM
+
+ **paulsukhanov** :
+
+ >yeah agustnr64 firassafieddine I'm interested as well - I'm in Berlin at the moment but once I'm back in Barcelona in Dec I'm hoping to start spreading the word and organize some meetups for NeurotechX. Let's talk more in a few weeks! cheers
+
