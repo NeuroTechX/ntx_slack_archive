@@ -3348,3 +3348,9 @@ Anyone knows anything about that project?
 
  >Gah
 
+11/20/2017 1:10 PM
+
+ **fortin.pasc** :
+
+ >Yes, good find. I find it so annoying how general the big companies can make their patents though... "We'll use "neurological" data to do things, things in a computer and change things in a computer. A computer being anything connected with memory, processing, and instructions that are being executed."
+
