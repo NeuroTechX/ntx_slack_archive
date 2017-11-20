@@ -7074,3 +7074,15 @@ some cool extension would be to actually do that in the FFT space, using cosprec
 
  >dano we could bring Avertus into this project too. 
 
+11/20/2017 2:46 PM
+
+ **r** :
+
+ >alexandre.barachant When working with a time series dataset (EEG) how does the cross validation affect the results when the extracted features are from the frequency domain? I have a dataset of EEG recordings: 8 hours for 38 subjects. It was used to classify subjects according to their EEG. The extracted features are in the frequency domain: Fourier has been used.
+
+> 
+The cross validation technique used is: Stratified Shuffle Split.
+
+> 
+Some people say that with times series data, you cannot just mix the samples because you will end up using the future to predict the past (I have used stratified shuffled split). But in this case the features are in the frequency domain. Have I leaked information?
+
