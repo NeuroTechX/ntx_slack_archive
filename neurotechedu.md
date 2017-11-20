@@ -1884,3 +1884,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Question: I still need to write the safety section. I am doing some research but not finding a lot. I can find things about invasive eeg dangers, but not really on non-invasive. Do you have any idea on where I could look? Thanks!
 
+11/20/2017 8:55 PM
+
+ **sydneyneurotechx** :
+
+ >haha thanks for letting us know francescacoo
+
