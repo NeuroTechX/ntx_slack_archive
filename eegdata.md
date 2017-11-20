@@ -7086,3 +7086,9 @@ The cross validation technique used is: Stratified Shuffle Split.
 > 
 Some people say that with times series data, you cannot just mix the samples because you will end up using the future to predict the past (I have used stratified shuffled split). But in this case the features are in the frequency domain. Have I leaked information?
 
+11/20/2017 3:03 PM
+
+ **qbarthelemy** :
+
+ >you should use time-frequency features on sliding windows, rather than frequency features (due to the stationary hypothesis of Fourier transform)
+
