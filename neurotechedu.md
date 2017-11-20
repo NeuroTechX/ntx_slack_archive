@@ -1914,3 +1914,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Will send out invite
 
+11/20/2017 9:09 PM
+
+ **francescacoo** :
+
+ >ah great sydney, I wrote the ethics section but of course she can change it / add things etc.. if she knows anything about safety it would be nice.. I will try maybe to post in general to see if anyone has recommendations!
+
