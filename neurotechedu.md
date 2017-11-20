@@ -1872,3 +1872,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >updated!
 
+11/20/2017 10:03 AM
+
+ **francescacoo** :
+
+ >ups I might have made a mistake.. I was updating my page and I saw a pull request from jnaulty.. I thought it was on my page, so I merged the pull request... then I realized it was on the global readme and I reverted.. just to let you know if you see strange activities that's the reason :face_with_rolling_eyes:
+
