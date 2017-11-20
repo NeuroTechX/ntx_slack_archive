@@ -402,3 +402,9 @@ I will check the website you sent, and would certainly like to know more and che
 
  >yeah agustnr64 firassafieddine I'm interested as well - I'm in Berlin at the moment but once I'm back in Barcelona in Dec I'm hoping to start spreading the word and organize some meetups for NeurotechX. Let's talk more in a few weeks! cheers
 
+11/20/2017 7:00 PM
+
+ **firassafieddine** :
+
+ >great! happy to see more faces
+
