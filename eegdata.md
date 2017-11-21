@@ -7173,3 +7173,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >you can use time series split : <http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html#sklearn.model_selection.TimeSeriesSplit>
 
+11/21/2017 1:22 PM
+
+ **alexandre.barachant** :
+
+ >but if you want to do subject identification from EEG, best would be to have different sessions in training and test
+
