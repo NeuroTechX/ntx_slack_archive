@@ -7404,3 +7404,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >yes, I understand the idea and encourage you to pursue it.
 
+11/21/2017 6:00 PM
+
+ **r** :
+
+ >Thank you :grinning:
+
