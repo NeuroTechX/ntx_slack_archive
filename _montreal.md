@@ -2769,3 +2769,9 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 
  >y
 
+11/21/2017 2:58 PM
+
+ **eferdinand** :
+
+ >DO we have a hack-night this Friday?
+
