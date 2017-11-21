@@ -7131,3 +7131,9 @@ Awesome video.
 
  ><http://ehtrust.org/wp-content/uploads/2015/12/Schools-and-Wireless-Briefing-October-2015.pdf>
 
+11/21/2017 8:23 AM
+
+ **alexandre.barachant** :
+
+ >:slightly_smiling_face:
+
