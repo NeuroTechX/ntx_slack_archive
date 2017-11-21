@@ -7419,3 +7419,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 > 
 if you use the same session, it correspond to the usecase that the user log just after making the enrollment, which is not realistic
 
+11/21/2017 6:12 PM
+
+ **r** :
+
+ >And the session, ideally, has to be in different days, right?
+
