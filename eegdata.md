@@ -7491,3 +7491,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >If this is something we want to work on, we could organize it through NeuroTechX, lend support for funding through Interaxon and Avertus (alexdni dano) try to get Geoff Hinton/Chris Olah/Richard Zemel/etc. on board.
 
+11/21/2017 7:29 PM
+
+ **dano** :
+
+ >Very cool. I think we've clearly got a Vector Institute full of students looking for interesting problems to work on, plenty of neurotech companies interested in applying deep learning to the data they're collecting, and a goverment interested in promoting this cutting-edge marriage between research and industry. Let's see what we can do to connect some of those interests.
+
