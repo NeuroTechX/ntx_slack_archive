@@ -7227,3 +7227,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >your problem is subject identification from EEG right ?
 
+11/21/2017 4:37 PM
+
+ **r** :
+
+ >Yes, it is for biometrics.
+
