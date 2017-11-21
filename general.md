@@ -7173,3 +7173,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >thanks for highlighting this lab. I may reach out in a year or so to see about a post-doc appointment
 
+11/21/2017 7:23 PM
+
+ **joyous** :
+
+ >I hadn't heard of them, but thank you for sharing! I'll definitely look into them
+
