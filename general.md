@@ -7188,3 +7188,24 @@ Great work guys! (good job on the interview mattherich!)
 > 
 <https://www.linkedin.com/pulse/unravelling-music-taste-famous-norwegian-artists-decoding-adamos/>
 
+11/21/2017 8:15 PM
+
+ **d.adamos** :
+
+ >@Channel Hi all, please check on our Neuroinformatics GRoup *EEG Music experiment* for TELIA Norway (mobile phone operator) TV/media campaign Music Freedom:
+
+> 
+
+
+> 
+*Unravelling the music taste of famous Norwegian artists by decoding their brainwaves*
+
+> 
+- <https://www.linkedin.com/pulse/unravelling-music-taste-famous-norwegian-artists-decoding-adamos/>
+
+> 
+- <http://neuroinformatics.gr/musicexperiment>
+
+> 
+- <https://www.youtube.com/watch?v=1YlWcO9Ck6c>
+
