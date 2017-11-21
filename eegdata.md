@@ -7437,3 +7437,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >different day is the best. but just removing and putting back the headset can do a part of the job
 
+11/21/2017 6:14 PM
+
+ **alexandre.barachant** :
+
+ >different day is better because you will be in a different cognitive state
+
