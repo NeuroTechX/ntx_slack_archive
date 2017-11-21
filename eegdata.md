@@ -7278,3 +7278,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >well, i'm not sure you can apply leave one subject out for subject identification
 
+11/21/2017 4:47 PM
+
+ **alexandre.barachant** :
+
+ >or saying it differently, you can not identify a subject that does not exist in your training set
+
