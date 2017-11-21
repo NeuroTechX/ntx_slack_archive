@@ -7233,3 +7233,12 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >Yes, it is for biometrics.
 
+11/21/2017 4:40 PM
+
+ **alexandre.barachant** :
+
+ >the ideal way to proceed is to record data from the same subject on another day. this way you are sure you have a realistic setup.
+
+> 
+it's not a problem of using the future to predict the past, but more that EEG (especially on low frequency) is very similar between consecutive time window
+
