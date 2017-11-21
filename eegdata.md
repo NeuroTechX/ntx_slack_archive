@@ -7290,3 +7290,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >haha. yes, now I understand.
 
+11/21/2017 4:49 PM
+
+ **r** :
+
+ >You know in any type of biometrics, there is an enrollment phase (a new user who wants to get access to a system). for me these are the epochs for the training of the system.
+
