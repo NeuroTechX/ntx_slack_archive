@@ -7350,3 +7350,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >No, what I mean it is 8 o'clock, and I want to be enrolled at 8h with 30s. Because no one will be waiting a lot to have access to a system.
 
+11/21/2017 5:01 PM
+
+ **r** :
+
+ >Ideally in biometrics, the enrollment and authentication have to be very fast. Because it is better for the user. For example no one waits 30 seconds to have access to their laptop after typing the password or using the fingerprint.
+
