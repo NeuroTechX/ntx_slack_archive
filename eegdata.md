@@ -7203,3 +7203,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >how was selected your hold out set ?
 
+11/21/2017 4:32 PM
+
+ **r** :
+
+ >Randomly. I used a stratified random sampling. Basically I removed randomly the same amount of samples from each subject.
+
