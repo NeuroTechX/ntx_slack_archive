@@ -7392,3 +7392,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >haha. Well , ye sthe ides
 
+11/21/2017 5:58 PM
+
+ **r** :
+
+ >the idea is to reduce time for enrollment and authentication. Also to use only 1 electrode.
+
