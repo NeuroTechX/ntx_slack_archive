@@ -7425,3 +7425,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >And the session, ideally, has to be in different days, right?
 
+11/21/2017 6:12 PM
+
+ **r** :
+
+ >I will look for a free dataset online.
+
