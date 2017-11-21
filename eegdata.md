@@ -7455,3 +7455,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >Yes! you know... my dataset is of sleeping subjects (that was the only dataset I could get). So I did the authentication for Awake, S1, S2, SWS, the combination of all sleep stages and the combination of sleep and awake. The best one was Rem. Also I trained in Awake and tested in the combination of all sleep stages (here the accuracy was very bad).
 
+11/21/2017 6:20 PM
+
+ **alexandre.barachant** :
+
+ >yep, this is difficult to find a good dataset for that.
+
