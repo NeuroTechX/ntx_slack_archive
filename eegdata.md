@@ -7314,3 +7314,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >when i say very similar, its between 2 consecutive sample, in your case, 2 consecutive 30s window
 
+11/21/2017 4:52 PM
+
+ **r** :
+
+ >Okey.
+
