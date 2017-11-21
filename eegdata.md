@@ -7221,3 +7221,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >Hmm, then how should I have done the sampling? At the beginning I thought of removing the last samples (it is 8 hours recording: then the last 1 hour). To avoid the "using the future to predict the past".
 
+11/21/2017 4:37 PM
+
+ **alexandre.barachant** :
+
+ >your problem is subject identification from EEG right ?
+
