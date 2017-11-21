@@ -7431,3 +7431,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >I will look for a free dataset online.
 
+11/21/2017 6:13 PM
+
+ **alexandre.barachant** :
+
+ >different day is the best. but just removing and putting back the headset can do a part of the job
+
