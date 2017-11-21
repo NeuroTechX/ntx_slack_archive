@@ -7467,3 +7467,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >this one might be usefull : <https://exhibits.stanford.edu/data/catalog/mz950kf4667>
 
+11/21/2017 6:27 PM
+
+ **r** :
+
+ >Thank you very much. I will run the results and I will let you know. :grinning:
+
