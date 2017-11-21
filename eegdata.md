@@ -7167,3 +7167,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >what you want to avoid is to have training and test data being recorded during the same time period
 
+11/21/2017 1:21 PM
+
+ **alexandre.barachant** :
+
+ >you can use time series split : <http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html#sklearn.model_selection.TimeSeriesSplit>
+
