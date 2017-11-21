@@ -7185,3 +7185,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >in this case, you can use <http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupShuffleSplit.html#sklearn.model_selection.GroupShuffleSplit>
 
+11/21/2017 4:31 PM
+
+ **r** :
+
+ >alexandre.barachant thank you for your answer. But what about the hold-out set? Even despite using it, the performance is still inflated?
+
