@@ -7368,3 +7368,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >haha. I messed up all the dataset.
 
+11/21/2017 5:07 PM
+
+ **r** :
+
+ >Do you think that with the Riemannian geometry and my procedure; things would have been alright?
+
