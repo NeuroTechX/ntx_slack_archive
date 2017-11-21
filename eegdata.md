@@ -7410,3 +7410,12 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >Thank you :grinning:
 
+11/21/2017 6:10 PM
+
+ **alexandre.barachant** :
+
+ >r okay my point is that you don't really need 8h of training data, but if you want a realistic estimate of the performance, you want to have multiple session (just 1 min per session) so that you can estimate if your system is robust.
+
+> 
+if you use the same session, it correspond to the usecase that the user log just after making the enrollment, which is not realistic
+
