@@ -7179,3 +7179,12 @@ Great work guys! (good job on the interview mattherich!)
 
  >I hadn't heard of them, but thank you for sharing! I'll definitely look into them
 
+11/21/2017 8:11 PM
+
+ **d.adamos** :
+
+ >@channel Hi all, please check on our Neuroinformatics Group *EEG Music experiment* for TELIA Norway (mobile phone provider) TV/media campaign Music Freedom:
+
+> 
+<https://www.linkedin.com/pulse/unravelling-music-taste-famous-norwegian-artists-decoding-adamos/>
+
