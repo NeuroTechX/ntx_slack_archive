@@ -7284,3 +7284,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >or saying it differently, you can not identify a subject that does not exist in your training set
 
+11/21/2017 4:47 PM
+
+ **r** :
+
+ >haha. yes, now I understand.
+
