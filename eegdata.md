@@ -7473,3 +7473,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >Thank you very much. I will run the results and I will let you know. :grinning:
 
+11/21/2017 6:39 PM
+
+ **graeme** :
+
+ >We could start a private chat, sure - this is just brainstorming but hubertjb has had a long standing interest in developing deep learning tools for EEG, as many of us have
+
