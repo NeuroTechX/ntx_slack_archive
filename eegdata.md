@@ -7215,3 +7215,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >then, you have the same problem
 
+11/21/2017 4:36 PM
+
+ **r** :
+
+ >Hmm, then how should I have done the sampling? At the beginning I thought of removing the last samples (it is 8 hours recording: then the last 1 hour). To avoid the "using the future to predict the past".
+
