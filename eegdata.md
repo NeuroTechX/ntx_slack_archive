@@ -7380,3 +7380,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >r I believe everyone using microsoft platform waits way more then 30 seconds after inputing their password :slightly_smiling_face:
 
+11/21/2017 5:54 PM
+
+ **fortin.pasc** :
+
+ >I will be honest with you. If I have to put on an EEG headset, tune the placement of the electrodes, boot my machine, wait 30s for it to authenticate and then start doing things, I would be throwing that system out the window.  But that's what research is about, keep up the good work... Once the system is working for 30s you can shrink down that period gradually.
+
