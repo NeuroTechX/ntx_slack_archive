@@ -7302,3 +7302,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >But if EEG is very similar, then the user would have access to the system the next day?
 
+11/21/2017 4:51 PM
+
+ **alexandre.barachant** :
+
+ >is it what you want ?
+
