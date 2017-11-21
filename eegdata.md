@@ -7374,3 +7374,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >Do you think that with the Riemannian geometry and my procedure; things would have been alright?
 
+11/21/2017 5:45 PM
+
+ **yrenard** :
+
+ >r I believe everyone using microsoft platform waits way more then 30 seconds after inputing their password :slightly_smiling_face:
+
