@@ -7344,3 +7344,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >so you do the 8h enrollment every day ?
 
+11/21/2017 5:00 PM
+
+ **r** :
+
+ >No, what I mean it is 8 o'clock, and I want to be enrolled at 8h with 30s. Because no one will be waiting a lot to have access to a system.
+
