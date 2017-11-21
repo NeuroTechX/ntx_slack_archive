@@ -7443,3 +7443,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >different day is better because you will be in a different cognitive state
 
+11/21/2017 6:15 PM
+
+ **alexandre.barachant** :
+
+ >you don't want your system working only in the morning because you made the enrolment when you had larger alpha :slightly_smiling_face:
+
