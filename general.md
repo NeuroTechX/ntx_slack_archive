@@ -7155,3 +7155,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >joyous Have you seen the work of the Gazzaley lab in this direction? For instance: <https://neuroscape.ucsf.edu/neuroscience/#healthy-aging>
 
+11/21/2017 10:28 AM
+
+ **pierre** :
+
+ >mhough might know more, as he is part of the lab
+
