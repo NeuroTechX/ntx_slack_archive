@@ -7266,3 +7266,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >30 seconds
 
+11/21/2017 4:45 PM
+
+ **r** :
+
+ >Even with a leave-one-out cross validation? (leave 1 subject out).
+
