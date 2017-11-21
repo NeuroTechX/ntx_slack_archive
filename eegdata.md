@@ -7356,3 +7356,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >Ideally in biometrics, the enrollment and authentication have to be very fast. Because it is better for the user. For example no one waits 30 seconds to have access to their laptop after typing the password or using the fingerprint.
 
+11/21/2017 5:03 PM
+
+ **r** :
+
+ >So, from the 8 hours dataset, I removed randomly 120 seconds form each subject for the hold-out. But also I removed samples to reduce the enrollment. At the end I use 1080 seconds for the enrollment and 30 seconds for the authentication.
+
