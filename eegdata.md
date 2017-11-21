@@ -7332,3 +7332,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >Anyway. I will test the type of cross validation that you have suggested. Thank you.
 
+11/21/2017 4:56 PM
+
+ **r** :
+
+ >And what if I have used time domain features? The consecutive windows are still similar?
+
