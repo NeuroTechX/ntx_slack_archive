@@ -7320,3 +7320,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >Okey.
 
+11/21/2017 4:54 PM
+
+ **r** :
+
+ >Well my research was focused on using COTS eeg headset to authenticate. So I enroll at 8H and I want access at 8h00m31s. Like with the fingerprint in the ipad.
+
