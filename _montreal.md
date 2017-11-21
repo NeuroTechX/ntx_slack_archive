@@ -2793,3 +2793,9 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 
  >I'll book 6:30
 
+11/21/2017 10:50 PM
+
+ **yannick** :
+
+ >I will not be there this week. I will be there next week however.
+
