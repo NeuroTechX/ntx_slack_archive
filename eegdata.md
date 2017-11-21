@@ -7338,3 +7338,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >And what if I have used time domain features? The consecutive windows are still similar?
 
+11/21/2017 4:59 PM
+
+ **alexandre.barachant** :
+
+ >so you do the 8h enrollment every day ?
+
