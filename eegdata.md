@@ -7248,3 +7248,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >if you don't have another session, then you could have used the first 5 for training, from 5h30 to 6h30 for test, and keep from 7 to 8 for hold out
 
+11/21/2017 4:43 PM
+
+ **alexandre.barachant** :
+
+ >but it's not ideal, because your model will not take into account the inter-session variability, so you can expect a drop in performance when you want to identify the subject on another day
+
