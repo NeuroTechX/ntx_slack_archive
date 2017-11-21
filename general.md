@@ -7143,3 +7143,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Here's movement prediction with CNNs and LSTMs on ECoG data: <https://arxiv.org/abs/1709.05939>
 
+11/21/2017 9:57 AM
+
+ **pierre** :
+
+ >^ hassan
+
