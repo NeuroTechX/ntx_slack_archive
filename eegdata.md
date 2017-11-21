@@ -7191,3 +7191,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >alexandre.barachant thank you for your answer. But what about the hold-out set? Even despite using it, the performance is still inflated?
 
+11/21/2017 4:31 PM
+
+ **r** :
+
+ >The hold-out was kept aside since the beginning.
+
