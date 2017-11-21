@@ -7125,3 +7125,9 @@ Some people say that with times series data, you cannot just mix the samples bec
 > 
 Awesome video.
 
+11/21/2017 3:40 AM
+
+ **aj** :
+
+ ><http://ehtrust.org/wp-content/uploads/2015/12/Schools-and-Wireless-Briefing-October-2015.pdf>
+
