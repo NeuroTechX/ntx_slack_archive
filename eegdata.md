@@ -7152,3 +7152,12 @@ Awesome video.
 > 
 
 
+11/21/2017 1:18 PM
+
+ **alexandre.barachant** :
+
+ >r you don't have leaked information with your setup, but using stratified shuffle split would not lead to a realistic performance.
+
+> 
+two consecutive time window are very likely to be similar (in the frequency space) so you will get inflated performance.
+
