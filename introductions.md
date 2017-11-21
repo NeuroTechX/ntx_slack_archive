@@ -3741,3 +3741,9 @@ Miguel
 
  >Welcome! Any interest in working with tDCS outside of the clinic? I've been wanting to try it for a while
 
+11/21/2017 1:46 PM
+
+ **jcmendez** :
+
+ >Hello everyone!
+
