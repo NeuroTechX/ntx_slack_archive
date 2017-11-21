@@ -7209,3 +7209,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >Randomly. I used a stratified random sampling. Basically I removed randomly the same amount of samples from each subject.
 
+11/21/2017 4:34 PM
+
+ **alexandre.barachant** :
+
+ >then, you have the same problem
+
