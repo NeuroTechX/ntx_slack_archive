@@ -7254,3 +7254,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >but it's not ideal, because your model will not take into account the inter-session variability, so you can expect a drop in performance when you want to identify the subject on another day
 
+11/21/2017 4:44 PM
+
+ **alexandre.barachant** :
+
+ >whats the size of your window / epochs ?
+
