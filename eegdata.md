@@ -7260,3 +7260,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >whats the size of your window / epochs ?
 
+11/21/2017 4:44 PM
+
+ **r** :
+
+ >30 seconds
+
