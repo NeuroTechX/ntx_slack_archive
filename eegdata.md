@@ -7161,3 +7161,9 @@ Awesome video.
 > 
 two consecutive time window are very likely to be similar (in the frequency space) so you will get inflated performance.
 
+11/21/2017 1:20 PM
+
+ **alexandre.barachant** :
+
+ >what you want to avoid is to have training and test data being recorded during the same time period
+
