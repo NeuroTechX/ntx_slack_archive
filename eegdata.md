@@ -7362,3 +7362,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >So, from the 8 hours dataset, I removed randomly 120 seconds form each subject for the hold-out. But also I removed samples to reduce the enrollment. At the end I use 1080 seconds for the enrollment and 30 seconds for the authentication.
 
+11/21/2017 5:03 PM
+
+ **r** :
+
+ >haha. I messed up all the dataset.
+
