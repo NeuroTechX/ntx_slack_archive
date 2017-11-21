@@ -7479,3 +7479,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >We could start a private chat, sure - this is just brainstorming but hubertjb has had a long standing interest in developing deep learning tools for EEG, as many of us have
 
+11/21/2017 6:40 PM
+
+ **graeme** :
+
+ >But Geoff's in Toronto, and there's NSERC and OCE funding and Mitacs that could support a grad student or postdoc project on working with Geoff, if he's amenable - the hardest part would be convincing him to accept a collaborator.
+
