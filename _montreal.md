@@ -2787,3 +2787,9 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 
  >I'm assuming yes eferdinand
 
+11/21/2017 9:03 PM
+
+ **sydneyneurotechx** :
+
+ >I'll book 6:30
+
