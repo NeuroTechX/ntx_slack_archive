@@ -7197,3 +7197,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >The hold-out was kept aside since the beginning.
 
+11/21/2017 4:32 PM
+
+ **alexandre.barachant** :
+
+ >how was selected your hold out set ?
+
