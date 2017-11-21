@@ -7179,3 +7179,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 
  >but if you want to do subject identification from EEG, best would be to have different sessions in training and test
 
+11/21/2017 1:23 PM
+
+ **alexandre.barachant** :
+
+ >in this case, you can use <http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupShuffleSplit.html#sklearn.model_selection.GroupShuffleSplit>
+
