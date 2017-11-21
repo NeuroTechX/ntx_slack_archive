@@ -7137,3 +7137,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Hi everyone! My name is Joy and I have a budding interest in Neuroscience. I've been focusing primarily on cognitive development and learning, with a focus on how to optimize memory formation. I'm still new to the field and in the early stages of research, so forgive me if this question is a bit basic, but I keep coming across papers in Alzheimer's research that potentially alludes to the idea that there may be some correlation between learning/memory encoding helping to stave off Alzheimers. I was wondering if anyone of you knew if there was any nascent studies or papers about using learning systems to help mitigate Alzheimers degenerative effects, or showing which certain types of learning/education methods have shown to help mitigate the risks of developing Alzheimers later in life.
 
+11/21/2017 9:57 AM
+
+ **pierre** :
+
+ >Here's movement prediction with CNNs and LSTMs on ECoG data: <https://arxiv.org/abs/1709.05939>
+
