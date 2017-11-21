@@ -7167,3 +7167,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >pierre Awesome! Thank you
 
+11/21/2017 3:46 PM
+
+ **bryan** :
+
+ >thanks for highlighting this lab. I may reach out in a year or so to see about a post-doc appointment
+
