@@ -7485,3 +7485,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >But Geoff's in Toronto, and there's NSERC and OCE funding and Mitacs that could support a grad student or postdoc project on working with Geoff, if he's amenable - the hardest part would be convincing him to accept a collaborator.
 
+11/21/2017 6:41 PM
+
+ **graeme** :
+
+ >If this is something we want to work on, we could organize it through NeuroTechX, lend support for funding through Interaxon and Avertus (alexdni dano) try to get Geoff Hinton/Chris Olah/Richard Zemel/etc. on board.
+
