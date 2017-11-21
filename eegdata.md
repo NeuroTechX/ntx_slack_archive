@@ -7272,3 +7272,9 @@ it's not a problem of using the future to predict the past, but more that EEG (e
 
  >Even with a leave-one-out cross validation? (leave 1 subject out).
 
+11/21/2017 4:46 PM
+
+ **alexandre.barachant** :
+
+ >well, i'm not sure you can apply leave one subject out for subject identification
+
