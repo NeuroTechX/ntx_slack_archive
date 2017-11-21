@@ -7242,3 +7242,9 @@ two consecutive time window are very likely to be similar (in the frequency spac
 > 
 it's not a problem of using the future to predict the past, but more that EEG (especially on low frequency) is very similar between consecutive time window
 
+11/21/2017 4:41 PM
+
+ **alexandre.barachant** :
+
+ >if you don't have another session, then you could have used the first 5 for training, from 5h30 to 6h30 for test, and keep from 7 to 8 for hold out
+
