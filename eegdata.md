@@ -7461,3 +7461,9 @@ if you use the same session, it correspond to the usecase that the user log just
 
  >yep, this is difficult to find a good dataset for that.
 
+11/21/2017 6:25 PM
+
+ **alexandre.barachant** :
+
+ >this one might be usefull : <https://exhibits.stanford.edu/data/catalog/mz950kf4667>
+
