@@ -807,3 +807,9 @@ CC jnaulty brian.westerman
 
  >So dont worry, you are not missing out if you are not on this group. However, if you would like to coordinate or have more info about the next hack night, someone will gladly add you.
 
+11/22/2017 7:56 PM
+
+ **nmp256** :
+
+ >marion could you add me to said Facebook group? Nathan Maton on Facebook, thanks! Sorry I didn't get to catch up with you at friendsgiving
+
