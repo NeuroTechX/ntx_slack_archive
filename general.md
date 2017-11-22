@@ -7221,3 +7221,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Hey there, not sure if this is the best channel for this question so please let me know if there's a better place for it. I'm a long time meditator interested in how self-compassion can be used to help people with eating disorders. There's already a lot of good research I've found on it, but not much I've found yet that covers how to detect compassion through biometrics (best I can get is looking at calm through heart rate changes). Does anyone here know if EEG can be used to detect anything like compassion and/or acceptance of yourself? Thanks so much!
 
+11/22/2017 9:32 PM
+
+ **benbrain** :
+
+ >nmp256 The short answer is maybe. It definitely is a complex and nuanced problem and part of it stems from the fact that "compassion" and "acceptance of yourself" are abstract concepts that likely don't have clear or consistent representations in the brain. There isn't a simple or easy way to detect emotional states like these, but that's not to say that going forward there won't be methods developed that can potentially predict the emotional state of a person using EEG data and machine learning. However, as of yet, you would be extremely hard pressed to find a robust and accurate method of detecting those emotional states.
+
