@@ -3360,3 +3360,9 @@ Anyone knows anything about that project?
 
  >I feel like this is a common bias in the neurotech field :stuck_out_tongue: <https://en.wikipedia.org/wiki/Pro-innovation_bias>
 
+11/22/2017 2:38 PM
+
+ **bryan_j** :
+
+ >
+
