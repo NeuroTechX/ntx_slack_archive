@@ -1143,3 +1143,9 @@ As a special education service, g.tec has open internships or thesis possibiliti
 
  >This position is still open
 
+11/22/2017 1:00 PM
+
+ **ray_cassani** :
+
+ >The Neural Plasticity and Neurorehabilitation Laboratory (NPNL) of the University of Southern California, directed by Dr. Sook-Lei Liew, is now looking for a Postdoctoral Fellow with expertise in brain computer interfaces, electroencephalography (EEG), electromyography (EMG) and/or virtual reality (VR). <https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Postdoctoral-Scholar-Research-Associate_REQ20053001-1>
+
