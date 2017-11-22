@@ -7227,3 +7227,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >nmp256 The short answer is maybe. It definitely is a complex and nuanced problem and part of it stems from the fact that "compassion" and "acceptance of yourself" are abstract concepts that likely don't have clear or consistent representations in the brain. There isn't a simple or easy way to detect emotional states like these, but that's not to say that going forward there won't be methods developed that can potentially predict the emotional state of a person using EEG data and machine learning. However, as of yet, you would be extremely hard pressed to find a robust and accurate method of detecting those emotional states.
 
+11/22/2017 9:55 PM
+
+ **aviaminov** :
+
+ >Hello! Has anyone here found interest in EEG hypsarrhythmia, specifically with automatic classification of infantile EEG recording to find such patterns?
+
