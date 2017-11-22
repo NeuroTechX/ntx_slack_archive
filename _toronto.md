@@ -2904,3 +2904,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  >No worries, man. We got ya
 
+11/22/2017 2:37 PM
+
+ **bryan_j** :
+
+ >Interesting reflective on experiencing the stage-setting for the first 'Mapping the Field' neuroethics meeting: <http://www.dana.org/Cerebrum/2017/The_First_Neuroethics_Meeting_Then_and_Now/>
+
