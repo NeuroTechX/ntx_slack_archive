@@ -2922,3 +2922,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  >Agreed - going to listen to the podcast today, for inspiration for what topics to include :) and for personal interest! Haha
 
+11/22/2017 4:30 PM
+
+ **manishkar** :
+
+ >You can report back to us with all ze learnings! :)
+
