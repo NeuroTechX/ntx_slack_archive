@@ -3372,3 +3372,9 @@ Anyone knows anything about that project?
 
  ><https://neurotechx.slack.com/archives/C073WP1T9/p1511295325000518>
 
+11/22/2017 5:37 PM
+
+ **d.adamos** :
+
+ ><https://neurotechx.slack.com/archives/C073WP1T9/p1511295325000518>
+
