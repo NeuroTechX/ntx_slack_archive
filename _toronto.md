@@ -2916,3 +2916,9 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  >Very cool. Good inspiration for our neuroethics event
 
+11/22/2017 4:06 PM
+
+ **bryan_j** :
+
+ >Agreed - going to listen to the podcast today, for inspiration for what topics to include :) and for personal interest! Haha
+
