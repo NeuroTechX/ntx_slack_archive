@@ -3753,3 +3753,9 @@ Miguel
 
  >welcome jcmendez! Please tell us a bit about yourself :slightly_smiling_face:
 
+11/22/2017 9:53 PM
+
+ **aviaminov** :
+
+ >Hey everyone! I'm currently towards the end of my physics phd studies, and working as a data scientist. My baby recently had a case of infantile spasms (she's ok now) which got me interested in EEG signals acquisition and processing. Feels great to be here!
+
