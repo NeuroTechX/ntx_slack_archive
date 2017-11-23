@@ -3030,3 +3030,9 @@ Build Alexa skills that educate, entertain, and engage kids under the age of 13.
 
  >graeme will send out an email; thanks for letting us know!
 
+11/23/2017 9:15 PM
+
+ **martys** :
+
+ >The Hamilton event looks really interesting! I'll be there.
+
