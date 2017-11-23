@@ -2970,3 +2970,9 @@ Build Alexa skills that educate, entertain, and engage kids under the age of 13.
 
  >This seems really interesting
 
+11/23/2017 3:09 PM
+
+ **cbattista** :
+
+ >We'd need some kids to work with - I know a two-year-old
+
