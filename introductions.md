@@ -3765,3 +3765,9 @@ Miguel
 
  >Welcome aviaminov! There are many people within the community who share a similar story as you do. Feel free to check out <http://neurotechedu.com/> for some resources to get started.
 
+11/23/2017 5:57 AM
+
+ **aviaminov** :
+
+ >Thanks, Sydney!
+
