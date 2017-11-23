@@ -7251,3 +7251,9 @@ Great work guys! (good job on the interview mattherich!)
 > 
 That being said, although impractical, facial electromyography seems to be the most user-independent and reliable approach for the moment. If you are interested in facial expression of emotional states I would suggest reading a few of Paul Ekman's papers on the universality of emotion expressions and specifically those relating to the Facial Action Coding System (FACS). If you want more and have a bit of free time, I encourage you to read or scan through Charles Darwin's "The Expression of the Emotions in Man and Animals" which is not exactly scientifically sound but initiated a lot of work in this field.
 
+11/23/2017 5:43 PM
+
+ **nmp256** :
+
+ >fortin.pasc_ Thanks for the note. I have looked at Ekman's work and was just on the phone with someone using facial microexpressions to recognize emotions to aid therapy for people with PTSD. Any pointers to the cutting edge papers that speak to these findings? Have you published or written a literature review or anything of that sort?
+
