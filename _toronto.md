@@ -3006,3 +3006,9 @@ Build Alexa skills that educate, entertain, and engage kids under the age of 13.
 
  ><https://www.degroote.mcmaster.ca/events/neuroscience-older-consumer/>
 
+11/23/2017 7:14 PM
+
+ **graeme** :
+
+ >Anyone wants to join let me know. 
+
