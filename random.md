@@ -3378,3 +3378,9 @@ Anyone knows anything about that project?
 
  ><https://neurotechx.slack.com/archives/C073WP1T9/p1511295325000518>
 
+11/23/2017 9:12 PM
+
+ **aj** :
+
+ ><https://medium.com/@MozOpenLeaders/democratizing-brainwaves-over-the-internet-f3b3e2b71d9>
+
