@@ -7239,3 +7239,15 @@ Great work guys! (good job on the interview mattherich!)
 
  >benbrain thanks for the response! Anything currently being done with EEG data and machine learning for detecting emotions or these kinds of emotions?
 
+11/23/2017 12:42 PM
+
+ **fortin.pasc** :
+
+ >benbrain nmp256 I am doing quite a bit of research right now of emotion recognition and to be honest, the vast majority of papers relying on EEG, HRV, GSR, respiration, skin temperature, and video have heavily flawed methodologies (either on purpose or not, but that's another debate) with heavily inflated reported performance. Consequently, I would not trust anyone who claim they can do it with more than extremely coarse resolution. 
+
+> 
+
+
+> 
+That being said, although impractical, facial electromyography seems to be the most user-independent and reliable approach for the moment. If you are interested in facial expression of emotional states I would suggest reading a few of Paul Ekman's papers on the universality of emotion expressions and specifically those relating to the Facial Action Coding System (FACS). If you want more and have a bit of free time, I encourage you to read or scan through Charles Darwin's "The Expression of the Emotions in Man and Animals" which is not exactly scientifically sound but initiated a lot of work in this field.
+
