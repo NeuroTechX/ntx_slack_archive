@@ -3759,3 +3759,9 @@ Miguel
 
  >Hey everyone! I'm currently towards the end of my physics phd studies, and working as a data scientist. My baby recently had a case of infantile spasms (she's ok now) which got me interested in EEG signals acquisition and processing. Feels great to be here!
 
+11/23/2017 3:33 AM
+
+ **sydneyneurotechx** :
+
+ >Welcome aviaminov! There are many people within the community who share a similar story as you do. Feel free to check out <http://neurotechedu.com/> for some resources to get started.
+
