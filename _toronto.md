@@ -3012,3 +3012,9 @@ Build Alexa skills that educate, entertain, and engage kids under the age of 13.
 
  >Anyone wants to join let me know. 
 
+11/23/2017 7:15 PM
+
+ **graeme** :
+
+ >That guy, Mike Smith, was head of Nielsen Consumer Neuroscience until recently - they're the big dog in applied neuromarketing 
+
