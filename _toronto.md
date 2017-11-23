@@ -3024,3 +3024,9 @@ Build Alexa skills that educate, entertain, and engage kids under the age of 13.
 
  >hectordomorozco you should let neurotechHa know about this too.
 
+11/23/2017 7:19 PM
+
+ **hectordomorozco** :
+
+ >graeme will send out an email; thanks for letting us know!
+
