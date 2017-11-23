@@ -2964,3 +2964,9 @@ Build Alexa skills that educate, entertain, and engage kids under the age of 13.
 
  >Just because it's super vague, an Alexa skill is basically an app for the Alexa voice system
 
+11/23/2017 3:09 PM
+
+ **cbattista** :
+
+ >This seems really interesting
+
