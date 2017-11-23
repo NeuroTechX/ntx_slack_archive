@@ -2934,3 +2934,27 @@ NeuroTechX is looking for a Canadian Community Manager. If you want to make some
 
  >Hahaha will do! Expect some briefing notes, when possible ;) 
 
+11/23/2017 4:15 AM
+
+ **bryan_j** :
+
+ >Hey <!channel> - check it out! Amazon has launched the Alexa Skills Challenge: Kids, an online competition for building Alexa skills for kids. Participants who submit an eligible certified skill will receive a limited-edition Echo Dot. 20 finalists will win $5,000 each and promotion in the Alexa Skills Store, and the grand prize winner will receive $20,000. 
+
+> 
+
+
+> 
+Details: 
+
+> 
+Build Alexa skills that educate, entertain, and engage kids under the age of 13.
+
+> 
+- Prizes: $250,000 in cash and non-cash prizes
+
+> 
+- Deadline: January 10, 2017
+
+> 
+- Learn more and register at <http://alexakidskills.devpost.com|alexakidskills.devpost.com>
+
