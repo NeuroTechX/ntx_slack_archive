@@ -3000,3 +3000,9 @@ Build Alexa skills that educate, entertain, and engage kids under the age of 13.
 
  >Hey gang I'm driving down to this thing in Burlington on Monday Dec 4
 
+11/23/2017 7:14 PM
+
+ **graeme** :
+
+ ><https://www.degroote.mcmaster.ca/events/neuroscience-older-consumer/>
+
