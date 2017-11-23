@@ -3042,3 +3042,9 @@ Build Alexa skills that educate, entertain, and engage kids under the age of 13.
 
  >*Burlington^
 
+11/23/2017 10:23 PM
+
+ **bryan_j** :
+
+ >Yusss - munchkin learning the ropes early! It's a family affair!
+
