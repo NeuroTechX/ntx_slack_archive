@@ -7257,3 +7257,9 @@ That being said, although impractical, facial electromyography seems to be the m
 
  >fortin.pasc_ Thanks for the note. I have looked at Ekman's work and was just on the phone with someone using facial microexpressions to recognize emotions to aid therapy for people with PTSD. Any pointers to the cutting edge papers that speak to these findings? Have you published or written a literature review or anything of that sort?
 
+11/23/2017 5:46 PM
+
+ **nmp256** :
+
+ >fortin.pasc Also, for the things you've seen do they try and find correlations between self reported emotional states using known validated measurement tools and these other sensors?
+
