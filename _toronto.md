@@ -2994,3 +2994,9 @@ Build Alexa skills that educate, entertain, and engage kids under the age of 13.
 
  >ah yes
 
+11/23/2017 7:14 PM
+
+ **graeme** :
+
+ >Hey gang I'm driving down to this thing in Burlington on Monday Dec 4
+
