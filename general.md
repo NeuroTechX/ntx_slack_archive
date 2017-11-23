@@ -7233,3 +7233,9 @@ Great work guys! (good job on the interview mattherich!)
 
  >Hello! Has anyone here found interest in EEG hypsarrhythmia, specifically with automatic classification of infantile EEG recording to find such patterns?
 
+11/23/2017 1:12 AM
+
+ **nmp256** :
+
+ >benbrain thanks for the response! Anything currently being done with EEG data and machine learning for detecting emotions or these kinds of emotions?
+
