@@ -2820,3 +2820,9 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 > 
 (I know that Fred, Ferd &amp; I are not&)
 
+11/24/2017 7:11 PM
+
+ **ray_cassani** :
+
+ >I'd like to do some tests in the maker space, sydneyneurotechx are you going to the hacknight?
+
