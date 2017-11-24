@@ -1926,3 +1926,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Guys I'm running subjects from 10-7 tomorrow, don't think I'll be able to make the call 
 
+11/24/2017 5:55 PM
+
+ **sheida** :
+
+ >Although it looks like everyone's progressing well! I checked out some of the content and it looks awesome
+
