@@ -7263,3 +7263,15 @@ That being said, although impractical, facial electromyography seems to be the m
 
  >fortin.pasc Also, for the things you've seen do they try and find correlations between self reported emotional states using known validated measurement tools and these other sensors?
 
+11/24/2017 3:53 PM
+
+ **fortin.pasc** :
+
+ >I have not published or written a literature review on this topic yet, and I do not have a recent EMG paper handy. 
+
+> 
+
+
+> 
+For your second question, yes they did/do/will do, and that is until someone finds a way of collecting ground truth for emotional states. Currently, for coming with new emotion recognition methods and validating them, the common approach is to run a lab experiment where you do emotion elicitation using different datasets containing pictures, videos, emotional stimuli. They sample the subject's affective state using tools from the psychology literature, and then use the results of these tools as ground truth for their training/correlation.
+
