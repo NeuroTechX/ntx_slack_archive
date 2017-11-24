@@ -1932,3 +1932,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Although it looks like everyone's progressing well! I checked out some of the content and it looks awesome
 
+11/24/2017 11:48 PM
+
+ **sydneyneurotechx** :
+
+ >francescacoo  she will only add stuff in January. :) She's too busy for now
+
