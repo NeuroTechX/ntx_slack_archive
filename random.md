@@ -3384,3 +3384,12 @@ Anyone knows anything about that project?
 
  ><https://medium.com/@MozOpenLeaders/democratizing-brainwaves-over-the-internet-f3b3e2b71d9>
 
+11/24/2017 3:34 PM
+
+ **yannick** :
+
+ ><http://www.nature.com/news/ai-controlled-brain-implants-for-mood-disorders-tested-in-people-1.23031>
+
+> 
+(thanks sidksv for sharing)
+
