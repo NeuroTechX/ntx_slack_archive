@@ -2811,3 +2811,12 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 
  >I'll probably come
 
+11/24/2017 5:59 PM
+
+ **yannick** :
+
+ >Whos going tonight?
+
+> 
+(I know that Fred, Ferd &amp; I are not&)
+
