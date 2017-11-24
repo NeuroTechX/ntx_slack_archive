@@ -2805,3 +2805,9 @@ Our short term goal is to (1) train a Deep Net to identify blinks in the EEG sig
 
  >same here
 
+11/24/2017 5:56 PM
+
+ **naoto** :
+
+ >I'll probably come
+
