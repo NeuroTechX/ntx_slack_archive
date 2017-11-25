@@ -1950,3 +1950,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >Link to the call
 
+11/25/2017 4:15 PM
+
+ **sydneyneurotechx** :
+
+ ><https://github.com/NeuroTechX/awesome-bci>
+
