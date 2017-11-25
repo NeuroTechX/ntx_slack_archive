@@ -1962,3 +1962,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><https://imotions.com/blog/eeg-headset-comparison/>
 
+11/25/2017 4:24 PM
+
+ **sydneyneurotechx** :
+
+ ><https://docs.google.com/document/d/1D-K_f57t9P-a3oKOywoVlNlygeCx0A5zraY2Dkj1ffI/edit#heading=h.1kp9qofc7h7m>
+
