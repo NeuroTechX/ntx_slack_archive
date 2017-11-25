@@ -1944,3 +1944,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><!channel> <https://hangouts.google.com/hangouts/_/neurotechx.com/neurotechedu?authuser=1>
 
+11/25/2017 4:04 PM
+
+ **sydneyneurotechx** :
+
+ >Link to the call
+
