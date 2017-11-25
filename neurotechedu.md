@@ -1938,3 +1938,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  >francescacoo  she will only add stuff in January. :) She's too busy for now
 
+11/25/2017 4:03 PM
+
+ **sydneyneurotechx** :
+
+ ><!channel> <https://hangouts.google.com/hangouts/_/neurotechx.com/neurotechedu?authuser=1>
+
