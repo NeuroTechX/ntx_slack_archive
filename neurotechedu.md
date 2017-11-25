@@ -1956,3 +1956,9 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><https://github.com/NeuroTechX/awesome-bci>
 
+11/25/2017 4:17 PM
+
+ **sydneyneurotechx** :
+
+ ><https://imotions.com/blog/eeg-headset-comparison/>
+
