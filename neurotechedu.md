@@ -1974,3 +1974,45 @@ I have been busy lately, but will try a bit more later on and let you know if I 
 
  ><https://docs.google.com/presentation/d/13iLIn2FApZCZ6h-GSXd5mOX0SS3vysY7PFRL_AgW-80/edit?usp=sharing>
 
+11/25/2017 11:50 PM
+
+ **ben.tam** :
+
+ >Hey I had to do some hiring interviews for Euler and missed the call. 
+
+> 
+
+
+> 
+Here's the review of the different _research_ grade eegs I've consolidated so far. I didn't add in consumer ones, since the edu page already has some info on it atm. 
+
+> 
+
+
+> 
+Compares bio-acquisition systems, electrodes, and caps. 
+
+> 
+
+
+> 
+<https://docs.google.com/spreadsheets/d/1GhqOK8EBMaGHDy9WI8aVDL1TyLnFSxJA2VKhzEhRClI/edit?usp=sharing>
+
+> 
+ 
+
+> 
+ 
+
+> 
+
+
+> 
+
+
+> 
+
+
+> 
+<https://docs.google.com/spreadsheets/d/1GhqOK8EBMaGHDy9WI8aVDL1TyLnFSxJA2VKhzEhRClI/edit#gid=0>
+
