@@ -7275,3 +7275,9 @@ That being said, although impractical, facial electromyography seems to be the m
 > 
 For your second question, yes they did/do/will do, and that is until someone finds a way of collecting ground truth for emotional states. Currently, for coming with new emotion recognition methods and validating them, the common approach is to run a lab experiment where you do emotion elicitation using different datasets containing pictures, videos, emotional stimuli. They sample the subject's affective state using tools from the psychology literature, and then use the results of these tools as ground truth for their training/correlation.
 
+11/26/2017 3:09 PM
+
+ **gerrie** :
+
+ >nmp256 I was reminded that one of the Emotiv applications claimed to be able to classify emotional states.  They were very rough (Happy, sad, calm, stressed - if I recall correctly).  Nothing as abstract as "acceptance of yourself".  Also, if my memory serves me, we were not blown away by the accuracy or repeatability of the classification.  Having said that, it may be interesting to explore the basis for their classification.
+
